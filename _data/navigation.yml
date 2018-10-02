@@ -4,8 +4,6 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
 - title: Who We Are
   url: /who-we-are/overview/
   sub-links:
@@ -44,3 +42,5 @@
     url: /resources/annual-reports/
   - title: News And Events
     url: /resources/news-and-events/
+- title: Contact Us
+  url: /contact-us/

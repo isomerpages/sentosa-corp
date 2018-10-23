@@ -5,9 +5,9 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #BD5A0A;
-$secondary: #000000;
-$secondary-hover: #BD5A0A;
+$primary: #000000;
+$secondary: #BD5A0A;
+$secondary-hover: darken($secondary, 10%);
 
 $media-color-one: #49759a;
 $media-color-two: #744d9f;

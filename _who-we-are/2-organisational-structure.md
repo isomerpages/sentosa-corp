@@ -8,10 +8,21 @@ collection_name: who-we-are
 
 ### **Board Members**
 
-**Moses LEE**<br>
-Chairman<br>
-Sentosa Development Corporation<br>
-Singapore Totalisator Board
+<table>
+  <tr>
+    <td>
+    image goes here
+    </td>
+     <td>
+       <b>Moses LEE</b><br>
+       Chairman<br>
+       Sentosa Development Corporation<br>
+       Singapore Totalisator Board
+    </td>
+  </tr>
+ 
+ </table>
+
 
 **QUEK Swee Kuan**<br>
 Chief Executive Officer<br>

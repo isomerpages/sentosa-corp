@@ -37,4 +37,4 @@ One Faber Group operates a suite of leisure and lifestyle services including att
 
 Spanning across the hilltop at Mount Faber and Sentosa Island, One Faber Group’s products are linked by the Singapore Cable Car Sky Network of six stations on two main lines – the Mount Faber Line that connects mainland Singapore to the resort island of Sentosa, and the Sentosa Line that connects to the island’s western end at the Siloso Point.
 
-This refreshed branding of Mount Faber Leisure Group stands for its commitment to create memorable experience for its guests, offering a delightful escape that spans from green hilltops to blue sea and sandy beach, with sunshine and happiness radiating through the warm service of its friendly staff. 
+This refreshed branding of Mount Faber Leisure Group stands for its commitment to create memorable experience for its guests, offering a delightful escape that spans from green hilltops to blue sea and sandy beach, with sunshine and happiness radiating through the warm service of its friendly staff.

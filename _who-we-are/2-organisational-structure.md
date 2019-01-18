@@ -26,7 +26,7 @@ collection_name: who-we-are
  <table>
   <tr>
     <td>
-    ![Image of Mr Bob Tan](/images/images/organisational structure/Mr Bob Tan.jpg)
+    ![Image of Mr Bob Tan](images/organisational-structure/Mr%20Bob%20Tan.jpg)
     </td>
      <td>
        <b>Bob TAN Beng Hai</b><br>

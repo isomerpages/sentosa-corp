@@ -26,8 +26,7 @@ collection_name: who-we-are
  <table>
   <tr>
     <td>
-      ![Image of SCRM logo](/images/our-brands/OurBrands-SentosaCove.png)
-    ![Image of Mr Bob Tan](/images/organisational-structure/MrBobTan.jpg)
+    <img src = "images/organisational-structure/MrBobTan.jpg">
     </td>
      <td>
        <b>Bob TAN Beng Hai</b><br>

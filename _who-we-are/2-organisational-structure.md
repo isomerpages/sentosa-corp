@@ -26,7 +26,7 @@ collection_name: who-we-are
  <table>
   <tr>
     <td>
-    <img src = "/images/organisational-structure/MrBobTan.jpg" width="150" height="120">
+    <img src = "/images/organisational-structure/MrBobTan.jpg">
     </td>
      <td>
        <b>Bob TAN Beng Hai</b><br>

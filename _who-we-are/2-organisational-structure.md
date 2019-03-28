@@ -241,7 +241,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrAndyJOHNSTON/jpg" alt="Andy JOHNSTER">
+        <img src="/images/organisational-structure/MrAndyJOHNSTON/jpg" alt="Andy JOHNSTON">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andy JOHNSTON</p>

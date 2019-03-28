@@ -80,7 +80,7 @@ collection_name: who-we-are
 <table>
   <tr>
     <td>
-      <img src="/images/organisational-structure/MrEugeneHO">
+      <img src="/images/organisational-structure/MrEugeneHO.jpg">
     </td>
     <td>
       <b>Eugene HO</b>
@@ -92,6 +92,100 @@ collection_name: who-we-are
     </td>
   </tr>
 </table> 
+
+<table>
+  <tr>
+    <td>
+      <img src="/images/organisational-structure/MsKOH-LIMWenGin.jpg">
+    </td>
+    <td>
+      <b>KOH-LIM Wen Gin</b>
+      <br>Board Member 
+      <br>National Parks Board
+      <br>Independent Director
+      <br>Kepel Land Ltd
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <td>
+      <img src="/images/organisational-structure/MrLAMYiYoung.jpg">
+    </td>
+    <td>
+      <b>LAM Yi Young</b>
+      <br>Deputy Secretary (Industry)
+      <br>Ministry of Trade and Industry
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <td>
+      <img src="/images/organisational-structure/MrEugeneLEONG.jpg">
+    </td>
+    <td>
+      <b>Eugene LEONG</b>
+      <br>Chief Executive Officer
+      <br>Early Childhood Development Agency
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <td>
+      <img src="/images/organisational-structure/MrLIMJooBoon.jpg">
+    </td>
+    <td>
+      <b>LIM Joo Boon</b>
+      <br>Chairman
+      <br>Singapore Turf Club
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <td>
+      <img src="/images/organisational-structure/MsRitaSOH.jpg">
+    </td>
+    <td>
+      <b>Rita SOH</b>
+      <br>Managing Director
+      <br>RDC Architects Pte Ltd
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <td>
+      <img src="/images/organisational-structure/MrKeithTAN.jpg">
+    </td>
+    <td>
+      <b>Keith TAN</b>
+      <br>Chief Executive
+      <br>Singapore Tourism Board
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <td>
+      <img src="/images/organisational-structure/MrRonnyTAN.jpg">
+    </td>
+    <td>
+      <b>Ronny TAN</b>
+      <br>President
+      <br>Sentosa Golf Club
+    </td>
+  </tr>
+</table>  
+
 
 <table>
   <tr>

@@ -39,7 +39,7 @@ collection_name: who-we-are
         <div class="column is-one-third">
             <img src="/images/organisational-structure/MrMosesLEE.jpg" alt="Mr Moses LEE">
         </div>
-        <div class="col is-auto">
+        <div class="">
             <p class="title is-4">Moses LEE</p>
             <strong>Chairman</strong>
             <br>

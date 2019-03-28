@@ -14,7 +14,6 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Moses LEE</p>
-        <hr>
         <strong>Chairman</strong>
         <br>
         Sentosa Development Corporation
@@ -92,7 +91,7 @@ collection_name: who-we-are
         <img src="/images/organisational-structure/MrLAMYiYoung.jpg" alt="LAM Yi Young">
     </div>
     <div class="col is-8">
-        <p class="title is-4"></p>
+        <p class="title is-4">LAM Yi Young</p>
         <strong>Deputy Secretary (Industry)</strong> - Ministry of Trade and Industry
     </div>
 </div>
@@ -146,16 +145,106 @@ collection_name: who-we-are
         <strong>President</strong> - Sentosa Golf Club
     </div>
 </div>
+<hr>
 
- 
- 
- 
+### **Senior Executive Team**
+
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/" alt="">
+        <img src="/images/organisational-structure/MrCHINSakHin.jpg" alt="CHIN Sak Hin">
     </div>
     <div class="col is-8">
-        <p class="title is-4"></p>
-        <strong></strong>
+        <p class="title is-4">CHIN Sak Hin</p>
+        <strong>Assistant Chief Executive/Chief Financial Officer</strong>
+    </div>
+</div>
+
+ <div class="row">
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MsJacquelineTANYi-Ping.jpg" alt="Jacqueline TAN Yi-Ping">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Jacqueline TAN Yi-Ping</p>
+        <strong>Assistant Chief Executive</strong>
+    </div>
+</div>
+ 
+  <div class="row">
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MsLynetteANG.jpg" alt="Lynette ANG">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Lynette ANG</p>
+        <strong>Chief Marketing Officer</strong>
+    </div>
+</div>
+
+ <div class="row">
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MrSOHKengTaan.jpg" alt="SOH Keng Taan">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">SOH Keng Taan</p>
+        <strong>Chief Information Officer</strong>
+    </div>
+</div>
+ 
+  <div class="row">
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MsCHUASiewHwi.jpg" alt="CHUA Siew Hwi">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">CHUA Siew Hwi</p>
+        <strong>Divisional Director, Finance</strong>
+    </div>
+</div>
+
+ <div class="row">
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MrKOHPiakHuat.jpg" alt="KOH Piak Huat">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">KOH Piak Huat</p>
+        <strong>Divisional Director, Operations</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MsWONGSheauFong.jpg" alt="WONG Sheau Fong">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">WONG Sheau Fong</p>
+        <strong>Divisional Director, Architecture & Land Planning</strong>
+    </div>
+</div>
+
+ <div class="row">
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MsMaryGermaineTAN.jpg" alt="Mary Germaine TAN">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mary Germaine TAN</p>
+        <strong>Divisional Director, Human Resource & Administration</strong>
+    </div>
+</div>
+
+ <div class="row">
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MsTheresaLOW.jpg" alt="Theresa LOW">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Theresa LOW</p>
+        <strong>General Counsel</strong>
+    </div>
+</div>
+
+ <div class="row">
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MrAndyJOHNSTON/jpg" alt="Andy JOHNSTER">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Andy JOHNSTON</p>
+        <strong>General Manager</strong> - Sentosa Golf Club
     </div>
 </div>

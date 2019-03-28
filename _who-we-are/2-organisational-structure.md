@@ -9,9 +9,6 @@ collection_name: who-we-are
 ### **Board Members**
 
 <div class="row">
-    <div class="col is-4">
-        <img src="/images/organisational-structure/MrMosesLEE.jpg" alt="Moses LEE">
-    </div>
     <div class="col is-8">
         <p class="title is-4">Moses LEE</p>
         <strong>Chairman</strong>
@@ -19,6 +16,9 @@ collection_name: who-we-are
         Sentosa Development Corporation
         <br>
         Singapore Totalisator Board
+    </div>
+    <div class="col is-4">
+        <img src="/images/organisational-structure/MrMosesLEE.jpg" alt="Moses LEE">
     </div>
 </div>
 

@@ -24,7 +24,7 @@ collection_name: who-we-are
                     </div>
                 </div>
                 <div class="content">
-                    <strong>Chairman<strong>
+                    <strong>Chairman</strong>
                     <br>
                     <small>Sentosa Development Corporation</small>
                     <br>

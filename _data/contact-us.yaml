@@ -34,7 +34,7 @@ column:
     - line: communications@sentosa.com.sg (email)
     - line: Please contact us 10 days in advance, fees may apply
     - line: Do note that drone-flying is not allowed over Sentosa without prior submission of requests.
-    - line: Requests may be made in writing to communications@sentosa.com.sg (email), at least 10 working days in advance.
+    - line: Requests may be made in writing to <a href="mailto:communications@sentosa.com.sg">communications@sentosa.com.sg</a>, at least 10 working days in advance.
 
 # Image
 image-url:

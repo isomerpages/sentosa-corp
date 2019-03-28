@@ -9,28 +9,32 @@
 locations:
   # HQ Address [REQUIRED]
   - title:
-    address: 5 Maxwell Road<br>1st Storey Tower Block<br>MND Complex<br>Singapore 069110
-    find-directions: https://www.google.com/maps/place/Sentosa+Development+Corporation/@1.2504854,103.8252253,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1bfe554e8f09:0x14a4e70836aa9452!8m2!3d1.25048!4d103.827414
+    address: 39 Artillery Ave<br>099958<br>7R2G+5X Southern Islands
+    find-directions: https://goo.gl/maps/mN376Ev9BtD2
   # Operating Hours [OPTIONAL]
     operating-hours:
-      - days: Mon - Thu
+      - days: Mon - Fri
         time: 8.30am - 6.00pm
-      - days: Fri
-        time: 8.30am - 5.30pm
-        description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
-
 
 # Contact Us
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6222 5295
-    - line: boarch@singnet.com.sg (email)
+    - line: 1800-SENTOSA (736-8672)
+    - line: +65 6736 8672 (calling from overseas)
+    - line: guest_services@sentosa.com.sg (email)
     # If you have an email, put (email) after the actual email
-
-  - title: Fax
+    
+  - title: Media Contact
     content:
-    - line: +65 6222 4452
+    - line: communications@sentosa.com.sg (email)
+
+  - title: Filming/Photography
+    content:
+    - line: communications@sentosa.com.sg (email)
+    - line: Please contact us 10 days in advance, fees may apply
+    - line: Do note that drone-flying is not allowed over Sentosa without prior submission of requests.
+    - line: Requests may be made in writing to communications@sentosa.com.sg (email), at least 10 working days in advance.
 
 # Image
 image-url:

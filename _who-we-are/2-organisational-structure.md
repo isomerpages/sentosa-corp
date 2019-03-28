@@ -11,7 +11,7 @@ collection_name: who-we-are
 <div class="row">
     <!--Card + StrongSmall-->
     <div class="col is-4">
-        <div class="card">
+        <div class="card is-outlined">
             <div class="card-image">
                 <figure class="image is-4by3">
                     <img src="/images/organisational-structure/MrMosesLEE.jpg" alt="Mr Moses LEE">

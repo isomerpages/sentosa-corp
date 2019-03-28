@@ -8,10 +8,10 @@ collection_name: who-we-are
 
 ### **Board Members**
 
-<table>
+<table class="col is-6">
   <tr>
     <td class="col is-3-tablet">
-      <img src="/images/organisational-structure/MrMosesLEE.jpg" class="image is-square">
+      <img src="/images/organisational-structure/MrMosesLEE.jpg">
     </td>
     <td class="col is-9-tablet">
       <b>Moses LEE</b>

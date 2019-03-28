@@ -35,11 +35,11 @@ collection_name: who-we-are
     </div>
 </div>
 <div class="row">
-    <div class="col is-6">
-        <div class="col is-5">
+    <div class="column is-6">
+        <div class="column is-one-third">
             <img src="/images/organisational-structure/MrMosesLEE.jpg" alt="Mr Moses LEE">
         </div>
-        <div class="col is-7">
+        <div class="col is-auto">
             <p class="title is-4">Moses LEE</p>
             <strong>Chairman</strong>
             <br>

@@ -1,0 +1,41 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+#Contact Us
+
+locations:
+  # HQ Address [REQUIRED]
+  - title:
+    address: 39 Artillery Ave<br>099958<br>7R2G+5X Southern Islands
+    find-directions: https://goo.gl/maps/mN376Ev9BtD2
+  # Operating Hours [OPTIONAL]
+    operating-hours:
+      - days: Mon - Fri
+        time: 8.30am - 6.00pm
+
+# Contact Us
+column:
+  - title: General Enquiries & Feedback
+    content:
+    - line: 1800-SENTOSA (736-8672)
+    - line: +65 6736 8672 (calling from overseas)
+    - line: guest_services@sentosa.com.sg (email)
+    # If you have an email, put (email) after the actual email
+    
+  - title: Media Contact
+    content:
+    - line: communications@sentosa.com.sg (email)
+
+  - title: Filming/Photography
+    content:
+    - line: communications@sentosa.com.sg (email)
+    - line: Please contact us 10 days in advance, fees may apply.
+    - line: Do note that drone-flying is not allowed over Sentosa <strong>without prior submission of requests</strong>.
+    - line: Requests may be made in writing to <a href="mailto:communications@sentosa.com.sg">communications@sentosa.com.sg</a>, at least 10 working days in advance.
+    - line: Flying of unmanned aircraft should comply with the Civil Aviation Authority of Singapore's guidelines for Operator Permit and/or Activity Permit.
+
+# Image
+image-url:

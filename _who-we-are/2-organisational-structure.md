@@ -89,7 +89,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrLAMYiYoung.jpg" alt=LAM Yi Young">
+        <img src="/images/organisational-structure/MrLAMYiYoung.jpg" alt="LAM Yi Young">
     </div>
     <div class="col is-8">
         <p class="title is-4"></p>

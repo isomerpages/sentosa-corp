@@ -30,7 +30,7 @@ collection_name: who-we-are
         <p class="title is-4">Bob TAN Beng Hai</p>
         <strong>Deputy Chairman</strong> - <small>Sentosa Development Corporation</small>
         <br>
-        <strong>Chairman</strong><small> - Jurong Engineering Limited</small>
+        <strong>Chairman</strong> - Jurong Engineering Limited
     </div>
 </div>
 

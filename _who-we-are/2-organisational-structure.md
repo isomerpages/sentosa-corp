@@ -13,7 +13,7 @@ collection_name: who-we-are
     <td class="col is-3-tablet">
       <img src="/images/organisational-structure/MrMosesLEE.jpg" class="image is-square">
     </td>
-    <td>
+    <td class="col is-9-tablet">
       <b>Moses LEE</b>
       <br>Chairman
       <br>Sentosa Development Corporation

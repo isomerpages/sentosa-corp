@@ -29,12 +29,12 @@ column:
     content:
     - line: communications@sentosa.com.sg (email)
 
-  - title: <div class="col is-12">Filming/Photography
+  - title: Filming/Photography
     content:
     - line: communications@sentosa.com.sg (email)
     - line: Please contact us 10 days in advance, fees may apply.
     - line: Do note that drone-flying is not allowed over Sentosa <strong>without prior submission of requests</strong>.
-    - line: Requests may be made in writing to <a href="mailto:communications@sentosa.com.sg">communications@sentosa.com.sg</a>, at least 10 working days in advance.</div>
+    - line: Requests may be made in writing to <a href="mailto:communications@sentosa.com.sg">communications@sentosa.com.sg</a>, at least 10 working days in advance.
 
 # Image
 image-url:

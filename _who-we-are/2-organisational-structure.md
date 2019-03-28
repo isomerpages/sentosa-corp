@@ -11,7 +11,7 @@ collection_name: who-we-are
 <table>
   <tr>
     <td>
-      <img src="/images/organisational-structure/MrMosesLEE.jpg">
+      <img src="/images/organisational-structure/MrMosesLEE.jpg" class="image is-square">
     </td>
     <td>
       <b>Moses LEE</b>

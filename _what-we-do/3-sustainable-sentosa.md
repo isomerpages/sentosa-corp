@@ -114,3 +114,11 @@ To raise awareness on pressing environmental concerns, Sentosa also participates
 </div>
 
 The advent of green design has highlighted methods in minimising the damage dealt to the environment through various architectural and design solutions. Many of Sentosa’s buildings are Green Mark certified, which is awarded by Singapore’s Building and Construction Authority (BCA) to environmentally-friendly buildings. 
+
+#### **Maximise efficiency in use of energy and other resources**
+<div class="row">
+    <div class="col is-12">
+        <img src="/images/what-we-do/sustainable-sentosa/broad-express.jpg" alt="Image of Sentosa Broadwalk & Sentosa Express">
+    </div>
+</div>
+Sentosa is exploring efficient and greener transportation methods which will reduce our carbon footprint, which includes building more sheltered walkways to encourage our visitors to explore the island by foot.

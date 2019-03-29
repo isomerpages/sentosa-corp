@@ -13,12 +13,13 @@ Catering to different facades of fun, Sentosa’s development plans are carved o
 
 **Nature-based Discovery**
 
-<div class="col is-6">
-	<img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg" alt="Image of SND"/>
+<div class="row">
+	<div class="col is-6">
+		<img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg" alt="Image of SND"/>
+	</div>
+	<div class="col is-6">
+		<img src="/images/what-we-do/fun-sentosa/skyline-luge.jpg" alt="Image of Skyline Luge"/>
+	</div>
 </div>
-<div class="col is-6">
-	<img src="/images/what-we-do/fun-sentosa/skyline-luge.jpg" alt="Image of Skyline Luge"/>
-</div>
-
 
 The Imbiah Lookout and Merlion area currently offers an eclectic mix of both active as well as passive nature-based experiences. These range from the adrenaline pumping MegaZip and Skyline Luge ride set against the natural terrain of Imbiah, to the culturally-rich Images of Singapore LIVE! and educational Sentosa Nature Discovery, where guests can explore the island’s rich biodiversity and walking trails. Easily accessible via the Sentosa Express and Singapore Cable Car Sky Network, the hub also offers various retail and food and beverage (F&B) options. ff

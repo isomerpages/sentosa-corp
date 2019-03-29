@@ -68,6 +68,8 @@ A happy family is one that plays and bonds together. Set against a tropical beac
 The tranquility and solitude on Tanjong Beach is a favourite with guests who want to get away from the hustle and bustle of city life. This tranquil stretch of recreational space currently houses the Tanjong Beach Club where guests can enjoy getting together for a relaxing night out. The beach landscape is preserved to offer a perfect setting for beach lovers to chill amid serene natural surroundings. 
 
 #### **Sentosa Cove**
+
+**Waterfront Lifestyle at its Finest**
 <div class="row">
 	<div class="row is-12">
 		<figure>

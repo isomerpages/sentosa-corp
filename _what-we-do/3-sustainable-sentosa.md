@@ -46,22 +46,11 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
    * Partnering Nanyang Technological University (NTU) to test bed Singapore’s first low-flow tidal turbine at the Sentosa Boardwalk, as well as Philips Lighting to trial a new smart, connected street lighting system
    * Running the annual island-wide “Sentosa Gives” corporate social responsibility week in September since 2011
 
+---
+
 ### **Details of the Sustainability Plan**
 
 #### **Enchance the island's ecology**
-<div class="row">
-	<div class="col is-6">
-        <p>
-        Sentosa is home to some 27 heritage trees listed under the National Parks Board’s registry. Great efforts are made to protect and conserve them. Regular biodiversity surveys are conducted to monitor the health of the natural environment.
-		</p>
-	</div>
-    <div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/island.jpg" alt="Image of Imbiah Hill and Serapong Hill"/>
-			<figcaption>Image of The island looks green and verdant to the visitors, and has two protected forest areas – Imbiah Hill and Serapong Hill</figcaption>
-		</figure>
-	</div>
-</div>
 <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
@@ -71,8 +60,28 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	</div>
 	<div class="col is-6">
        <figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/tree.jpg" alt="Image of Island Conservation Policy"/>
-			<figcaption>Image of Island Conservation Policy: Keeping 60% of Sentosa as green and open spaces</figcaption>
+			<img src="/images/what-we-do/sustainable-sentosa/island.jpg" alt="Image of  Imbiah Hill and Serapong Hill"/>
+			<figcaption>The island looks green and verdant to the visitors, and has two protected forest areas – Imbiah Hill and Serapong Hill</figcaption>
 		</figure>
 	</div>
 </div>
+Sentosa is home to some 27 heritage trees listed under the National Parks Board’s registry. Great efforts are made to protect and conserve them. Regular biodiversity surveys are conducted to monitor the health of the natural environment.
+
+Sentosa also aims to keep 60% of itself as green and open spaces under the Island Conservation Policy.
+
+#### **Protect and showcase island history and heritage assets**
+<div class="row">
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/fort-siloso.jpg" alt="Image of Fort Siloso"/>
+			<figcaption>Fort Siloso, Singapore's only fully restored military fort</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+       <figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/tussauds.jpg" alt="Image of  Madame Tussauds Singapore"/>
+			<figcaption>Madame Tussauds Singapore at Imbiah Lookout (formerly British Military Hospital)</figcaption>
+		</figure>
+	</div>
+</div>
+Singapore’s only fully-restored fort, Fort Siloso, and over 30 conserved buildings are found on the island. Pre-war buildings and unique structures are re-purposed to give a second lease of life. Some buildings were built by the British and date back to the late 1800s. Similarly, some of our iconic but defunct Sentosa monorail stations have been converted into hotels, restaurants, attractions and offices, such as Sentosa Nature Discovery (previously Imbiah Monorail station).

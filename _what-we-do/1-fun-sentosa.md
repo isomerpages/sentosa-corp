@@ -14,7 +14,7 @@ Catering to different facades of fun, Sentosa’s development plans are carved o
 **Nature-based Discovery**
 <div class="row">
 	<div class="col is-6">
-		<figure>
+		<figure style="margin:0;">
 			<img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg" alt="Image of SND"/>	
 			<figcaption>Sentosa Nature Discovery</figcaption>
 		</figure>
@@ -33,7 +33,7 @@ The Imbiah Lookout and Merlion area currently offers an eclectic mix of both act
 **Hip, Cool and Energetic**
 <div class="row">
 	<div class="col is-12">
-		<figure>
+		<figure style="margin:0;">
 			<img src="/images/what-we-do/fun-sentosa/siloso-beach.jpg" alt="Image of Siloso Beach"/>
 			<figcaption>Siloso Beach</figcaption>
 		</figure>
@@ -45,8 +45,8 @@ Siloso Beach is a novel sporting venue with a wide range of thrilling and advent
 
 **Family Fun**
 <div class="row">
-	<div class="col is-12-desktop">
-		<figure>
+	<div class="col is-12">
+		<figure style="margin:0;">
 			<img src="/images/what-we-do/fun-sentosa/palawan-beach.jpg" alt="Image of Palawan Beach"/>
 			<figcaption>Palawan Beach</figcaption>
 		</figure>
@@ -59,7 +59,7 @@ A happy family is one that plays and bonds together. Set against a tropical beac
 **Chill Out and Wind Down**
 <div class="row">
 	<div class="col is-12">
-		<figure>
+		<figure style="margin:0;">
 			<img src="/images/what-we-do/fun-sentosa/tanjong-beach-club.jpg" alt="Image of Tanjong Beach Club"/>
 			<figcaption>Tanjong Beach Club</figcaption>
 		</figure>
@@ -72,7 +72,7 @@ The tranquility and solitude on Tanjong Beach is a favourite with guests who wan
 **Waterfront Lifestyle at its Finest**
 <div class="row">
 	<div class="col is-12">
-		<figure>
+		<figure style="margin:0;">
 			<img src="/images/what-we-do/fun-sentosa/sentosa-cove.jpg" alt="Image of Sentosa Cove"/>
 			<figcaption>Sentosa Cove</figcaption>
 		</figure>

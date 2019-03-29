@@ -20,7 +20,7 @@ Catering to different facades of fun, Sentosa’s development plans are carved o
 		</figure>
 	</div>
 	<div class="col is-6">
-		<figure>
+		<figure style="margin:0;">
 			<img src="/images/what-we-do/fun-sentosa/skyline-luge.jpg" alt="Image of Skyline Luge"/>
 			<figcaption>Skyline Luge</figcaption>
 		</figure>

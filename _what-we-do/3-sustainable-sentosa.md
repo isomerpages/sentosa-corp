@@ -118,7 +118,10 @@ The advent of green design has highlighted methods in minimising the damage deal
 #### **Maximise efficiency in use of energy and other resources**
 <div class="row">
     <div class="col is-12">
+        <figure>
         <img src="/images/what-we-do/sustainable-sentosa/broad-express.jpg" alt="Image of Sentosa Broadwalk & Sentosa Express">
+            <figcaption>Our guests can walk into the island via the Sentosa Boardwalk or board the Sentosa Express</figcaption>
+        </figure>
     </div>
 </div>
 Sentosa is exploring efficient and greener transportation methods which will reduce our carbon footprint, which includes building more sheltered walkways to encourage our visitors to explore the island by foot.
@@ -163,4 +166,14 @@ We educate students and the wider public about Sentosa’s sustainability effort
 
 For instance, close to 3,000 underprivileged members of the community benefited from the sixth edition of this initiative in 2016. On 27 August, 1,000 children and their family members had a memorable day on Sentosa, where they visited attractions of their choice and watched performances by local stars at Singapore Rhapsodies – The Concert. From 5-9 September, close to 1,500 beneficiaries from 31 voluntary welfare organisations (VWOs) got to enjoy the ‘Sentosa Experience’ – a fun day out on the resort island, while another 139 secondary school students got the opportunity to preview a career in the tourism and leisure industry as they undertake a day of job-shadowing on The State of Fun, as part of the Youth-In-Action programme. 
 
+#### **Build corporate culture of sustainability thinking**
 
+Staff campaigns and educational talks are regularly organised to spread awareness on environmental issues. This includes inviting speakers from organisations such as the Nature Society (Singapore). We also have experiential activities, such as a regular beach cleanup for staff, to encourage everyone to appreciate environmental issues and take personal responsibility.
+<div class="row">
+    <div class="col is-12">
+        <figure>
+        <img src="/images/what-we-do/sustainable-sentosa/broad-express.jpg" alt="Image of The Sentosa Embraces Litter-Free (S.E.L.F.) Programme in action">
+            <figcaption>The Sentosa Embraces Litter-Free (S.E.L.F.) Programme in action</figcaption>
+        </figure>
+    </div>
+</div>

@@ -96,3 +96,21 @@ Singapore’s only fully-restored fort, Fort Siloso, and over 30 conserved build
 Sentosa welcomes millions of visitors every year. This presents an opportunity for us to educate our visitors on the environment while they are having fun. In addition, all F&B outlets operated by SDC’s Business Units have removed shark’s fin dishes from their menus.
 
 To raise awareness on pressing environmental concerns, Sentosa also participates in global efforts to raise awareness on climate change and water sustainability. For the past six years, SDC and its island partners have supported the World Wide Fund for Nature’s Earth Hour by switching off all non-essential lighting at Sentosa landmarks and Faber Peak Singapore for an hour. In 2016, Sentosa’s waterfront also lit up in hues of blue as The State of Fun commemorated Singapore World Water Day. 
+
+#### **Adopt environmentally-sustainable designs**
+<div class="row">
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/capella.jpg" alt="Image of Capella"/>
+			<figcaption>Intergating resort design with the natural terrain and landscape - the pools in Capella Singapore Resort follow the natural curves of the hill topology</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+       <figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/w-sg.jpg" alt="Image of  W Singapore - Sentosa Cove"/>
+			<figcaption>W Singapore - Sentosa Cove, which is one of the many buildings on Sentosa with the Green Mark certifications</figcaption>
+		</figure>
+	</div> 
+</div>
+
+The advent of green design has highlighted methods in minimising the damage dealt to the environment through various architectural and design solutions. Many of Sentosa’s buildings are Green Mark certified, which is awarded by Singapore’s Building and Construction Authority (BCA) to environmentally-friendly buildings. 

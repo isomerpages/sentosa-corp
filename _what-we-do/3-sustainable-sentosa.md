@@ -130,14 +130,37 @@ Sentosa is exploring efficient and greener transportation methods which will red
 			<img src="/images/what-we-do/sustainable-sentosa/smart-lighting.jpg" alt="Image of Connected LED street lighting, enhancing safety and energy savings (Photo credit: Philips Singapore)"/>
 			<figcaption>Connected LED street lighting, enhancing safety and energy savings (Photo credit: Philips Singapore)</figcaption>
 		</figure>
-	</div>
-	<div class="col is-6">
-       <figure style="margin:0;">
+        <figure style="margin:0;">
 			<img src="/images/what-we-do/sustainable-sentosa/tidal-turbine.jpg" alt="Image of Sentosa Boardwalk Tidal Turbine, Singapore’s first low-flow tidal turbine developed by the ERI@N Institute, Nanyang Technological University (Photo credit: NTU)"/>
 			<figcaption>Sentosa Boardwalk Tidal Turbine, Singapore’s first low-flow tidal turbine developed by the ERI@N Institute, Nanyang Technological University (Photo credit: NTU)</figcaption>
 		</figure>
+	</div>
+	<div class="col is-6">
+        <p>
+            The island is well-positioned to be a “living laboratory” for test-bedding and green innovation. Research institutions, universities and companies are welcome to partner with us to experiment and test out suitable green ideas on the island.
+            <br>
+            In partnership with Philips Lighting, SDC has embarked on pilot-testing a new smart streetlight management system on the island. More than 250 conventional sodium streetlamps covering a distance of 3.4km along Artillery Avenue, Allanbrooke Road leading to Sentosa Cove and Bukit Manis Road were replaced.    
+        </p>
 	</div> 
 </div>
-The island is well-positioned to be a “living laboratory” for test-bedding and green innovation. Research institutions, universities and companies are welcome to partner with us to experiment and test out suitable green ideas on the island.
 
-In partnership with Philips Lighting, SDC has embarked on pilot-testing a new smart streetlight management system on the island. More than 250 conventional sodium streetlamps covering a distance of 3.4km along Artillery Avenue, Allanbrooke Road leading to Sentosa Cove and Bukit Manis Road were replaced. 
+#### **Promoting community-giving and encouraging corporate volunteerism**
+<div class="row">
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/sentosa-gives-2016.jpg" alt="Image of Sentosa Gives 2016 – the kids enjoy a bubbly good time!"/>
+			<figcaption>Sentosa Gives 2016 – the kids enjoy a bubbly good time!</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+       <figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/helping.jpg" alt="Image of School groups and companies participate in native forest restoration programmes"/>
+			<figcaption>School groups and companies participate in native forest restoration programmes</figcaption>
+		</figure>
+	</div> 
+</div>
+We educate students and the wider public about Sentosa’s sustainability efforts, as well as ensure that underprivileged Singaporeans have the opportunity to experience the island’s leisure offerings. Since 2011, the island community has come together in our “Sentosa Gives” initiative during the September school holidays to welcome children from various Voluntary Welfare Organisations and charities in Singapore. The children are treated to a day of fun and activities on Sentosa.
+
+For instance, close to 3,000 underprivileged members of the community benefited from the sixth edition of this initiative in 2016. On 27 August, 1,000 children and their family members had a memorable day on Sentosa, where they visited attractions of their choice and watched performances by local stars at Singapore Rhapsodies – The Concert. From 5-9 September, close to 1,500 beneficiaries from 31 voluntary welfare organisations (VWOs) got to enjoy the ‘Sentosa Experience’ – a fun day out on the resort island, while another 139 secondary school students got the opportunity to preview a career in the tourism and leisure industry as they undertake a day of job-shadowing on The State of Fun, as part of the Youth-In-Action programme. 
+
+

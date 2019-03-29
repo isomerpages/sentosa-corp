@@ -191,3 +191,19 @@ SDC implements best practices in labour conditions, human resource practices as 
         </figure>
     </div>
 </div>
+
+#### **Generate econmic benefits for Singapore and be financially sustainable**
+
+<div class="row">
+	<div class="col is-6">
+		<p>
+            Since 1972, SDC’s mandate has been to develop and manage Sentosa as a leisure destination for locals and tourists. The annual island visitorship has grown steadily over the years to close to 20 million. Sentosa has attracted key investments over the years, including the S$7 billion integrated resort by Genting Singapore, which opened in 2010. The various businesses on the island have generated significant employment opportunities. SDC oversees the economic ecosystem on Sentosa and has various income sources to sustain operations and for re-investment back into the island. 
+        </p>
+	</div>
+	<div class="col is-6">
+       <figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/sentosa.jpg" alt="Image of  Overview of Sentosa, with Singapore’s first integrated resort – Resorts World Sentosa"/>
+			<figcaption>Overview of Sentosa, with Singapore’s first integrated resort – Resorts World Sentosa</figcaption>
+		</figure>
+	</div> 
+</div>

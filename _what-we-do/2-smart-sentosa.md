@@ -12,5 +12,12 @@ Beyond building the island as a fun destination for all, SDC seeks to leverage n
 As Singapore pushes towards becoming the world’s first Smart Nation, we aim to improve the quality of life for individuals and business productivity of enterprises by tapping on the potential of technology. The Infocomm & Media Development Authority of Singapore (IMDA) and SDC are collaborating to co-innovate and develop technology that addresses real-life problem statements and make a positive impact on the tourism and hospitality sector, such as improving integrated guest experiences and improving operational efficiency.
 
 #### **Integrated Guest Experience (iGX@Sentosa)**
-
+<div class="row">
+	<div class="col is-12">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/smart-sentosa/igx.jpg" alt="iGX@Sentosa"/>
+			<figcaption>iGX@Sentosa</figcaption>
+		</figure>
+	</div>
+</div>
 A joint innovation challenge was issued to the local tech community to integrate guest experience on a single platform from pre-visit to post-arrival, allowing for seamless and personalised enjoyment on The State of Fun. Out of more than 30 proposals, six solutions were shortlisted for prototyping, including a pocket concierge, audio-to-text assistant, emotion recognition, wearables, seamless payment gateway, virtual reality as well as deep learning analytics.

@@ -12,10 +12,21 @@ SDC strives to develop the resort island as a leading leisure and tourism destin
 This is because SDC has adopted a balanced and sustainable approach to the development and growth of Sentosa and constant attention has been paid to protecting the greenery, heritage and island charm
 
 ### **The Sentosa Sustainability Plan**
-
-We have developed a comprehensive Sentosa Sustainability Plan with the following objectives in mind:
-
-* Minimising the island’s carbon footprint
-* Conserving its flora and fauna
-* Developing itself as a hub for green projects
-* Adopting responsible environmental standards and business practices
+<div class="row">
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/sustain-plan.png" alt="Sentosa's 10-Point Sustainability Plan"/>
+			<figcaption>Sentosa's 10-Point Sustainability Plan</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+        <p>We have developed a comprehensive Sentosa Sustainability Plan with the following objectives in mind:
+            <ul>
+                <li>Minimising the island’s carbon footprint</li>
+                <li>Conserving its flora and fauna</li>
+                <li>Developing itself as a hub for green projects</li>
+                <li>Adopting responsible environmental standards and business practices</li>
+            </ul>
+		</p>
+	</div>
+</div>

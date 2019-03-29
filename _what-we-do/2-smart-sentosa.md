@@ -52,3 +52,20 @@ Staying true to its commitment to provide visitors with a fun, convenient and va
 This free coverage has extended to expansive outdoor areas – visitors can now enjoy seamless Wi-Fi connection while basking in the sun on the beachfronts of Palawan Beach and Siloso Beach; as well as Fort Siloso Skywalk. To enable visitors to stay connected while travelling between attractions, the Wi-Fi service now also extends to all stations of the Sentosa Express (Sentosa, Waterfront, Imbiah and Beach) and the Sentosa Line of the Singapore Cable Car Sky Network (Merlion, Imbiah Lookout, Siloso Point), Sentosa Golf Club (Clubhouse and Pavilion) and Palawan Kidz City.
 
 In partnership with IMDA, Sentosa has also launched a pilot initiative to trial outdoor Wi-Fi powered by solar energy at the Merlion Walk. The trial, which ends in September 2017, will allow for outdoor Wi-Fi to be expanded in a cost-effective and environmentally sustainable manner.
+
+---
+
+### **Enchanced Mobility with Self-driving Vehicles**
+<div class="row">
+	<div class="col is-6">
+		<p>
+			In October 2015, SDC inked a memorandum of understanding with the Ministry of Transport and Singapore Technologies Engineering Ltd to conduct tests for a point-to-point mobility-on-demand transportation service in Sentosa using self-driving vehicles. In the near future, guests will be able to travel around the island using the self-driving shuttles, called from their smart phones or via information kiosks. Complementing existing on-island transport options, these self-driving vehicles will improve connectivity and accessibility for commuters on the island. 
+		</p>
+	</div>
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/smart-sentosa/vehicles.jpg" alt="Enchaned Mobility with Self-driving Vehincles"/>
+			<figcaption>Enchaned Mobility with Self-driving Vehincles</figcaption>
+		</figure>
+	</div>
+</div>

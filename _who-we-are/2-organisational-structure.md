@@ -10,7 +10,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrMosesLEE.jpg" alt="Moses LEE">
+        <img src="/images/who-we-are/organisational-structure/MrMosesLEE.jpg" alt="Moses LEE">
     </div>
     <div class="col is-8">
         <p class="title is-4">Moses LEE</p>
@@ -24,7 +24,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrBobTANBengHai.jpg" alt="Bob TAN Beng Hai">
+        <img src="/images/who-we-are/organisational-structure/MrBobTANBengHai.jpg" alt="Bob TAN Beng Hai">
     </div>
     <div class="col is-8">
         <p class="title is-4">Bob TAN Beng Hai</p>
@@ -36,7 +36,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrQUEKSweeKuan.jpg" alt="QUEK Swee Kuan">
+        <img src="/images/who-we-are/organisational-structure/MrQUEKSweeKuan.jpg" alt="QUEK Swee Kuan">
     </div>
     <div class="col is-8">
         <p class="title is-4">QUEK Swee Kuan</p>
@@ -46,7 +46,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MsDianaEE-TAN.jpg" alt="Diana EE-Tan">
+        <img src="/images/who-we-are/organisational-structure/MsDianaEE-TAN.jpg" alt="Diana EE-Tan">
     </div>
     <div class="col is-8">
         <p class="title is-4">Diana EE-TAN</p>
@@ -56,7 +56,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrDavidHENG.jpg" alt="David HENG">
+        <img src="/images/who-we-are/organisational-structure/MrDavidHENG.jpg" alt="David HENG">
     </div>
     <div class="col is-8">
         <p class="title is-4">David HENG</p>
@@ -66,7 +66,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrEugeneHO.jpg" alt="Eugene HO">
+        <img src="/images/who-we-are/organisational-structure/MrEugeneHO.jpg" alt="Eugene HO">
     </div>
     <div class="col is-8">
         <p class="title is-4">Eugene HO</p>
@@ -77,7 +77,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MsKOH-LIMWenGin.jpg" alt="KOH-LIM Wen Gin">
+        <img src="/images/who-we-are/organisational-structure/MsKOH-LIMWenGin.jpg" alt="KOH-LIM Wen Gin">
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH-LIM Wen Gin</p>
@@ -88,7 +88,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrLAMYiYoung.jpg" alt="LAM Yi Young">
+        <img src="/images/who-we-are/organisational-structure/MrLAMYiYoung.jpg" alt="LAM Yi Young">
     </div>
     <div class="col is-8">
         <p class="title is-4">LAM Yi Young</p>
@@ -98,7 +98,7 @@ collection_name: who-we-are
                              
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrEugeneLEONG.jpg" alt="Eugene LEONG">
+        <img src="/images/who-we-are/organisational-structure/MrEugeneLEONG.jpg" alt="Eugene LEONG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Eugene LEONG</p>
@@ -108,7 +108,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrLIMJooBoon.jpg" alt="LIM Joo Boon">
+        <img src="/images/who-we-are/organisational-structure/MrLIMJooBoon.jpg" alt="LIM Joo Boon">
     </div>
     <div class="col is-8">
         <p class="title is-4">LIM Joo Boon</p>
@@ -118,7 +118,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MsRitaSOH.jpg" alt="Rita SOH">
+        <img src="/images/who-we-are/organisational-structure/MsRitaSOH.jpg" alt="Rita SOH">
     </div>
     <div class="col is-8">
         <p class="title is-4">Rita SOH</p>
@@ -128,7 +128,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrKeithTAN.jpg" alt="Keith TAN">
+        <img src="/images/who-we-are/organisational-structure/MrKeithTAN.jpg" alt="Keith TAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Keith TAN</p>
@@ -138,7 +138,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrRonnyTAN.jpg" alt="Ronny TAN">
+        <img src="/images/who-we-are/organisational-structure/MrRonnyTAN.jpg" alt="Ronny TAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ronny TAN</p>
@@ -151,7 +151,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrCHINSakHin.jpg" alt="CHIN Sak Hin">
+        <img src="/images/who-we-are/organisational-structure/MrCHINSakHin.jpg" alt="CHIN Sak Hin">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHIN Sak Hin</p>
@@ -161,7 +161,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MsJacquelineTANYi-Ping.jpg" alt="Jacqueline TAN Yi-Ping">
+        <img src="/images/who-we-are/organisational-structure/MsJacquelineTANYi-Ping.jpg" alt="Jacqueline TAN Yi-Ping">
     </div>
     <div class="col is-8">
         <p class="title is-4">Jacqueline TAN Yi-Ping</p>
@@ -171,7 +171,7 @@ collection_name: who-we-are
  
   <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MsLynetteANG.jpg" alt="Lynette ANG">
+        <img src="/images/who-we-are/organisational-structure/MsLynetteANG.jpg" alt="Lynette ANG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Lynette ANG</p>
@@ -181,7 +181,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrSOHKengTaan.jpg" alt="SOH Keng Taan">
+        <img src="/images/who-we-are/organisational-structure/MrSOHKengTaan.jpg" alt="SOH Keng Taan">
     </div>
     <div class="col is-8">
         <p class="title is-4">SOH Keng Taan</p>
@@ -191,7 +191,7 @@ collection_name: who-we-are
  
   <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MsCHUASiewHwi.jpg" alt="CHUA Siew Hwi">
+        <img src="/images/who-we-are/organisational-structure/MsCHUASiewHwi.jpg" alt="CHUA Siew Hwi">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHUA Siew Hwi</p>
@@ -201,7 +201,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrKOHPiakHuat.jpg" alt="KOH Piak Huat">
+        <img src="/images/who-we-are/organisational-structure/MrKOHPiakHuat.jpg" alt="KOH Piak Huat">
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH Piak Huat</p>
@@ -211,7 +211,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MsWONGSheauFong.jpg" alt="WONG Sheau Fong">
+        <img src="/images/who-we-are/organisational-structure/MsWONGSheauFong.jpg" alt="WONG Sheau Fong">
     </div>
     <div class="col is-8">
         <p class="title is-4">WONG Sheau Fong</p>
@@ -221,7 +221,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MsMaryGermaineTAN.jpg" alt="Mary Germaine TAN">
+        <img src="/images/who-we-are/organisational-structure/MsMaryGermaineTAN.jpg" alt="Mary Germaine TAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Mary Germaine TAN</p>
@@ -231,7 +231,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MsTheresaLOW.jpg" alt="Theresa LOW">
+        <img src="/images/who-we-are/organisational-structure/MsTheresaLOW.jpg" alt="Theresa LOW">
     </div>
     <div class="col is-8">
         <p class="title is-4">Theresa LOW</p>
@@ -241,7 +241,7 @@ collection_name: who-we-are
 
  <div class="row">
     <div class="col is-4">
-        <img src="/images/organisational-structure/MrAndyJOHNSTON.jpg" alt="Andy JOHNSTON">
+        <img src="/images/who-we-are/organisational-structure/MrAndyJOHNSTON.jpg" alt="Andy JOHNSTON">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andy JOHNSTON</p>

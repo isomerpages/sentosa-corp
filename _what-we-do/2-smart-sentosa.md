@@ -64,8 +64,8 @@ In partnership with IMDA, Sentosa has also launched a pilot initiative to trial 
 	</div>
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/what-we-do/smart-sentosa/vehicles.jpg" alt="Enchaned Mobility with Self-driving Vehincles"/>
-			<figcaption>Enchaned Mobility with Self-driving Vehincles</figcaption>
+			<img src="/images/what-we-do/smart-sentosa/vehicles.png" alt="Enchanced Mobility with Self-driving Vehicles"/>
+			<figcaption>Enchanced Mobility with Self-driving Vehicles</figcaption>
 		</figure>
 	</div>
 </div>

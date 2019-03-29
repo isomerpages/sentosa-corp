@@ -122,3 +122,23 @@ The advent of green design has highlighted methods in minimising the damage deal
     </div>
 </div>
 Sentosa is exploring efficient and greener transportation methods which will reduce our carbon footprint, which includes building more sheltered walkways to encourage our visitors to explore the island by foot.
+
+#### **Develop as a centre for green innovation and test beds**
+
+The island is well-positioned to be a “living laboratory” for test-bedding and green innovation. Research institutions, universities and companies are welcome to partner with us to experiment and test out suitable green ideas on the island.
+
+In partnership with Philips Lighting, SDC has embarked on pilot-testing a new smart streetlight management system on the island. More than 250 conventional sodium streetlamps covering a distance of 3.4km along Artillery Avenue, Allanbrooke Road leading to Sentosa Cove and Bukit Manis Road were replaced. 
+<div class="row">
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/smart-lighting.jpg" alt="Image of Connected LED street lighting, enhancing safety and energy savings (Photo credit: Philips Singapore)"/>
+			<figcaption>Connected LED street lighting, enhancing safety and energy savings (Photo credit: Philips Singapore)</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+       <figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/tidal-turbine.jpg" alt="Image of Sentosa Boardwalk Tidal Turbine, Singapore’s first low-flow tidal turbine developed by the ERI@N Institute, Nanyang Technological University (Photo credit: NTU)"/>
+			<figcaption>Sentosa Boardwalk Tidal Turbine, Singapore’s first low-flow tidal turbine developed by the ERI@N Institute, Nanyang Technological University (Photo credit: NTU)</figcaption>
+		</figure>
+	</div> 
+</div>

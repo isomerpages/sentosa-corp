@@ -87,7 +87,7 @@ Sentosa also aims to keep 60% of itself as green and open spaces under the Islan
 Singapore’s only fully-restored fort, Fort Siloso, and over 30 conserved buildings are found on the island. Pre-war buildings and unique structures are re-purposed to give a second lease of life. Some buildings were built by the British and date back to the late 1800s. Similarly, some of our iconic but defunct Sentosa monorail stations have been converted into hotels, restaurants, attractions and offices, such as Sentosa Nature Discovery (previously Imbiah Monorail station).
 
 #### **Promote sustainable tourism & responsible visitor behaviours**
-![Image of Merlion turning blue]("/images/what-we-do/sustainable-sentosa/merlion.jpg")
+![Image of Merlion turning blue](/images/what-we-do/sustainable-sentosa/merlion.jpg)
 
 Sentosa welcomes millions of visitors every year. This presents an opportunity for us to educate our visitors on the environment while they are having fun. In addition, all F&B outlets operated by SDC’s Business Units have removed shark’s fin dishes from their menus.
 

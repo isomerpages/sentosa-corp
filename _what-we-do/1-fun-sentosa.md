@@ -45,7 +45,7 @@ Siloso Beach is a novel sporting venue with a wide range of thrilling and advent
 
 **Family Fun**
 <div class="row">
-	<div class="row is-12">
+	<div class="col is-12">
 		<figure>
 			<img src="/images/what-we-do/fun-sentosa/palawan-beach.jpg" alt="Image of Palawan Beach"/>
 			<figcaption>Palawan Beach</figcaption>
@@ -58,7 +58,7 @@ A happy family is one that plays and bonds together. Set against a tropical beac
 
 **Chill Out and Wind Down**
 <div class="row">
-	<div class="row is-12">
+	<div class="col is-12">
 		<figure>
 			<img src="/images/what-we-do/fun-sentosa/tanjong-beach-club.jpg" alt="Image of Tanjong Beach Club"/>
 			<figcaption>Tanjong Beach Club</figcaption>
@@ -71,7 +71,7 @@ The tranquility and solitude on Tanjong Beach is a favourite with guests who wan
 
 **Waterfront Lifestyle at its Finest**
 <div class="row">
-	<div class="row is-12">
+	<div class="col is-12">
 		<figure>
 			<img src="/images/what-we-do/fun-sentosa/sentosa-cove.jpg" alt="Image of Sentosa Cove"/>
 			<figcaption>Sentosa Cove</figcaption>

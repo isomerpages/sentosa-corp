@@ -15,11 +15,33 @@ Catering to different facades of fun, Sentosa’s development plans are carved o
 
 <div class="row">
 	<div class="col is-6">
-		<img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg" alt="Image of SND"/>
+		<figure>
+			<img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg" alt="Image of SND"/>	
+			<figcaption>Sentosa Nature Discovery</figcaption>
+		</figure>
 	</div>
 	<div class="col is-6">
-		<img src="/images/what-we-do/fun-sentosa/skyline-luge.jpg" alt="Image of Skyline Luge"/>
+		<figure>
+			<img src="/images/what-we-do/fun-sentosa/skyline-luge.jpg" alt="Image of Skyline Luge"/>
+			<figcaption>Skyline Luge</figcaption>
+		</figure>
 	</div>
 </div>
 
-The Imbiah Lookout and Merlion area currently offers an eclectic mix of both active as well as passive nature-based experiences. These range from the adrenaline pumping MegaZip and Skyline Luge ride set against the natural terrain of Imbiah, to the culturally-rich Images of Singapore LIVE! and educational Sentosa Nature Discovery, where guests can explore the island’s rich biodiversity and walking trails. Easily accessible via the Sentosa Express and Singapore Cable Car Sky Network, the hub also offers various retail and food and beverage (F&B) options. ff
+The Imbiah Lookout and Merlion area currently offers an eclectic mix of both active as well as passive nature-based experiences. These range from the adrenaline pumping MegaZip and Skyline Luge ride set against the natural terrain of Imbiah, to the culturally-rich Images of Singapore LIVE! and educational Sentosa Nature Discovery, where guests can explore the island’s rich biodiversity and walking trails. Easily accessible via the Sentosa Express and Singapore Cable Car Sky Network, the hub also offers various retail and food and beverage (F&B) options.
+
+---
+
+#### **Siloso Beach**
+
+<div class="row">
+	<div class="col is-6">
+		<figure>
+			<img src="/images/what-we-do/fun-sentosa/siloso-beach.jpg" alt="Image of Siloso Beach"/>
+			<figcaption>Siloso Beach</figcaption>
+		</figure>
+	</div>
+</div>
+
+**Hip, Cool and Energetic**
+Siloso Beach is a novel sporting venue with a wide range of thrilling and adventurous recreational activities for the young and energetic.  As one of the hippest beaches in Singapore, Siloso’s lively stretch of trendy beach bars is the place for those seeking a cool hang-out with friends. The highlights of this beach area include high-adrenaline experiential attractions like the iFly Singapore, Wave House Sentosa, water-based activities such as JetLev offered at Ola Beach Club, and the upcoming AJ Hackett Sentosa, Singapore’s first bungy tower. Siloso Beach is also home to an array of exciting events throughout the year – be it live jazz performances by the beach, the ZoukOut Dance Festival or Sentosa’s annual year-end countdown *Siloso Beach Party*. 

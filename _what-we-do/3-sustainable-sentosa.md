@@ -167,13 +167,27 @@ We educate students and the wider public about Sentosa’s sustainability effort
 For instance, close to 3,000 underprivileged members of the community benefited from the sixth edition of this initiative in 2016. On 27 August, 1,000 children and their family members had a memorable day on Sentosa, where they visited attractions of their choice and watched performances by local stars at Singapore Rhapsodies – The Concert. From 5-9 September, close to 1,500 beneficiaries from 31 voluntary welfare organisations (VWOs) got to enjoy the ‘Sentosa Experience’ – a fun day out on the resort island, while another 139 secondary school students got the opportunity to preview a career in the tourism and leisure industry as they undertake a day of job-shadowing on The State of Fun, as part of the Youth-In-Action programme. 
 
 #### **Build corporate culture of sustainability thinking**
-
-Staff campaigns and educational talks are regularly organised to spread awareness on environmental issues. This includes inviting speakers from organisations such as the Nature Society (Singapore). We also have experiential activities, such as a regular beach cleanup for staff, to encourage everyone to appreciate environmental issues and take personal responsibility.
 <div class="row">
     <div class="col is-12">
-        <figure>
-        <img src="/images/what-we-do/sustainable-sentosa/broad-express.jpg" alt="Image of The Sentosa Embraces Litter-Free (S.E.L.F.) Programme in action">
+        <figure style="margin:0;">
+        <img src="/images/what-we-do/sustainable-sentosa/self.jpg" alt="Image of The Sentosa Embraces Litter-Free (S.E.L.F.) Programme in action">
             <figcaption>The Sentosa Embraces Litter-Free (S.E.L.F.) Programme in action</figcaption>
+        </figure>
+    </div>
+</div>
+
+Staff campaigns and educational talks are regularly organised to spread awareness on environmental issues. This includes inviting speakers from organisations such as the Nature Society (Singapore). We also have experiential activities, such as a regular beach cleanup for staff, to encourage everyone to appreciate environmental issues and take personal responsibility.
+
+
+#### **Create fair and beneficial business practices towards labour and community**
+
+SDC implements best practices in labour conditions, human resource practices as well as corporate governance. We provide comprehensive benefits and good work-life balance to our employees, and endeavour to foster good relations with the labour unions. We adopt ethical and transparent business practices when dealing with our Island Partners and other parties. As recognition of our ongoing efforts, SDC has won the Singapore Human Resources Institute’s annual Singapore HR Awards in various categories. 
+
+<div class="row">
+    <div class="col is-12">
+        <figure style="margin:0;">
+        <img src="/images/what-we-do/sustainable-sentosa/awards.jpg" alt="Image of Sentosa received various accolades at the annual SHRI Awards">
+            <figcaption>Sentosa received various accolades at the annual SHRI Awards</figcaption>
         </figure>
     </div>
 </div>

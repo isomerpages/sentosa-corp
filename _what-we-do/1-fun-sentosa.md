@@ -45,7 +45,7 @@ Siloso Beach is a novel sporting venue with a wide range of thrilling and advent
 
 **Family Fun**
 <div class="row">
-	<div class="col is-12">
+	<div class="col is-12-desktop">
 		<figure>
 			<img src="/images/what-we-do/fun-sentosa/palawan-beach.jpg" alt="Image of Palawan Beach"/>
 			<figcaption>Palawan Beach</figcaption>

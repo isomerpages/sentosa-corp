@@ -106,26 +106,3 @@ A new intra-island cable car line opened in July 2015, linking Merlion Plaza and
 To provide visitors with weather protection, a sheltered linkway now links the Beach Station and Palawan Beach, and will be further extended to Tanjong Beach by early-2017.
 
 As Singapore progresses towards a ‘car-lite’ society, Sentosa has also introduced cycling tracks and walking trails across the island, with future plans to broaden the transport network to include the introduction of self-driving on-demand point-to-point shuttle services. 
----
-### **Improved Mobility and Connectivity**
-<div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/what-we-do/fun-sentosa/linkway.jpg" alt="Image of Sheltered Linkway"/>	
-			<figcaption>Sheltered Linkway</figcaption>
-		</figure>
-	</div>
-	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/what-we-do/fun-sentosa/cable-car.jpg" alt="Image of Cable Cars"/>
-			<figcaption>Singapore Cable Car Sky Network</figcaption>
-		</figure>
-	</div>
-</div>
-SDC continues to enhance infrastructural developments to facilitate and improve mobility and connectivity between the activity zones within the island, as well as between Sentosa and the mainland. These efforts are aimed at catering to the growing visitorship and to provide a more comfortable travelling experience for guests.
-
-A new intra-island cable car line opened in July 2015, linking Merlion Plaza and Siloso Point, located at the western part of Sentosa. The Sentosa Line of the Singapore Cable Car Sky Network not only provides scenic view over Siloso Beach and Mount Imbiah, it also enhances accessibility for visitors within the island.
-
-To provide visitors with weather protection, a sheltered linkway now links the Beach Station and Palawan Beach, and will be further extended to Tanjong Beach by early-2017.
-
-As Singapore progresses towards a ‘car-lite’ society, Sentosa has also introduced cycling tracks and walking trails across the island, with future plans to broaden the transport network to include the introduction of self-driving on-demand point-to-point shuttle services. 

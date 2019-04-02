@@ -121,6 +121,70 @@ collection_name: who-we-are
     <a href="#awards-and-accolades">Back to Top</a>
 </div>
 
+#### **2014**
+<hr style="margin-top:12px;">
+<table id="tg-5mkfJ">
+  <tr>
+    <td>Thea Awards 2014 - Themed Entertainment Association</td>
+    <td>Outstanding Achievement, Event Spectacular - Wings of Time</td>
+  </tr>
+  <tr>
+    <td>International festivals and Events Association - Haas &amp; Wilkerson Pinnacle Awards 2014</td>
+    <td>
+        <ul>
+            <li>Grand Pinnacle (Silver) – Sentosa Spooktacular 2013</li>
+            <li>    Grand Pinnacle (Bronze) – Siloso Beach Party 2013/2014</li>
+            <li>    Best Event/Program within an Event to Benefit a Cause (Bronze) – Sentosa Buskers Festival 2013</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>BCA Green Mark 2014</td>
+    <td>Platinum Award - Sentosa Family Entertainment Centre</td>
+  </tr>
+  <tr>
+    <td>Singapore HR Awards 2014</td>
+    <td>
+        <ul>
+            <li>Employee Relations and People Management (Leading)</li>
+            <li>    HR Communications and Branding (Leading)</li>
+            <li>    Corporate Social Responsibility (Leading)</li>
+            <li>    Strategic HR (Special Mention)</li>
+            <li>    Talent Management, Retention and Succession Planning (Special Mention)</li>
+            <li>    HR Advocate Award (for winning in HR Communications and Branding in 2012, 2013 & 2014)</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Asian Golf Awards 2014</td>
+    <td>1st (Best Golf Course in Singapore) - The Serapong, Sentosa Golf Club</td>
+  </tr>
+  <tr>
+    <td>SPRING Excellent Service Awards 2014</td>
+    <td>
+        <ul>
+            <li>1 Superstar Finalist</li>
+            <li>61 Star</li>
+            <li>56 Gold</li>
+            <li>127 Silver</li>
+        </ul>    
+    </td>
+  </tr>
+  <tr>
+    <td>Singapore Experience Awards 2014</td>
+    <td>
+        <ul>
+            <li>Finalist – Customer Service, Visitor Attractions</li>
+            <li>    Finalist – Customer Service, Retail</li>
+        </ul>
+    </td>
+  </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#awards-and-accolades">Back to Top</a>
+</div>
+
+
 <!--TEMPLATE-->
 #### **YEAR**
 <hr style="margin-top:12px;">

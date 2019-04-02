@@ -58,7 +58,6 @@ collection_name: who-we-are
         </td>
     </tr>
 </table>
-</div>
 <div class="row is-pulled-right">
     <a href="#awards-and-accolades">Back to Top</a>
 </div>

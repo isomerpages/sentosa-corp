@@ -9,58 +9,33 @@ collection_name: who-we-are
 
 #### **2016**
 ---
-<div class="row">
-    <div class="col is-4">
-        <figure class="is-marginless">
-            <img src="/images/who-we-are/awards-and-accolades/2016/awards-asiantour.png" alt="Image of Asian Tour">
-        </figure>
-    </div>
-    <div class="col is-8">
-        <h3>2016 Asian Tour Roll of Honour</h3>
-        <p>
-            Best Golf Course - Sentosa Golf Club
-        </p>
-    </div>
-</div>
-<div class="row">
-    <div class="col is-8">
-        <h3>2016 Asian Tour Roll of Honour</h3>
-        <p>
-            Best Golf Course - Sentosa Golf Club
-        </p>
-    </div>
-    <div class="col is-4">
-        <figure class="is-marginless">
-            <img src="/images/who-we-are/awards-and-accolades/2016/awards-asiantour.png" alt="Image of Asian Tour">
-        </figure>
-    </div>
-</div>
-<div class="row">
-    <div class="col is-1"></div>
-    <div class="col is-4">
-        <figure class="is-marginless">
-            <img src="/images/who-we-are/awards-and-accolades/2016/awards-asiantour.png" alt="Image of Asian Tour">
-        </figure>
-    </div>
-    <div class="col is-7">
-        <h3>2016 Asian Tour Roll of Honour</h3>
-        <p>
-            Best Golf Course - Sentosa Golf Club
-        </p>
-    </div>
-</div>
-<div class="row">
-    <div class="col is-1"></div>
-    <div class="col is-7">
-        <h3>2016 Asian Tour Roll of Honour</h3>
-        <p>
-            Best Golf Course - Sentosa Golf Club
-            Test with left 1col
-        </p>
-    </div>
-    <div class="col is-4">
-        <figure class="is-marginless">
-            <img src="/images/who-we-are/awards-and-accolades/2016/awards-asiantour.png" alt="Image of Asian Tour">
-        </figure>
-    </div>
-</div>
+<table class="table-v">
+  <tr>
+    <td>2016 Asian Tour Roll of Honour</td>
+    <td>Best Golf Course - Sentosa Golf Club</td>
+  </tr>
+  <tr>
+    <td><br>SPRING Excellent Service Awards 2016</td>
+    <td>61 Star<br>64 Gold<br>90 Silver<br></td>
+  </tr>
+  <tr>
+    <td>RAS Let's Observe Ourselves Awards 2016<br></td>
+    <td>Winner - Public Sector Organisation</td>
+  </tr>
+  <tr>
+    <td>Asian Golf Awards 2016<br></td>
+    <td>1st (Best Golf Course in Singapore) - The Serapong,  Sentosa Golf Club<br>1st (Best Golf Experience in Asia Pacific) - The Serapong, Sentosa Golf Club<br>1st Runner Up (Best Championship Course Asia Pacific) - The Serapong, Sentosa Golf Club<br>Gold Edge Award - The New Tanjong, Sentosa Golf Club<br></td>
+  </tr>
+  <tr>
+    <td>Singapore Tourism Awards 2016</td>
+    <td>Finalist - Best Customer Service for Attractions</td>
+  </tr>
+  <tr>
+    <td>Engineering Feats @ IES-SG50 Awards<br></td>
+    <td>Singapore's Top 50 Engineering Achievements - Sentosa Line, Singapore Cable Car Sky Network</td>
+  </tr>
+  <tr>
+    <td>39th National Lifesaving Champions 2016</td>
+    <td>7 Gold<br>6 Silver<br>9 Bronze<br></td>
+  </tr>
+</table>

@@ -289,6 +289,72 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#awards-and-accolades">Back to Top</a>
 </div>
+
+#### **2011**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+    <td>International Festival and Events Association - Haas &amp; Wilkerson Pinnacle Awards 2011</td>
+    <td>
+        <ul>
+            <li>Best TV Promotion (Gold)</li>
+            <li>    Best Event Website (Gold) – Siloso Beach Party 2010</li>
+            <li>    Best Organisational Website (Gold) – www.sentosa.com</li>
+            <li>    Best Social Media Site (Gold) – Sentosa’s Facebook page</li>
+            <li>    Best Ad Series (Gold)</li>
+            <li>    Best New Event (Gold) – R.A. in the Gifts of Mother Nature</li>
+            <li>    Best Miscellaneous Multimedia (Silver) – mySentosa mobile application</li>
+            <li>    Best Children’s Programming (Silver) – Storytelling Comes Alive!</li>
+            <li>    Best Event within an existing festival (Bronze) – Sentosa Flowers 2011</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Asian Attractions Awards 2011</td>
+    <td>
+        <ul>
+            <li>Grand Attractions Award – Singapore Cable Car</li>
+            <li>    Best Medium Attraction – Singapore Cable Car</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>BCA Awards</td>
+    <td>
+        <ul>
+            <li>Universal Design Award – Silver (Outdoor Spaces & Structures) – Sentosa Boardwalk</li>
+            <li>    Design and Engineering Safety Excellence Award – Winner – Sentosa Boardwalk</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Singapore Experience Award 2011</td>
+    <td>Best Visitor Attraction - Sentosa</td>
+  </tr>
+  <tr>
+    <td>SPRING Excellent Service Awards 2011</td>
+    <td>
+        <ul>
+            <li>26 Star</li>
+            <li> 54 Gold</li>
+            <li> 82 Silver (162 out of 482)</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Golf Digest Singapore Awards 2011</td>
+    <td>
+        <ul>
+            <li>Best Clubhouse – Sentosa Golf Club</li>
+            <li>    First Runner-Up (Singapore’s Best Golf Courses) – The Serapong, Sentosa Golf Club</li>
+            <li>    Second Runner-Up (Singapore’s Best Golf Courses) – The Tanjong, Sentosa Golf Club</li>
+        </ul>
+    </td>
+  </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#awards-and-accolades">Back to Top</a>
+</div>
 <!--TEMPLATE-->
 #### **YEAR**
 <hr style="margin-top:12px;">

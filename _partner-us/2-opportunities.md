@@ -40,6 +40,8 @@ For current available opportunities, please visit [GeBiz and search for “Sento
             Size of Sentosa Island
         </figure>
     </div>
+</div>
+<div class="row">
     <div class="col is-4">
         <figure>
             <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">
@@ -54,6 +56,8 @@ For current available opportunities, please visit [GeBiz and search for “Sento
             Size of Sentosa Island
         </figure>
     </div>
+</div>
+<div class="row">
     <div class="col is-4">
         <figure>
             <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">

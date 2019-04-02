@@ -241,6 +241,54 @@ collection_name: who-we-are
     <a href="#awards-and-accolades">Back to Top</a>
 </div>
 
+#### **2012**
+<hr style="margin-top:12px;">
+<table class="table-v">
+<tr>
+    <td>International Festivals and Events Association - Haas &amp; Wilkerson Pinnacle Awards 2012</td>
+    <td>
+        <ul>
+            <li>Best Event/Program within an Event to Benefit a Charity (Gold) – Sentosa Buskers Festival 2011</li>
+            <li>    Best Children’s Programming (Gold) – Sentosa KidZ Flea 2012</li>
+            <li>    Best Event Video (Silver) – Sentosa 40th Anniversary</li>
+            <li>    Best Event Video (Silver) – Siloso Beach Party 2011</li>
+            <li>    Best Event Website (Silver) – polw.com.sg</li>
+            <li>    Best New Event (Silver) – Sentosa Balloonanza</li>
+            <li>    Best Ad Series (Bronze) – Sentosa 40th Anniversary</li>
+            <li>    Best Outdoor Billboard (Bronze) – Sentosa 40th Anniversary</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Singapore HR Awards 2012</td>
+    <td>
+        <ul>
+            <li>Strategic HR (Leading)</li>
+            <li>    HR Communications and Branding (Leading)</li>
+            <li>    Quality Work-Life, Physical, and Mental Well-Being (Leading)</li>
+            <li>    Corporate Social Responsibility (Leading)</li>
+            <li>    Corporate HR Award</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Singapore HEALTH Award 2012</td>
+    <td>Bronze</td>
+  </tr>
+  <tr>
+    <td>SPRING Excellent Service Awards 2012</td>
+    <td>
+        <ul>
+            <li>40 Star</li>
+            <li> 53 Gold</li>
+            <li> 94 Silver (187 out of 552)</li>
+        </ul>
+    </td>
+  </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#awards-and-accolades">Back to Top</a>
+</div>
 <!--TEMPLATE-->
 #### **YEAR**
 <hr style="margin-top:12px;">

@@ -15,27 +15,46 @@ collection_name: who-we-are
     <td>Best Golf Course - Sentosa Golf Club</td>
   </tr>
   <tr>
-    <td><br>SPRING Excellent Service Awards 2016</td>
-    <td>61 Star<br>64 Gold<br>90 Silver<br></td>
+    <td>SPRING Excellent Service Awards 2016</td>
+    <td>
+        <ul>
+            <li>61 Star</li>
+            <li>64 Gold</li>
+            <li>90 Silver</li>
+        </ul>
+    </td>
   </tr>
   <tr>
-    <td>RAS Let's Observe Ourselves Awards 2016<br></td>
+    <td>RAS Let's Observe Ourselves Awards 2016</td>
     <td>Winner - Public Sector Organisation</td>
   </tr>
   <tr>
-    <td>Asian Golf Awards 2016<br></td>
-    <td>1st (Best Golf Course in Singapore) - The Serapong,  Sentosa Golf Club<br>1st (Best Golf Experience in Asia Pacific) - The Serapong, Sentosa Golf Club<br>1st Runner Up (Best Championship Course Asia Pacific) - The Serapong, Sentosa Golf Club<br>Gold Edge Award - The New Tanjong, Sentosa Golf Club<br></td>
+    <td>Asian Golf Awards 2016</td>
+    <td>
+        <ul>
+            <li>1st (Best Golf Course in Singapore) - The Serapong,  Sentosa Golf Club</li>
+            <li>1st (Best Golf Experience in Asia Pacific) - The Serapong, Sentosa Golf Club</li>
+            <li>1st Runner Up (Best Championship Course Asia Pacific) - The Serapong, Sentosa Golf Club</li>
+            <li>Gold Edge Award - The New Tanjong, Sentosa Golf Club</li>
+        </ul>
+    </td>
   </tr>
   <tr>
     <td>Singapore Tourism Awards 2016</td>
     <td>Finalist - Best Customer Service for Attractions</td>
   </tr>
   <tr>
-    <td>Engineering Feats @ IES-SG50 Awards<br></td>
+    <td>Engineering Feats @ IES-SG50 Awards</td>
     <td>Singapore's Top 50 Engineering Achievements - Sentosa Line, Singapore Cable Car Sky Network</td>
   </tr>
   <tr>
     <td>39th National Lifesaving Champions 2016</td>
-    <td>7 Gold<br>6 Silver<br>9 Bronze<br></td>
+    <td>
+        <ul>
+            <li>7 Gold</li>
+            <li>6 Silver</li>
+            <li>9 Bronze</li>
+        </ul>
+    </td>
   </tr>
 </table>

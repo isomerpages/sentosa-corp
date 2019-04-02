@@ -184,6 +184,62 @@ collection_name: who-we-are
     <a href="#awards-and-accolades">Back to Top</a>
 </div>
 
+#### **YEAR**
+<hr style="margin-top:12px;">
+<table class="table-v">
+  <tr>
+    <td>Singapore Service Class 2013</td>
+    <td>Sentosa Leisure Management</td>
+  </tr>
+  <tr>
+    <td>International Festivals and Events Association - Haas &amp; Wilkerson Pinnacle Awards 2013</td>
+    <td>
+        <ul>
+            <li>Best Event/Organisation E-Newsletter (Silver) – Sentosa Flowers 2013</li>
+            <li>    Best Promotional Brochure (Silver)</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Singapore HR Awards 2013</td>
+    <td>
+        <ul>
+            <li>Learning & Human Capital Development (Leading)</li>
+            <li>    HR Communications and Branding (Leading)</li>
+            <li>    Employee Relations & People Management (Leading)</li>
+            <li>    Quality Work-Life, Physical, and Mental Well-Being (Leading)</li>
+            <li>    Corporate HR Award</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Human Capital Breakthrough Award 2013</td>
+    <td>Breakthrough 2012/2013</td>
+  </tr>
+  <tr>
+    <td>Golf Digest Singapore 2013</td>
+    <td>1st (Best Golf Course in Singapore) - The Serapong, Sentosa Golf Club</td>
+  </tr>
+  <tr>
+    <td>WSQ Most Supportive Employer Award 2013 - Workforce Development Agency</td>
+    <td>Winner - Attractions Category</td>
+  </tr>
+  <tr>
+    <td>SPRING Excellent Service Awards 2013</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Singapore Experience Awards 2013</td>
+    <td>Recipient, Customer Service, Food &amp; Beverage</td>
+  </tr>
+  <tr>
+    <td>World Travel &amp; Tourism Council - Tourism for Tomorrow Awards 2013</td>
+    <td>Finalist - Destination Stewardship</td>
+  </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#awards-and-accolades">Back to Top</a>
+</div>
 
 <!--TEMPLATE-->
 #### **YEAR**

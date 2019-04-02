@@ -5,10 +5,11 @@ permalink: /partner-us/opportunities/
 breadcrumb: Opportunities
 collection_name: partner-us
 ---
+### **Opportunities**
 <div class="row">
 	<div class="col is-12">
 		<figure style="margin:0;">
-			<img src="/images/partner-us/sentosa-aerial.jpg" alt="Image of Sentosa (Aerial View)"/>
+			<img src="/images/partner-us/opportunites/sentosa-aerial.jpg" alt="Image of Sentosa (Aerial View)"/>
 		</figure>
 	</div>
 </div>
@@ -20,3 +21,7 @@ Sentosa is home to more than 240 attractions, restaurants, beach bars and retail
 Sentosa is always on the lookout for like-minded corporations and stakeholders to grow its brand presence and awareness.  If you are keen on working with us, contact us for more details, and you could be a part of the exciting, fun and unique experience that defines Sentosa.
 
 For current available opportunities, please visit [GeBiz and search for “Sentosa”](https://www.gebiz.gov.sg/). 
+
+#### ** Island Facts**
+
+

@@ -7,19 +7,29 @@ collection_name: who-we-are
 ---
 ### **Awards And Accolades**
 
-
-<div class="row">
-    <h3><strong>2016</strong></h3>
-    <a class="is-pulld-right" href="#awardsandaccolades">Back to top</a>
-</div>
-<hr/>
-<!--Row example-->
+#### **2016**
+---
 <div class="row">
     <div class="col is-4">
-        <img src="/images/sentosa.png" class="image is-rounded"/>
+        <figure class="is-marginless">
+            <img src="/images/who-we-are/awards-and-accolades/awards-asiantour.png" alt="Image of Asian Tour">
+        </figure>
     </div>
     <div class="col is-8">
-        <h4>2016 Asian Tour Roll of Honour</h4>
-        <p>Best Golf Course - Sentosa Golf Club</p>
+        <p>
+            Best Golf Course - Sentosa Golf Club
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col is-8">
+        <p>
+            Best Golf Course - Sentosa Golf Club
+        </p>
+    </div>
+    <div class="col is-4">
+        <figure class="is-marginless">
+            <img src="/images/who-we-are/awards-and-accolades/awards-asiantour.png" alt="Image of Asian Tour">
+        </figure>
     </div>
 </div>

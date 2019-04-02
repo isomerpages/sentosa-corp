@@ -9,7 +9,7 @@ collection_name: partner-us
 <div class="row">
 	<div class="col is-12">
 		<figure style="margin:0;">
-			<img src="/images/partner-us/opportunites/sentosa-aerial.jpg" alt="Image of Sentosa (Aerial View)"/>
+			<img src="/images/partner-us/opportunities/sentosa-aerial.jpg" alt="Image of Sentosa (Aerial View)"/>
 		</figure>
 	</div>
 </div>
@@ -22,6 +22,6 @@ Sentosa is always on the lookout for like-minded corporations and stakeholders t
 
 For current available opportunities, please visit [GeBiz and search for “Sentosa”](https://www.gebiz.gov.sg/). 
 
-#### ** Island Facts**
+#### **Island Facts**
 
 

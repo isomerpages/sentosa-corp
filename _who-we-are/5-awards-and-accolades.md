@@ -12,7 +12,7 @@ collection_name: who-we-are
 <div class="row">
     <div class="col is-4">
         <figure class="is-marginless">
-            <img src="/images/who-we-are/awards-and-accolades/awards-asiantour.png" alt="Image of Asian Tour">
+            <img src="/images/who-we-are/awards-and-accolades/2016/awards-asiantour.png" alt="Image of Asian Tour">
         </figure>
     </div>
     <div class="col is-8">
@@ -29,7 +29,7 @@ collection_name: who-we-are
     </div>
     <div class="col is-4">
         <figure class="is-marginless">
-            <img src="/images/who-we-are/awards-and-accolades/awards-asiantour.png" alt="Image of Asian Tour">
+            <img src="/images/who-we-are/awards-and-accolades/2016/awards-asiantour.png" alt="Image of Asian Tour">
         </figure>
     </div>
 </div>

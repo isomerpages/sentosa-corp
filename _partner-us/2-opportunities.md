@@ -5,7 +5,6 @@ permalink: /partner-us/opportunities/
 breadcrumb: Opportunities
 collection_name: partner-us
 ---
-### **Opportunities**
 <div class="row">
 	<div class="col is-12">
 		<figure style="margin:0;">
@@ -13,6 +12,8 @@ collection_name: partner-us
 		</figure>
 	</div>
 </div>
+
+### **Opportunities**
 
 Sentosa is home to more than 240 attractions, restaurants, beach bars and retail outlets, offering its diverse audience of youth, families, golf enthusiasts, beach-goers, nature lovers and fine dining connoisseurs a wide selection of leisure and lifestyle offerings to choose from.
 
@@ -24,4 +25,13 @@ For current available opportunities, please visit [GeBiz and search for “Sento
 
 #### **Island Facts**
 
-
+<table class="table-h">
+    <tr>
+        <td>flkdjaflkdsajf</td>
+        <td>fadojfoasjfoiajsfdo11</td>
+    </tr>
+     <tr>
+        <td>2flkdjaflkdsajf</td>
+        <td>2fadojfoasjfoiajsfdo11</td>
+    </tr>
+</table>

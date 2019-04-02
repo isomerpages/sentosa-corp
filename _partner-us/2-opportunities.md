@@ -25,13 +25,40 @@ For current available opportunities, please visit [GeBiz and search for “Sento
 
 #### **Island Facts**
 
-<table class="table-h">
-    <tr>
-        <td>flkdjaflkdsajf</td>
-        <td>fadojfoasjfoiajsfdo11</td>
-    </tr>
-     <tr>
-        <td>2flkdjaflkdsajf</td>
-        <td>2fadojfoasjfoiajsfdo11</td>
-    </tr>
-</table>
+<div class="row">
+    <div class="col is-2">
+        <figure>
+            <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">
+            <figcaption class="has-text-danger">500 hectares</figcaption>
+            Size of Sentosa Island
+        </figure>
+    </div>
+    <div class="col is-2">
+        <figure>
+            <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">
+            <figcaption class="has-text-danger">500 hectares</figcaption>
+            Size of Sentosa Island
+        </figure>
+    </div>
+    <div class="col is-2">
+        <figure>
+            <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">
+            <figcaption class="has-text-danger">500 hectares</figcaption>
+            Size of Sentosa Island
+        </figure>
+    </div>
+    <div class="col is-2">
+        <figure>
+            <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">
+            <figcaption class="has-text-danger">500 hectares</figcaption>
+            Size of Sentosa Island
+        </figure>
+    </div>
+    <div class="col is-2">
+        <figure>
+            <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">
+            <figcaption class="has-text-danger">500 hectares</figcaption>
+            Size of Sentosa Island
+        </figure>
+    </div>
+</div>

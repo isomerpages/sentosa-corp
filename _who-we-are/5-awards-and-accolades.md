@@ -123,7 +123,7 @@ collection_name: who-we-are
 
 #### **2014**
 <hr style="margin-top:12px;">
-<table id="tg-5mkfJ">
+<table class="table-v">
   <tr>
     <td>Thea Awards 2014 - Themed Entertainment Association</td>
     <td>Outstanding Achievement, Event Spectacular - Wings of Time</td>

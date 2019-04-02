@@ -66,3 +66,13 @@ For current available opportunities, please visit [GeBiz and search for “Sento
         </figure>
     </div>
 </div>
+
+<ul>
+    <li>
+        <figure>
+            <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">
+            <figcaption class="has-text-danger">500 hectares</figcaption>
+            Size of Sentosa Island
+        </figure>
+    </li>
+</ul>

@@ -29,14 +29,14 @@ For current available opportunities, please visit [GeBiz and search for “Sento
     <div class="col is-6">
         <figure>
             <img src="/images/partner-us/opportunities/island-facts-size.jpg" alt="Image of Size">
-            <figcaption class="has-text-danger has-text-weight-bold">500 hectares</figcaption>
+            <figcaption class="has-text-danger has-text-weight-bold" style="color:#814997">500 hectares</figcaption>
             Size of Sentosa Island
         </figure>
     </div>
     <div class="col is-6">
         <figure>
             <img src="/images/partner-us/opportunities/island-facts-visitors.jpg" alt="Image of Visitors">
-            <figcaption class="has-text-danger has-text-weight-bold">20 million</figcaption>
+            <figcaption class="has-text-danger has-text-weight-bold" style="color:#814997">20 million</figcaption>
             Annual Visitors
         </figure>
     </div>
@@ -45,7 +45,7 @@ For current available opportunities, please visit [GeBiz and search for “Sento
     <div class="col is-6">
         <figure>
             <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">
-            <figcaption class="has-text-danger has-text-weight-bold">> 200</figcaption>
+            <figcaption class="has-text-danger has-text-weight-bold" style="color:#814997">> 200</figcaption>
             F&B Establishments
         </figure>
     </div>
@@ -60,7 +60,7 @@ For current available opportunities, please visit [GeBiz and search for “Sento
 <div class="row">
     <div class="col is-6">
         <figure>
-            <img src="/images/partner-us/opportunities/island-facts-hotel.jpg" alt="Image of Island">
+            <img src="/images/partner-us/opportunities/island-facts-hotels.jpg" alt="Image of Island">
             <figcaption class="has-text-danger has-text-weight-bold">15</figcaption>
             Hotels on Sentosa, offering mid-tier to luxury accomodation
         </figure>

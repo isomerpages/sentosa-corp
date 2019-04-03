@@ -334,6 +334,45 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
+
+#### **2006**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>December 2006</td>
+        <td>
+            Singapore's largest New Year's Eve beach party, <em>Siloso Beach Party</em>, made debut and has since grown to be a signature event on Singapore's calendar.
+            <br><br>
+            The Singapore Government awards the Sentosa integrated resort project, now known as Resorts World Sentosa, to a joint consortium comprising Genting International and Star Cruises.
+        </td>
+    </tr>
+    <tr>
+        <td>October 2006
+        </td>
+        <td>
+            Sentosa Cove welcomed its first residents to the 1170hectare marina cum waterfront residential precient. The Berth by the Cove was the first condominium to be occupied.
+        </td>
+    </tr>
+    <tr>
+        <td>August 2006</td>
+        <td>The S$50 million hotel Siloso Beach Resort opened along Siloso Beach. Built on the hillside and fronting the beach, this unique resort offers accomodation amidst the natural setting.</td>
+    </tr>
+    <tr>
+        <td>June 2006</td>
+        <td>Palawan Beach reopened after a major S$11 million revamp, offering guests more recreational, food, beverage, retail and entertainment offerings, as well as improved amenities for beach goers.</td>
+    </tr>
+    <tr>
+        <td>May 2006</td>
+        <td>Barclays Singapore took up a five-year title sponsorship for the <em>Singapore Open</em>, with the promise to raise the tournament's prize money over the following two years.</td>
+    </tr>
+    <tr>
+        <td>January 2006</td>
+        <td><em>Sentosa 4D Magix</em> (now part of <em>Sentosa 4D Adventureland</em>) opened. It was Singapore's first and Southeast Asia's original 4-D theatre, equipped with digital projection and a DTS 1.6 sound system.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">

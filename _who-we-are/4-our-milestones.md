@@ -113,6 +113,62 @@ collection_name: who-we-are
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
 
+#### **2013**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>July 2013</td>
+        <td>
+            <br>C Side was launched, delivering an authentic beachside experience for guests at Siloso Beach.
+            <br>It encompasses 5 unique dining outlets: Flame, Makan<sup>2</sup>, Coastes, Bikini Bar and Sand Bar.
+        </td>
+    </tr>
+    <tr>
+        <td>March 2013</td>
+        <td>Quayside Isle opened at Sentosa Cove, offering a wide array of premium international dining concepts and specialty retail stores.</td>
+    </tr>
+    <tr>
+        <td>February 2013</td>
+        <td>HSBC Women's Champions, the women's professional golf tournament on the LPGA Tour, moved to The Serapong course at Sentosa Golf Club.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **2012**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>November 2012</td>
+        <td>The world's largest oceanarium - <em>Marine Life Park</em> - opened at <em>Resorts World Sentosa</em> in the lead up to the integrated resort's Grnad Opening on 7 Dec 2012.</td>
+    </tr>
+    <tr>
+        <td>October 2012</td>
+        <td>Sentosa Cove got a new addition to its suite of luxury offerings when Singapore's first W Hotel, <em>W Singapore - Sentosa Cove</em> and W-branded private residences opened its doors.</td>
+    </tr>
+    <tr>
+        <td>May 2012</td>
+        <td>Sentosa celebrated its 40TH Anniversary with a series of exciting activities from May to September.
+            <br>The island also welcomed its 150 millionth visitor in June.
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>April 2012</td>
+        <td>The <em>Port of Lost Wonder</em>, Singapore's first ever beachside children's club, opened on Palawan Beach, featuring an epic ship-themed water play area.
+            <br>POLW closed in December 2016 as SDC continues to refresh developments at Palawan Beach.
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>February 2012</td>
+        <td>Resorts World Sentosa opened another two hotels - <em>Beach Villas</em> and <em>Equarius Hotel</em> - adding more than 200 keys to the resort island.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">

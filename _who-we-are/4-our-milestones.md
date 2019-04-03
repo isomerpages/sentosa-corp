@@ -37,10 +37,11 @@ collection_name: who-we-are
     </tr>
     <tr>
         <td>February 2016</td>
-        <td>Sentosa's family entertainment centre opened its doors at Palawan Beach.
-            <br>
+        <td>
+            Sentosa's family entertainment centre opened its doors at Palawan Beach.
             <br>Named Palawan Kidz City, this purpose-built three-storey indoor facility not only complements existing outdoor activities, it also strengthened Palawan Beach's position as Singapore's family-friendly beachfront destination.
             <br>
+            The first anchor attraction to open at Palawan Kidz City was <em>MOSH!</em>, Singapore’s first immersive edutainment facility, showcasing state-of-the-art multimedia technology which allows guests to create imaginary worlds of their own.
         </td>
     </tr>
     <tr>
@@ -106,7 +107,11 @@ collection_name: who-we-are
     </tr>
     <tr>
         <td>May 2014</td>
-        <td>Mount Faber Leisure Group unveiled Mount Faber's new branding as Faber Peak Singapore. Transiting from the premium Jewel Box brand, Faber Peak Singapore sports a casual, vibrant and more inclusive branch personality, inspired by the countless happy moments local residents and overseas travellers have experienced atop Mount Faber and onboard the Singapore Cable Car.</td>
+        <td>
+            Mount Faber Leisure Group unveiled Mount Faber's new branding as Faber Peak Singapore. Transiting from the premium Jewel Box brand, Faber Peak Singapore sports a casual, vibrant and more inclusive branch personality, inspired by the countless happy moments local residents and overseas travellers have experienced atop Mount Faber and onboard the Singapore Cable Car.
+            <br>
+            SDC launched its latest brand campaign and unveiled a new tagline – <em>The State of Fun</em>, in a significant move aimed at positioning Singapore’s iconic resort destination as the capital of fun for everyone.
+        </td>
     </tr>
 </table>
 <div class="row is-pulled-right">
@@ -164,6 +169,39 @@ collection_name: who-we-are
     <tr>
         <td>February 2012</td>
         <td>Resorts World Sentosa opened another two hotels - <em>Beach Villas</em> and <em>Equarius Hotel</em> - adding more than 200 keys to the resort island.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **2011**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>July 2011</td>
+        <td>Sentosa 4D Magix &amp; CineBlast (now <em>Sentosa 4D Adventureland</em>) launched <em>Desperados in 3D</em>, an interactive Old Western shoot-out game with an added dimension of excitement.
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>May 2011</td>
+        <td>The island welcomed the world's largest and Singapore's only indoor skydiving simulator, <em>iFly Singapore</em>.</td>
+    </tr>
+    <tr>
+        <td>March 2011</td>
+        <td>Mövenpick Heritage Hotel Sentosa (now <em>Le Méridien Singapore, Sentosa</em>) opened its doors.
+            <br>The hotel's Contemporary Wing opened in 2011, while the all-suite Heritage Wing, housed in what was once British Army barracks, was launched in January 2013.
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>January 2011</td>
+        <td>
+            Sentosa opened a 700m footbridge, the Sentosa Boardwalk, connecting Sentosa and mainland Singapore
+            <br>
+            At the Boardwalk’s opening celebrations, SDC also clinched the Singapore Book of Records' title for Longest Foot to Foot Chain with 680 participants.
+        </td>
     </tr>
 </table>
 <div class="row is-pulled-right">

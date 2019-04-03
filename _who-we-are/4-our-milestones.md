@@ -81,8 +81,32 @@ collection_name: who-we-are
     <tr>
         <td>March 2015</td>
         <td>Sentosa kicked off SG50 celebrations with a bagful of surprises for Singaporeans.
-            <br>
             <br>In March, Sentosa announced complimentary admission for those driving into the island after 5pm on weekdays. Guests who walked in via the Sentosa Boardwalk, were also treated to free admission 24/7! A huge party was held for 50 Singaporeans who turned 50 in 2015.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **2014**
+<hr style="margin-top:12px;">
+<table>
+    <tr>
+        <td>October 2014
+            <br>
+        </td>
+        <td>Madam Tussauds Singapore opened at Imbiah Lookout. In March 2015, the attraction also launched the Image of Singapore LIVE! experience, weaving "live" acting and storytelling to make history come alive.</td>
+    </tr>
+    <tr>
+        <td>July 2014</td>
+        <td>Wings of Time, the world's only permanent night extravaganza set in the sea, marked its official opening.
+            <br>The 25-minute show features a 10-metre tall backdrop against Siloso Beach's picturesque scenery and takes audiences on a magical journey of regal proportions, with new robotic fountains, 3D video mapping and enhanced pyrotechnic effects.
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>May 2014</td>
+        <td>Mount Faber Leisure Group unveiled Mount Faber's new branding as Faber Peak Singapore. Transiting from the premium Jewel Box brand, Faber Peak Singapore sports a casual, vibrant and more inclusive branch personality, inspired by the countless happy moments local residents and overseas travellers have experienced atop Mount Faber and onboard the Singapore Cable Car.</td>
     </tr>
 </table>
 <div class="row is-pulled-right">

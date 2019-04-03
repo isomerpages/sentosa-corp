@@ -361,7 +361,13 @@ collection_name: who-we-are
 <table class="table-v">
     <tr>
         <td>International Festival and Events Association - Haas &amp; Wilkerson Pinnacle Awards 2010</td>
-        <td></td>
+        <td>
+            <ul>
+                <li>Best Children’s Programming (Gold) – School Holiday Programming</li>
+                <li>    Best Event Website (Silver) – Siloso Beach Party 2009</li>
+                <li>    Best Event within an existing festival (Silver) – Siloso Beach Party</li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <td>EFFIES Singapore Awards 2010</td>
@@ -377,7 +383,14 @@ collection_name: who-we-are
     </tr>
     <tr>
         <td>SPRING Excellent Service Awards 2010</td>
-        <td></td>
+        <td>
+            <ul>
+                <li>1 Superstar Finalist</li>
+                <li> 11 Star</li>
+                <li> 40 Gold</li>
+                <li> 93 Silver</li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <td>Total Defence Awards 2010</td>

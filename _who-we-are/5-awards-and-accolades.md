@@ -401,6 +401,60 @@ collection_name: who-we-are
     <a href="#awards-and-accolades">Back to Top</a>
 </div>
 
+#### **2009**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>International Festivals and Events Association - Haas &amp; Wilkerson Pinnacle Awards 2009</td>
+        <td>
+            <ul>
+                <li>Best TV Promotion (Gold) – Siloso Beach Party</li>
+                <li>    Best Single Magazine Display Ad (Gold) – Barclay’s Singapore Open 2009</li>
+                <li>    Best Outdoor Billboard (Gold)</li>
+                <li>    Best Miscellaneous Printed Materials (Silver)</li>
+                <li>    Best Street Banner (Silver) – Siloso Beach Party</li>
+                <li>    Best Miscellaneous Multimedia (Bronze) – Siloso Beach Party</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Asian Attractions Awards 2009 - International Association of Amusement Parks and Attractions (IAAPA)</td>
+        <td>Best Large Attraction - Sentosa</td>
+    </tr>
+    <tr>
+        <td>IAAPA Brass Rings Awards 2009</td>
+        <td>Best Radio Commercial - Siloso Beach Party 2008</td>
+    </tr>
+    <tr>
+        <td>Golf Digest Singapore Awards 2009</td>
+        <td>
+            <ul>
+                <li>First (Best Golf Course in Singapore) – The Serapong, Sentosa Golf Club</li>
+                <li>    Best Food & Beverage - Sentosa Golf Club</li>
+                <li>    Best Club House - Sentosa Golf Club</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Reader's Digest Trusted Brands 2009</td>
+        <td>Gold - Family Tourist Attractions</td>
+    </tr>
+    <tr>
+        <td>SPRING Excellent Service Awards 2009</td>
+        <td>
+            <ul>
+                <li>1 Superstar winner</li>
+                <li> 14 Star</li>
+                <li> 33 Gold</li>
+                <li> 67 Silver</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#awards-and-accolades">Back to Top</a>
+</div>
+
 <!--TEMPLATE-->
 #### **YEAR**
 <hr style="margin-top:12px;">

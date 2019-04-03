@@ -455,7 +455,85 @@ collection_name: who-we-are
     <a href="#awards-and-accolades">Back to Top</a>
 </div>
 
-<!--TEMPLATE-->
+#### **2008**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>International Festivals and Events Association - Haas &amp; Wilkerson Pinnacle Awards 2008</td>
+        <td>
+            <ul>
+                <li>Best Event Website (Gold) – Sentosa Flowers 2008</li>
+                <li> Best Newspaper Insert/ Supplement (Gold) – Sentosa Flowers 2008</li>
+                <li> Best Children’s Programming (Gold) – Palawan Beach Boogie</li>
+                <li> Best Event Website (Silver) – Siloso Beach Party 2008</li>
+                <li> Best Miscellaneous Printed Materials (Silver)</li>
+                <li> Best New Event within an existing festival (Bronze) – Fort Flavours</li>
+                <li> Best Miscellaneous Multimedia (Bronze)</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>ASEAN Tourism Association (ASEANTA) Award
+            <br>
+        </td>
+        <td>Best ASEAN New Tourist Attraction - Songs of the Sea</td>
+    </tr>
+    <tr>
+        <td>IAAPA Brass Ring Awards 2008</td>
+        <td>
+            <ul>
+                <li>Best Seasonal or Special Event Marketing (Class 4) – Sentosa Flowers 2008</li>
+                <li> Best Marketing Collateral (Class 4) – Sentosa Flowers 2008 booklet</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Thea Awards 2008 by Themed Entertainment Association </td>
+        <td>Outstanding Achievement for Event Spectacular - Songs of the Sea</td>
+    </tr>
+    <tr>
+        <td>Asian Attractions Awards 2008 - International Association of Amusement Parks and Attractions (IAAPA)</td>
+        <td>Best Large Attraction - Sentosa</td>
+    </tr>
+    <tr>
+        <td>EFFIE Singapore Awards 2008</td>
+        <td>Best Cultural/The Arts (Gold) - Barclays Singapore Open 2007</td>
+    </tr>
+    <tr>
+        <td>SPRING Excellent Service Awards 2008</td>
+        <td>
+            <ul>
+                <li>1 SuperStar Finalist</li>
+                <li> 24 Stars</li>
+                <li> 27 Gold</li>
+                <li> 68 Silver</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>2008 Hitwise Top 10 Award Winner</td>
+        <td>
+            <ul>
+                <li>Second, Travel – Destinations and Accommodation (Jul-Sep)</li>
+                <li> Second, Travel – Destinations and Accommodation (Oct-Dec)</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Asia Travel &amp; Tourism Creative Awards 2008 - AdAsia</td>
+        <td>
+            <ul>
+                <li>Silver Award – Travel/Destination Brochure</li>
+                <li>Bronze Award – Resort and/or Spa Print Ad</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#awards-and-accolades">Back to Top</a>
+</div>
+
+<!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">
 <table class="table-v">
@@ -471,3 +549,4 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#awards-and-accolades">Back to Top</a>
 </div>
+-->

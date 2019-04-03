@@ -30,7 +30,7 @@ collection_name: who-we-are
     </tr>
     <tr>
         <td>April 2016</td>
-        <td>KidZania Singapore, the world's 23&lt;sup&gt;rd&lt;/sup&gt; KidZania metropolis, opened at Palawan Kidz City.
+        <td>KidZania Singapore, the world's 23<sup>rd</sup> KidZania metropolis, opened at Palawan Kidz City.
             <br>As Singapore's latest attraction targetting families and children, the 7,600 square metre park set a new benchmark for learning through role-play in Singapore.
             <br>
         </td>
@@ -48,13 +48,13 @@ collection_name: who-we-are
             <br>
         </td>
         <td>The Singapore Open, which sees the gathering of some of the world's top players, returned to Sentosa Golf Club after a three-year hiatus with a new title sponsor.
-            <br>The SMBC Singapore Open 2016 took place from 28 Jan - 1 Feb 2016, marking the 50&lt;sup&gt;th&lt;/sup&gt; edition of the country's national Open
+            <br>The SMBC Singapore Open 2016 took place from 28 Jan - 1 Feb 2016, marking the 50<sup>th</sup>; edition of the country's national Open.
             <br>
         </td>
     </tr>
 </table>
 <div class="row is-pulled-right">
-    <a href="#">Back to Top</a>
+    <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
 
 
@@ -72,7 +72,7 @@ collection_name: who-we-are
     </tr>
 </table>
 <div class="row is-pulled-right">
-    <a href="#awards-and-accolades">Back to Top</a>
+    <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
 -->
 

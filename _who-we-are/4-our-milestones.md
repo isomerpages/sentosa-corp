@@ -90,7 +90,7 @@ collection_name: who-we-are
 
 #### **2014**
 <hr style="margin-top:12px;">
-<table>
+<table class="table-v">
     <tr>
         <td>October 2014
             <br>

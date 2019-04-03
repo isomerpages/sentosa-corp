@@ -207,6 +207,34 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
+
+#### **2010**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>October 2010</td>
+        <td>Mount Faber Leisure Group launched the Jewel Cable Car Ride with brand new cabins. The <em>Cable Car Museum</em> also opened its doors at Imbiah Lookout.</td>
+    </tr>
+    <tr>
+        <td>June 2010</td>
+        <td>Touted as Singapore's premier beach destination, <em>Tanjong Beach Club</em> (TBC) opened to rave reviews. Inspired by 1950's beach resorts, TBC is a stunning amalgam of restaurant, infinity pool, a stylish bar and beach.</td>
+    </tr>
+    <tr>
+        <td>March 2010</td>
+        <td>Universal Studios Singapore, Southeast Asia's first and only Universal Studios theme park opened in March, with 24 rides and attractions slated in seven themed zones.
+            <br>
+            <br><em>Skyline Luge Sentosa</em> opened a second track at Imbiah Lookout. Dubbed the Dragon Trail, this exhilarating new course, has tighter corners, more turns and coloured night lighting to add new dimensions of fun for riders.
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>January 2010</td>
+        <td>Singapore's first family integrated resort, <em>Resorts World Sentosa</em>, opened its doors with four hotels - <em>Festive Hotel, Hard Rock Hotel Singapore, Hotel Michael and Crockfords Tower</em>.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">

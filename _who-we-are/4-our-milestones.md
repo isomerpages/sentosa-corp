@@ -7,7 +7,7 @@ collection_name: who-we-are
 --- 
 ### **Our Milestones. Our Pride.**
 
-#### **YEAR**
+#### **2016**
 <hr style="margin-top:12px;">
 <table class="table-v">
     <tr>
@@ -26,7 +26,7 @@ collection_name: who-we-are
     </tr>
     <tr>
         <td>October 2016</td>
-        <td>Helmed by Michelin-starred Chef Nandu Jubany, &lt;em&gt;FOC Sentosa&lt;/em&gt; established itself with inspiration from Barcelona's world-famous beach culture, transforming from a relaxing morning hangout to an idyllic Mediterranean lunch spot and, come night time, a vibrant gastronomic getaway.</td>
+        <td>Helmed by Michelin-starred Chef Nandu Jubany, <em>FOC Sentosa</em> established itself with inspiration from Barcelona's world-famous beach culture, transforming from a relaxing morning hangout to an idyllic Mediterranean lunch spot and, come night time, a vibrant gastronomic getaway.</td>
     </tr>
     <tr>
         <td>April 2016</td>
@@ -48,7 +48,7 @@ collection_name: who-we-are
             <br>
         </td>
         <td>The Singapore Open, which sees the gathering of some of the world's top players, returned to Sentosa Golf Club after a three-year hiatus with a new title sponsor.
-            <br>The SMBC Singapore Open 2016 took place from 28 Jan - 1 Feb 2016, marking the 50<sup>th</sup>; edition of the country's national Open.
+            <br>The SMBC Singapore Open 2016 took place from 28 Jan - 1 Feb 2016, marking the 50<sup>th</sup> edition of the country's national Open.
             <br>
         </td>
     </tr>
@@ -57,6 +57,37 @@ collection_name: who-we-are
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
 
+#### **2015**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>December 2015</td>
+        <td>The iconic Singapore Cable Car Sky Network celebrated its 50 millionth rider after more than 40 years in operation</td>
+    </tr>
+    <tr>
+        <td>August 2015</td>
+        <td>In celebration of SG50, Sentosa launched Sands of Time, a 100 metre-long sand sculpture display of The Singapore Story along Siloso Beach.
+            <br>Over the Golden Jubilee Weekend, Singaporeans were treated to complimentary entry to selected attractions on Sentosa, a Mass Line Dance, and the Sentosa Merlion Magic Lights show.
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>July 2015</td>
+        <td>A brand new cable car line opened on Sentosa, adding to the existing Mount Faber Line. The new Sentosa Line, a S$78 million investment, allows guests to connect from the Merlion Plaza to Siloso Point at the western end of the island.
+            <br>Together, the two lines form the Singapore Cable Car Network.
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>March 2015</td>
+        <td>Sentosa kicked off SG50 celebrations with a bagful of surprises for Singaporeans.
+            <br>
+            <br>In March, Sentosa announced complimentary admission for those driving into the island after 5pm on weekdays. Guests who walked in via the Sentosa Boardwalk, were also treated to free admission 24/7! A huge party was held for 50 Singaporeans who turned 50 in 2015.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 
 <!--TEMPLATE
 #### **YEAR**

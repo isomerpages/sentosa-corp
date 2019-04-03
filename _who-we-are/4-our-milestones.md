@@ -298,6 +298,42 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
+
+#### **2007**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>November 2007</td>
+        <td>The <em>Grow our Nature Heritage</em> programme was launched by SDC to enhance the biodiversity of the island's forests. Seedlings of indigenous plant species called <em>Dipterocarpus</em> were planted to improve he overall health of the flora and fauna.</td>
+    </tr>
+    <tr>
+        <td>July 2007</td>
+        <td>Making the island home in the year was <em>Amara Sanctuary Resort &amp; Spa</em>, a 125-room boutique resort.</td>
+    </tr>
+    <tr>
+        <td>June 2007</td>
+        <td>CineBlast (now part of <em>Sentosa 4D Adventureland</em>), Singapore's only cinema ride, opened. It features high definition wide-screen projection and a six-axis motion system, taking visitors on an extreme log ride.</td>
+    </tr>
+    <tr>
+        <td>March 2007</td>
+        <td>
+            The multi-sensory experience show, <em>Songs of the Sea</em>, was launched. The new show replaced the <em>Magical Sentosa</em> fountain show, and featured pyrotechnics, lasers, computer imaging, special effects and a cast of actors. The attraction was set in the sea on a kelong and became an award winning experience.
+            <br><em>Songs of the Sea</em> closed in May 2014 after a successful 7-year run.
+        </td>
+    </tr>
+    <tr>
+        <td>January 2007</td>
+        <td>
+            Sentosa's S$140 million light-rail system, the Sentosa Express opens, enhancing transportation links between mainland Singapore and Sentosa, and stops at four stations located in attraction clusters.
+            <br>The Sentosa Express, replaced the Sentosa Monorail, which served the western half of the island from 1982 to 2005.
+            <br><br>
+            Renowned Spanish beach bar <em>Café Del Mar</em> opened its S$3 million recreational establishment on Siloso Beach. It closed in 2012.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">

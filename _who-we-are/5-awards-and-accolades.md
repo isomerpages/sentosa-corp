@@ -370,7 +370,7 @@ collection_name: who-we-are
         </td>
     </tr>
     <tr>
-        <td>EFFIES Singapore Awards 2010</td>
+        <td>EFFIE Singapore Awards 2010</td>
         <td>Bronze - Sentosa Spooktacular 2010</td>
     </tr>
     <tr>

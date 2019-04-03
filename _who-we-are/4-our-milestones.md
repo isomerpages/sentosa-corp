@@ -235,6 +235,69 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
+
+#### **2009**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>November 2009</td>
+        <td>SDC acquired the remaining 50% shares in Mount Faber Leisure Group, making it a 100% owned subsidiary of SDC.</td>
+    </tr>
+    <tr>
+        <td>October 2009</td>
+        <td>Singapore's largest Asian-themed Halloween event, <em>Sentosa Spooktacular</em>, made its debut.
+            <br>
+            <br><em>Wave House Sentosa</em> made a splash with its opening. The main draw of the 70,000 square feet complex is the three-metre high barrelling wave simulator, the first of its kind in Singapore.
+        </td>
+    </tr>
+    <tr>
+        <td>September 2009
+            <br>
+        </td>
+        <td><em>Azzura Beach Club</em> opened, introducing a multi-level entertainment, dining and hydro-sports experience on Siloso Beach.
+            <br>
+            <br>The club closed in 2015.
+        </td>
+    </tr>
+    <tr>
+        <td>August 2009
+            <br>
+        </td>
+        <td><em>Sentosa Nature Discovery</em> was launched. Housed in a former monorail station, the two-storey gallery offers an interactive journey of discovery, where nature and fun go hand-in-hand.</td>
+    </tr>
+    <tr>
+        <td>July 2009</td>
+        <td>Sentosa's second vehicular bridge opens for inbound traffic, with the original causeway bridge converted to a three-lane carriageway for outbound traffic.
+            <br>
+            <br>The first multi-million dollar adventure park in Singapore made its debut with one of Asia's steepest and longest zip wires. Located at the top of Mount Imbiah, the <em>MegaZip Adventure Park</em> derived its name from the spectacular 450-metre flying fox ride.
+        </td>
+    </tr>
+    <tr>
+        <td>April 2009</td>
+        <td><em>Desperados</em> joined the cluster of attractions at Sentosa's Imbiah Lookout. A first-of-its-kind in Singapore, <em>Desperados</em> is an interactive shoot-out attraction managed by Sentosa CineBlast and Sentosa 4D Magix (now Sentosa 4D AdventureLand).</td>
+    </tr>
+    <tr>
+        <td>March 2009</td>
+        <td><em>Capella Singapore</em> opened its doors, enhancing Sentosa's range of hospitality offerings.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **2008**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>October 2008</td>
+        <td>
+            <em>GoGreen Holdings</em> introduced the Segway, a two-wheeled self-balancing electric vehicle, to the island.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">

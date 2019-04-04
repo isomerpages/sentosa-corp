@@ -48,7 +48,7 @@ collection_name: who-we-are
     <tr>
         <td>April 2016</td>
         <td>KidZania Singapore, the world's 23<sup>rd</sup> KidZania metropolis, opened at Palawan Kidz City.
-            <br>As Singapore's latest attraction targetting families and children, the 7,600 square metre park set a new benchmark for learning through role-play in Singapore.
+            <br>As Singapore's latest attraction targeting families and children, the 7,600 square metre park set a new benchmark for learning through role-play in Singapore.
             <br>
         </td>
     </tr>
@@ -163,7 +163,7 @@ collection_name: who-we-are
 <table class="table-v">
     <tr>
         <td>November 2012</td>
-        <td>The world's largest oceanarium - <em>Marine Life Park</em> - opened at <em>Resorts World Sentosa</em> in the lead up to the integrated resort's Grnad Opening on 7 Dec 2012.</td>
+        <td>The world's largest oceanarium - <em>Marine Life Park</em> - opened at <em>Resorts World Sentosa</em> in the lead up to the integrated resort's Grand Opening on 7 Dec 2012.</td>
     </tr>
     <tr>
         <td>October 2012</td>
@@ -321,7 +321,7 @@ collection_name: who-we-are
 <table class="table-v">
     <tr>
         <td>November 2007</td>
-        <td>The <em>Grow our Nature Heritage</em> programme was launched by SDC to enhance the biodiversity of the island's forests. Seedlings of indigenous plant species called <em>Dipterocarpus</em> were planted to improve he overall health of the flora and fauna.</td>
+        <td>The <em>Grow our Nature Heritage</em> programme was launched by SDC to enhance the biodiversity of the island's forests. Seedlings of indigenous plant species called <em>Dipterocarpus</em> were planted to improve the overall health of the flora and fauna.</td>
     </tr>
     <tr>
         <td>July 2007</td>
@@ -367,12 +367,12 @@ collection_name: who-we-are
         <td>October 2006
         </td>
         <td>
-            Sentosa Cove welcomed its first residents to the 1170hectare marina cum waterfront residential precient. The Berth by the Cove was the first condominium to be occupied.
+            Sentosa Cove welcomed its first residents to the 1170hectare marina cum waterfront residential precinct. The Berth by the Cove was the first condominium to be occupied.
         </td>
     </tr>
     <tr>
         <td>August 2006</td>
-        <td>The S$50 million hotel Siloso Beach Resort opened along Siloso Beach. Built on the hillside and fronting the beach, this unique resort offers accomodation amidst the natural setting.</td>
+        <td>The S$50 million hotel Siloso Beach Resort opened along Siloso Beach. Built on the hillside and fronting the beach, this unique resort offers accommodation amidst the natural setting.</td>
     </tr>
     <tr>
         <td>June 2006</td>
@@ -521,7 +521,7 @@ collection_name: who-we-are
     <tr>
         <td>March 1995</td>
         <td>
-            Sentosa Cove Pte Ltd is incorporated to develop and manage Sentosa Cove, a prestigious waterfront residential and marina project on the island. Between November 1991 and September 1993, land was reclaimed to link the island of <em>Buran Darat</em> to Setnosa for this waterfront residential development.
+            Sentosa Cove Pte Ltd is incorporated to develop and manage Sentosa Cove, a prestigious waterfront residential and marina project on the island. Between November 1991 and September 1993, land was reclaimed to link the island of <em>Buran Darat</em> to Sentosa for this waterfront residential development.
         </td>
     </tr>
     <tr>
@@ -661,7 +661,7 @@ collection_name: who-we-are
     <tr>
         <td>December 1983</td>
         <td>
-            The <em>World Insectarium</em> (now know as <em>Butterfly Park &amp; Insect Kingdom</em>) opned, featuring a unique display of one of the largest collections of insects in the Asian region. It was the first privately-owned attraction on Sentosa.
+            The <em>World Insectarium</em> (now known as <em>Butterfly Park &amp; Insect Kingdom</em>) opened, featuring a unique display of one of the largest collections of insects in the Asian region. It was the first privately-owned attraction on Sentosa.
         </td>
     </tr>
 </table>
@@ -711,7 +711,7 @@ collection_name: who-we-are
     <tr>
         <td>September 1975</td>
         <td>
-            The 8.5-hectare Kusu Island was opened to public after reclaimation works, with ferry services taking visitors to Kusu from Clifford Pier and the former World Trade Centre Ferry Terminal.
+            The 8.5-hectare Kusu Island was opened to public after reclamation works, with ferry services taking visitors to Kusu from Clifford Pier and the former World Trade Centre Ferry Terminal.
         </td>
     </tr>
     <tr>

@@ -5,6 +5,23 @@ permalink: /who-we-are/our-milestones/
 breadcrumb: Our Milestones
 collection_name: who-we-are 
 --- 
+<!--TEMPLATE
+#### **YEAR**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td></td>
+        <td>
+            <ul>
+                <li></li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+-->
 ### **Our Milestones. Our Pride.**
 
 #### **2016**
@@ -736,23 +753,34 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
-<!--TEMPLATE
-#### **YEAR**
+
+#### **1973**
 <hr style="margin-top:12px;">
 <table class="table-v">
     <tr>
-        <td></td>
+        <td>March 1973</td>
         <td>
-            <ul>
-                <li></li>
-            </ul>
+            Sentosa Golf Club Pte Ltd (SGC) was incorporated. On 27 December of the same year, SGC's first 18-hole championship golf course - <em>The Tanjong</em> - was open for play.
         </td>
     </tr>
 </table>
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
--->
 
-
-
+#### **1972**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>September 1972</td>
+        <td>
+            Previously known as Pulau Blakang Mati, Sentosa was a military stronghold from 1880s up till after the World War II. In 1966, the island was handed back to the Singapore Armed Forces. In 1968, the Government decided to develop the island into a holiday resort for local visitors and tourists. The public was invited to suggest names for the island and "Sentosa" - meaning peace &amp; tranquility in Malay - was eventually chosen for the island.
+            <br>
+            <br>
+            Tasked with overseeing the development, management, and promotion of the island, Sentosa Development Corporation (SDC) was incorporated on 1 September 1972 as a statutory board under the purview of the Ministry of Trade and Industry.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>

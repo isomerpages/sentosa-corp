@@ -524,9 +524,9 @@ collection_name: who-we-are
 <hr style="margin-top:12px;">
 <table class="table-v">
     <tr>
-        <td>December 1996</td>
+        <td>December 1994</td>
         <td>
-            <em>Festivals of Singapore</em> opened. On 30 June 1995, the attraction offically opens and together with <em>Pioneers of Singapore & Surrender Chambers</em>, it is regrouped under one umbrella as <em>Images of Singapore</em>.
+            <em>Festivals of Singapore</em> opened. On 30 June 1995, the attraction offically opens and together with <em>Pioneers of Singapore &amp; Surrender Chambers</em>, it is regrouped under one umbrella as <em>Images of Singapore</em>.
             <br>
             <br>
             The iconic water theme park, Fantasy Island, opened in the same month. The attraction featured different water slides and features, including a huge eight-lane slide. The park operated until 2 November 2002.
@@ -552,6 +552,172 @@ collection_name: who-we-are
             <em>Asian Village</em> opened, showcasing the diverse and contrasting moods of Asia in three zones: North Asian Village, South Asian Village and Southeast Asian Village. In addition, there was the Adventure Asia zone, with different rides for visitors. 
             <br>
             The attraction closed in 2000.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1992**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>December 1992</td>
+        <td>
+            Road Access to Sentosa was made possible with the opening of a 710-metre long causeway-bridge that linked Sentosa to mainland Singapore.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1991**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>December 1991</td>
+        <td>
+            The <em>Beaufort Hotel</em> (now known as <em>Sofitel Singapore Sentosa Resort &amp; Spa</em>) opens its doors to the public. Perched high atop a cliff amid landscaped tropical gardens, it was Sentosa's first 5-star hotel.
+        </td>
+    </tr>
+    <tr>
+        <td>May 1991</td>
+        <td>
+            <em>Underwater World Singapore</em> opened as Singapore's largest oceanarium. For the first time in Singapore, visitors can get up close with sharks, 
+            moray eels, giant stingrays and other sea creatures without getting wet. 
+            <br>
+            The attraction closed in June 2016, after 25 years of operations.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1987**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>October 1987</td>
+        <td>
+            The Sentosa Ferry Terminal opened and becam ean iconic landmark for visitors who arrived on Sentosa after a four-minute ride from the pier on mainland Singapore.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1986**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>May 1986</td>
+        <td>
+            The <em>Nature Walk</em> opened to the public, giving visitors the chance to access the Mount Imbiah battery.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1984**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>December 1984</td>
+        <td>
+            The <em>Pioneers of Singapore &amp; Surrender Chambers</em> museum opened to the public.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1983**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>December 1983</td>
+        <td>
+            The <em>World Insectarium</em> (now know as <em>Butterfly Park &amp; Insect Kingdom</em>) opned, featuring a unique display of one of the largest collections of insects in the Asian region. It was the first privately-owned attraction on Sentosa.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1982**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>June 1982</td>
+        <td>
+            Singapore's first Musical Fountain received a rousing welcome with its spectacular ballet of dancing fountains that was synchronised to a symphony of lights, colour and music. The outdoor fountain was then, the largest of its kind in Asia.
+        </td>
+    </tr>
+    <tr>
+        <td>February 1982</td>
+        <td>
+            Sentosa's monorail system began operatoins, serving as one of the iconic and key modes of transport around the resort island. A scenic ride around Sentosa would have taken 45 minutes.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1976**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>February 1976</td>
+        <td>
+            SDC reclaims the <em>Surrender Chambers</em> wax museum from then Singapore Tourism Promotion Board. 
+            <br>
+            The scene depicting the 1945 Japanese Surrender opened for public viewing on Sentosa. It featured 27 life-size wax figures. In 1981, the attraction was renamed Sentosa Wax Museum and the 1942 British Surrender tableau was exhibited.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1975**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>September 1975</td>
+        <td>
+            The 8.5-hectare Kusu Island was opened to public after reclaimation works, with ferry services taking visitors to Kusu from Clifford Pier and the former World Trade Centre Ferry Terminal.
+        </td>
+    </tr>
+    <tr>
+        <td>February 1975</td>
+        <td>
+            The four-hectare Fort Siloso heritage site opened to the public. It is one of the last remaining coastal fortifications in Singapore. In 2004, it was refurbished to showcase Singapore's World War II history.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1974**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>August 1974</td>
+        <td>
+            The 1.2km long swimming lagoon was an instant hit with visitors when it opened.
+            <br>
+            <br>
+            The <em>Coralarium</em> opened as Sentosa's first attraction. It covered an area of 1.2 hectares and housed rare and colourful live corals, marine life associated with coral reefs and a collection of 2,000 seashells from all over the world. The highlight of the attraction was an 18m tall coral tower.
         </td>
     </tr>
 </table>

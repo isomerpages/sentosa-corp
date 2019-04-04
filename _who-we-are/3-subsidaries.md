@@ -10,7 +10,7 @@ collection_name: who-we-are
 <br>
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/sentosa.png">
+        <img src="/images/who-we-are/subsidaries/sentosa.png">
     </div>
     <div class="col is-8">
         <h4>Sentosa</h4>
@@ -19,7 +19,7 @@ collection_name: who-we-are
 </div>
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/sentosacove.png">
+        <img src="/images/who-we-are/subsidaries/sentosacove.png">
     </div>
     <div class="col is-8">
         <h4>Sentosa Cove</h4>
@@ -28,7 +28,7 @@ collection_name: who-we-are
 </div>
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/golfclub.png">
+        <img src="/images/who-we-are/subsidaries/golfclub.png">
     </div>
     <div class="col is-8">
         <h4>Sentosa</h4>
@@ -37,7 +37,7 @@ collection_name: who-we-are
 </div>
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/1fg.png">
+        <img src="/images/who-we-are/subsidaries/1fg.png">
     </div>
     <div class="col is-8">
         <h4>Sentosa</h4>

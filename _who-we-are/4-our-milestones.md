@@ -484,7 +484,7 @@ collection_name: who-we-are
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
 
-#### **2000**
+#### **1996**
 <hr style="margin-top:12px;">
 <table class="table-v">
     <tr>
@@ -502,9 +502,56 @@ collection_name: who-we-are
 <hr style="margin-top:12px;">
 <table class="table-v">
     <tr>
-        <td>January 2000</td>
+        <td>March 1995</td>
         <td>
-            An International Advisory Council for Sentosa, comprising international industry experts, is formed to provide counsel on the future development of the island.
+            Sentosa Cove Pte Ltd is incorporated to develop and manage Sentosa Cove, a prestigious waterfront residential and marina project on the island. Between November 1991 and September 1993, land was reclaimed to link the island of <em>Buran Darat</em> to Setnosa for this waterfront residential development.
+        </td>
+    </tr>
+    <tr>
+        <td>February 1995</td>
+        <td>
+            The <em>Volcano Land</em> theme park opened. At this Mayan-themed attraction with an artificial volcano, visitors went on an adventure to the centre of the Earth and learn about the origins of the Universe. 
+            <br>
+            The attraction closed in 2006.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1994**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>December 1996</td>
+        <td>
+            <em>Festivals of Singapore</em> opened. On 30 June 1995, the attraction offically opens and together with <em>Pioneers of Singapore & Surrender Chambers</em>, it is regrouped under one umbrella as <em>Images of Singapore</em>.
+            <br>
+            <br>
+            The iconic water theme park, Fantasy Island, opened in the same month. The attraction featured different water slides and features, including a huge eight-lane slide. The park operated until 2 November 2002.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1993**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>March 1993</td>
+        <td>
+            <em>Shangri La's Rasa Sentosa Resort</em> received its first guests. Singapore's only beachfront hotel opened with 454 rooms. In 2011, the resort hotel underwent an extensive makeover,  and was renamed <em>Shangri La's Rasa Sentosa Resort &amp; Spa</em>
+        </td>
+    </tr>
+    <tr>
+        <td>January 1993</td>
+        <td>
+            <em>Asian Village</em> opened, showcasing the diverse and contrasting moods of Asia in three zones: North Asian Village, South Asian Village and Southeast Asian Village. In addition, there was the Adventure Asia zone, with different rides for visitors. 
+            <br>
+            The attraction closed in 2000.
         </td>
     </tr>
 </table>

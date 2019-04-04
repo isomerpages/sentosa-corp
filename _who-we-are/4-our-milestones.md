@@ -37,7 +37,7 @@ collection_name: who-we-are
     <tr>
         <td>November 2016</td>
         <td>Singapore's latest island getaway - Ola Beach Club - opened its doors in November 2016.
-            <br>Ola, which means "life" in Hawaiian, brings a piece of easy0going island living from the middle of the Pacific Ocean to The State of Fun. The club also features a gamut of heart pumping water sports including Singapore's first and only water propelled Jet Pack and Jetblade, while serving up an all-day Hawaiian-inspired menu.
+            <br>Ola, which means "life" in Hawaiian, brings a piece of easy-going island living from the middle of the Pacific Ocean to The State of Fun. The club also features a gamut of heart pumping water sports including Singapore's first and only water propelled Jet Pack and Jetblade, while serving up an all-day Hawaiian-inspired menu.
             <br>
         </td>
     </tr>

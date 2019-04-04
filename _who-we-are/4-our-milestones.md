@@ -526,7 +526,7 @@ collection_name: who-we-are
     <tr>
         <td>December 1994</td>
         <td>
-            <em>Festivals of Singapore</em> opened. On 30 June 1995, the attraction offically opens and together with <em>Pioneers of Singapore &amp; Surrender Chambers</em>, it is regrouped under one umbrella as <em>Images of Singapore</em>.
+            <em>Festivals of Singapore</em> opened. On 30 June 1995, the attraction officially opens and together with <em>Pioneers of Singapore &amp; Surrender Chambers</em>, it is regrouped under one umbrella as <em>Images of Singapore</em>.
             <br>
             <br>
             The iconic water theme park, Fantasy Island, opened in the same month. The attraction featured different water slides and features, including a huge eight-lane slide. The park operated until 2 November 2002.
@@ -543,7 +543,7 @@ collection_name: who-we-are
     <tr>
         <td>March 1993</td>
         <td>
-            <em>Shangri La's Rasa Sentosa Resort</em> received its first guests. Singapore's only beachfront hotel opened with 454 rooms. In 2011, the resort hotel underwent an extensive makeover,  and was renamed <em>Shangri La's Rasa Sentosa Resort &amp; Spa</em>.
+            <em>Shangri La's Rasa Sentosa Resort</em> received its first guests. Singapore's only beachfront hotel opened with 454 rooms. In 2011, the resort hotel underwent an extensive makeover, and was renamed <em>Shangri La's Rasa Sentosa Resort &amp; Spa</em>.
         </td>
     </tr>
     <tr>
@@ -602,7 +602,7 @@ collection_name: who-we-are
     <tr>
         <td>October 1987</td>
         <td>
-            The Sentosa Ferry Terminal opened and becam ean iconic landmark for visitors who arrived on Sentosa after a four-minute ride from the pier on mainland Singapore.
+            The Sentosa Ferry Terminal opened and became an iconic landmark for visitors who arrived on Sentosa after a four-minute ride from the pier on mainland Singapore.
         </td>
     </tr>
 </table>
@@ -664,7 +664,7 @@ collection_name: who-we-are
     <tr>
         <td>February 1982</td>
         <td>
-            Sentosa's monorail system began operatoins, serving as one of the iconic and key modes of transport around the resort island. A scenic ride around Sentosa would have taken 45 minutes.
+            Sentosa's monorail system began operations, serving as one of the iconic and key modes of transport around the resort island. A scenic ride around Sentosa would have taken 45 minutes.
         </td>
     </tr>
 </table>
@@ -718,6 +718,18 @@ collection_name: who-we-are
             <br>
             <br>
             The <em>Coralarium</em> opened as Sentosa's first attraction. It covered an area of 1.2 hectares and housed rare and colourful live corals, marine life associated with coral reefs and a collection of 2,000 seashells from all over the world. The highlight of the attraction was an 18m tall coral tower.
+        </td>
+    </tr>
+    <tr>
+        <td>July 1974</td>
+        <td>
+            Sentosa Golf Club was officially opened on July 14, 1974, by then Prime Minister Lee Kuan Yew. At that time, members and guests could only access the club via ferry, adding to its allure as a true and distinctive destination.
+        </td>
+    </tr>
+    <tr>
+        <td>February 1974</td>
+        <td>
+            The cable car service linking Mount Faber to Sentosa was introduced to facilitate transport to the island. At the time of opening, the system was the first in Southeast Asia and the first in Asia to straddle a stretch of water. The service was managed by Singapore Cable Car Pte Ltd, company in which the SDC held a 50% stake.
         </td>
     </tr>
 </table>

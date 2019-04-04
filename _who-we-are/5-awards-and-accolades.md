@@ -5,6 +5,23 @@ permalink: /who-we-are/awards-and-accolades/
 breadcrumb: Awards And Accolades 
 collection_name: who-we-are 
 --- 
+<!--TEMPLATE
+#### **YEAR**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td></td>
+        <td>
+            <ul>
+                <li></li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#awards-and-accolades">Back to Top</a>
+</div>
+-->
 ### **Awards And Accolades** 
 
 #### **2016**
@@ -532,21 +549,3 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#awards-and-accolades">Back to Top</a>
 </div>
-
-<!--TEMPLATE
-#### **YEAR**
-<hr style="margin-top:12px;">
-<table class="table-v">
-    <tr>
-        <td></td>
-        <td>
-            <ul>
-                <li></li>
-            </ul>
-        </td>
-    </tr>
-</table>
-<div class="row is-pulled-right">
-    <a href="#awards-and-accolades">Back to Top</a>
-</div>
--->

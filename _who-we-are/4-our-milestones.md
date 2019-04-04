@@ -543,7 +543,7 @@ collection_name: who-we-are
     <tr>
         <td>March 1993</td>
         <td>
-            <em>Shangri La's Rasa Sentosa Resort</em> received its first guests. Singapore's only beachfront hotel opened with 454 rooms. In 2011, the resort hotel underwent an extensive makeover,  and was renamed <em>Shangri La's Rasa Sentosa Resort &amp; Spa</em>
+            <em>Shangri La's Rasa Sentosa Resort</em> received its first guests. Singapore's only beachfront hotel opened with 454 rooms. In 2011, the resort hotel underwent an extensive makeover,  and was renamed <em>Shangri La's Rasa Sentosa Resort &amp; Spa</em>.
         </td>
     </tr>
     <tr>

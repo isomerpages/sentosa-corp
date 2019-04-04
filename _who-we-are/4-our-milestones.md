@@ -393,6 +393,30 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
+
+#### **2004**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>December 2004</td>
+        <td>Refurbishment of Fort Siloso was completed, making it a one-stop centre for an overview of Singapore's World War II history.</td>
+    </tr>
+    <tr>
+        <td>September 2004</td>
+        <td>Singapore's first waterfront residential and marina precinct, <em>ONE°15 Marina Club</em>, was awarded to SUTL Group.</td>
+    </tr>
+    <tr>
+        <td>March 2004</td>
+        <td>Sentosa earned a Guinness World Record for having "The Most People wearing balloon hats" (1,309 participants) at the <em>Sentosa Balloon Hat Festival 2004</em>.</td>
+    </tr>
+    <tr>
+        <td>February 2004</td>
+        <td>The <em>Sky Tower</em> was launched. At a height of 110 metres above ground and 131 metres above sea level, the viewing tower at Imbiah Lookout offers visitors a panoramic view of Sentosa, Singapore, and the Southern Islands and beyond.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">

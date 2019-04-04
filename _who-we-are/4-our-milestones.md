@@ -417,6 +417,100 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
+
+#### **YEAR**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>June 2002</td>
+        <td>Sentosa embarked on a major ten-year development plan to transform the island into a world-class resort destination. SDC re-aligned its corporate structure and transfers the day-to-day operations of the island to Sentosa Leisure Management Pte Ltd, its wholly-owned subsidiary.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **January 2002**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>June 2002</td>
+        <td>Sentosa embarked on a major ten-year development plan to transform the island into a world-class resort destination. SDC re-aligned its corporate structure and transfers the day-to-day operations of the island to Sentosa Leisure Management Pte Ltd, its wholly-owned subsidiary.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **2000**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>January 2000</td>
+        <td>
+            An International Advisory Council for Sentosa, comprising international industry experts, is formed to provide counsel on the future development of the island.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1999**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>November 1999</td>
+        <td>
+            Underwater World Singapore opened Dolphin Lagoon, the first of its kind in Asia. Visitors could come close and interact with Indo-Pacific Humpback Dolphins. The dolphin lagoon moved next to the oceanarium in July 2010.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1998**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>May 1998</td>
+        <td>
+            Passenger cars were allowed to enter the island for the first time under a newly-introduced drive-in scheme - Night Entry Scheme.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **2000**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>June 1996</td>
+        <td>
+            The <em>Sentosa Merlion</em> opened as Asia's tallest sculptured viewing tower and provided stunning views of the sea and city from a height of 37-metres.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
+
+#### **1995**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>January 2000</td>
+        <td>
+            An International Advisory Council for Sentosa, comprising international industry experts, is formed to provide counsel on the future development of the island.
+        </td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">

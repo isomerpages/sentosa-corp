@@ -13,7 +13,9 @@ collection_name: who-we-are
         <img src="/images/index.png">
     </div>
     <div class="col is-8">
-        <h4>Sentosa<h4>
+    <div style="vertical-align:middle">
+        <h4>Sentosa</h4>
         <p><a href="#">fklajds</a></p>
+    </div>
     </div>
 </div>

@@ -373,6 +373,26 @@ collection_name: who-we-are
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
+
+#### **2005**
+<hr style="margin-top:12px;">
+<table class="table-v">
+    <tr>
+        <td>September 2005</td>
+        <td>One of Singapore's most celebrated sporting events, the <em>Singapore Open</em>, made its debut at Sentosa Golf Club's The Serapong course with US$2 million prize money.</td>
+    </tr>
+    <tr>
+        <td>August 2005</td>
+        <td><em>Sentosa Luge and Skyride</em> (now <em>Skyline Luge Sentosa</em>) opened. Originally from New Zealand, riders speed down a hill over a course of 650 metres, ending at Siloso Beach.</td>
+    </tr>
+    <tr>
+        <td>February 2005</td>
+        <td>The award-winning <em>Sentosa Flowers</em> made debut as one of the island's signature events on Sentosa's calendar.</td>
+    </tr>
+</table>
+<div class="row is-pulled-right">
+    <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sample post for News And Events
-date:   2018-01-01
-permalink: /resources/news-and-events/test
+title:  Kusu Pilgrimage 2010
+date:   2010-09-29
+file_url: /resources/media-advisory/files/20100929_Media-Release_Kusu_Pilgrimage_2010.pdf
 ---

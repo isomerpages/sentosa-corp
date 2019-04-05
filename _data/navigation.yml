@@ -39,10 +39,10 @@
   url: /resources/
   sub-links:
   - title: All
-    url: /resources/
+    url: /_resources/
   - title: Annual Reports
-    url: /resources/annual-reports/
+    url: /_resources/annual-reports/
   - title: News And Events
-    url: /resources/news-and-events/
+    url: /_resources/news-and-events/
 - title: Contact Us
   url: /contact-us/

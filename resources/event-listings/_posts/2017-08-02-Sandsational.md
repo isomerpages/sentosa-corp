@@ -2,5 +2,5 @@
 layout: post
 title: Sandsational Fun at Sentosa 2017
 date:   2017-08-02
-file_url: /resources/media-advisory/files/20170802-Event_Listing-Sandsational-Fun-at-Sentosa-2017.pdf
+file_url: /resources/event-listings/files/20170802-Event_Listing-Sandsational-Fun-at-Sentosa-2017.pdf
 ---

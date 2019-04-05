@@ -40,9 +40,13 @@
   sub-links:
   - title: All
     url: /resources/
+  - title: News
+    url: /resources/news/
+  - title: Event Listings
+    url: /resources/event-listings
+  - title: Media Advisory
+    url: /resources/media-advisory
   - title: Annual Reports
     url: /resources/annual-reports/
-  - title: News And Events
-    url: /resources/news-and-events/
 - title: Contact Us
   url: /contact-us/

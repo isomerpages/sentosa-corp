@@ -30,7 +30,7 @@ This will not work.
 > to make multi-line quotes use the kladsjflkasdjflksajdflksadjf <br/>
  lksadjflksafjdlksajflkasdflksajdflksadfjskdfjaslkdf
 
-> laksdjfklfajs  
+> laksdjfklfajs<br>
 test if this renders as a quote
 
 ---

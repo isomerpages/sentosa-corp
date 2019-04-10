@@ -27,7 +27,11 @@ This will not work.
 
 > You can make quotes as well
 
-> to make multi-line quotes <br> use the br tag
+> to make multi-line quotes use the kladsjflkasdjflksajdflksadjflksadjflksafjdlksajflkasdflksajdflksadfjskdfjaslkdf
+
+> laksdjfklfajs
+test if this renders as a quote
+
 ---
 
 You can insert links like [this](https://isomer.gov.sg)

@@ -70,7 +70,7 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Eugene HO</p>
-        <strong>Chief Strategy Officer<br>Consumer, Travel & Transportation Leader</strong> - Deloitte South East Asia
+        <strong>Chief Strategy Officer<br>Consumer, Travel & Transportation Leader</strong> - Deloitte South East Asia<br>
         <strong>Managing Director</strong> - Deloitte Consulting Singapore
     </div>
 </div>
@@ -81,7 +81,7 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH-LIM Wen Gin</p>
-        <strong>Board Member</strong> - National Parks Board
+        <strong>Board Member</strong> - National Parks Board<br>
         <strong>Independent Director</strong> - Keppel Land Ltd
     </div>
 </div>

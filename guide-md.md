@@ -5,52 +5,54 @@ permalink: /guide-md/
 breadcrumb: Guide-MD
 ---
 
-# This is a big header
-###### This is a subheader
+# This is a Level 1 Header
+## Level 2
+### Level 3
+#### Level 4
+##### Level 5
+###### Level 6
+####### Level 7 does not exist
 
-Headers work till a maximum of 6 '#' s. Hence, using 7 will result in this:
-####### 7 hexes
+---
+### Styling Texts
+
+**You can bold text**
+
+*You can italicize them*
+
+~~You can strikethrough text as well~~
+
+> You can quote as well
+>
+> It works for multiple lines too, but include a blank line
+
+- List Item 1
+- List Item 2
+    - Sub List Item 1
+
+1. Ordered Item 1
+    1. Sub Ordered Item 1
+2. Ordered Item 2
+    - Sub List Item 1
+
+Definition
+: You can define it like this
+
+Milk
+: It is from cow.
 
 ---
 
-Each new paragraph you wish to have has to have a blank line before it.
+### Links & Images
 
-Like this.
-This will not work.
+You add links like [this](google.com)
 
----
-
-**You can bold words**
-
-*You can italicize words*
-
-~~Striking through words works too~~ 
-
-> You can make quotes as well
-
-> to make multi-line quotes use the &lt;br&gt; <br/>
-and you will be able to make your quote
+![Image](/images/sentosa-banner.jpg)
 
 ---
 
-You can insert links like [this](https://isomer.gov.sg)
+### Tables
 
-```
-![Image insertion](/images/sentosa.png) <- the ! is important! without it, it will be rendered as a link instead
-```
-![Image insertion](/images/sentosa.png)
-
----
-
-- You can make unordered lists
-
-1. Or numbered ones
-
-----
-
-You can also make tables in Markdown
-
-|Header 1|Header 2|Header 3|
-|:------:|:-------|-------:|
-|Centered|Left-Align|Right-Align|
-|*You can style text inside table cells too!*|**You can style text inside table cells too!**|~~Strikethrough works as well!~~|
+| Left aligned column | Centered column | Right aligned column |
+|---------------------|:-----------------:|----------------------:|
+|**You can bold text**|*You can italicize them*|~~You can strikethrough text as well~~ |

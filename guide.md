@@ -27,9 +27,10 @@ This will not work.
 
 > You can make quotes as well
 
-> to make multi-line quotes use the kladsjflkasdjflksajdflksadjflksadjflksafjdlksajflkasdflksajdflksadfjskdfjaslkdf
+> to make multi-line quotes use the kladsjflkasdjflksajdflksadjf <br/>
+ lksadjflksafjdlksajflkasdflksajdflksadfjskdfjaslkdf
 
-> laksdjfklfajs
+> laksdjfklfajs  
 test if this renders as a quote
 
 ---

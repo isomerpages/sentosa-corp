@@ -1,14 +1,15 @@
 ---
 layout: simple-page
-title: Guide
-permalink: /guide/
-breadcrumb: Guide
+title: Guide - Markdown
+permalink: /guide-md/
+breadcrumb: Guide-MD
 ---
 
 # This is a big header
 ###### This is a subheader
 
-Headers work till a maximum of 6 '#' s.
+Headers work till a maximum of 6 '#' s. Hence, using 7 will result in this:
+####### 7 hexes
 
 ---
 
@@ -47,3 +48,9 @@ You can insert links like [this](https://isomer.gov.sg)
 
 ----
 
+You can also make tables in Markdown
+
+|Header 1|Header 2|Header 3|
+|:------:|:-------|-------:|
+|Centered|Left-Align|Right-Align|
+|*You can style text inside table cells too!*|**You can style text inside table cells too!**|~~Strikethrough works as well!~~|

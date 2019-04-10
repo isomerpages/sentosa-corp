@@ -27,10 +27,7 @@ This will not work.
 
 > You can make quotes as well
 
->
-    Or like this too,
-    this allows you to have multiple lines in your quote
-
+> to make multi-line quotes<br>use the br tag
 ---
 
 You can insert links like [this](https://isomer.gov.sg)

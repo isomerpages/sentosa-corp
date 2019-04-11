@@ -50,10 +50,3 @@
     url: /resources/event-listings
 - title: Contact Us
   url: /contact-us/
-- title: Guide
-  url: /guide/md
-  sub-links:
-  - title: Markdown
-    url: /guide/md
-  - title: HTML
-    url: /guide/html

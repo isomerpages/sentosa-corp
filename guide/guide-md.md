@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Guide - Markdown
-permalink: /guide-md/
+permalink: /guide/md/
 breadcrumb: Guide-MD
+collection_name: guide
 ---
 
 # This is a Level 1 Header

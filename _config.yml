@@ -46,4 +46,6 @@ collections:
     output: true
   partner-us:
     output: true
+  guide:
+    output: true
 resources_name: resources

@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Guide - HTML
-permalink: /guide-html/
+permalink: /guide/html/
 breadcrumb: Guide-HTML
+collection_name: guide
 ---
 
 # Markdown with HTML
@@ -22,3 +23,4 @@ You can use Markdown along with HTML.
 <hr/>
 
 You can make **dividers** with the &lt;hr/&gt; similar to the `---` in Markdown.
+

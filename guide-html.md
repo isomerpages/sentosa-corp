@@ -18,3 +18,7 @@ You can use Markdown along with HTML.
 <h4>H4 Header</h4>
 <h5>H5 Header</h5>
 <h6>H6 Header</h6>
+
+<hr/>
+
+You can make **dividers** with the &lt;hr/&gt; similar to the `---` in Markdown.

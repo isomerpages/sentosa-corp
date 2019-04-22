@@ -8,7 +8,7 @@ collection_name: who-we-are
 1. TOC
 {:toc}
 ### **Board Members**
-{: .no_toc}
+
 <div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrMosesLEE.jpg" alt="Moses LEE">
@@ -149,7 +149,6 @@ collection_name: who-we-are
 <hr>
 
 ### **Senior Executive Team**
-{: .no_toc}
 
  <div class="row">
     <div class="col is-4">

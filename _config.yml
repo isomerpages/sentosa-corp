@@ -37,7 +37,7 @@ faq_url: "http://www.ifaq.gov.sg/SENTOSA/apps/fcd_faqmain.aspx"
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
-
+# Collections for left-nav pages
 baseurl: ""
 collections:
   who-we-are:

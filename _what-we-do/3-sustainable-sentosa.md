@@ -6,6 +6,11 @@ breadcrumb: Sustainable Sentosa
 collection_name: what-we-do
 ---
 
+### **Table of Contents**
+{: .no_toc}
+- TOC
+{:toc}
+
 ### **Developing a Sustainable Leisure and Tourism Destination**
 SDC strives to develop the resort island as a leading leisure and tourism destination in a sustainable manner. While the past few decades have seen rapid changes to the island with extensive development works, many parts of Sentosa still retain the original tranquil and green environment.
 

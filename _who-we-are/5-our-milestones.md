@@ -22,7 +22,14 @@ collection_name: who-we-are
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
 -->
+
 ### **Our Milestones. Our Pride.**
+{: .no_toc}
+
+### **Table of Contents**
+{: .no_toc}
+- TOC
+{:toc}
 
 #### **2016**
 <hr style="margin-top:12px;">

@@ -24,12 +24,6 @@ collection_name: who-we-are
 -->
 
 ### **Our Milestones. Our Pride.**
-{: .no_toc}
-
-### **Table of Contents**
-{: .no_toc}
-- TOC
-{:toc}
 
 #### **2016**
 <hr style="margin-top:12px;">
@@ -442,19 +436,7 @@ collection_name: who-we-are
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
 
-#### **YEAR**
-<hr style="margin-top:12px;">
-<table class="table-v">
-    <tr>
-        <td>June 2002</td>
-        <td>Sentosa embarked on a major ten-year development plan to transform the island into a world-class resort destination. SDC re-aligned its corporate structure and transfers the day-to-day operations of the island to Sentosa Leisure Management Pte Ltd, its wholly-owned subsidiary.</td>
-    </tr>
-</table>
-<div class="row is-pulled-right">
-    <a href="#our-milestones-our-pride">Back to Top</a>
-</div>
-
-#### **January 2002**
+#### **2002**
 <hr style="margin-top:12px;">
 <table class="table-v">
     <tr>

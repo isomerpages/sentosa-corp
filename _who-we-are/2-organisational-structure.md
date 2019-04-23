@@ -5,6 +5,8 @@ permalink: /who-we-are/organisational-structure/
 breadcrumb: Organisational Structure
 collection_name: who-we-are
 ---
+### **Table of Contents**
+{:no_toc}
 - TOC
 {:toc}
 ### **Board Members**

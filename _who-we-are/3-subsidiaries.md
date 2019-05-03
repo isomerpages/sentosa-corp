@@ -1,16 +1,16 @@
 ---
 layout: leftnav-page-content 
-title: Subsidaries
-permalink: /who-we-are/subsidaries/ 
-breadcrumb: Subsidaries
+title: Subsidiaries
+permalink: /who-we-are/subsidiaries/ 
+breadcrumb: Subsidiaries
 collection_name: who-we-are 
 ---
 
-### **SDC and Subsidaries**
+### **SDC and Subsidiaries**
 <br>
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/subsidaries/sentosa.png">
+        <img src="/images/who-we-are/subsidiaries/sentosa.png">
     </div>
     <div class="col is-8">
         <h4>Sentosa</h4>
@@ -19,7 +19,7 @@ collection_name: who-we-are
 </div>
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/subsidaries/sentosacove.png">
+        <img src="/images/who-we-are/subsidiaries/sentosacove.png">
     </div>
     <div class="col is-8">
         <h4>Sentosa Cove</h4>
@@ -28,7 +28,7 @@ collection_name: who-we-are
 </div>
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/subsidaries/golfclub.png">
+        <img src="/images/who-we-are/subsidiaries/golfclub.png">
     </div>
     <div class="col is-8">
         <h4>Sentosa Golf Club</h4>
@@ -37,7 +37,7 @@ collection_name: who-we-are
 </div>
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/subsidaries/1fg.png">
+        <img src="/images/who-we-are/subsidiaries/1fg.png">
     </div>
     <div class="col is-8">
         <h4>One Faber Group</h4>

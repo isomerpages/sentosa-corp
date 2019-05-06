@@ -25,7 +25,9 @@ collection_name: guide
 
 *You can italicize them*
 
-`` *with a single asterisk on each side of the text* ``
+```
+ *with a single asterisk on each side of the text* 
+ ```
 
 ~~You can strikethrough text as well~~
 

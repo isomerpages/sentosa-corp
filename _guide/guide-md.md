@@ -5,8 +5,10 @@ permalink: /guide/md/
 breadcrumb: Guide-MD
 collection_name: guide
 ---
-
-# This is a Level 1 Header
+### Headers
+`` # Level 1 Header ``
+# Level 1 Header
+`` ## Level 2 ``
 ## Level 2
 ### Level 3
 #### Level 4
@@ -19,13 +21,25 @@ collection_name: guide
 
 **You can bold text**
 
+`` **with 2 asterisks on each side of the text** ``
+
 *You can italicize them*
 
+`` *with a single asterisk on each side of the text* ``
+
 ~~You can strikethrough text as well~~
+
+`` ~~with 2 tilde on each side of the text~~ ``
 
 > You can quote as well
 >
 > It works for multiple lines too, but include a blank line
+
+```
+> You can quote as well
+>
+> It works for multiple lines too, but include a blank line
+```
 
 - List Item 1
 - List Item 2

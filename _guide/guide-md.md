@@ -75,12 +75,13 @@ The same goes for ordered lists, and you can mix it with unordered lists too!
     - Sub List Item 1
 ```
 
+Milk
+: It is from cows.
+
 ```
 Definition
 : You can define it like this
 ```
-Milk
-: It is from cows.
 
 ---
 

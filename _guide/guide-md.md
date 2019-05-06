@@ -21,7 +21,9 @@ collection_name: guide
 
 **You can bold text**
 
-`` **with 2 asterisks on each side of the text** ``
+```
+ **with 2 asterisks on each side of the text** 
+ ```
 
 *You can italicize them*
 
@@ -31,7 +33,9 @@ collection_name: guide
 
 ~~You can strikethrough text as well~~
 
-`` ~~with 2 tilde on each side of the text~~ ``
+```
+ ~~with 2 tilde on each side of the text~~ 
+ ```
 
 > You can quote as well
 >
@@ -47,16 +51,36 @@ collection_name: guide
 - List Item 2
     - Sub List Item 1
 
+```
+Unordered lists can be made with - or *
+You can create sublists by indenting 
+
+- List Item 1
+* List Item 2
+    - Sub List Item 1
+
+```
+
 1. Ordered Item 1
     1. Sub Ordered Item 1
 2. Ordered Item 2
     - Sub List Item 1
 
+```
+The same goes for ordered lists, and you can mix it with unordered lists too!
+
+1. Ordered Item 1
+    1. Sub Ordered Item 1
+2. Ordered Item 2
+    - Sub List Item 1
+```
+
+```
 Definition
 : You can define it like this
-
+```
 Milk
-: It is from cow.
+: It is from cows.
 
 ---
 
@@ -66,6 +90,12 @@ You add links like [this](google.com)
 
 ![Image](/images/sentosa-banner.jpg)
 
+
+```
+You add links like [this](google.com)
+
+![Image](/images/sentosa-banner.jpg)
+```
 ---
 
 ### Tables
@@ -73,3 +103,11 @@ You add links like [this](google.com)
 | Left aligned column | Centered column | Right aligned column |
 |---------------------|:-----------------:|----------------------:|
 |**You can bold text**|*You can italicize them*|~~You can strikethrough text as well~~ |
+
+```
+| Left aligned column | Centered column | Right aligned column |
+|---------------------|:-----------------:|----------------------:|
+|**You can bold text**|*You can italicize them*|~~You can strikethrough text as well~~ |
+
+It is recommended to use https://www.tablesgenerator.com/markdown_tables to make a table!
+```

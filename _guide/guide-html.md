@@ -127,3 +127,27 @@ Carousel Experiment
   <label for="image4">View image 4</label>
   <label for="image1">View image 1</label>
 </div>
+
+<div class="pcf-carousel items-2">
+	<!-- Hidden radio control inputs -->
+	<input type="radio" id="carousel-play" 	  name="pcf-carousel-3" checked>
+	<input type="radio" id="carousel-start-1" name="pcf-carousel-3">
+	<input type="radio" id="carousel-start-2" name="pcf-carousel-3">
+	<!-- Pause/play button -->
+	<label for="carousel-play" class="btn-play" title="Play"></label>
+	<!-- Slide jump dots -->
+	<div class="pcf-carousel-dots">
+		<label for="carousel-start-1"></label>
+		<label for="carousel-start-2"></label>
+	</div>
+	<div class="pcf-carousel-anime-dots">
+		<div></div>
+		<div></div>
+	</div>
+	<!-- Slides, repeat 1st and last slide -->
+	<div class="moving-strip">
+		<div class="pcf-carousel-item" style="background-image:url('https://static.pexels.com/photos/371633/pexels-photo-371633.jpeg');"></div>
+		<div class="pcf-carousel-item" style="background-image:url('https://wallpapercave.com/wp/ZxV8qRo.jpg');"></div>
+		<div class="pcf-carousel-item" style="background-image:url('https://static.pexels.com/photos/371633/pexels-photo-371633.jpeg');"></div>
+	</div>
+</div>						

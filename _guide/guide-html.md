@@ -127,7 +127,7 @@ Carousel Experiment
   <label for="image4">View image 4</label>
   <label for="image1">View image 1</label>
 </div>
-
+<link rel="stylesheet" href="/misc/pch-carousel.css">
 <div class="pcf-carousel items-2">
 	<!-- Hidden radio control inputs -->
 	<input type="radio" id="carousel-play" 	  name="pcf-carousel-3" checked>

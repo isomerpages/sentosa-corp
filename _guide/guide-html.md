@@ -25,13 +25,9 @@ You can use Markdown along with HTML.
 You can make **dividers** with the &lt;hr/&gt; similar to the `---` in Markdown.
 
 <style>
-body {
-  background-color:#222;
-}
-
 .carousel {
   position:relative;
-  width:400px;
+  width:100%;
   border:10px solid white;
   margin:20px auto;
   box-shadow:0px 0px 40px #000;

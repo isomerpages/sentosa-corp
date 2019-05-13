@@ -43,6 +43,6 @@ You can make **dividers** with the &lt;hr/&gt; similar to the `---` in Markdown.
 	<div class="moving-strip">
 		<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/fun-sentosa/cable-car.jpg');"></div>
 		<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/fun-sentosa/linkway.jpg');"></div>
-		<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/fun-sentosa/skyline-luge.jpg');"></div>
+		<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/fun-sentosa/cable-car.jpg');"></div>
 	</div>
 </div>						

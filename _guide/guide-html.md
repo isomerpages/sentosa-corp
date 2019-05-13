@@ -41,8 +41,8 @@ You can make **dividers** with the &lt;hr/&gt; similar to the `---` in Markdown.
 	</div>
 	<!-- Slides, repeat 1st and last slide -->
 	<div class="moving-strip">
-		<div class="pcf-carousel-item" style="background-image:url('https://static.pexels.com/photos/371633/pexels-photo-371633.jpeg');"></div>
-		<div class="pcf-carousel-item" style="background-image:url('https://wallpapercave.com/wp/ZxV8qRo.jpg');"></div>
-		<div class="pcf-carousel-item" style="background-image:url('https://static.pexels.com/photos/371633/pexels-photo-371633.jpeg');"></div>
+		<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/fun-sentosa/cable-car.jpg');"></div>
+		<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/fun-sentosa/linkway.jpg');"></div>
+		<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/fun-sentosa/skyline-luge.jpg');"></div>
 	</div>
 </div>						

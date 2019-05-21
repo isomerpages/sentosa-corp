@@ -25,13 +25,6 @@ collection_name: partner-us
   width: 100%;
   height: 100%;
 }
-
-// For rearranging columns
-@media only screen and (min-width: 769px) {
-   .reverse-row-order{
-     flex-direction:row-reverse;
-   }
-}
 </style>
 
 <div class="video-container">

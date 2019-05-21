@@ -16,10 +16,7 @@ hero-subtitle: Developing a Fun, Smart, and Sustainable Sentosa
 hero-banner: /images/sentosa-banner.jpg
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/overview
-    
+
 
 # Call to Action Dropdown
 i-want-to:

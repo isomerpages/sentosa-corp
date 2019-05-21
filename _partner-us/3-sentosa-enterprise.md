@@ -56,7 +56,7 @@ Successful applicants will enjoy the co-sharing or waiver of venue rental, as we
         <p>
             We have developed a comprehensive Sentosa Sustainability Plan with the following objectives in mind:
             <ol>
-                <li>Download application form <a href="/resources/enterprise/Sentosa-x-Enterprise-Application-Form">here</a>.</li>
+                <li>Download application form <a href="/resources/enterprise/Sentosa-x-Enterprise-Application-Form.pdf">here</a>.</li>
                 <li>Submit to <a href="mailto:enterprise@sentosa.gov.sg">enterpise@sentosa.gov.sg</a>by <strong>30 Jun 2019</strong>.</li>
                 <li>Successful applicants will be notified by <strong>31 Aug 2019</strong>.</li>
             </ol>

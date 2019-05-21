@@ -20,6 +20,22 @@ button:
   - text: Learn More
     url: /who-we-are/overview
     
+
+# Call to Action Dropdown
+i-want-to:
+  - title: apply hotel licence
+    url: /application-guidelines/application-for-licence/
+  - title: apply for exemption
+    url: /application-guidelines/application_for_exemption/
+  - title: cancel hotel licence
+    url: /application-guidelines/cancellation-of-licence/
+  - title: change hotel-keeper
+    url: /application-guidelines/change-of-hotel-keeper/
+  - title: change hotel name
+    url: /application-guidelines/change-of-hotel-name/
+  - title: renew hotel licence
+    url: /application-guidelines/renew-hotel-licence/
+
 #key-highlights:
 #  - title: Highlight A
 #    description: Important highlight A is important

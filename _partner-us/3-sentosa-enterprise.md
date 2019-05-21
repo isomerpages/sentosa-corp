@@ -7,6 +7,7 @@ collection_name: partner-us
 ---
 
 <style>
+// For Responsive Youtube video
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /*16:9*/
@@ -23,6 +24,13 @@ collection_name: partner-us
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+// For rearranging columns
+@media only screen and (min-width: 769px) {
+   .reverse-row-order{
+     flex-direction:row-reverse;
+   }
 }
 </style>
 
@@ -77,3 +85,25 @@ Sentosa x Enterprise does not cover development costs. For funding of developmen
 For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html">here</a>.
 
 For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants">here</a>. 
+
+### Example of Ideas
+SDC has always been working with partners to trial ideas on Sentosa Island. Some past and ongoing trials are listed here. For each of the initiatives, Sentosa has provided venue support as well as facilitation for the trial. 
+
+<div class="row reverse-row-order">
+	<div class="col is-6">
+        <p>
+        <h4>Autonomous Shuttle Trials</h4>
+        <h5>ST Engineering Land Systems & Ministry of Transport</h5>
+        Trial Period: Oct 2017 - Dec 2019
+        <ul>
+            <li>As part of Singapore's Smart Nation drive, we are testing driverless shuttles within our islands. </li>
+            <li>Guests will soon be able to get on board the vehicles during the public trial.</li>
+        </ul>
+		</p>
+	</div>
+     <div class="col is-offset-1 is-5">
+		<figure style="margin:0;">
+			<img src="/images/partner-us/enterprise/auto_shuttle.jpg" alt="Image of Autonomous Shuttle Trials"/>
+		</figure>
+	</div>
+</div>

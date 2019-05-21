@@ -34,7 +34,7 @@ collection_name: partner-us
 }
 </style>
 
-<div>
+<div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mHbNxeorbvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -89,7 +89,7 @@ For more information on ESG's funds, click <a href="https://www.enterprisesg.gov
 ### Example of Ideas
 SDC has always been working with partners to trial ideas on Sentosa Island. Some past and ongoing trials are listed here. For each of the initiatives, Sentosa has provided venue support as well as facilitation for the trial. 
 
-<div class="row reverse-row-order">
+<div class="row">
 	<div class="col is-6">
         <p>
         <h4>Autonomous Shuttle Trials</h4>

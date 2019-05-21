@@ -63,7 +63,7 @@ Successful applicants will enjoy the co-sharing or waiver of venue rental, as we
             </ol>
 		</p>
 	</div>
-     <div class="col is-6">
+     <div class="col is-offset-1 is-5">
 		<figure style="margin:0;">
 			<img src="/images/partner-us/enterprise/eval_crit.png" alt="Image of Evaluation Criteria"/>
 		</figure>

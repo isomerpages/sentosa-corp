@@ -88,19 +88,3 @@ SDC has always been working with partners to trial ideas on Sentosa Island. Some
 		</figure>
 	</div>
 </div>
-
-
-<div class="sgds-card">
-    <div class="sgds-card-content">
-        <p class="title">Card title</p>
-        <p class="subtitle">SG Design System</p>
-    </div>
-    <div class="sgds-card-footer">
-        <div class="sgds-card-footer-item">
-            <span><a href="">View</a></span>
-        </div>
-        <div class="sgds-card-footer-item">
-            <span><a href="">Share</a></span>
-        </div>
-    </div>
-</div>

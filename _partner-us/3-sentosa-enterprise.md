@@ -51,13 +51,14 @@ Successful applicants will enjoy the co-sharing or waiver of venue rental, as we
 
 ### How To Apply
 
+#### Application
+
 <div class="row">
 	<div class="col is-6">
         <p>
-            We have developed a comprehensive Sentosa Sustainability Plan with the following objectives in mind:
             <ol>
                 <li>Download application form <a href="/resources/enterprise/Sentosa-x-Enterprise-Application-Form.pdf">here</a>.</li>
-                <li>Submit to <a href="mailto:enterprise@sentosa.gov.sg">enterpise@sentosa.gov.sg</a>by <strong>30 Jun 2019</strong>.</li>
+                <li>Submit to <a href="mailto:enterprise@sentosa.gov.sg">enterpise@sentosa.gov.sg</a> by <strong>30 Jun 2019</strong>.</li>
                 <li>Successful applicants will be notified by <strong>31 Aug 2019</strong>.</li>
             </ol>
 		</p>
@@ -68,3 +69,11 @@ Successful applicants will enjoy the co-sharing or waiver of venue rental, as we
 		</figure>
 	</div>
 </div>
+
+#### Available Grants
+
+Sentosa x Enterprise does not cover development costs. For funding of development costs, interested parties can apply direct to Singapore Tourism Board (STB) for tourism related projects and Enterprise Singapore (ESG) for innovation development grants.
+
+For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html">here</a>.
+
+For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants">here</a>. 

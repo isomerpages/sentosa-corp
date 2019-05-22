@@ -16,26 +16,22 @@ hero-subtitle: Developing a Fun, Smart, and Sustainable Sentosa
 hero-banner: /images/sentosa-banner.jpg
 
 #Call to Action Button
-#button:
-#  - text: Learn More
-#    url: /who-we-are/overview
-    
-hero-dropdown-text: "I am..."
+button:
+  - text: Learn More
+    url: /who-we-are/overview
 
-# Call to Action Dropdown
-i-want-to:
-  - title: apply hotel licence
-    url: /application-guidelines/application-for-licence/
-  - title: apply for exemption
-    url: /application-guidelines/application_for_exemption/
-  - title: cancel hotel licence
-    url: /application-guidelines/cancellation-of-licence/
-  - title: change hotel-keeper
-    url: /application-guidelines/change-of-hotel-keeper/
-  - title: change hotel name
-    url: /application-guidelines/change-of-hotel-name/
-  - title: renew hotel licence
-    url: /application-guidelines/renew-hotel-licence/
+key-highlights:
+  - title: Highlight A
+    description: Important highlight A is important
+    url: https://google.com
+    external: true
+  - title: Highlight B
+    description: Important highlight B is equally important
+    url: https://yahoo.com
+    external: true
+  - title: Page A
+    description: Page A is important too
+    url: /page-A/
 
 #key-highlights:
 #  - title: Highlight A

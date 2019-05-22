@@ -372,9 +372,10 @@ $desktop: 960px + (2 * $gap) !default;
 #markdown-toc{
   strong {
     color: #4372d6 !important;
-    text-decoration-line: none !important;
   }
   a {
     text-decoration: none;
+  }&:hover{
+    text-decoration:underline;
   }
 }

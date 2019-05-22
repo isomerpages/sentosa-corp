@@ -150,7 +150,8 @@ $desktop: 960px + (2 * $gap) !default;
 	color: $secondary !important;
 	border-bottom: 2px solid $secondary !important;
 	&:hover {
-		border-bottom: 2px solid $secondary !important;
+    border-bottom: 2px solid $secondary !important;
+    border-top: 0px;
 	}
 }
 .bp-menu-list a:hover {

@@ -6,7 +6,7 @@ breadcrumb: Fun Sentosa
 collection_name: what-we-do
 ---
 
-### **Table of Contents Test2**
+### **Table of Contents**
 {: .no_toc}
 - TOC
 {:toc}

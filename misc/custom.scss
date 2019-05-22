@@ -162,6 +162,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bp-menu-list li:not(:first-child) a {
     border-top: 0px;
+    border-bottom: 1px solid #767676;
 }
 
 // Button

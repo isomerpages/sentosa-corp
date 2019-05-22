@@ -71,6 +71,11 @@ SDC has always been working with partners to trial ideas on Sentosa Island. Some
 
 <h4>Autonomous Shuttle Trials</h4>
 <div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+		<figure style="margin:0;">
+			<img src="/images/partner-us/enterprise/auto_shuttle.jpg" alt="Image of Autonomous Shuttle Trials"/>
+		</figure>
+	</div>
 	<div class="col is-6">
         <p>
         <h5 style="margin-top:0;">ST Engineering Land Systems & Ministry of Transport</h5>
@@ -80,10 +85,5 @@ SDC has always been working with partners to trial ideas on Sentosa Island. Some
             <li>Guests will soon be able to get on board the vehicles during the public trial.</li>
         </ul>
 		</p>
-	</div>
-     <div class="col is-offset-1 is-5">
-		<figure style="margin:0;">
-			<img src="/images/partner-us/enterprise/auto_shuttle.jpg" alt="Image of Autonomous Shuttle Trials"/>
-		</figure>
 	</div>
 </div>

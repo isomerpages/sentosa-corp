@@ -144,7 +144,7 @@ SDC has always been working with partners to trial ideas on Sentosa Island. Some
 <div class="row reverse-row-order">
   <div class="col is-offset-1 is-5">
     <figure style="margin:0;">
-      <img src="/images/partner-us/enterprise/interactive_trails.png" alt="Image of Interactive Trails"/>
+      <img src="/images/partner-us/enterprise/interactive_trails.jpg" alt="Image of Interactive Trails"/>
     </figure>
   </div>
   <div class="col is-6">

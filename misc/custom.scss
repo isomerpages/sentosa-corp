@@ -374,7 +374,8 @@ $desktop: 960px + (2 * $gap) !default;
 #markdown-toc{
   strong {
     color: #484848 !important;
-  }&strong:hover{
+  }
+  li:hover{
     color: $secondary-hover !important;
   }
   a {

@@ -368,3 +368,9 @@ $desktop: 960px + (2 * $gap) !default;
 .navbar-item img {
   width: 150px;
 }
+
+#markdown-toc{
+  content a {
+    color: #4372d6;
+  }
+}

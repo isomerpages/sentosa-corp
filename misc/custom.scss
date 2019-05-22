@@ -151,12 +151,17 @@ $desktop: 960px + (2 * $gap) !default;
 	border-bottom: 2px solid $secondary !important;
 	&:hover {
     border-bottom: 2px solid $secondary !important;
+    border-top: 0px !important;
 	}
 }
 .bp-menu-list a:hover {
 	color: $secondary !important;
   border-bottom: 1px solid $secondary !important;
   border-top: 0px !important;
+}
+
+.bp-menu-list li:not(:first-child) a {
+    border-top: 0px;
 }
 
 // Button

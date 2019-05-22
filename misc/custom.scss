@@ -370,11 +370,11 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 #markdown-toc{
-  content strong {
+  strong {
     color: #4372d6 !important;
     text-decoration-line: none !important;
   }
-  content a {
+  a {
     text-decoration: none;
   }
 }

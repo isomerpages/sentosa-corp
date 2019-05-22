@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 // HLB brand colors , original secondary:#BD5A0A;
-$primary: #6698b3;
+$primary: #f48123;
 $secondary: #f48123;
 $secondary-hover: darken($secondary, 10%);
 
@@ -373,11 +373,11 @@ $desktop: 960px + (2 * $gap) !default;
 // Each item is underlined when hovered
 #markdown-toc{
   strong {
-    color: #4372d6 !important;
+    color: #484848 !important;
   }
   a {
     text-decoration: none;
   }& strong:hover{
-    text-decoration:underline;
+    color: $secondary-hover;
   }
 }

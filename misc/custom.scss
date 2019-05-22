@@ -369,6 +369,8 @@ $desktop: 960px + (2 * $gap) !default;
   width: 150px;
 }
 
+// Makes TOC made through Kramdown blue
+// Each item is underlined when hovered
 #markdown-toc{
   strong {
     color: #4372d6 !important;

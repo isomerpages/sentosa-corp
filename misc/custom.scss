@@ -375,7 +375,7 @@ $desktop: 960px + (2 * $gap) !default;
   strong {
     color: #484848 !important;
   }
-  li:hover{
+  li strong:hover{
     color: $secondary-hover !important;
   }
   a {

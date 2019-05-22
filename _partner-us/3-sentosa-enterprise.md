@@ -144,7 +144,7 @@ SDC has always been working with partners to trial ideas on Sentosa Island. Some
 <div class="row reverse-row-order">
   <div class="col is-offset-1 is-5">
     <figure style="margin:0;">
-      <img src="/images/partner-us/enterprise/interactive_trails.png" alt="Image of Sen-D-Bee"/>
+      <img src="/images/partner-us/enterprise/interactive_trails.png" alt="Image of Interactive Trails"/>
     </figure>
   </div>
   <div class="col is-6">
@@ -161,7 +161,7 @@ SDC has always been working with partners to trial ideas on Sentosa Island. Some
 <div class="row">
   <div class="col is-5">
     <figure style="margin:0;">
-      <img src="/images/partner-us/enterprise/fooyo.png" alt="Image of Fooyo"/>
+      <img src="/images/partner-us/enterprise/smart_lampost.png" alt="Image of Smart Lampost"/>
     </figure>
   </div>
   <div class="col is-offset-1 is-6">

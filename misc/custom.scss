@@ -375,7 +375,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
   a {
     text-decoration: none;
-  }&:hover{
+  }& strong:hover{
     text-decoration:underline;
   }
 }

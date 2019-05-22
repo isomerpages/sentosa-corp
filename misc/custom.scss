@@ -369,12 +369,12 @@ $desktop: 960px + (2 * $gap) !default;
   width: 150px;
 }
 
-// Makes TOC made through Kramdown blue
-// Each item is underlined when hovered
+// Makes TOC made through Kramdown black
 #markdown-toc{
   strong {
     color: #484848 !important;
   }
+  // Hover turns text organge
   li strong:hover{
     color: $secondary-hover !important;
   }

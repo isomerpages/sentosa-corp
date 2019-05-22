@@ -9,7 +9,7 @@ collection_name: partner-us
 <style>
 // For rearranging columns
 
-@media only screen and (max-width: 769px) {
+@media only screen and (min-width: 769px) {
    .reverse-row-order{
      flex-direction:row-reverse;
    }

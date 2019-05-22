@@ -8,7 +8,8 @@ collection_name: partner-us
 
 <style>
 // For rearranging columns
-@media only screen and (min-width: 769px) {
+
+@media only screen and (max-width: 769px) {
    .reverse-row-order{
      flex-direction:row-reverse;
    }
@@ -70,10 +71,10 @@ For more information on ESG's funds, click <a href="https://www.enterprisesg.gov
 ### Example of Ideas
 SDC has always been working with partners to trial ideas on Sentosa Island. Some past and ongoing trials are listed here. For each of the initiatives, Sentosa has provided venue support as well as facilitation for the trial. 
 
-<div class="row">
+<div class="row reverse-row-order">
+<h4>Autonomous Shuttle Trials</h4>
 	<div class="col is-6">
         <p>
-        <h4>Autonomous Shuttle Trials</h4>
         <h5>ST Engineering Land Systems & Ministry of Transport</h5>
         Trial Period: Oct 2017 - Dec 2019
         <ul>

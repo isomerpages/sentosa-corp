@@ -45,7 +45,7 @@ Successful applicants will enjoy the co-sharing or waiver of venue rental, as we
 	<div class="col is-6">
         <p>
             <ol>
-                <li>Download application form <a href="/resources/enterprise/Sentosa-x-Enterprise-Application-Form.pdf">here</a>.</li>
+                <li>Download application form <a href="/resources/extra/enterprise/Sentosa-x-Enterprise-Application-Form.pdf">here</a>.</li>
                 <li>Submit to <a href="mailto:enterprise@sentosa.gov.sg">enterpise@sentosa.gov.sg</a> by <strong>30 Jun 2019</strong>.</li>
                 <li>Successful applicants will be notified by <strong>31 Aug 2019</strong>.</li>
             </ol>

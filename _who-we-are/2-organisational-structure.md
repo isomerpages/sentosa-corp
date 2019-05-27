@@ -10,21 +10,6 @@ collection_name: who-we-are
 - TOC
 {:toc}
 ### **Board Members**
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrMosesLEE.jpg" alt="Moses LEE">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Moses LEE</p>
-        <strong>Chairman</strong>
-        <br>
-        Sentosa Development Corporation
-        <br>
-        Singapore Totalisator Board
-    </div>
-</div>
-
 <div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrBobTANBengHai.jpg" alt="Bob TAN Beng Hai">

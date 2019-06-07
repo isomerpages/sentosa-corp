@@ -5,10 +5,17 @@ permalink: /who-we-are/subsidiaries/
 breadcrumb: Subsidiaries
 collection_name: who-we-are 
 ---
+<style>
+@media only screen and (min-width: 769px) {
+   .reverse-row-order{
+     flex-direction:row-reverse;
+   }
+}
+</style>
 
 ### **SDC and Subsidiaries**
 <br>
-<div class="row">
+<div class="row  reverse-row-order">
     <div class="col is-4">
         <img src="/images/who-we-are/subsidiaries/sentosa.png">
     </div>
@@ -17,7 +24,7 @@ collection_name: who-we-are
         <p><a href="www.sentosa.com.sg">Explore The State of Fun!</a></p>
     </div>
 </div>
-<div class="row">
+<div class="row  reverse-row-order">
     <div class="col is-4">
         <img src="/images/who-we-are/subsidiaries/sentosacove.png">
     </div>
@@ -26,7 +33,7 @@ collection_name: who-we-are
         <p><a href="www.sentosacove.com">Discover Sentosa Cove Singapore</a></p>
     </div>
 </div>
-<div class="row">
+<div class="row  reverse-row-order">
     <div class="col is-4">
         <img src="/images/who-we-are/subsidiaries/golfclub.png">
     </div>
@@ -35,7 +42,7 @@ collection_name: who-we-are
         <p><a href="www.sentosagolf.com">Tee Off at Sentosa Golf Club</a></p>
     </div>
 </div>
-<div class="row">
+<div class="row  reverse-row-order">
     <div class="col is-4">
         <img src="/images/who-we-are/subsidiaries/1fg.png">
     </div>

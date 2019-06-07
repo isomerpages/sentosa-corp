@@ -18,7 +18,7 @@ collection_name: who-we-are
     </div>
     <div class="col is-4">
     <figure style="margin:0;">
-			<img src="/images/who-we-are/subsidiaries/golfclub.png"/>
+			<img src="/images/who-we-are/subsidiaries/sentosacove.png"/>
 			<figcaption>
                <h4>Sentosa Cove</h4>
                <a href="www.sentosacove.com">Discover Sentosa Cove Singapore</a>

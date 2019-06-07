@@ -65,5 +65,12 @@ collection_name: who-we-are
     <div class="col is-4">
     </div>
     <div class="col is-4">
+        <figure style="margin:0;">
+			<img src="/images/who-we-are/subsidiaries/sentosa.png"/>
+			<figcaption>
+               <h4>Sentosa</h4>
+               <a href="www.sentosa.com.sg">Explore The State of Fun!</a>
+            </figcaption>
+		</figure>
     </div>
 </div>

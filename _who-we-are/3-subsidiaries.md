@@ -5,14 +5,6 @@ permalink: /who-we-are/subsidiaries/
 breadcrumb: Subsidiaries
 collection_name: who-we-are 
 ---
-<style>
-@media only screen and (min-width: 769px) {
-   .reverse-row-order{
-     flex-direction:row-reverse;
-   }
-}
-</style>
-
 ### **SDC and Subsidiaries**
 <div class="row">
     <div class="col is-4">
@@ -35,7 +27,7 @@ collection_name: who-we-are
     </div>
     <div class="col is-4">
         <figure style="margin:0;">
-			<img src="/images/who-we-are/subsidiaries/sentosa.png"/>
+			<img src="/images/who-we-are/subsidiaries/golfclub.png"/>
 			<figcaption>
                <h4>Sentosa Golf Club</h4>
                <a href="www.sentosagolf.com">Tee Off at Sentosa Golf Club</a>
@@ -47,7 +39,7 @@ collection_name: who-we-are
 <div class="row">
     <div class="col is-4">
         <figure style="margin:0;">
-			<img src="/images/who-we-are/subsidiaries/sentosa.png"/>
+			<img src="/images/who-we-are/subsidiaries/1fg.png"/>
 			<figcaption>
                <h4>One Faber Group</h4>
                <a href="www.onefabergroup.com">Visit One Faber Group</a>

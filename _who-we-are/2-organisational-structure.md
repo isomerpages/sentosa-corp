@@ -64,7 +64,9 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Diana EE-TAN</p>
-        <strong>Chairman</strong> - Mount Faber Leisure Group Pte Ltd
+        <strong>Chairman</strong>
+        <br>
+        Mount Faber Leisure Group Pte Ltd
     </div>
 </div>
 
@@ -74,7 +76,9 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">David HENG</p>
-        <strong>Advisory Senior Director</strong> - Temasek International Pte Ltd
+        <strong>Chief Executive Officer</strong>
+        <br>
+        ABC World Asia
     </div>
 </div>
 
@@ -84,8 +88,13 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Eugene HO</p>
-        <strong>Chief Strategy Officer<br>Consumer, Travel & Transportation Leader</strong> - Deloitte South East Asia<br>
-        <strong>Managing Director</strong> - Deloitte Consulting Singapore
+        <strong>Regional Managing Director</strong>
+        <br>
+        Deloitte SEA Consulting
+        <br>
+        <strong>Chief Strategy & Innovation Officer</strong>
+        <br>
+        Deloitte SEA
     </div>
 </div>
 
@@ -95,8 +104,8 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH-LIM Wen Gin</p>
-        <strong>Board Member</strong> - National Parks Board<br>
-        <strong>Independent Director</strong> - Keppel Land Ltd
+        <strong>Independent Director</strong> <br>
+        Keppel Land Ltd
     </div>
 </div>
 
@@ -106,7 +115,9 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">LAM Yi Young</p>
-        <strong>Deputy Secretary (Industry)</strong> - Ministry of Trade and Industry
+        <strong>Deputy Secretary (Industry)</strong>
+        <br>
+        Ministry of Trade and Industry
     </div>
 </div>
                              
@@ -116,7 +127,9 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Eugene LEONG</p>
-        <strong>Chief Executive Officer</strong> - Early Childhood Development Agency
+        <strong>Chief Executive Officer</strong>
+        <br>
+        Early Childhood Development Agency
     </div>
 </div>
 
@@ -126,7 +139,9 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">LIM Joo Boon</p>
-        <strong>Chairman</strong> - Singapore Turf Club
+        <strong>Chairman</strong>
+        <br>
+        Singapore Turf Club
     </div>
 </div>
 
@@ -136,7 +151,9 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Rita SOH</p>
-        <strong>Managing Director</strong> - RDC Architects Pte Ltd
+        <strong>Managing Director</strong>
+        <br>
+        RDC Architects Pte Ltd
     </div>
 </div>
 
@@ -146,7 +163,9 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Keith TAN</p>
-        <strong>Chief Executive</strong> - Singapore Tourism Board
+        <strong>Chief Executive</strong>
+        <br>
+        Singapore Tourism Board
     </div>
 </div>
 
@@ -156,7 +175,9 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Ronny TAN</p>
-        <strong>President</strong> - Sentosa Golf Club
+        <strong>President</strong>
+        <br>
+        Sentosa Golf Club
     </div>
 </div>
 <hr>
@@ -240,6 +261,16 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">Mary Germaine TAN</p>
         <strong>Divisional Director, Human Resource & Administration</strong>
+    </div>
+</div>
+
+ <div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/LEEChehHsien.jpg" alt="LEE Cheh Hsien">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">LEE Cheh Hsien</p>
+        <strong>Divisional Director, Planning</strong>
     </div>
 </div>
 

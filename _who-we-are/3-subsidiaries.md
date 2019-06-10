@@ -8,7 +8,7 @@ collection_name: who-we-are
 ### **SDC and Subsidiaries**
 <div class="row">
     <div class="col is-4">
-        <figure style="margin:0;">
+        <figure style="margin:0; margin-top:0.5rem">
 			<img src="/images/who-we-are/subsidiaries/sentosa.png"/>
 			<figcaption>
                <h4>Sentosa</h4>
@@ -17,7 +17,7 @@ collection_name: who-we-are
 		</figure>
     </div>
     <div class="col is-4">
-    <figure style="margin:0;">
+    <figure style="margin:0; margin-top:0.5rem">
 			<img src="/images/who-we-are/subsidiaries/sentosacove.png"/>
 			<figcaption>
                <h4>Sentosa Cove</h4>
@@ -26,7 +26,7 @@ collection_name: who-we-are
 		</figure>
     </div>
     <div class="col is-4">
-        <figure style="margin:0;">
+        <figure style="margin:0; margin-top:0.5rem">
 			<img src="/images/who-we-are/subsidiaries/golfclub.png"/>
 			<figcaption>
                <h4>Sentosa Golf Club</h4>
@@ -38,7 +38,7 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <figure style="margin:0;">
+        <figure style="margin:0; margin-top:0.5rem;">
 			<img src="/images/who-we-are/subsidiaries/1fg.png"/>
 			<figcaption>
                <h4>One Faber Group</h4>

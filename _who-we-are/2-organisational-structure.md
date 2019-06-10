@@ -16,7 +16,7 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Bob TAN Beng Hai</p>
-        <strong>Deputy Chairman</strong> - Sentosa Development Corporation
+        <span style="color:$primary"><strong>Deputy Chairman</strong> - Sentosa Development Corporation</span>
         <br>
         <strong>Chairman</strong> - Jurong Engineering Limited
     </div>

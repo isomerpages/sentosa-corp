@@ -16,9 +16,17 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Bob TAN Beng Hai</p>
-        <span style="color:$primary"><strong>Deputy Chairman</strong> - Sentosa Development Corporation</span>
+       <strong>Chairman</strong>
+       <br>
+       Sentosa Development Corporation
+       <br>
+       Board of Ascott Residence Trust Management Ltd
+       <br>
+        Institute of Technical Education
         <br>
-        <strong>Chairman</strong> - Jurong Engineering Limited
+        Jurong Engineering Limited
+        <br>
+        Singex Holdings Pte Ltd
     </div>
 </div>
 
@@ -28,7 +36,25 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">QUEK Swee Kuan</p>
-        <strong>Chief Executive Officer</strong> - Sentosa Development Corporation
+        <strong>Chief Executive Officer</strong> 
+        <br>
+        Sentosa Development Corporation
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/ANGShihHuei.jpg" alt="ANG Shih-Huei ">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">ANG Shih-Huei </p>
+        <strong>
+        Co-Founder
+        <br>
+        Chief Executive Officer
+        </strong>
+        <br>
+        Klareco Communications
     </div>
 </div>
 

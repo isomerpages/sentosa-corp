@@ -5,15 +5,6 @@ permalink: /partner-us/sentosa-enterprise/
 breadcrumb: Sentosa x Enterprise
 collection_name: partner-us
 ---
-
-<style>
-@media only screen and (min-width: 769px) {
-   .reverse-row-order{
-     flex-direction:row-reverse;
-   }
-}
-</style>
-
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mHbNxeorbvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

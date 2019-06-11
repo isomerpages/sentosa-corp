@@ -21,7 +21,7 @@ The focus areas for evaluation include Connectivity, Experience, Sustainability 
 
 ### How It Works
 
- Sentosa x Enterprise offers a win-win partnership, where innovators and enterprises benefit from a risk-sharing arrangement while working on projects that could boost Sentosa's vibrancy and attractiveness.
+Sentosa x Enterprise offers a win-win partnership, where innovators and enterprises benefit from a risk-sharing arrangement while working on projects that could boost Sentosa's vibrancy and attractiveness.
 
 Successful applicants will enjoy the co-sharing or waiver of venue rental, as well as support in terms of infrastructure and other facilitation resources. In turn, the innovation efforts are expected to drive visitorship to Sentosa, enhance guest satisfaction, and support SDC's environmental sustainability goals. 
 

@@ -33,6 +33,8 @@ For current available opportunities, please visit [GeBiz and search for “Sento
             Size of Sentosa Island
         </figure>
     </div>
+
+    
     <div class="col is-6">
         <figure>
             <img src="/images/partner-us/opportunities/island-facts-visitors.jpg" alt="Image of Visitors">

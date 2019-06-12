@@ -36,7 +36,7 @@ Successful applicants will enjoy the co-sharing or waiver of venue rental, as we
 	<div class="col is-6">
         <p>
             <ol>
-                <li>Download application form <a href="/resources/extra/enterprise/Sentosa-x-Enterprise-Application-Form.pdf">here</a>.</li>
+                <li>Download application form <a href="/resources/extra/enterprise/Sentosa-x-Enterprise-Application-Form.pdf" target="_blank">here</a>.</li>
                 <li>Submit to <a href="mailto:enterprise@sentosa.gov.sg">enterpise@sentosa.gov.sg</a> by <strong>30 Jun 2019</strong>.</li>
                 <li>Successful applicants will be notified by <strong>31 Aug 2019</strong>.</li>
             </ol>
@@ -53,9 +53,9 @@ Successful applicants will enjoy the co-sharing or waiver of venue rental, as we
 
 Sentosa x Enterprise does not cover development costs. For funding of development costs, interested parties can apply direct to Singapore Tourism Board (STB) for tourism related projects and Enterprise Singapore (ESG) for innovation development grants.
 
-For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html">here</a>.
+For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html" target="_blank">here</a>.
 
-For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants">here</a>. 
+For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants" target="_blank">here</a>. 
 
 ### Example of Ideas
 SDC has always been working with partners to trial ideas on Sentosa Island. Some past and ongoing trials are listed here. For each of the initiatives, Sentosa has provided venue support as well as facilitation for the trial. 

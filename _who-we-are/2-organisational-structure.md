@@ -16,17 +16,12 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Bob TAN Beng Hai</p>
-       <strong>Chairman</strong>
-       <br>
-       Sentosa Development Corporation
-       <br>
-       Board of Ascott Residence Trust Management Ltd
-       <br>
-        Institute of Technical Education
-        <br>
-        Jurong Engineering Limited
-        <br>
-        Singex Holdings Pte Ltd
+        <strong>Chairman</strong>
+        <br> Sentosa Development Corporation
+        <br> Board of Ascott Residence Trust Management Ltd
+        <br> Institute of Technical Education
+        <br> Jurong Engineering Limited
+        <br> Singex Holdings Pte Ltd
     </div>
 </div>
 
@@ -36,9 +31,8 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">QUEK Swee Kuan</p>
-        <strong>Chief Executive Officer</strong> 
-        <br>
-        Sentosa Development Corporation
+        <strong>Chief Executive Officer</strong>
+        <br> Sentosa Development Corporation
     </div>
 </div>
 
@@ -53,8 +47,7 @@ collection_name: who-we-are
         <br>
         Chief Executive Officer
         </strong>
-        <br>
-        Klareco Communications
+        <br> Klareco Communications
     </div>
 </div>
 
@@ -65,8 +58,7 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">Diana EE-TAN</p>
         <strong>Chairman</strong>
-        <br>
-        Mount Faber Leisure Group Pte Ltd
+        <br> Mount Faber Leisure Group Pte Ltd
     </div>
 </div>
 
@@ -77,8 +69,7 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">David HENG</p>
         <strong>Chief Executive Officer</strong>
-        <br>
-        ABC World Asia
+        <br> ABC World Asia
     </div>
 </div>
 
@@ -89,12 +80,10 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">Eugene HO</p>
         <strong>Regional Managing Director</strong>
-        <br>
-        Deloitte SEA Consulting
+        <br> Deloitte SEA Consulting
         <br>
         <strong>Chief Strategy & Innovation Officer</strong>
-        <br>
-        Deloitte SEA
+        <br> Deloitte SEA
     </div>
 </div>
 
@@ -104,8 +93,8 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH-LIM Wen Gin</p>
-        <strong>Independent Director</strong> <br>
-        Keppel Land Ltd
+        <strong>Independent Director</strong>
+        <br> Keppel Land Ltd
     </div>
 </div>
 
@@ -116,11 +105,10 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">LAM Yi Young</p>
         <strong>Deputy Secretary (Industry)</strong>
-        <br>
-        Ministry of Trade and Industry
+        <br> Ministry of Trade and Industry
     </div>
 </div>
-                             
+
 <div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrEugeneLEONG.jpg" alt="Eugene LEONG">
@@ -128,8 +116,7 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">Eugene LEONG</p>
         <strong>Chief Executive Officer</strong>
-        <br>
-        Early Childhood Development Agency
+        <br> Early Childhood Development Agency
     </div>
 </div>
 
@@ -140,51 +127,45 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">LIM Joo Boon</p>
         <strong>Chairman</strong>
-        <br>
-        Singapore Turf Club
+        <br> Singapore Turf Club
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MsRitaSOH.jpg" alt="Rita SOH">
     </div>
     <div class="col is-8">
         <p class="title is-4">Rita SOH</p>
         <strong>Managing Director</strong>
-        <br>
-        RDC Architects Pte Ltd
+        <br> RDC Architects Pte Ltd
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrKeithTAN.jpg" alt="Keith TAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Keith TAN</p>
         <strong>Chief Executive</strong>
-        <br>
-        Singapore Tourism Board
+        <br> Singapore Tourism Board
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrRonnyTAN.jpg" alt="Ronny TAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ronny TAN</p>
         <strong>President</strong>
-        <br>
-        Sentosa Golf Club
+        <br> Sentosa Golf Club
     </div>
 </div>
-<hr>
+<hr> ### **Senior Executive Team**
 
-### **Senior Executive Team**
-
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrCHINSakHin.jpg" alt="CHIN Sak Hin">
     </div>
@@ -194,7 +175,7 @@ collection_name: who-we-are
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MsJacquelineTANYi-Ping.jpg" alt="Jacqueline TAN Yi-Ping">
     </div>
@@ -203,8 +184,8 @@ collection_name: who-we-are
         <strong>Assistant Chief Executive</strong>
     </div>
 </div>
- 
-  <div class="row">
+
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MsLynetteANG.jpg" alt="Lynette ANG">
     </div>
@@ -214,7 +195,7 @@ collection_name: who-we-are
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrSOHKengTaan.jpg" alt="SOH Keng Taan">
     </div>
@@ -223,8 +204,8 @@ collection_name: who-we-are
         <strong>Chief Information Officer</strong>
     </div>
 </div>
- 
-  <div class="row">
+
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MsCHUASiewHwi.jpg" alt="CHUA Siew Hwi">
     </div>
@@ -234,7 +215,7 @@ collection_name: who-we-are
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrKOHPiakHuat.jpg" alt="KOH Piak Huat">
     </div>
@@ -254,7 +235,7 @@ collection_name: who-we-are
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MsMaryGermaineTAN.jpg" alt="Mary Germaine TAN">
     </div>
@@ -264,7 +245,7 @@ collection_name: who-we-are
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/LEEChehHsien.jpg" alt="LEE Cheh Hsien">
     </div>
@@ -274,7 +255,7 @@ collection_name: who-we-are
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MsTheresaLOW.jpg" alt="Theresa LOW">
     </div>
@@ -284,7 +265,7 @@ collection_name: who-we-are
     </div>
 </div>
 
- <div class="row">
+<div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrAndyJOHNSTON.jpg" alt="Andy JOHNSTON">
     </div>

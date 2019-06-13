@@ -163,7 +163,8 @@ collection_name: who-we-are
         <br> Sentosa Golf Club
     </div>
 </div>
-<hr> ### **Senior Executive Team**
+<hr> 
+### **Senior Executive Team**
 
 <div class="row">
     <div class="col is-4">

@@ -60,110 +60,112 @@ For more information on ESG's funds, click <a href="https://www.enterprisesg.gov
 ### Example of Ideas
 SDC has always been working with partners to trial ideas on Sentosa Island. Some past and ongoing trials are listed here. For each of the initiatives, Sentosa has provided venue support as well as facilitation for the trial. 
 
-
-
 <h4>Autonomous Shuttle Trials</h4>
 <div class="row reverse-row-order">
-  <div class="col is-offset-1 is-5">
-    <figure style="margin:0;">
-      <img src="/images/partner-us/enterprise/auto_shuttle.jpg" alt="Image of Autonomous Shuttle Trials"/>
-    </figure>
-  </div>
-  <div class="col is-6">
-    <p>
-    <h5 style="margin-top:0;">ST Engineering Land Systems & Ministry of Transport</h5>
-    <strong>Trial Period:</strong> Oct 2017 - Dec 2019
-    <ul>
-      <li>As part of Singapore's Smart Nation drive, we are testing driverless shuttles within our islands. </li>
-      <li>Guests will soon be able to get on board the vehicles during the public trial.</li>
-    </ul>
-    </p>
-  </div>
-</div>
-<h4>One Piece Puzzle Hunt</h4>
-<div class="row">
-  <div class="col is-5">
-    <figure style="margin:0;">
-      <img src="/images/partner-us/enterprise/one_piece.png" alt="Image of One Piece Puzzle Hunt"/>
-    </figure>
-  </div>
-  <div class="col is-offset-1 is-6">
-    <p>
-    <h5 style="margin-top:0;">Comm Pte Ltd</h5>
-    <strong>Trial Period:</strong> 14 Dec 2018 - 13 Feb 2019
-    <ul>
-      <li>The One Piece Puzzle Hunt showcased an augmented reality app, which provided an immersive experience for participants in this innovative escape event.</li>
-    </ul>
-    </p>
-  </div>
-</div>
-<h4>Sen-D-Bee</h4>
-<div class="row reverse-row-order">
-  <div class="col is-offset-1 is-5">
-    <figure style="margin:0;">
-      <img src="/images/partner-us/enterprise/sen_d_bee.png" alt="Image of Sen-D-Bee"/>
-    </figure>
-  </div>
-  <div class="col is-6">
-    <p>
-    <h5 style="margin-top:0;">CtrlWorks</h5>
-    <ul>
-      <li>Prospective Concept</li>
-      <li>A unique on-demand delivery robot, which sells and delivers chilled drinks along the beach. Guests can order their drinks by calling up this service through an application.</li>
-    </ul>
-    </p>
-  </div>
-</div>
-<h4>Smart Navigation, Itinerary Planning</h4>
-<div class="row">
-  <div class="col is-5">
-    <figure style="margin:0;">
-      <img src="/images/partner-us/enterprise/fooyo.png" alt="Image of Fooyo"/>
-    </figure>
-  </div>
-  <div class="col is-offset-1 is-6">
-    <p>
-    <h5 style="margin-top:0;">Fooyo & Info-Communications Media Development Authority</h5>
-    <strong>Trial Period:</strong> 2016 - Early 2018
-    <ul>
-      <li>Fooyo developed the smart navigation and itinerary planning features for the MySentosa App. Guests can plan their trips to Sentosa, access latest events and promotions using the app.</li>
-    </ul>
-    </p>
-  </div>
-</div>
-<h4>Interactive Trails</h4>
-<div class="row reverse-row-order">
-  <div class="col is-offset-1 is-5">
-    <figure style="margin:0;">
-      <img src="/images/partner-us/enterprise/interactive_trails.jpg" alt="Image of Interactive Trails"/>
-    </figure>
-  </div>
-  <div class="col is-6">
-    <p>
-    <h5 style="margin-top:0">LDR Pte Ltd and Info-Communications Media Development Authority</h5>
-    <ul>
-      <li>As part of the Integrated Guest Experience Challenge in collaboration with IMDA and SDC, LDR Pte Ltd developed fun and interactive journeys on the MySentosa app for guests to explore complimentary and unique parts of Sentosa.</li>
-      <li>These trails bring to life the rich history and heritage of Sentosa.</li>
-    </ul>
-    </p>
-  </div>
-</div>
-<h4>Smart Lamp Post</h4>
-<div class="row">
-  <div class="col is-5">
-    <figure style="margin:0;">
-      <img src="/images/partner-us/enterprise/smart_lampost.png" alt="Image of Smart Lampost"/>
-    </figure>
-  </div>
-  <div class="col is-offset-1 is-6">
-    <p>
-    <h5 style="margin-top:0;">Technolite, GovTech & Enterprise Singapore</h5>
-    <strong>Trial Period:</strong> Jun 2019 - Dec 2019
-    <ul>
-      <li>In a bid to improve efficiency in resource use, the smart lamp post will be trialled on Sentosa Island under the Gov-PACT programme.</li>
-      <li>The smart lamp post is able to track visior footfall, light and noise levels and other environmental indicators so as to empower monitoring utilities, security and guest experience.</li>
-    </ul>
-    </p>
-  </div>
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+            <img src="/images/partner-us/enterprise/auto_shuttle.jpg" alt="Image of Autonomous Shuttle Trials" />
+        </figure>
+    </div>
+    <div class="col is-6">
+        <p>
+            <h5 style="margin-top:0;">ST Engineering Land Systems & Ministry of Transport</h5>
+            <strong>Trial Period:</strong> Oct 2017 - Dec 2019
+            <ul>
+                <li>As part of Singapore's Smart Nation drive, we are testing driverless shuttles within our islands. </li>
+                <li>Guests will soon be able to get on board the vehicles during the public trial.</li>
+            </ul>
+        </p>
+    </div>
 </div>
 
+<h4>One Piece Puzzle Hunt</h4>
+<div class="row">
+    <div class="col is-5">
+        <figure style="margin:0;">
+            <img src="/images/partner-us/enterprise/one_piece.png" alt="Image of One Piece Puzzle Hunt" />
+        </figure>
+    </div>
+    <div class="col is-offset-1 is-6">
+        <p>
+            <h5 style="margin-top:0;">Comm Pte Ltd</h5>
+            <strong>Trial Period:</strong> 14 Dec 2018 - 13 Feb 2019
+            <ul>
+                <li>The One Piece Puzzle Hunt showcased an augmented reality app, which provided an immersive experience for participants in this innovative escape event.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<h4>Sen-D-Bee</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+            <img src="/images/partner-us/enterprise/sen_d_bee.png" alt="Image of Sen-D-Bee" />
+        </figure>
+    </div>
+    <div class="col is-6">
+        <p>
+            <h5 style="margin-top:0;">CtrlWorks</h5>
+            <ul>
+                <li>Prospective Concept</li>
+                <li>A unique on-demand delivery robot, which sells and delivers chilled drinks along the beach. Guests can order their drinks by calling up this service through an application.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<h4>Smart Navigation, Itinerary Planning</h4>
+<div class="row">
+    <div class="col is-5">
+        <figure style="margin:0;">
+            <img src="/images/partner-us/enterprise/fooyo.png" alt="Image of Fooyo" />
+        </figure>
+    </div>
+    <div class="col is-offset-1 is-6">
+        <p>
+            <h5 style="margin-top:0;">Fooyo & Info-Communications Media Development Authority</h5>
+            <strong>Trial Period:</strong> 2016 - Early 2018
+            <ul>
+                <li>Fooyo developed the smart navigation and itinerary planning features for the MySentosa App. Guests can plan their trips to Sentosa, access latest events and promotions using the app.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<h4>Interactive Trails</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+            <img src="/images/partner-us/enterprise/interactive_trails.jpg" alt="Image of Interactive Trails" />
+        </figure>
+    </div>
+    <div class="col is-6">
+        <p>
+            <h5 style="margin-top:0">LDR Pte Ltd and Info-Communications Media Development Authority</h5>
+            <ul>
+                <li>As part of the Integrated Guest Experience Challenge in collaboration with IMDA and SDC, LDR Pte Ltd developed fun and interactive journeys on the MySentosa app for guests to explore complimentary and unique parts of Sentosa.</li>
+                <li>These trails bring to life the rich history and heritage of Sentosa.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<h4>Smart Lamp Post</h4>
+<div class="row">
+    <div class="col is-5">
+        <figure style="margin:0;">
+            <img src="/images/partner-us/enterprise/smart_lampost.png" alt="Image of Smart Lampost" />
+        </figure>
+    </div>
+    <div class="col is-offset-1 is-6">
+        <p>
+            <h5 style="margin-top:0;">Technolite, GovTech & Enterprise Singapore</h5>
+            <strong>Trial Period:</strong> Jun 2019 - Dec 2019
+            <ul>
+                <li>In a bid to improve efficiency in resource use, the smart lamp post will be trialled on Sentosa Island under the Gov-PACT programme.</li>
+                <li>The smart lamp post is able to track visior footfall, light and noise levels and other environmental indicators so as to empower monitoring utilities, security and guest experience.</li>
+            </ul>
+        </p>
+    </div>
+</div>

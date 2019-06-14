@@ -52,3 +52,9 @@
     url: /resources/event-listings
 - title: Contact Us
   url: /contact-us/
+  
+#- title: Collection Name
+#  url: /collection-name/page-name/
+#  sub-links:
+#  - title: Page Name
+#    url: /collection-name/page-name/

@@ -48,4 +48,6 @@ collections:
     output: true
   guide:
     output: true
+ #collection-name:
+ #  output: true
 resources_name: resources

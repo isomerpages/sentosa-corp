@@ -10,8 +10,9 @@ collection_name: who-we-are
 <hr style="margin-top:12px;">
 <table class="table-v">
     <tr>
-        <td></td>
+        <td>Date + Year</td>
         <td>
+            Details here <- Delete when you copy
             <ul>
                 <li></li>
             </ul>

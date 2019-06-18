@@ -12,7 +12,7 @@ collection_name: who-we-are
             <img src="/images/who-we-are/subsidiaries/sentosa.png" />
             <figcaption style="margin-top:0.5rem;">
                 <h4>Sentosa</h4>
-                <a href="www.sentosa.com.sg">Explore The State of Fun!</a>
+                <a href="https://www.sentosa.com.sg/">Explore The State of Fun!</a>
             </figcaption>
         </figure>
     </div>

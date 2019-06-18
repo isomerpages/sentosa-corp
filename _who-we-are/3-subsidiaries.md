@@ -21,7 +21,7 @@ collection_name: who-we-are
             <img src="/images/who-we-are/subsidiaries/sentosacove.png" />
             <figcaption style="margin-top:0.5rem;">
                 <h4>Sentosa Cove</h4>
-                <a href="www.sentosacove.com">Discover Sentosa Cove Singapore</a>
+                <a href="www.sentosacove.com" target="_blank">Discover Sentosa Cove Singapore</a>
             </figcaption>
         </figure>
     </div>

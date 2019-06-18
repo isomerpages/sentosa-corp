@@ -42,7 +42,7 @@ collection_name: who-we-are
             <img src="/images/who-we-are/subsidiaries/1fg.png" />
             <figcaption style="margin-top:0.5rem;">
                 <h4>One Faber Group</h4>
-                <a href="www.onefabergroup.com">Visit One Faber Group</a>
+                 [Visit One Faber Group](www.onefabergroup.com)
             </figcaption>
         </figure>
     </div>

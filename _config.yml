@@ -2,7 +2,7 @@ title: Sentosa Development Corporation
 title-abbreviated: SDC
 description: >- # this means to ignore newlines until "baseurl:"
   Developing a Fun, Smart, and Sustainable Sentosa
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://isomer-sentosa-staging.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown

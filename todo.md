@@ -1,7 +1,7 @@
 - [x] Update Logo
 - [ ] Changing Banner text colour
 - [ ] Updating resources colours
-- [ ] Overview updating to Sentosa<sup>TM</sup>
+- [x] Overview updating to Sentosa<sup>TM</sup>
 - [ ] Updating Subsidiaries images
 - [ ] Updating Our Brand images
 - [ ] Awards and Milestones 2017-2019

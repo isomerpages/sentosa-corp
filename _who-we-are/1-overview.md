@@ -6,7 +6,7 @@ breadcrumb: Overview
 collection_name: who-we-are
 ---
 
-#### **Sentosa, The State of Fun, is Singapore’s premier island resort getaway and Asia’s leading leisure destination.**
+#### **Sentosa<sup>TM</sup>, The State of Fun, is Singapore’s premier island resort getaway and Asia’s leading leisure destination.**
 
 This 500-hectare resort island is home to an exciting array of themed attractions, award-winning spa retreats and resort accommodation, alongside lush greenery, golden sandy beaches, world-renowned championship golf courses and even a deep-water yachting marina and luxury residences - making it a compelling destination for business and leisure for millions of visitors from all around the world. Making Sentosa its home, too, is Singapore’s first integrated resort, Resorts World Sentosa, which operates Southeast Asia’s first Universal Studios theme park.
 

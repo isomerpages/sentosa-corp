@@ -6,7 +6,7 @@ breadcrumb: Our Brands
 collection_name: who-we-are
 ---
 
-### **Sentosa - State of Fun**
+### **Sentosa - The State of Fun**
 
 ![Image of Sentosa SOF logo](/images/who-we-are/our-brands/SENTOSA_SOF_LOGO_ORANGE.png)
 

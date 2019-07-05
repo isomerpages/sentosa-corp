@@ -104,10 +104,12 @@ Complementing these luxury residences is the vibrant Sentosa Cove Village compri
 		</figure>
 	</div>
 </div>
-SDC continues to enhance infrastructural developments to facilitate and improve mobility and connectivity between the activity zones within the island, as well as between Sentosa and the mainland. These efforts are aimed at catering to the growing visitorship and to provide a more comfortable travelling experience for guests.
+SDC continues to enhance infrastructural developments to strengthen mobility and connectivity across the island, as well as between Sentosa and the mainland. These efforts are aimed at catering to the growing visitorship and to provide a more comfortable travelling experience for guests.
 
-A new intra-island cable car line opened in July 2015, linking Merlion Plaza and Siloso Point, located at the western part of Sentosa. The Sentosa Line of the Singapore Cable Car Sky Network not only provides scenic view over Siloso Beach and Mount Imbiah, it also enhances accessibility for visitors within the island.
+Sentosa's on-island cable car line opened in 2015, linking Merlion Plaza and Siloso Point, located at the western part of Sentosa. The Sentosa Line of the Singapore Cable Car Sky Network not only provides scenic view over Siloso Beach and Mount Imbiah, it also enhances accessibility for visitors within the island.
 
-To provide visitors with weather protection, a sheltered linkway now links the Beach Station and Palawan Beach, and will be further extended to Tanjong Beach by early-2017.
+In addition, SBS Transit’s Service 123 was extended to Sentosa’s Beach Station, while the Sentosa Gateway Tunnel opened in 2017, strengthening inter-island connectivity.
 
-As Singapore progresses towards a ‘car-lite’ society, Sentosa has also introduced cycling tracks and walking trails across the island, with future plans to broaden the transport network to include the introduction of self-driving on-demand point-to-point shuttle services. 
+To provide visitors with weather protection, a sheltered linkway also links Beach Station to Palawan Beach and Tanjong Beach
+
+As Singapore progresses towards a ‘car-lite’ society, Sentosa has also introduced cycling tracks and walking trails across the island, with future plans to broaden the transport network to include the introduction of self-driving on-demand point-to-point shuttle services.

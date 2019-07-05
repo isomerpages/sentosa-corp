@@ -38,64 +38,67 @@ This is because SDC has adopted a balanced and sustainable approach to the devel
 
 Sentosa was shortlisted as a sustainable tourism destination finalist in the World Travel and Tourism Council’s (WTTC) “Tourism for Tomorrow” Awards in 2013. Examples of other accomplishments include:
 
-   *  The island being home to some 27 carefully-preserved heritage trees and over 30 conserved buildings
+   * The island being home to some 27 carefully-preserved heritage trees and over 30 conserved buildings
    * Singapore’s only fully-restored military fort, Fort Siloso
    * Several Green Mark-certified developments such as the Sentosa Cove Village, Palawan Kidz City, W Singapore-Sentosa Cove and Resorts World Sentosa
    * An award-winning eco-hotel, Siloso Beach Resort
    * Developing the Sentosa Boardwalk, which is a pedestrian walkway with various sustainability features to connect the island to the Singapore mainland
-   * Partnering Nanyang Technological University (NTU) to test bed Singapore’s first low-flow tidal turbine at the Sentosa Boardwalk, as well as Philips Lighting to trial a new smart, connected street lighting system
+   * Partnering MAKO Energy to harness tidal energy by installing turbines at Sentosa Boardwalk to convert the kinetic energy in flowing water into electricity for local use or for charging batteries. 
+   * Sentosa Express wins Special Award (Public Infrastructure) at 2017 Skyrise Greenery Awards 
    * Running the annual island-wide “Sentosa Gives” corporate social responsibility week in September since 2011
 
 ---
 
-### **Details of the Sustainability Plan**
+#### **The Fun Odyssea: Sentosa Celebrates the  International Year of the Reef**
+<div class="row reverse-row-order">
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/fun-odyssea.jpg" alt="Image of Fun Odyssea"/>
+		</figure>
+	</div>
+	<div class="col is-6">
+	<p>
+		To raise awareness for marine conservation and to encourage such efforts, 26 marine interest groups, conservation and research organisations including Our Singapore Reefs and Celebrating Singapore Shores linked up with SDC to jointly celebrate the third International Year of the Reef in Sentosa. 
+		<br />
+		Held at the Palawan Pirate Ship from 17 to 18 March 2018, The Fun Odyssea was a free celebratory event that offered insights into Singapore’s shores, marine biodiversity and environmental issues through hands-on activities, interactive booths, and movie screenings. 
+		<br />
+		The opening ceremony was graced by Guest-of-Honour, Mr Andrew Tan, Chief Executive of Maritime and Port Authority of Singapore. Guests at the event also had the chance to sign up for the free guided intertidal tours to the unique Siloso Headland, which is home to corals, seagrass, and a wide variety of marine life. 
+	</p>
+	</div>
+</div>
 
-#### **Enchance the island's ecology**
+#### **Protecting Endangered Hawksbill Turtles**
 <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/peacock.jpg" alt="Image of Roaming peacocks and wildlife"/>
-			<figcaption>Roaming peacocks and wildlife on the island</figcaption>
+			<img src="/images/what-we-do/sustainable-sentosa/hawksbill-turtles.jpg" alt="Image of 2 baby Hawksbill Turtles"/>
 		</figure>
 	</div>
 	<div class="col is-6">
-       <figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/island.jpg" alt="Image of  Imbiah Hill and Serapong Hill"/>
-			<figcaption>The island looks green and verdant to the visitors, and has two protected forest areas – Imbiah Hill and Serapong Hill</figcaption>
-		</figure>
+      <p>
+	  SDC is proud to have played a key role in contributing to the world’s population of endangered Hawksbill turtles! Following the discovery of a nest at Tanjong Beach in November 2017, various measures were put in place to ensure the safety of the Hawksbill turtle nest, to protect the eggs from natural predators like monitor lizards and crabs. SDC further worked closely with the National Parks Board to monitor the eggs daily during their incubation period. In January 2018, 111 endangered hawksbill turtles emerged from the nest and made their way into the waters!
+	  <br />
+	  Later on in the same year, another batch of 102 eggs hatched at Tanjong Beach in September 2018, about two months after the eggs were first found. 
+	  </p>
 	</div>
 </div>
-Sentosa is home to some 27 heritage trees listed under the National Parks Board’s registry. Great efforts are made to protect and conserve them. Regular biodiversity surveys are conducted to monitor the health of the natural environment.
 
-Sentosa also aims to keep 60% of itself as green and open spaces under the Island Conservation Policy.
-
-#### **Protect and showcase island history and heritage assets**
-<div class="row">
-	<div class="col is-6">
+#### **Natural Treasures of Sentosa**
+<div class="row reverse-row-order">
+    <div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/fort-siloso.jpg" alt="Image of Fort Siloso"/>
-			<figcaption>Fort Siloso, Singapore's only fully restored military fort</figcaption>
+			<img src="/images/what-we-do/sustainable-sentosa/tanjong-rimau.jpg" alt="Image of students at Tanjong Rimau">
+			<figcaption>Studying biodiversity at Tanjong Rimau</figcaption>
 		</figure>
-	</div>
-	<div class="col is-6">
-       <figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/tussauds.jpg" alt="Image of  Madame Tussauds Singapore"/>
-			<figcaption>Madame Tussauds Singapore at Imbiah Lookout (formerly British Military Hospital)</figcaption>
-		</figure>
-	</div>
-</div>
-Singapore’s only fully-restored fort, Fort Siloso, and over 30 conserved buildings are found on the island. Pre-war buildings and unique structures are re-purposed to give a second lease of life. Some buildings were built by the British and date back to the late 1800s. Similarly, some of our iconic but defunct Sentosa monorail stations have been converted into hotels, restaurants, attractions and offices, such as Sentosa Nature Discovery (previously Imbiah Monorail station).
-
-#### **Promote sustainable tourism & responsible visitor behaviours**
-<div class="row">
-    <div class="col is-12">
-        <img src="/images/what-we-do/sustainable-sentosa/merlion.jpg" alt="Image of Merlion turning blue">
     </div>
+	<div class="col is-6">
+		<p>
+			With 40 hectares of protected nature areas, more than 20 heritage trees, over 100 recorded bird species, and a variety of walking and cycling trails on the island, Sentosa is a haven for nature lovers. To bring guests closer to the island’s hidden gems, a slew of free nature activities was launched over the year, including the inaugural Siloso Headland Intertidal Programme.
+			<br />
+			The guided programme explores Tanjong Rimau – one of Singapore’s last remaining coastal cliffs and rocky shores. Home to corals, seagrass and a wide variety of marine wildlife, Tanjong Rimau also boasts beautiful landscapes with an original and ageold rock outcrop. 
+		</p>
+	</div>
 </div>
-
-Sentosa welcomes millions of visitors every year. This presents an opportunity for us to educate our visitors on the environment while they are having fun. In addition, all F&B outlets operated by SDC’s Business Units have removed shark’s fin dishes from their menus.
-
-To raise awareness on pressing environmental concerns, Sentosa also participates in global efforts to raise awareness on climate change and water sustainability. For the past six years, SDC and its island partners have supported the World Wide Fund for Nature’s Earth Hour by switching off all non-essential lighting at Sentosa landmarks and Faber Peak Singapore for an hour. In 2016, Sentosa’s waterfront also lit up in hues of blue as The State of Fun commemorated Singapore World Water Day. 
 
 #### **Adopt environmentally-sustainable designs**
 <div class="row">
@@ -111,99 +114,36 @@ To raise awareness on pressing environmental concerns, Sentosa also participates
 			<figcaption>W Singapore - Sentosa Cove, which is one of the many buildings on Sentosa with the Green Mark certifications</figcaption>
 		</figure>
 	</div> 
-</div>
+</div> 
 
-The advent of green design has highlighted methods in minimising the damage dealt to the environment through various architectural and design solutions. Many of Sentosa’s buildings are Green Mark certified, which is awarded by Singapore’s Building and Construction Authority (BCA) to environmentally-friendly buildings. 
-
-#### **Maximise efficiency in use of energy and other resources**
-<div class="row">
-    <div class="col is-12">
-        <figure>
-        <img src="/images/what-we-do/sustainable-sentosa/broad-express.jpg" alt="Image of Sentosa Broadwalk & Sentosa Express">
-            <figcaption>Our guests can walk into the island via the Sentosa Boardwalk or board the Sentosa Express</figcaption>
-        </figure>
-    </div>
-</div>
-Sentosa is exploring efficient and greener transportation methods which will reduce our carbon footprint, which includes building more sheltered walkways to encourage our visitors to explore the island by foot.
-
-#### **Develop as a centre for green innovation and test beds**
+#### **Protect and showcase island history and heritage assets**
 <div class="row">
 	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/smart-lighting.jpg" alt="Image of Connected LED street lighting, enhancing safety and energy savings (Photo credit: Philips Singapore)"/>
-			<figcaption>Connected LED street lighting, enhancing safety and energy savings (Photo credit: Philips Singapore)</figcaption>
-		</figure>
-        <figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/tidal-turbine.jpg" alt="Image of Sentosa Boardwalk Tidal Turbine, Singapore’s first low-flow tidal turbine developed by the ERI@N Institute, Nanyang Technological University (Photo credit: NTU)"/>
-			<figcaption>Sentosa Boardwalk Tidal Turbine, Singapore’s first low-flow tidal turbine developed by the ERI@N Institute, Nanyang Technological University (Photo credit: NTU)</figcaption>
-		</figure>
+		<div class="pcf-carousel items-3">
+			<!-- Hidden radio control inputs -->
+			<input type="radio" id="carousel-play"    name="pcf-carousel-3" checked>
+			<input type="radio" id="carousel-start-1" name="pcf-carousel-3">
+			<input type="radio" id="carousel-start-2" name="pcf-carousel-3">
+			<input type="radio" id="carousel-start-3" name="pcf-carousel-3">
+			<!-- Slide jump dots -->
+			<div class="pcf-carousel-dots">
+				<label for="carousel-start-1"></label>
+				<label for="carousel-start-2"></label>
+				<label for="carousel-start-3"></label>
+			</div>
+			<div class="pcf-carousel-anime-dots">
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+			<!-- Slides, repeat 1st and last slide -->
+			<div class="moving-strip">
+				<div class="pcf-carousel-item" style="background-image:url('\images\what-we-do\sustainable-sentosa\tussauds.jpg');"></div>
+				<div class="pcf-carousel-item" style="background-image:url('\images\what-we-do\sustainable-sentosa\fort-siloso.jpg');"></div>
+				<div class="pcf-carousel-item" style="background-image:url('\images\what-we-do\sustainable-sentosa\snd.jpg');"></div>
+			<!--Same image as first one-->
+				<div class="pcf-carousel-item" style="background-image:url('\images\what-we-do\sustainable-sentosa\tussauds.jpg');"></div>
+			</div>
+		</div>  
 	</div>
-	<div class="col is-6">
-        <p>
-            The island is well-positioned to be a “living laboratory” for test-bedding and green innovation. Research institutions, universities and companies are welcome to partner with us to experiment and test out suitable green ideas on the island.
-            <br>
-            In partnership with Philips Lighting, SDC has embarked on pilot-testing a new smart streetlight management system on the island. More than 250 conventional sodium streetlamps covering a distance of 3.4km along Artillery Avenue, Allanbrooke Road leading to Sentosa Cove and Bukit Manis Road were replaced.    
-        </p>
-	</div> 
-</div>
-
-#### **Promoting community-giving and encouraging corporate volunteerism**
-<div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/sentosa-gives-2016.jpg" alt="Image of Sentosa Gives 2016 – the kids enjoy a bubbly good time!"/>
-			<figcaption>Sentosa Gives 2016 – the kids enjoy a bubbly good time!</figcaption>
-		</figure>
-	</div>
-	<div class="col is-6">
-       <figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/helping.jpg" alt="Image of School groups and companies participate in native forest restoration programmes"/>
-			<figcaption>School groups and companies participate in native forest restoration programmes</figcaption>
-		</figure>
-	</div> 
-</div>
-We educate students and the wider public about Sentosa’s sustainability efforts, as well as ensure that underprivileged Singaporeans have the opportunity to experience the island’s leisure offerings. Since 2011, the island community has come together in our “Sentosa Gives” initiative during the September school holidays to welcome children from various Voluntary Welfare Organisations and charities in Singapore. The children are treated to a day of fun and activities on Sentosa.
-
-For instance, close to 3,000 underprivileged members of the community benefited from the sixth edition of this initiative in 2016. On 27 August, 1,000 children and their family members had a memorable day on Sentosa, where they visited attractions of their choice and watched performances by local stars at Singapore Rhapsodies – The Concert. From 5-9 September, close to 1,500 beneficiaries from 31 voluntary welfare organisations (VWOs) got to enjoy the ‘Sentosa Experience’ – a fun day out on the resort island, while another 139 secondary school students got the opportunity to preview a career in the tourism and leisure industry as they undertake a day of job-shadowing on The State of Fun, as part of the Youth-In-Action programme. 
-
-#### **Build corporate culture of sustainability thinking**
-<div class="row">
-    <div class="col is-12">
-        <figure style="margin:0;">
-        <img src="/images/what-we-do/sustainable-sentosa/self.jpg" alt="Image of The Sentosa Embraces Litter-Free (S.E.L.F.) Programme in action">
-            <figcaption>The Sentosa Embraces Litter-Free (S.E.L.F.) Programme in action</figcaption>
-        </figure>
-    </div>
-</div>
-
-Staff campaigns and educational talks are regularly organised to spread awareness on environmental issues. This includes inviting speakers from organisations such as the Nature Society (Singapore). We also have experiential activities, such as a regular beach cleanup for staff, to encourage everyone to appreciate environmental issues and take personal responsibility.
-
-
-#### **Create fair and beneficial business practices towards labour and community**
-
-SDC implements best practices in labour conditions, human resource practices as well as corporate governance. We provide comprehensive benefits and good work-life balance to our employees, and endeavour to foster good relations with the labour unions. We adopt ethical and transparent business practices when dealing with our Island Partners and other parties. As recognition of our ongoing efforts, SDC has won the Singapore Human Resources Institute’s annual Singapore HR Awards in various categories. 
-
-<div class="row">
-    <div class="col is-12">
-        <figure style="margin:0;">
-        <img src="/images/what-we-do/sustainable-sentosa/awards.jpg" alt="Image of Sentosa received various accolades at the annual SHRI Awards">
-            <figcaption>Sentosa received various accolades at the annual SHRI Awards</figcaption>
-        </figure>
-    </div>
-</div>
-
-#### **Generate econmic benefits for Singapore and be financially sustainable**
-
-<div class="row">
-	<div class="col is-6">
-		<p>
-            Since 1972, SDC’s mandate has been to develop and manage Sentosa as a leisure destination for locals and tourists. The annual island visitorship has grown steadily over the years to close to 20 million. Sentosa has attracted key investments over the years, including the S$7 billion integrated resort by Genting Singapore, which opened in 2010. The various businesses on the island have generated significant employment opportunities. SDC oversees the economic ecosystem on Sentosa and has various income sources to sustain operations and for re-investment back into the island. 
-        </p>
-	</div>
-	<div class="col is-6">
-       <figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/sentosa.jpg" alt="Image of  Overview of Sentosa, with Singapore’s first integrated resort – Resorts World Sentosa"/>
-			<figcaption>Overview of Sentosa, with Singapore’s first integrated resort – Resorts World Sentosa</figcaption>
-		</figure>
-	</div> 
 </div>

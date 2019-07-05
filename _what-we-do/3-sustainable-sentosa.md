@@ -228,3 +228,51 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	<br />
 	More than 1,500 underprivileged children and their families enjoyed a fun-filled Sentosa Experience in March 2018, following the launch of Sentosa Gives 2018, SDC's signature community outreach programme. Into its seventh year, Sentosa Gives 2018 treated beneficiaries from 29 social service organisations to a fun day out at some of Sentosa's most popular attractions, including KidZania Singapore, Madame Tussauds Singapore and Skyline Luge Sentosa, accompanied by over 100 hosts from SDC and island business partners. 
 </p>
+
+### **Build corporate culture of sustainability thinking **
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/self.jpg" alt="Image of SELF">
+			<figcaption>The Sentosa Embraces Litter-Free (S.E.L.F) Programme in action</figcaption>
+		</figure>
+    </div>
+	<div class="col is-6">
+		<p>
+			Staff campaigns and educational talks are regularly organised to spread awareness on environmental issues. This includes inviting speakers from organisations such as the Nature Society (Singapore). We also have experiential activities, such as a regular beach cleanup for staff called the Sentosa Embraces Litter Free (S.E.L.F), to encourage everyone to appreciate environmental issues and take personal responsibility. 
+		</p>
+	</div>
+</div>
+<p>
+	In 2018, more than 300 Sentosians, island partners and non-governmental organisations such as the Public Hygiene Council and International Coastal Cleanup Singapore, participated in the S.E.L.F programme. Held in June 2017, September 2017, and March 2018, the voluntary S.E.L.F programme saw staff going out of the office and making the effort to pick litter at Siloso Beach, Imbiah Nature Trails, and Tanjong Rimau. 
+</p>
+
+### **Create fair and beneficial business practices towards labour and community**
+<div class="row reverse-row-order">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/community.jpg" alt="Image of Org">
+			<figcaption>Organisation-wide community activities</figcaption>
+		</figure>
+    </div>
+	<div class="col is-6">
+		<p>
+			SDC implements best practices in labour conditions, human resource practices as well as corporate governance. We provide comprehensive benefits and good work-life balance to our employees, and endeavour to foster good relations with the labour unions. We adopt ethical and transparent business practices when dealing with our Island Partners and other parties. As recognition of our ongoing efforts, SDC has won the Singapore Human Resources Institute’s annual Singapore HR Awards in various categories.
+		</p>
+	</div>
+</div>
+
+### **Generate economic benefits for Singapore and be financially sustainable**
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/rws.jpg" alt="Image of RWS">
+			<figcaption>Overview of Sentosa, with Singapore's first integrated resort -  Resorts World Sentosa</figcaption>
+		</figure>
+    </div>
+	<div class="col is-6">
+		<p>
+			Since 1972, SDC’s mandate has been to develop and manage Sentosa as a leisure destination for locals and tourists. The annual island visitorship has grown steadily over the years to around 19 million. Sentosa has attracted key investments over the years, including the S$7 billion integrated resort by Genting Singapore, which opened in 2010. The various businesses on the island have generated significant employment opportunities. SDC oversees the economic ecosystem on Sentosa and has various income sources to sustain operations and for re-investment back into the island. 
+		</p>
+	</div>
+</div>

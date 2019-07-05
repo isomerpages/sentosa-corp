@@ -51,12 +51,12 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 
 #### **The Fun Odyssea: Sentosa Celebrates the  International Year of the Reef**
 <div class="row reverse-row-order">
-	<div class="col is-6">
+	<div class="col is-4">
 		<figure style="margin:0;">
 			<img src="/images/what-we-do/sustainable-sentosa/fun-odyssea.jpg" alt="Image of Fun Odyssea"/>
 		</figure>
 	</div>
-	<div class="col is-6">
+	<div class="col is-8">
 	<p>
 		To raise awareness for marine conservation and to encourage such efforts, 26 marine interest groups, conservation and research organisations including Our Singapore Reefs and Celebrating Singapore Shores linked up with SDC to jointly celebrate the third International Year of the Reef in Sentosa. 
 		<br />
@@ -69,12 +69,12 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 
 #### **Protecting Endangered Hawksbill Turtles**
 <div class="row">
-	<div class="col is-6">
+	<div class="col is-4">
 		<figure style="margin:0;">
 			<img src="/images/what-we-do/sustainable-sentosa/hawksbill-turtles.jpg" alt="Image of 2 baby Hawksbill Turtles"/>
 		</figure>
 	</div>
-	<div class="col is-6">
+	<div class="col is-8">
       <p>
 	  SDC is proud to have played a key role in contributing to the world’s population of endangered Hawksbill turtles! Following the discovery of a nest at Tanjong Beach in November 2017, various measures were put in place to ensure the safety of the Hawksbill turtle nest, to protect the eggs from natural predators like monitor lizards and crabs. SDC further worked closely with the National Parks Board to monitor the eggs daily during their incubation period. In January 2018, 111 endangered hawksbill turtles emerged from the nest and made their way into the waters!
 	  <br />
@@ -94,11 +94,10 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	<div class="col is-6">
 		<p>
 			With 40 hectares of protected nature areas, more than 20 heritage trees, over 100 recorded bird species, and a variety of walking and cycling trails on the island, Sentosa is a haven for nature lovers. To bring guests closer to the island’s hidden gems, a slew of free nature activities was launched over the year, including the inaugural Siloso Headland Intertidal Programme.
-			<br />
-			The guided programme explores Tanjong Rimau – one of Singapore’s last remaining coastal cliffs and rocky shores. Home to corals, seagrass and a wide variety of marine wildlife, Tanjong Rimau also boasts beautiful landscapes with an original and ageold rock outcrop. 
 		</p>
 	</div>
 </div>
+The guided programme explores Tanjong Rimau – one of Singapore’s last remaining coastal cliffs and rocky shores. Home to corals, seagrass and a wide variety of marine wildlife, Tanjong Rimau also boasts beautiful landscapes with an original and ageold rock outcrop. 
 
 #### **Adopt environmentally-sustainable designs**
 <div class="row">
@@ -138,12 +137,17 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 			</div>
 			<!-- Slides, repeat 1st and last slide -->
 			<div class="moving-strip">
-				<div class="pcf-carousel-item" style="background-image:url('\images\what-we-do\sustainable-sentosa\tussauds.jpg');"></div>
-				<div class="pcf-carousel-item" style="background-image:url('\images\what-we-do\sustainable-sentosa\fort-siloso.jpg');"></div>
-				<div class="pcf-carousel-item" style="background-image:url('\images\what-we-do\sustainable-sentosa\snd.jpg');"></div>
+				<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/sustainable-sentosa/tussauds.jpg');"></div>
+				<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/sustainable-sentosa/fort-siloso.jpg');"></div>
+				<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/sustainable-sentosa/snd.jpg');"></div>
 			<!--Same image as first one-->
-				<div class="pcf-carousel-item" style="background-image:url('\images\what-we-do\sustainable-sentosa\tussauds.jpg');"></div>
+				<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/sustainable-sentosa/tussauds.jpg');"></div>
 			</div>
 		</div>  
+	</div>
+	<div class="col is-6">
+	<p>
+		Singapore’s only fully-restored fort, Fort Siloso, and over 30 conserved buildings are found on the island. Pre-war buildings and unique structures are re-purposed to give a second lease of life. Some buildings were built by the British and date back to the late 1800s. Similarly, some of our iconic but defunct Sentosa monorail stations have been converted into hotels, restaurants, attractions and offices. 
+	</p>
 	</div>
 </div>

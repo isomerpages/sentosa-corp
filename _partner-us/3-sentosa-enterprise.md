@@ -27,7 +27,6 @@ Successful applicants will enjoy the co-sharing or waiver of venue rental, as we
 
 ![Image of Win-Win model](/images/partner-us/enterprise/win_win.png)
 
-
 ### How To Apply
 
 #### Application

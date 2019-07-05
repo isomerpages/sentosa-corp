@@ -113,14 +113,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 #### **Protect and showcase island history and heritage assets**
 <div class="row">
 	<div class="col is-6">
-	</div>
-	<div class="col is-6">
-	<p>
-		Singapore’s only fully-restored fort, Fort Siloso, and over 30 conserved buildings are found on the island. Pre-war buildings and unique structures are re-purposed to give a second lease of life. Some buildings were built by the British and date back to the late 1800s. Similarly, some of our iconic but defunct Sentosa monorail stations have been converted into hotels, restaurants, attractions and offices. 
-	</p>
-	</div>
-</div>
-<div class="pcf-carousel items-3">
+		<div class="pcf-carousel items-3">
 			<!-- Hidden radio control inputs -->
 			<input type="radio" id="carousel-play"    name="pcf-carousel-3" checked>
 			<input type="radio" id="carousel-start-1" name="pcf-carousel-3">
@@ -146,3 +139,10 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 				<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/sustainable-sentosa/tussauds.jpg');"></div>
 			</div>
 		</div>  
+	</div>
+	<div class="col is-6">
+	<p>
+		Singapore’s only fully-restored fort, Fort Siloso, and over 30 conserved buildings are found on the island. Pre-war buildings and unique structures are re-purposed to give a second lease of life. Some buildings were built by the British and date back to the late 1800s. Similarly, some of our iconic but defunct Sentosa monorail stations have been converted into hotels, restaurants, attractions and offices. 
+	</p>
+	</div>
+</div>

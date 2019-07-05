@@ -125,7 +125,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 		</figure>
 	</div>
 </div>
-<div class="row reverse-row-order">
+<div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/what-we-do/sustainable-sentosa/fort-siloso.jpg" alt="Image of Fort Siloso">
@@ -138,3 +138,39 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 		</p>
 	</div>
 </div>
+
+### **World Water Day**
+<div class="row row-reverse-order">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/water-day.jpg" alt="Image of Sentosa Gateway turning blue">
+			<figcaption>Raising awareness on water sustainability - Sentosa Gateway turns blue for Singapore World Water Day 2018</figcaption>
+		</figure>
+    </div>
+	<div class="col is-6">
+		<p>
+			To mark World Water Day on 22 March 2018, the island’s iconic landmarks such as the Sentosa Merlion, Sentosa Gateway Towers, Resorts World Sentosa and Sentosa Boardwalk, were lit up in blue as a show of Sentosa’s commitment towards water sustainability and its support for water conservation. The United Nations has designated 22 March as World Water Day to focus global attention on the importance of water, a critical resource that should be cherished and protected.  
+		</p>
+	</div>
+</div>
+
+### **Adopt environmentally-sustainable designs**
+<div class="row">
+	<div class="col is-6">
+		  <figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/greenwall.jpg" alt="Image of Green Wall on Sentosa Express">
+			<figcaption>The vertical greenwall along the tracks of the Sentosa Express reduces urban heat and blends in seamlessly with Sentosa's lush greenery</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/skyrise-green.jpg" alt="Image of Skyrise Green Awards 2017">
+			<figcaption>The Sentosa Express clinched the Special Award (Public Infrastructure) at the 2017 Skyrise Green Awards.</figcaption>
+		</figure>
+	</div>
+</div>
+<p>
+	The advent of green design has highlighted methods in minimising the damage dealt to the environment through various architectural and design solutions. Many of Sentosa’s buildings are Green Mark certified, which is awarded by Singapore’s Building and Construction Authority (BCA) to environmentally-friendly buildings.
+	<br />
+	In particular, the Sentosa Express clinched the Special Award (Public Infrastructure) at the 2017 Skyrise Greenery Awards. Conferred by the National Parks Board, the award recognises the innovative vertical greenwall system that is incorporated into the pillars of the Sentosa Express train track along the Sentosa Gateway. The vertical greenwall reduces the urban heat effect and blends in seamlessly with Sentosa's lush greenery and tropical environment, while also enhancing the biodiversity of the island. 
+</p>

@@ -28,14 +28,14 @@ For current available opportunities, please visit [GeBiz and search for “Sento
 <div class="row">
     <div class="col is-6">
         <figure>
-            <img src="/images/partner-us/opportunities/island-facts-size.jpg" alt="Image of Size">
+            <img src="/images/partner-us/opportunities/island-facts-size.png" alt="Image of Size">
             <figcaption class="has-text-weight-bold" style="color:#814997">500 hectares</figcaption>
             Size of Sentosa Island
         </figure>
     </div>
     <div class="col is-6">
         <figure>
-            <img src="/images/partner-us/opportunities/island-facts-visitors.jpg" alt="Image of Visitors">
+            <img src="/images/partner-us/opportunities/island-facts-visitors.png" alt="Image of Visitors">
             <figcaption class="has-text-weight-bold" style="color:#814997">20 million</figcaption>
             Annual Visitors
         </figure>
@@ -44,14 +44,14 @@ For current available opportunities, please visit [GeBiz and search for “Sento
 <div class="row">
     <div class="col is-6">
         <figure>
-            <img src="/images/partner-us/opportunities/island-facts-dining.jpg" alt="Image of Island">
+            <img src="/images/partner-us/opportunities/island-facts-dining.png" alt="Image of Island">
             <figcaption class="has-text-weight-bold" style="color:#814997">> 200</figcaption>
             F&B Establishments
         </figure>
     </div>
     <div class="col is-6">
         <figure>
-            <img src="/images/partner-us/opportunities/island-facts-attractions.jpg" alt="Image of Island">
+            <img src="/images/partner-us/opportunities/island-facts-attractions.png" alt="Image of Island">
             <figcaption class="has-text-weight-bold" style="color:#814997">> 30</figcaption>
             Attractions on Sentosa, providing a wide array of experiences
         </figure>
@@ -60,7 +60,7 @@ For current available opportunities, please visit [GeBiz and search for “Sento
 <div class="row">
     <div class="col is-6">
         <figure>
-            <img src="/images/partner-us/opportunities/island-facts-hotels.jpg" alt="Image of Island">
+            <img src="/images/partner-us/opportunities/island-facts-hotels.png" alt="Image of Island">
             <figcaption class="has-text-weight-bold" style="color:#814997">15</figcaption>
             Hotels on Sentosa, offering mid-tier to luxury accomodation
         </figure>

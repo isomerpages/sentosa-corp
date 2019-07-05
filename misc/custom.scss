@@ -8,11 +8,12 @@ $primary: #f48123;
 $secondary: #f48123;
 $secondary-hover: darken($secondary, 10%);
 
-$media-color-one: #FFFFFF;
-$media-color-two: #5C5CA5;
-$media-color-three: #F8A909;
-$media-color-four: #37BCEB;
-$media-color-five: #00878C;
+// based on navigation
+$media-color-one: #FFFFFF; // for all
+$media-color-two: #5C5CA5; // annual report
+$media-color-three: #00878C; // news
+$media-color-four: #37BCEB; // media advisory
+$media-color-five: #F8A909; // event listing
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;

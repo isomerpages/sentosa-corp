@@ -229,7 +229,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	More than 1,500 underprivileged children and their families enjoyed a fun-filled Sentosa Experience in March 2018, following the launch of Sentosa Gives 2018, SDC's signature community outreach programme. Into its seventh year, Sentosa Gives 2018 treated beneficiaries from 29 social service organisations to a fun day out at some of Sentosa's most popular attractions, including KidZania Singapore, Madame Tussauds Singapore and Skyline Luge Sentosa, accompanied by over 100 hosts from SDC and island business partners. 
 </p>
 
-### **Build corporate culture of sustainability thinking **
+### **Build corporate culture of sustainability thinking**
 <div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
@@ -257,10 +257,13 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
     </div>
 	<div class="col is-6">
 		<p>
-			SDC implements best practices in labour conditions, human resource practices as well as corporate governance. We provide comprehensive benefits and good work-life balance to our employees, and endeavour to foster good relations with the labour unions. We adopt ethical and transparent business practices when dealing with our Island Partners and other parties. As recognition of our ongoing efforts, SDC has won the Singapore Human Resources Institute’s annual Singapore HR Awards in various categories.
+			SDC implements best practices in labour conditions, human resource practices as well as corporate governance. We provide comprehensive benefits and good work-life balance to our employees, and endeavour to foster good relations with the labour unions.
 		</p>
 	</div>
 </div>
+<p>
+	We adopt ethical and transparent business practices when dealing with our Island Partners and other parties. As recognition of our ongoing efforts, SDC has won the Singapore Human Resources Institute’s annual Singapore HR Awards in various categories.
+</p>
 
 ### **Generate economic benefits for Singapore and be financially sustainable**
 <div class="row">
@@ -272,7 +275,10 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
     </div>
 	<div class="col is-6">
 		<p>
-			Since 1972, SDC’s mandate has been to develop and manage Sentosa as a leisure destination for locals and tourists. The annual island visitorship has grown steadily over the years to around 19 million. Sentosa has attracted key investments over the years, including the S$7 billion integrated resort by Genting Singapore, which opened in 2010. The various businesses on the island have generated significant employment opportunities. SDC oversees the economic ecosystem on Sentosa and has various income sources to sustain operations and for re-investment back into the island. 
+			Since 1972, SDC’s mandate has been to develop and manage Sentosa as a leisure destination for locals and tourists. The annual island visitorship has grown steadily over the years to around 19 million. Sentosa has attracted key investments over the years, including the S$7 billion integrated resort by Genting Singapore, which opened in 2010.
 		</p>
 	</div>
 </div>
+<p>
+	The various businesses on the island have generated significant employment opportunities. SDC oversees the economic ecosystem on Sentosa and has various income sources to sustain operations and for re-investment back into the island. 
+</p>

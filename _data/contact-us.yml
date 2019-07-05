@@ -42,9 +42,9 @@ column:
 
   - title: eServices
     content:
-    - line: <a href="https://www.sentosa.com.sg/Career">Careers@Sentosa Development Corporation</a>
-    - line: <a href="https://eservices.sentosa.com.sg/Fines">Online Payment System</a>
-    - line: <a href="https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search">GeBiz Opportunities</a>
+    - line: <a href="https://www.sentosa.com.sg/Career" target="_blank">Careers@Sentosa Development Corporation</a>
+    - line: <a href="https://eservices.sentosa.com.sg/Fines" target="_blank">Online Payment System</a>
+    - line: <a href="https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search" target="_blank">GeBiz Opportunities</a>
 
 #  - title: 
 #    content:

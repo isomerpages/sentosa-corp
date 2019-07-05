@@ -113,36 +113,28 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 #### **Protect and showcase island history and heritage assets**
 <div class="row">
 	<div class="col is-6">
-		<div class="pcf-carousel items-3">
-			<!-- Hidden radio control inputs -->
-			<input type="radio" id="carousel-play"    name="pcf-carousel-3" checked>
-			<input type="radio" id="carousel-start-1" name="pcf-carousel-3">
-			<input type="radio" id="carousel-start-2" name="pcf-carousel-3">
-			<input type="radio" id="carousel-start-3" name="pcf-carousel-3">
-			<!-- Slide jump dots -->
-			<div class="pcf-carousel-dots">
-				<label for="carousel-start-1"></label>
-				<label for="carousel-start-2"></label>
-				<label for="carousel-start-3"></label>
-			</div>
-			<div class="pcf-carousel-anime-dots">
-				<div></div>
-				<div></div>
-				<div></div>
-			</div>
-			<!-- Slides, repeat 1st and last slide -->
-			<div class="moving-strip">
-				<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/sustainable-sentosa/tussauds.jpg');"></div>
-				<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/sustainable-sentosa/fort-siloso.jpg');"></div>
-				<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/sustainable-sentosa/snd.jpg');"></div>
-			<!--Same image as first one-->
-				<div class="pcf-carousel-item" style="background-image:url('/images/what-we-do/sustainable-sentosa/tussauds.jpg');"></div>
-			</div>
-		</div>  
+		  <figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/tussauds.jpg" alt="Image of Madame Tussauds">
+			<figcaption>Madame Tussauds Singapore at Imbiah Lookout (former British Military Hospital)</figcaption>
+		</figure>
 	</div>
 	<div class="col is-6">
-	<p>
-		Singapore’s only fully-restored fort, Fort Siloso, and over 30 conserved buildings are found on the island. Pre-war buildings and unique structures are re-purposed to give a second lease of life. Some buildings were built by the British and date back to the late 1800s. Similarly, some of our iconic but defunct Sentosa monorail stations have been converted into hotels, restaurants, attractions and offices. 
-	</p>
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/snd.jpg" alt="Image of Sentosa Nature Discovery">
+			<figcaption>Sentosa Nature Discovery (previously Imbiah Monorail station)</figcaption>
+		</figure>
+	</div>
+</div>
+<div class="row reverse-row-order">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/fort-siloso.jpg" alt="Image of Fort Siloso">
+			<figcaption>Fort Siloso, Singapore's only fully-restored military fort</figcaption>
+		</figure>
+    </div>
+	<div class="col is-6">
+		<p>
+			Singapore’s only fully-restored fort, Fort Siloso, and over 30 conserved buildings are found on the island. Pre-war buildings and unique structures are re-purposed to give a second lease of life. Some buildings were built by the British and date back to the late 1800s. Similarly, some of our iconic but defunct Sentosa monorail stations have been converted into hotels, restaurants, attractions and offices. 
+		</p>
 	</div>
 </div>

@@ -5,8 +5,9 @@ permalink: /what-we-do/sustainable-sentosa/
 breadcrumb: Sustainable Sentosa
 collection_name: what-we-do
 ---
+
  <head>
-  <link rel="stylesheet" type="text/css" href="pch-carousel.css">
+  <link rel="stylesheet" type="text/css" href="/misc/pch-carousel.css">
 </head> 
 
 ### **Developing a Sustainable Leisure and Tourism Destination**

@@ -140,7 +140,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 </div>
 
 ### **World Water Day**
-<div class="row row-reverse-order">
+<div class="row reverse-row-order">
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/what-we-do/sustainable-sentosa/water-day.jpg" alt="Image of Sentosa Gateway turning blue">
@@ -173,4 +173,58 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	The advent of green design has highlighted methods in minimising the damage dealt to the environment through various architectural and design solutions. Many of Sentosa’s buildings are Green Mark certified, which is awarded by Singapore’s Building and Construction Authority (BCA) to environmentally-friendly buildings.
 	<br />
 	In particular, the Sentosa Express clinched the Special Award (Public Infrastructure) at the 2017 Skyrise Greenery Awards. Conferred by the National Parks Board, the award recognises the innovative vertical greenwall system that is incorporated into the pillars of the Sentosa Express train track along the Sentosa Gateway. The vertical greenwall reduces the urban heat effect and blends in seamlessly with Sentosa's lush greenery and tropical environment, while also enhancing the biodiversity of the island. 
+</p>
+
+### **Maximise efficiency in use of energy and other resources**
+<div class="row reverse-row-order">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/boardwalk.jpg" alt="Image of Sentosa Boardwalk">
+			<figcaption>Our guests can walk into the island via the Sentosa Boardwalk or board the Sentosa Express</figcaption>
+		</figure>
+    </div>
+	<div class="col is-6">
+		<p>
+			Sentosa is exploring efficient and greener transportation methods which will reduce our carbon footprint, which includes building more sheltered walkways to encourage our visitors to explore the island by foot.  
+		</p>
+	</div>
+</div>
+
+### **Maximise efficiency in use of energy and other resources**
+<div class="row">
+    <div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/mako.jpg" alt="Image of MAKO">
+			<figcaption>MAKO Tidal Turbine</figcaption>
+		</figure>
+    </div>
+	<div class="col is-6">
+		<p>
+			The island is well-positioned to be a “living laboratory” for test-bedding and green innovation. Research institutions, universities and companies are welcome to partner with us to experiment and test out suitable green ideas on the island.
+		</p>
+	</div>
+</div>
+<p>
+	In 2018, NYK and MTI Co. Ltd. have reached an agreement to participate in a long-term demonstration of tidal energy that is sponsored by MAKO Energy Pte. Ltd. and SDC. This is the first demonstration of tidal energy to be undertaken in Singapore. MAKO Turbines installed under the Sentosa Boardwalk enables the testing of power generation efficiency, the cost of power generation and storage for a period of two years. 
+</p>
+
+### **Promoting community-giving and encouraging corporate volunteerism**
+<div class="row">
+	<div class="col is-6">
+		  <figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/sen-gives.jpg" alt="Image of Sentosa Gives logo">
+			<figcaption>Sentosa Gives</figcaption>
+		</figure>
+	</div>
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/sustainable-sentosa/sen-gives-18.jpg" alt="Image of Sentosa Gives 2018">
+			<figcaption>Kids enjoying an acapella performance at Kidzania during Sentosa Gives 2018</figcaption>
+		</figure>
+	</div>
+</div>
+<p>
+	We educate students and the wider public about Sentosa’s sustainability efforts, as well as ensure that underprivileged Singaporeans have the opportunity to experience the island’s leisure offerings. Since 2011, the island community has come together in our “Sentosa Gives” initiative during the September school holidays to welcome children from various Voluntary Welfare Organisations and charities in Singapore. The children are treated to a day of fun and activities on Sentosa. 
+	<br />
+	More than 1,500 underprivileged children and their families enjoyed a fun-filled Sentosa Experience in March 2018, following the launch of Sentosa Gives 2018, SDC's signature community outreach programme. Into its seventh year, Sentosa Gives 2018 treated beneficiaries from 29 social service organisations to a fun day out at some of Sentosa's most popular attractions, including KidZania Singapore, Madame Tussauds Singapore and Skyline Luge Sentosa, accompanied by over 100 hosts from SDC and island business partners. 
 </p>

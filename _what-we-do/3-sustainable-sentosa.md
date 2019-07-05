@@ -5,6 +5,9 @@ permalink: /what-we-do/sustainable-sentosa/
 breadcrumb: Sustainable Sentosa
 collection_name: what-we-do
 ---
+ <head>
+  <link rel="stylesheet" type="text/css" href="pch-carousel.css">
+</head> 
 
 ### **Developing a Sustainable Leisure and Tourism Destination**
 SDC strives to develop the resort island as a leading leisure and tourism destination in a sustainable manner. While the past few decades have seen rapid changes to the island with extensive development works, many parts of Sentosa still retain the original tranquil and green environment.
@@ -51,21 +54,23 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 
 #### **The Fun Odyssea: Sentosa Celebrates the  International Year of the Reef**
 <div class="row reverse-row-order">
-	<div class="col is-4">
+	<div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/what-we-do/sustainable-sentosa/fun-odyssea.jpg" alt="Image of Fun Odyssea"/>
 		</figure>
 	</div>
-	<div class="col is-8">
-	<p>
-		To raise awareness for marine conservation and to encourage such efforts, 26 marine interest groups, conservation and research organisations including Our Singapore Reefs and Celebrating Singapore Shores linked up with SDC to jointly celebrate the third International Year of the Reef in Sentosa. 
-		<br />
-		Held at the Palawan Pirate Ship from 17 to 18 March 2018, The Fun Odyssea was a free celebratory event that offered insights into Singapore’s shores, marine biodiversity and environmental issues through hands-on activities, interactive booths, and movie screenings. 
-		<br />
-		The opening ceremony was graced by Guest-of-Honour, Mr Andrew Tan, Chief Executive of Maritime and Port Authority of Singapore. Guests at the event also had the chance to sign up for the free guided intertidal tours to the unique Siloso Headland, which is home to corals, seagrass, and a wide variety of marine life. 
-	</p>
+	<div class="col is-6">
+		<p>
+			To raise awareness for marine conservation and to encourage such efforts, 26 marine interest groups, conservation and research organisations including Our Singapore Reefs and Celebrating Singapore Shores linked up with SDC to jointly celebrate the third International Year of the Reef in Sentosa. 
+			<br />
+		</p>
 	</div>
 </div>
+<p>
+	Held at the Palawan Pirate Ship from 17 to 18 March 2018, The Fun Odyssea was a free celebratory event that offered insights into Singapore’s shores, marine biodiversity and environmental issues through hands-on activities, interactive booths, and movie screenings. 
+	<br />
+	The opening ceremony was graced by Guest-of-Honour, Mr Andrew Tan, Chief Executive of Maritime and Port Authority of Singapore. Guests at the event also had the chance to sign up for the free guided intertidal tours to the unique Siloso Headland, which is home to corals, seagrass, and a wide variety of marine life. 
+</p>
 
 #### **Protecting Endangered Hawksbill Turtles**
 <div class="row">
@@ -76,12 +81,15 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	</div>
 	<div class="col is-8">
       <p>
-	  SDC is proud to have played a key role in contributing to the world’s population of endangered Hawksbill turtles! Following the discovery of a nest at Tanjong Beach in November 2017, various measures were put in place to ensure the safety of the Hawksbill turtle nest, to protect the eggs from natural predators like monitor lizards and crabs. SDC further worked closely with the National Parks Board to monitor the eggs daily during their incubation period. In January 2018, 111 endangered hawksbill turtles emerged from the nest and made their way into the waters!
-	  <br />
-	  Later on in the same year, another batch of 102 eggs hatched at Tanjong Beach in September 2018, about two months after the eggs were first found. 
+	  	SDC is proud to have played a key role in contributing to the world’s population of endangered Hawksbill turtles! Following the discovery of a nest at Tanjong Beach in November 2017, various measures were put in place to ensure the safety of the Hawksbill turtle nest, to protect the eggs from natural predators like monitor lizards and crabs. SDC further worked closely with the National Parks Board to monitor the eggs daily during their incubation period.
 	  </p>
 	</div>
 </div>
+<p>
+	In January 2018, 111 endangered hawksbill turtles emerged from the nest and made their way into the waters!
+	<br />
+	Later on in the same year, another batch of 102 eggs hatched at Tanjong Beach in September 2018, about two months after the eggs were first found. 
+</p>
 
 #### **Natural Treasures of Sentosa**
 <div class="row reverse-row-order">
@@ -97,23 +105,9 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 		</p>
 	</div>
 </div>
-The guided programme explores Tanjong Rimau – one of Singapore’s last remaining coastal cliffs and rocky shores. Home to corals, seagrass and a wide variety of marine wildlife, Tanjong Rimau also boasts beautiful landscapes with an original and ageold rock outcrop. 
-
-#### **Adopt environmentally-sustainable designs**
-<div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/capella.jpg" alt="Image of Capella"/>
-			<figcaption>Intergating resort design with the natural terrain and landscape - the pools in Capella Singapore Resort follow the natural curves of the hill topology</figcaption>
-		</figure>
-	</div>
-	<div class="col is-6">
-       <figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/w-sg.jpg" alt="Image of  W Singapore - Sentosa Cove"/>
-			<figcaption>W Singapore - Sentosa Cove, which is one of the many buildings on Sentosa with the Green Mark certifications</figcaption>
-		</figure>
-	</div> 
-</div> 
+<p>
+	The guided programme explores Tanjong Rimau – one of Singapore’s last remaining coastal cliffs and rocky shores. Home to corals, seagrass and a wide variety of marine wildlife, Tanjong Rimau also boasts beautiful landscapes with an original and ageold rock outcrop. 
+</p>
 
 #### **Protect and showcase island history and heritage assets**
 <div class="row">

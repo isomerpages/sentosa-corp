@@ -11,6 +11,8 @@
     url: /who-we-are/overview/
   - title: Organisational Structure
     url: /who-we-are/organisational-structure/
+  - title: Subsidiaries
+    url: /who-we-are/subsidiaries
   - title: Our Brands
     url: /who-we-are/our-brands/
   - title: Our Milestones
@@ -33,6 +35,8 @@
     url: /partner-us/collaborations/
   - title: Opportunities
     url: /partner-us/opportunities/
+  - title: Sentosa x Enterprise
+    url: /partner-us/sentosa-enterprise/
 - title: Resources
   url: /resources/
   sub-links:
@@ -40,7 +44,17 @@
     url: /resources/
   - title: Annual Reports
     url: /resources/annual-reports/
-  - title: News And Events
-    url: /resources/news-and-events/
+  - title: News
+    url: /resources/news/
+  - title: Media Advisory
+    url: /resources/media-advisory
+  - title: Event Listings
+    url: /resources/event-listings
 - title: Contact Us
   url: /contact-us/
+  
+#- title: Collection Name
+#  url: /collection-name/page-name/
+#  sub-links:
+#  - title: Page Name
+#    url: /collection-name/page-name/

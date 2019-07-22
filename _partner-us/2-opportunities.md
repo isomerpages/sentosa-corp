@@ -62,7 +62,7 @@ For current available opportunities, please visit [GeBiz and search for “Sento
         <figure>
             <img src="/images/partner-us/opportunities/island-facts-hotels.png" alt="Image of Island">
             <figcaption class="has-text-weight-bold" style="color:#814997">15</figcaption>
-            Hotels on Sentosa, offering mid-tier to luxury accomodation
+            Hotels on Sentosa, offering mid-tier to luxury accommodation
         </figure>
     </div>
 </div>

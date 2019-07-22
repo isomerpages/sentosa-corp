@@ -15,10 +15,6 @@
     url: /who-we-are/subsidiaries
   - title: Our Brands
     url: /who-we-are/our-brands/
-  - title: Our Milestones
-    url: /who-we-are/our-milestones/
-  - title: Awards And Accolades
-    url: /who-we-are/awards-and-accolades/
 - title: What We Do
   url: /what-we-do/fun-sentosa/
   sub-links:
@@ -46,8 +42,8 @@
     url: /resources/annual-reports/
   - title: News
     url: /resources/news/
-  - title: Media Advisory
-    url: /resources/media-advisory
+  - title: Media Advisories
+    url: /resources/media-advisories
   - title: Event Listings
     url: /resources/event-listings
 - title: Contact Us

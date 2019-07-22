@@ -2,5 +2,5 @@
 layout: post
 title:  Sentosa to be more accessible with expansion of public transport network into the island
 date:   2017-07-20
-file_url: /resources/media-advisory/files/20170717-Media_Advisory-Sentosa-to-be-more-accessible-to-guests-with-exp.pdf
+file_url: /resources/media-advisories/files/20170717-Media_Advisory-Sentosa-to-be-more-accessible-to-guests-with-exp.pdf
 ---

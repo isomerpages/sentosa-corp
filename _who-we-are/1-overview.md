@@ -19,7 +19,7 @@ Unique among leisure destinations, Sentosa (meaning peace and tranquility in Mal
 ### **Sentosa Development Corporation**
 
 
-Sentosa Development Corporation (SDC) was established on 1 September 1972 as a Statutory Board under the Ministry of Trade and Industry. Its charter since inception has been to oversee the development, management, marketing and promotion of the island of Sentosa as a resort destination for locals and tourists. Sentosa is a premier leisure and lifestyle destination with an exciting array of themed attractions, award-winning spa retreats, lush rainforests, golden sandy beaches, resort accommodations, world-renowned championship golf courses, exclusive waterfront residences and a deep-water yachting marina, making Sentosa a vibrant island resort with multi-faceted appeal catering to both leisure and business visitors. SDC also owns Singapore's only cable car sky network which connects from mainland Singapore to Sentosa and across the island to its Western end at Siloso Point. Making Sentosa its home, too, is Singapore’s first integrated resort, Resorts World Sentosa, which operates South East Asia’s first Universal Studios theme park and the S.E.A. Aquarium – one of the largest aquariums in the world.
+Sentosa Development Corporation (SDC) was established on 1 September 1972 as a Statutory Board under the Ministry of Trade and Industry. Its charter since inception has been to oversee the development, management, marketing and promotion of the island of Sentosa as a resort destination for locals and tourists. Sentosa is a premier leisure and lifestyle destination with an exciting array of themed attractions, award-winning spa retreats, lush rainforests, golden sandy beaches, resort accommodations, world-renowned championship golf courses, exclusive waterfront residences and a deep-water yachting marina, making Sentosa a vibrant island resort with multi-faceted appeal catering to both leisure and business visitors. SDC also owns Singapore's only cable car sky network which connects from mainland Singapore to Sentosa and across the island to its western end at Siloso Point. Making Sentosa its home, too, is Singapore’s first integrated resort, Resorts World Sentosa, which operates South East Asia’s first Universal Studios theme park and the S.E.A. Aquarium – one of the largest aquariums in the world.
 
 
 ### **Vision, Mission & Values**
@@ -33,7 +33,7 @@ To create the Sentosa Experience through outstanding service and unique offering
 ##### **Sentosa STAR Values**
 Sentosa continually strives to enhance its level of service to offer our guests a memorable experience at The State of Fun. The Sentosa STAR values reflect our commitment in providing service from the heart.
 
-* Service Serve from the heart and enjoy it!
-* Teamwork Care for one another & build trust and respect
-* Acting with Integrity Be professional and honest
-* Results Oriented Be innovative and decisive to make things happen
+* Service: Serve from the heart and enjoy it!
+* Teamwork: Care for one another & build trust and respect
+* Acting: with Integrity Be professional and honest
+* Results-Oriented: Be innovative and decisive to make things happen

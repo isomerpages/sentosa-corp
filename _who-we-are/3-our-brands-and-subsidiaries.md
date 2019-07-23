@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Brands
-permalink: /who-we-are/our-brands/
+permalink: /who-we-are/our-brands-and-subsidiaries
 breadcrumb: Our Brands
 collection_name: who-we-are
 ---

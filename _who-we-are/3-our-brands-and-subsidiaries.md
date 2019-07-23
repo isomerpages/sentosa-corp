@@ -25,7 +25,7 @@ Considered by many as one of Asia's most exclusive golf clubs with two award-win
 
 The grounds of the Sentosa Golf Club provide golfers with the spectacular view of Singapore’s skyline and port, with its unrivaled geographical position at the southern tip of Singapore. The Club manages two award-winning 18-holes, par-72 championship golf courses on the island - The Serapong, which is ranked 58th in the World's 100 Greatest Golf Courses by Golf Digest, and The Tanjong. SGC hosts the SMBC Singapore Open, where international star players and world-class golf professionals from Asia, Europe and the USA descend on its championship greens to putt for the prize purse of Singapore's national tournament It is also home to the HSBC Women's World Championship, a marquee women's golf event that has been dubbed as ‘Asia’s Major'.
 
-![Image of SCRM logo](/images/who-we-are/our-brands/OurBrands-SentosaCove.png)
+![Image of SCRM logo](/images/who-we-are/our-brands/OurBrands-SentosaCove.jpg)
 
 One of the world's most prestigious integrated oceanfront marina residential communities, Sentosa Cove is the centrepiece of Singapore's billion-dollar Master Plan for Sentosa Island. As a cutting-edge waterfront development, Sentosa Cove has etched Singapore on the map of luxury marina living. Today, Sentosa Cove is one of the most coveted luxurious residential properties in Asia and offers Singapore’s only truly oceanfront residences with more than 2,500 villas, waterway bungalows, hillside mansions and upscale condominiums.
 

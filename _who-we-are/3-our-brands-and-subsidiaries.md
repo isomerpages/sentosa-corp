@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Our Brands
+title: Our Brands and Subsidiaries
 permalink: /who-we-are/our-brands-and-subsidiaries
-breadcrumb: Our Brands
+breadcrumb: Our Brands and Subsidiaries
 collection_name: who-we-are
 ---
 

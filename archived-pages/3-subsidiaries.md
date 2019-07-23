@@ -1,9 +1,6 @@
 ---
 layout: leftnav-page-content 
 title: Subsidiaries
-permalink: /who-we-are/subsidiaries/ 
-breadcrumb: Subsidiaries
-collection_name: who-we-are 
 ---
 ### **SDC and Subsidiaries**
 <div class="row">

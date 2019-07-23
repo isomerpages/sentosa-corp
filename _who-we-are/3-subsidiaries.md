@@ -20,7 +20,7 @@ collection_name: who-we-are
         <figure style="margin:0;">
             <img src="/images/who-we-are/subsidiaries/sentosacove.png" />
             <figcaption style="margin-top:0.5rem;">
-                <h4>Sentosa Cove</h4>
+                <h4>Sentosa Cove Resort Management</h4>
                 <a href="http://www.sentosacove.com/" target="_blank">Discover Sentosa Cove Singapore</a>
             </figcaption>
         </figure>

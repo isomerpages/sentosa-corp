@@ -38,12 +38,13 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrAndewLim.jpeg" alt="Andrew LIM">
+        <img src="/images/who-we-are/organisational-structure/MrAndrewLim.jpeg" alt="Andrew LIM">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andrew LIM</p>
         <strong>
-        Partner and Co-Head of Coporate Mergers Acquisitions
+        Partner and Co-Head of 
+        <br>Coporate Mergers Acquisitions
         </strong>
         <br>Allen and Gledhill
     </div>

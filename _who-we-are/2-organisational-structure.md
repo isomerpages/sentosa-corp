@@ -44,7 +44,7 @@ collection_name: who-we-are
         <p class="title is-4">Andrew LIM</p>
         <strong>
         Partner and Co-Head of 
-        <br>Coporate Mergers Acquisitions
+        <br>Corporate Mergers Acquisitions
         </strong>
         <br>Allen and Gledhill
     </div>

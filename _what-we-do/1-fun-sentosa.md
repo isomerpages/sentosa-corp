@@ -31,7 +31,7 @@ Catering to different facades of fun, Sentosa’s development plans are carved o
 		</figure>
 	</div>
 </div>
-The Imbiah Lookout area currently offers an eclectic mix of both active as well as passive nature-based experiences. These range from the adrenaline pumping MegaZip and Skyline Luge ride set against the natural terrain of Imbiah, to the culturally-rich Images of Singapore LIVE! and educational Sentosa Nature Discovery, where guests can explore the island’s rich biodiversity and walking trails. Easily accessible via the Sentosa Express and Singapore Cable Car Sky Network, the hub also offers various retail and food and beverage (F&B) options.
+The Imbiah Lookout area currently offers an eclectic mix of both active as well as passive nature-based experiences. These range from the adrenaline pumping Mega Adventure Park and Skyline Luge ride set against the natural terrain of Imbiah, to the culturally-rich Images of Singapore LIVE! and educational Sentosa Nature Discovery, where guests can explore the island’s rich biodiversity and walking trails. Easily accessible via the Sentosa Express and Singapore Cable Car Sky Network, the hub also offers various retail and food and beverage (F&B) options.
 
 #### **Siloso Beach**
 
@@ -57,7 +57,7 @@ Siloso Beach is a novel sporting venue with a wide range of thrilling and advent
 		</figure>
 	</div>
 </div>
-A happy family is one that plays and bonds together. Set against a tropical beach landscape, Sentosa’s Palawan Beach is dedicated to family-centric activities. Among various offerings, the beach is home Palawan Kidz City. The City hosts KidZania Singapore – the world-renowned children role-play attraction. With a host of family-friendly amenities and activities that cater to every member of the family, Palawan Beach offers families fun and enriching learning experiences through play. 
+A happy family is one that plays and bonds together. Set against a tropical beach landscape, Sentosa’s Palawan Beach is dedicated to family-centric activities. Among various offerings, the beach is home Palawan Kidz City, which hosts KidZania Singapore – the world-renowned children role-play attraction. With a host of family-friendly amenities and activities that cater to every member of the family, Palawan Beach offers families fun and enriching learning experiences through play. 
 
 #### **Tanjong Beach**
 

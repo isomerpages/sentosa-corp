@@ -48,7 +48,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
    * An award-winning eco-hotel, Siloso Beach Resort
    * Developing the Sentosa Boardwalk, which is a pedestrian walkway with various sustainability features to connect the island to the Singapore mainland
    * Partnering MAKO Energy to harness tidal energy by installing turbines at Sentosa Boardwalk to convert the kinetic energy in flowing water into electricity for local use or for charging batteries. 
-   * Sentosa Express wins Special Award (Public Infrastructure) at 2017 Skyrise Greenery Awards 
+   * Sentosa Express won the Special Award (Public Infrastructure) at the 2017 Skyrise Greenery Awards 
    * Running the annual island-wide “Sentosa Gives” corporate social responsibility week in September since 2011
 
 ---
@@ -205,7 +205,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	</div>
 </div>
 <p>
-	In 2018, NYK and MTI Co. Ltd. have reached an agreement to participate in a long-term demonstration of tidal energy that is sponsored by MAKO Energy Pte. Ltd. and SDC. This is the first demonstration of tidal energy to be undertaken in Singapore. MAKO Turbines installed under the Sentosa Boardwalk enables the testing of power generation efficiency, the cost of power generation and storage for a period of two years. 
+	In 2018, NYK and MTI Co. Ltd. reached an agreement to participate in a long-term demonstration of tidal energy that is sponsored by MAKO Energy Pte. Ltd. and SDC. This is the first demonstration of tidal energy to be undertaken in Singapore. MAKO Turbines installed under the Sentosa Boardwalk enables the testing of power generation efficiency, the cost of power generation and storage for a period of two years. 
 </p>
 
 ### **Promoting community-giving and encouraging corporate volunteerism**
@@ -224,9 +224,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	</div>
 </div>
 <p>
-	We educate students and the wider public about Sentosa’s sustainability efforts, as well as ensure that underprivileged Singaporeans have the opportunity to experience the island’s leisure offerings. Since 2011, the island community has come together in our “Sentosa Gives” initiative during the September school holidays to welcome children from various Voluntary Welfare Organisations and charities in Singapore. The children are treated to a day of fun and activities on Sentosa. 
-	<br />
-	More than 1,500 underprivileged children and their families enjoyed a fun-filled Sentosa Experience in March 2018, following the launch of Sentosa Gives 2018, SDC's signature community outreach programme. Into its seventh year, Sentosa Gives 2018 treated beneficiaries from 29 social service organisations to a fun day out at some of Sentosa's most popular attractions, including KidZania Singapore, Madame Tussauds Singapore and Skyline Luge Sentosa, accompanied by over 100 hosts from SDC and island business partners. 
+	We educate students and the wider public about Sentosa’s sustainability efforts, as well as ensure that underprivileged Singaporeans have the opportunity to experience the island’s leisure offerings. Since 2011, the island community has come together in our “Sentosa Gives” initiative annually to welcome beneficiaries from various Voluntary Welfare Organisations and charities in Singapore, with beneficiaries treated to a day of fun and activities on Sentosa. 
 </p>
 
 ### **Build corporate culture of sustainability thinking**
@@ -239,13 +237,8 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
     </div>
 	<div class="col is-6">
 		<p>
-			Staff campaigns and educational talks are regularly organised to spread awareness on environmental issues. This includes inviting speakers from organisations such as the Nature Society (Singapore). We also have experiential activities, such as a regular beach cleanup for staff called the Sentosa Embraces Litter Free (S.E.L.F), to encourage everyone to appreciate environmental issues and take personal responsibility. 
+			Staff campaigns and educational talks are regularly organised to spread awareness on environmental issues. These include inviting speakers from organisations such as the Nature Society (Singapore). We also have experiential activities, such as a regular litter picking programme called *Sentosa Embraces Litter Free (S.E.L.F)*, to encourage everyone to appreciate environmental issues and take personal responsibility. 
 		</p>
-	</div>
-</div>
-<p>
-	In 2018, more than 300 Sentosians, island partners and non-governmental organisations such as the Public Hygiene Council and International Coastal Cleanup Singapore, participated in the S.E.L.F programme. Held in June 2017, September 2017, and March 2018, the voluntary S.E.L.F programme saw staff going out of the office and making the effort to pick litter at Siloso Beach, Imbiah Nature Trails, and Tanjong Rimau. 
-</p>
 
 ### **Create fair and beneficial business practices towards labour and community**
 <div class="row reverse-row-order">
@@ -275,7 +268,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
     </div>
 	<div class="col is-6">
 		<p>
-			Since 1972, SDC’s mandate has been to develop and manage Sentosa as a leisure destination for locals and tourists. The annual island visitorship has grown steadily over the years to around 19 million. Sentosa has attracted key investments over the years, including the S$7 billion integrated resort by Genting Singapore, which opened in 2010.
+			Since 1972, SDC’s mandate has been to develop and manage Sentosa as a leisure destination for locals and tourists. The annual island visitorship has grown steadily over the years to around 19 million.
 		</p>
 	</div>
 </div>

@@ -36,7 +36,7 @@ For current available opportunities, please visit [GeBiz and search for “Sento
     <div class="col is-6">
         <figure>
             <img src="/images/partner-us/opportunities/island-facts-visitors.png" alt="Image of Visitors">
-            <figcaption class="has-text-weight-bold" style="color:#814997">20 million</figcaption>
+            <figcaption class="has-text-weight-bold" style="color:#814997">19 million</figcaption>
             Annual Visitors
         </figure>
     </div>

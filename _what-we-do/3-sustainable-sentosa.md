@@ -238,8 +238,9 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	<div class="col is-6">
 		<p>
 			Staff campaigns and educational talks are regularly organised to spread awareness on environmental issues. These include inviting speakers from organisations such as the Nature Society (Singapore). We also have experiential activities, such as a regular litter picking programme called *Sentosa Embraces Litter Free (S.E.L.F)*, to encourage everyone to appreciate environmental issues and take personal responsibility. 
-</p>
+		</p>
 	</div>
+</div>
 
 ### **Create fair and beneficial business practices towards labour and community**
 <div class="row">

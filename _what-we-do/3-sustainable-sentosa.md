@@ -241,7 +241,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 </p>
 
 ### **Create fair and beneficial business practices towards labour and community**
-<div class="row reverse-row-order">
+<div class="row">
     <div class="col is-6">
 		<figure style="margin:0;">
 			<img src="/images/what-we-do/sustainable-sentosa/community.jpg" alt="Image of Org">

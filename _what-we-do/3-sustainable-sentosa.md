@@ -239,6 +239,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 		<p>
 			Staff campaigns and educational talks are regularly organised to spread awareness on environmental issues. These include inviting speakers from organisations such as the Nature Society (Singapore). We also have experiential activities, such as a regular litter picking programme called *Sentosa Embraces Litter Free (S.E.L.F)*, to encourage everyone to appreciate environmental issues and take personal responsibility. 
 </p>
+	</div>
 
 ### **Create fair and beneficial business practices towards labour and community**
 <div class="row">
@@ -250,12 +251,11 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
     </div>
 	<div class="col is-6">
 		<p>
-			SDC implements best practices in labour conditions, human resource practices as well as corporate governance. We provide comprehensive benefits and good work-life balance to our employees, and endeavour to foster good relations with the labour unions.
+		SDC implements best practices in labour conditions, human resource practices as well as corporate governance. We provide comprehensive benefits and good work-life balance to our employees, and endeavour to foster good relations with the labour unions.
 		</p>
 	</div>
 </div>
-<p>
-	We adopt ethical and transparent business practices when dealing with our Island Partners and other parties. As recognition of our ongoing efforts, SDC has won the Singapore Human Resources Institute’s annual Singapore HR Awards in various categories.
+<p>We adopt ethical and transparent business practices when dealing with our Island Partners and other parties. As recognition of our ongoing efforts, SDC has won the Singapore Human Resources Institute’s annual Singapore HR Awards in various categories.
 </p>
 
 ### **Generate economic benefits for Singapore and be financially sustainable**

@@ -130,8 +130,8 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Eugene LEONG</p>
-        <strong>Chief Executive Officer</strong>
-        <br> Early Childhood Development Agency
+        <strong>2 Deputy Secretary</strong>
+        <br> Ministry of the Environment and Water Resources
     </div>
 </div>
 

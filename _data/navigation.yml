@@ -44,8 +44,8 @@
     url: /resources/media-advisories
   - title: Event Listings
     url: /resources/event-listings
-- title: Contact Us
-    href: guest_services@sentosa.com.sg
+- title: Contact us
+    href: "mailto:guest_services@sentosa.com.sg"
     
   
 #- title: Collection Name

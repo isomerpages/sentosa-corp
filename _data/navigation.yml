@@ -45,7 +45,8 @@
   - title: Event Listings
     url: /resources/event-listings
 - title: Contact Us
-  url: /contact-us/
+    email: guest_services@sentosa.com.sg
+    url: ""
   
 #- title: Collection Name
 #  url: /collection-name/page-name/

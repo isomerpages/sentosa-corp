@@ -9,7 +9,7 @@
 locations:
   # HQ Address [REQUIRED]
   - title:
-    address: 39 Artillery Ave<br>099958<br>7R2G+5X Southern Islands
+    address: 39 Artillery Ave<br>099958<br>
     find-directions: https://goo.gl/maps/mN376Ev9BtD2
   # Operating Hours [OPTIONAL]
     operating-hours:

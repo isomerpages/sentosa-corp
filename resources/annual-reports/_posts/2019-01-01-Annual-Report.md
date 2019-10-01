@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  FY 2018/2019
-date:   2019-01-01
 permalink: /resources/annual-reports/FY1819
 ---
 

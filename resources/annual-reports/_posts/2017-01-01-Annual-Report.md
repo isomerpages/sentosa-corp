@@ -6,8 +6,6 @@ permalink: /resources/annual-reports/FY1617
 ---
 
 # **Annual Report**
-[Web Link](https://www.sentosa.gov.sg/sentosaAR16_17/index.html)
-
 [PDF](/resources/annual-reports/files/Sentosa_AR_1617.pdf)
 
 

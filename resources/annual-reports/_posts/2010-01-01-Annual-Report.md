@@ -6,8 +6,6 @@ permalink: /resources/annual-reports/FY0910
 ---
 
 # **Annual Report**
-[Web Link](https://www.sentosa.gov.sg/sentosaAR09_10/index.html)
-
 [PDF](/resources/annual-reports/files/Sentosa_AR_0910.pdf)
 
 

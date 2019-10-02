@@ -6,8 +6,8 @@ permalink: /resources/annual-reports/FY1819
 ---
 
 # **Annual Report**
-[PDF](/resources/annual-reports/files/1. SDC Annual Report FY1819.pdf)
+[PDF](/resources/annual-reports/files/Sentosa_AR_1819.pdf.pdf)
 
 
 # **Financial Report**
-[PDF](/resources/annual-reports/files/2. SDC Audited Financial Statements FY1819.pdf)
+[PDF](/resources/annual-reports/files/Sentosa_AR_1819_Financial_Report.pdf.pdf)

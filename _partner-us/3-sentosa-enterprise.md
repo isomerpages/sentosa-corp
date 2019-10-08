@@ -35,7 +35,7 @@ Successful applicants will enjoy the co-sharing or waiver of venue rental, as we
 	<div class="col is-6">
     <p>
       <ol>
-          Those interested in being a part of the Sentosa x Enterprise scheme can download the application form<a href="/files/partner-us/enterprise/Sentosa-x-Enterprise-Application-Form.pdf" target="_blank">here</a>. Successful applicants will be contacted after the proposal has been evaluated.
+          Those interested in being a part of the Sentosa x Enterprise scheme can download the application form <a href="/files/partner-us/enterprise/Sentosa-x-Enterprise-Application-Form.pdf" target="_blank">here</a>. Successful applicants will be contacted after the proposal has been evaluated.
       </ol>
 		</p>
 	</div>

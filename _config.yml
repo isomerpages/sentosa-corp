@@ -46,7 +46,7 @@ collections:
     output: true
   partner-us:
     output: true
-  test:
+  test-test:
     output: true
  #collection-name:
  #  output: true

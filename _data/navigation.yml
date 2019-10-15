@@ -47,10 +47,10 @@
 - title: Contact Us
   url: /contact-us/
 - title: Test
-  url: /test/
+  url: /test/test
   sub-links:
-  - title: test
-    url: /test/
+  - title: test2
+    url: /test/test2
   
 #- title: Collection Name
 #  url: /collection-name/page-name/

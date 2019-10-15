@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Life in Sentosa (TEST)
+title: Life in Sentosa (TESTs)
 permalink: /test/test
 breadcrumb: test
 collection_name: test-test

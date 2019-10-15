@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Test
-permalink: /Test/overview/
+permalink: /Test/test/
 breadcrumb: Overview
 collection_name: test
 ---

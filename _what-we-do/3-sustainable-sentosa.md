@@ -13,7 +13,7 @@ collection_name: what-we-do
 ### **Developing a Sustainable Leisure and Tourism Destination**
 SDC strives to develop the resort island as a leading leisure and tourism destination in a sustainable manner. While the past few decades have seen rapid changes to the island with extensive development works, many parts of Sentosa still retain the original tranquil and green environment.
 
-This is because SDC has adopted a balanced and sustainable approach to the development and growth of Sentosa and constant attention has been paid to protecting the greenery, heritage and island charm
+This is because SDC has adopted a balanced and sustainable approach to the development and growth of Sentosa and constant attention has been paid to protecting the greenery, heritage and island charm.
 
 ### **The Sentosa Sustainability Plan**
 <div class="row">
@@ -47,7 +47,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
    * Several Green Mark-certified developments such as the Sentosa Cove Village, Palawan Kidz City, W Singapore-Sentosa Cove and Resorts World Sentosa
    * An award-winning eco-hotel, Siloso Beach Resort
    * Developing the Sentosa Boardwalk, which is a pedestrian walkway with various sustainability features to connect the island to the Singapore mainland
-   * Partnering MAKO Energy to harness tidal energy by installing turbines at Sentosa Boardwalk to convert the kinetic energy in flowing water into electricity for local use or for charging batteries. 
+   * Partnering MAKO Energy to harness tidal energy by installing turbines at Sentosa Boardwalk to convert the kinetic energy in flowing water into electricity for local use or for charging batteries
    * Sentosa Express won the Special Award (Public Infrastructure) at the 2017 Skyrise Greenery Awards 
    * Running the annual island-wide “Sentosa Gives” corporate social responsibility week in September since 2011
 
@@ -87,9 +87,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 	</div>
 </div>
 <p>
-	In January 2018, 111 endangered hawksbill turtles emerged from the nest and made their way into the waters!
-	<br />
-	Later on in the same year, another batch of 102 eggs hatched at Tanjong Beach in September 2018, about two months after the eggs were first found. 
+	In January 2018, 111 endangered hawksbill turtles emerged from the nest and made their way into the waters! Another batch of 102 eggs hatched at Tanjong Beach in September 2018, while the latest batch of 100 hatchlings made their way into the sea in September 2019.
 </p>
 
 #### **Natural Treasures of Sentosa**
@@ -172,6 +170,7 @@ Sentosa was shortlisted as a sustainable tourism destination finalist in the Wor
 <p>
 	The advent of green design has highlighted methods in minimising the damage dealt to the environment through various architectural and design solutions. Many of Sentosa’s buildings are Green Mark certified, which is awarded by Singapore’s Building and Construction Authority (BCA) to environmentally-friendly buildings.
 	<br />
+	<p>
 	In particular, the Sentosa Express clinched the Special Award (Public Infrastructure) at the 2017 Skyrise Greenery Awards. Conferred by the National Parks Board, the award recognises the innovative vertical greenwall system that is incorporated into the pillars of the Sentosa Express train track along the Sentosa Gateway. The vertical greenwall reduces the urban heat effect and blends in seamlessly with Sentosa's lush greenery and tropical environment, while also enhancing the biodiversity of the island. 
 </p>
 

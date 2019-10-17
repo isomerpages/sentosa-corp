@@ -14,7 +14,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 **Leaderss**
 
-<dsection class="container">
+<section class="container">
    This is a ext in a div element
   <div class="one">
     This is a int1 in a div element

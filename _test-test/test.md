@@ -12,14 +12,14 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 **Employee**
 
 
-**Leaders**
+**Leaderss**
 
-<section class="ext">
+<dsection class="container">
    This is a ext in a div element
-  <div class="int1">
+  <div class="one">
     This is a int1 in a div element
   </div>
-  <div class="int2">
+  <div class="two">
     This is some int2 in a div element
   </div>
 </section>

@@ -12,28 +12,25 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 **Employee**
 
 
-**Leaderss**
+**Leadersss**
 
 <section class="contain">
   <div class="one">
-    This is word element
+    This is one element
   </div>
   <div class="two">
-    This is meant for image element
+    This is two element
   </div>
-  <div class="one">
-    This is word element
+  <div class="three">
+    This is three element
   </div>
-</section>
-
-<section class="contain">
-  <div class="two">
-    This is image element
+  <div class="four">
+    This is four element
   </div>
-  <div class="one">
-    This is meant for word element
+  <div class="five">
+    This is five element
   </div>
-  <div class="two">
-    This is image element
+  <div class="six">
+    This is six element
   </div>
 </section>

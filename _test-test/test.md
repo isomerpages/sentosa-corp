@@ -10,19 +10,19 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 <div>
   <section class="contain">
     <div class="one">
-    This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.This is four element.This is four element.This is four element.This is four element.This is four element.This is four
+    This is four element.
     </div>
     <div class="two">
       <img src="images/test/testimage.jpg" alt="Group Photo">
     </div>
     <div class="three">
-    This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.This is four element.This is four element.This is four element.This is four element.This is four element.This is four
+    This is four element.
     </div>
     <div class="four">
     <img src="images/test/testimage.jpg" alt="Group Photo">
     </div>
     <div class="five">
-    This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.This is four element.This is four element.This is four element.This is four element.This is four element.This is four
+    This is four element.
     </div>
     <div class="six">
     <img src="images/test/testimage.jpg" alt="Group Photo">

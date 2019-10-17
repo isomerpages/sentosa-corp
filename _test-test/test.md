@@ -16,19 +16,19 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 <section class="contain">
   <div class="one">
-    This is one element
+    <img src="images/test/testimage.jpg" alt="Forest">
   </div>
   <div class="two">
     This is two element
   </div>
   <div class="three">
-    This is three element
+    <img src="images/test/testimage.jpg" alt="Forest">
   </div>
   <div class="four">
     This is four element
   </div>
   <div class="five">
-    This is five element
+    <img src="images/test/testimage.jpg" alt="Forest">
   </div>
   <div class="six">
     This is six element

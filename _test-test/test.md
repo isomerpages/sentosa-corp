@@ -14,7 +14,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 **Leadersss**
 
-<div class="ext">
+<section class="ext">
    This is a ext in a div element
   <div class="int1">
     This is a int1 in a div element
@@ -22,4 +22,4 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   <div class="int2">
     This is some int2 in a div element
   </div>
-</div>
+</section>

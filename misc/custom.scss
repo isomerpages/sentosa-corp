@@ -391,18 +391,18 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 div.ext {
-	width:75%;
-	height:15%;
+  width:auto;
+  height:auto%;
 }
 div.int1 {
-  width: 10%;
-  height:10%;
+  width: auto;
+  height:auto;
   margin: auto;
   border: 3px solid #73AD21;
 }
 div.int2 {
-  width: 10%;
-  height:10%;
+  width: auto;
+  height:auto;
   margin: auto;
   border: 3px solid #73AD21;
 }

@@ -390,18 +390,21 @@ $desktop: 960px + (2 * $gap) !default;
     flex-direction:row-reverse;
   }
 }
-div.ext {
-  width: 85%;
-  height: 25%;
-  border: 3px solid #73AD21;
+.container {
+    width: 80%;
+    height: 200px;
+    background: aqua;
+    margin: auto;
+    padding: 10px;
 }
-div.int1 {
-  width: 15%;
-  margin: 1px;
-  border: 3px solid #73AD21;
+.one {
+    width: 15%;
+    height: 200px;
+    background: red;
+    float: left;
 }
-div.int2 {
-  width: 15%;
-  margin: 1px;
-  border: 3px solid #73AD21;
+.two {
+    margin-left: 15%;
+    height: 200px;
+    background: black;
 }

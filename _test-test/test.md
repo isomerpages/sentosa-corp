@@ -10,22 +10,22 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 <section class="contain">
   <div class="one">
-    <img src="images/test/testimage.jpg" alt="Forest">
+    <img src="images/test/testimage.jpg" alt="Group Photo">
   </div>
   <div class="two">
-    This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.
+    This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This
   </div>
   <div class="three">
-    <img src="images/test/testimage.jpg" alt="Forest">
+    <img src="images/test/testimage.jpg" alt="Group Photo">
   </div>
   <div class="four">
-    This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.
+    This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This
   </div>
   <div class="five">
-    <img src="images/test/testimage.jpg" alt="Forest">
+    <img src="images/test/testimage.jpg" alt="Group Photo">
   </div>
   <div class="six">
-    This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.
+    This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This
   </div>
 </section>
   

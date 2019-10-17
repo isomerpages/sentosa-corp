@@ -11,9 +11,6 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 <section class="contain">
   <div class="one">
     <img src="images/test/testimage.jpg" alt="Forest">
-    <div class="bottom-left-text">
-      DEVELOP WITH US
-    </div>
   </div>
   <div class="two">
     This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.This is four element.

@@ -44,7 +44,7 @@ The Imbiah Lookout area currently offers an eclectic mix of both active as well 
 		</figure>
 	</div>
 </div>
-Siloso Beach is a novel sporting venue with a wide range of thrilling and adventurous recreational activities for the young and energetic.  As one of the hippest beaches in Singapore, Siloso’s lively stretch of trendy beach bars is the place for those seeking a cool hang-out with friends. The highlights of this beach area include high-adrenaline experiential attractions like the iFly Singapore, Wave House Sentosa, water-based activities such as JetLev offered at Ola Beach Club, and the upcoming AJ Hackett Sentosa, Singapore’s first bungy tower. Siloso Beach is also home to an array of exciting events throughout the year – be it live jazz performances by the beach, novel runs or Sentosa’s annual year-end countdown *Siloso Beach Party*. 
+Siloso Beach is a novel sporting venue with a wide range of thrilling and adventurous recreational activities for the young and energetic.  As one of the hippest beaches in Singapore, Siloso’s lively stretch of trendy beach bars is the place for those seeking a cool hang-out with friends. The highlights of this beach area include high-adrenaline experiential attractions like the iFly Singapore, AJ Hackett, and water-based activities offered at Ola Beach Club. Siloso Beach is also home to an array of exciting events throughout the year – be it live jazz performances by the beach, novel runs or Sentosa’s annual year-end countdown *Siloso Beach Party*. 
 
 #### **Palawan Beach**
 
@@ -70,7 +70,7 @@ A happy family is one that plays and bonds together. Set against a tropical beac
 		</figure>
 	</div>
 </div>
-The tranquility and solitude on Tanjong Beach is a favourite with guests who want to get away from the hustle and bustle of city life. This tranquil stretch of recreational space currently houses the Tanjong Beach Club where guests can enjoy getting together for a relaxing night out. The beach landscape is preserved to offer a perfect setting for beach lovers to chill amid serene natural surroundings. 
+The tranquility and solitude on Tanjong Beach is a favourite with guests who want to get away from the hustle and bustle of city life. This tranquil stretch of recreational space currently houses Tanjong Beach Club, where guests can enjoy getting together for a relaxing night out. The beach landscape is preserved to offer a perfect setting for beach lovers to chill amid serene natural surroundings. 
 
 #### **Sentosa Cove**
 
@@ -85,7 +85,7 @@ The tranquility and solitude on Tanjong Beach is a favourite with guests who wan
 </div>
 Situated on the eastern end of Sentosa Island is Sentosa Cove, an exclusive residential enclave with some 2,000 homes. With the azure sea and lapping waves at its doorstep, Sentosa Cove’s residents enjoy mooring their private yachts at their very own backyards, while enjoying easy access to over 200 leisure and lifestyle offerings on the island, earning its name as the world’s most desirable address.
 
-Complementing these luxury residences is the vibrant Sentosa Cove Village comprising the ONE°15 Marina Club which offers town club facilities alongside world-class marina facilities including 204 wet berths; Singapore’s first premium marina hotel, W Singapore-Sentosa Cove; as well as the Quayside Isle which offers more than 20 exciting commercial concepts with a good selection of specially-curated new-to-market restaurants, dining concepts from established groups, and specialty retail stores.
+Complementing these luxury residences is the vibrant Sentosa Cove Village comprising ONE°15 Marina Club which offers town club facilities alongside world-class marina facilities including 204 wet berths; Singapore’s first premium marina hotel, W Singapore-Sentosa Cove; as well as Quayside Isle which offers more than 20 exciting commercial concepts with a good selection of specially-curated new-to-market restaurants, dining concepts from established groups, and specialty retail stores.
 
 ---
 

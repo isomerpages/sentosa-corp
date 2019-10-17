@@ -401,10 +401,35 @@ $desktop: 960px + (2 * $gap) !default;
     width: 33%;
     height: auto;
     background: red;
-   // float: left;
+    float: left;
 }
 .two {
     width: 33%;
+    margin-left: 50%;
     height: auto;
     background: blue;
+}
+.three {
+    width: 33%;
+    height: auto;
+    background: red;
+    float: right;
+}
+.four {
+    width: 33%;
+    height: auto;
+    background: red;
+    float: left;
+}
+.five {
+    width: 33%;
+    margin-left: 50%;
+    height: auto;
+    background: blue;
+}
+.six {
+    width: 33%;
+    height: auto;
+    background: red;
+    float: right;
 }

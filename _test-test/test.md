@@ -15,9 +15,11 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 ## Our thoughts
 **Employee**
 
-<div style="background-color:lightblue">
-  
-  This is a heading in a div element
-  This is some text in a div element
-  
+<div class="ext>
+  <div class="int1>
+    This is a heading in a div element
+  <div>
+  <div class="int2>
+    This is some text in a div element
+  <div>
 </div>

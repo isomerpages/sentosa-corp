@@ -12,7 +12,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 **Employee**
 
 
-**Leaderss**
+**Leaders**
 
 <section class="contain">
   <div class="one">
@@ -25,6 +25,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
     This is word element
   </div>
 </section>
+
 <section class="contain">
   <div class="two">
     This is image element

@@ -14,11 +14,25 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 **Leaderss**
 
-<section class="container">
+<section class="contain">
   <div class="one">
-    This is a int1 in a div element
+    This is word element
   </div>
   <div class="two">
-    This is some int2 in a div element
+    This is meant for image element
+  </div>
+  <div class="one">
+    This is word element
+  </div>
+</section>
+<section class="contain">
+  <div class="two">
+    This is image element
+  </div>
+  <div class="one">
+    This is meant for word element
+  </div>
+  <div class="two">
+    This is image element
   </div>
 </section>

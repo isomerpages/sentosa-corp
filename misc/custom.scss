@@ -398,44 +398,38 @@ $desktop: 960px + (2 * $gap) !default;
     padding: 10px;
 }
 .one {
-    float: left; 
-    width: 33%;
-    height: 33%;
+    width: auto;
+    height: auto;
     background: red;
     float: left;
 }
 .two {
-    float: left; 
-    width: 33%;
-    height: 33%;
+    width: auto;
+    height: auto;
     background: green;
     float: left;
 }
 .three {
-    float: left; 
-    width: 33%;
-    height: 33%;
+    width: auto;
+    height: auto;
     background: blue;
     float: left;
 }
 .four {
-    float: left; 
-    width: 33%;
-    height: 33%;
+    width: auto;
+    height: auto;
     background: yellow;
     float: left;
 }
 .five {
-    float: left; 
-    width: 33%;
-    height: 33%;
+    width: auto;
+    height: auto;
     background: orange;
     float: left;
 }
 .six {
-    float: left; 
-    width: 33%;
-    height: 33%;
+    width: auto;
+    height: auto;
     background: purple;
     float: left;
 }

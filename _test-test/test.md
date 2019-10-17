@@ -12,8 +12,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 **Employee**
 
 
-## Our thoughts
-**Employee**
+**Leaders**
 
 <div class="ext">
   <div class="int1">

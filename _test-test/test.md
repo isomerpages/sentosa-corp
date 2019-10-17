@@ -28,8 +28,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
     This is six element
   </div>
 </section>
-
-
+  
 ## Our thoughts
 **Employee**
 

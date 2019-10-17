@@ -392,45 +392,45 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .contain {
     width: 100%;
-    height: 36%;
+    height: 38%;
     background: aqua;
 }
 .one {
     width: 33%;
-    height: 18%;
+    height: 50%;
     background: red;
     float: left;
     font-size: 13px;
 }
 .two {
     width: 33%;
-    height: 18%;
+    height: 50%;
     background: green;
     float: left;
 }
 .three {
     width: 33%;
-    height: 18%;
+    height: 50%;
     background: blue;
     float: left;
     font-size: 13px;
 }
 .four {
     width: 33%;
-    height: 18%;
+    height: 50%;
     background: yellow;
     float: left;
 }
 .five {
     width: 33%;
-    height: 18%;
+    height: 50%;
     background: orange;
     float: left;
     font-size: 13px;
 }
 .six {
     width: 33%;
-    height: 18%;
+    height: 50%;
     background: purple;
     float: left;
 }

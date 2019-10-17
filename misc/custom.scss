@@ -391,20 +391,20 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 .container {
-    width: 80%;
-    height: 200px;
+    width: 100%;
+    height: 10%;
     background: aqua;
     margin: auto;
     padding: 10px;
 }
 .one {
-    width: 15%;
-    height: 200px;
+    width: 33%;
+    height: auto;
     background: red;
     float: left;
 }
 .two {
-    margin-left: 15%;
-    height: 200px;
-    background: black;
+    margin-left: 33%;
+    height: auto;
+    background: blue;
 }

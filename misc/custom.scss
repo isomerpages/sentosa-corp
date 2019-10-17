@@ -433,3 +433,8 @@ $desktop: 960px + (2 * $gap) !default;
     background: purple;
     float: left;
 }
+.bottom-left-text {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}

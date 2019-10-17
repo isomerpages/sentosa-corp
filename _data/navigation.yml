@@ -40,13 +40,13 @@
     url: /resources/annual-reports/
   - title: News
     url: /resources/news/
-  - title: Media Advisories
-    url: /resources/media-advisories
-  - title: Event Listings
-    url: /resources/event-listings
 - title: Contact Us
   url: /contact-us/
-    
+# - title: Test
+#   url: /test/test
+#   sub-links:
+#   - title: test2
+#     url: /test/test2
   
 #- title: Collection Name
 #  url: /collection-name/page-name/

@@ -403,8 +403,8 @@ $desktop: 960px + (2 * $gap) !default;
     font-size: 13px;
 }
 .two {
-    width: 33%;
-    height: 100%;
+    max-width: 33%;
+    max-height: 100%;
     background: green;
     float: left;
 }
@@ -416,8 +416,8 @@ $desktop: 960px + (2 * $gap) !default;
     font-size: 13px;
 }
 .four {
-    width: 33%;
-    height: 100%;
+    max-width: 33%;
+    max-height: 100%;
     background: yellow;
     float: left;
 }
@@ -429,8 +429,8 @@ $desktop: 960px + (2 * $gap) !default;
     font-size: 13px;
 }
 .six {
-    width: 33%;
-    height: 100%;
-    background: purple;
+    max-width: 33%;
+    max-height: 100%;
+    background: grey;
     float: left;
 }

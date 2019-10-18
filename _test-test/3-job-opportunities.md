@@ -20,7 +20,7 @@ collection_name: test-test
   
 Still uncertain, which role/ function to join us for?
   
-Meet our teams and understand more [here]({{"/meet-the-teams/" | absolute_url }})!
+Meet our teams and understand more [here][5]!
   
   
 Or you are unable to find a role that you are interested in joining us for?  
@@ -30,3 +30,4 @@ Or you are unable to find a role that you are interested in joining us for?
 [2]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
 [3]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
 [4]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+[5]: <https://isomer-sentosa-staging.netlify.com/test/meet-the-teams/>

@@ -13,7 +13,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational activities and team outings, the fun never ceases on this sunny island.As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational activities and team outings, the fun never ceases on this sunny island.
     </div>
     <div class="column">
-      <img class ="one" src="images/test/testimage.jpg" alt="Group Photo">
+      <img src="images/test/testimage.jpg" alt="Group Photo">
     </div>
     <div class="column">
 As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational activities and team outings, the fun never ceases on this sunny island.As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational activities and team outings, the fun never ceases on this sunny island.
@@ -21,13 +21,13 @@ As makers of FUN, we are committed to helping our Sentosians make time for fun. 
     </section>
   <section class="contain">
     <div class="column">
-      <img class ="one" src="images/test/testimage.jpg" alt="Group Photo">
+      <img src="images/test/testimage.jpg" alt="Group Photo">
     </div>
     <div class="column">
 As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational activities and team outings, the fun never ceases on this sunny island.As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational activities and team outings, the fun never ceases on this sunny island.
     </div>
     <div class="column">
-      <img class ="one" src="images/test/testimage.jpg" alt="Group Photo">
+      <img src="images/test/testimage.jpg" alt="Group Photo">
     </div>
   </section>
 ## Our thoughts

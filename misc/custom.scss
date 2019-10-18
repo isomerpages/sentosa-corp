@@ -397,17 +397,37 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .one {
     width: 33%;
-    max-height: 38%;
+    height: 19%;
     background: red;
     float: left;
     font-size: 13px;
     vertical-align: baseline;
+}
+@media (max-width: 100%) {
+  .one {
+    width: auto;
+    height: auto%;
+    background: red;
+    float: left;
+    font-size: 13px;
+    vertical-align: baseline;
+  }
 }
 .two {
     width: 33%;
     height: 19%;
     background: red;
     display: inline;
+}
+@media (max-width: 100%) {
+  .two {
+    width: auto;
+    height: auto%;
+    background: red;
+    float: left;
+    font-size: 13px;
+    vertical-align: baseline;
+  }
 }
 .three {
     width: 33%;
@@ -417,11 +437,31 @@ $desktop: 960px + (2 * $gap) !default;
     font-size: 13px;
     vertical-align: baseline;
 }
+@media (max-width: 100%) {
+  .three {
+    width: auto;
+    height: auto%;
+    background: red;
+    float: left;
+    font-size: 13px;
+    vertical-align: baseline;
+  }
+}
 .four {
     width: 33%;
     height: 19%;
     background: red;
     display: inline;
+}
+@media (max-width: 100%) {
+  .four {
+    width: auto;
+    height: auto%;
+    background: red;
+    float: left;
+    font-size: 13px;
+    vertical-align: baseline;
+  }
 }
 .five {
     width: 33%;
@@ -431,9 +471,29 @@ $desktop: 960px + (2 * $gap) !default;
     font-size: 13px;
     vertical-align: baseline;
 }
+@media (max-width: 100%) {
+  .five {
+    width: auto;
+    height: auto%;
+    background: red;
+    float: left;
+    font-size: 13px;
+    vertical-align: baseline;
+  }
+}
 .six {
     width: 33%;
     height: 19%;
     background: red;
     display: inline;
+}
+@media (max-width: 100%) {
+  .six {
+    width: auto;
+    height: auto%;
+    background: red;
+    float: left;
+    font-size: 13px;
+    vertical-align: baseline;
+  }
 }

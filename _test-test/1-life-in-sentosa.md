@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Life in Sentosa (TESTs)
-permalink: /test/test
-breadcrumb: test
+title: Life in Sentosa (test)
+permalink: /test/life-in-sentosa
+breadcrumb: life-in-sentosa
 collection_name: test-test
 ---
 ## Love having fun ??

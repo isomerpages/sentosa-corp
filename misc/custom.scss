@@ -403,12 +403,6 @@ $desktop: 960px + (2 * $gap) !default;
   background: #f48123;
   word-wrap: break-word;
 }
-img.one {
-  float: left;
-  width: 33.33%;
-  height: auto;
-  padding: 5px;
-}
 /* Clearfix (clear floats) */
 .section::after {
   content: "";

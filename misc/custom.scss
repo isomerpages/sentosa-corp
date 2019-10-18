@@ -397,7 +397,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .one {
     width: 33%;
-    height: 19%;
+    max-height: 38%;
     background: red;
     float: left;
     font-size: 13px;
@@ -406,13 +406,13 @@ $desktop: 960px + (2 * $gap) !default;
 .two {
     width: 33%;
     height: 19%;
-    background: grey;
+    background: red;
     display: inline;
 }
 .three {
     width: 33%;
     max-height: 38%;
-    background: blue;
+    background: red;
     float: left;
     font-size: 13px;
     vertical-align: baseline;
@@ -420,13 +420,13 @@ $desktop: 960px + (2 * $gap) !default;
 .four {
     width: 33%;
     height: 19%;
-    background: grey;
+    background: red;
     display: inline;
 }
 .five {
     width: 33%;
     max-height: 38%;
-    background: yellow;
+    background: red;
     float: left;
     font-size: 13px;
     vertical-align: baseline;
@@ -434,6 +434,6 @@ $desktop: 960px + (2 * $gap) !default;
 .six {
     width: 33%;
     height: 19%;
-    background: grey;
+    background: red;
     display: inline;
 }

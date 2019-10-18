@@ -424,13 +424,13 @@ $desktop: 960px + (2 * $gap) !default;
 .five {
     width: 33%;
     height: 100%;
-    background: orange;
+    background: grey;
     float: left;
     font-size: 13px;
 }
 .six {
     max-width: 33%;
     max-height: 100%;
-    background: grey;
+    background: orange;
     float: left;
 }

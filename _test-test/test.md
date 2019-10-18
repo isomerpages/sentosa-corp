@@ -10,16 +10,19 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 <div>
   <section class="contain">
     <div class="one">
+      As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational             activities and team outings, the fun never ceases on this sunny island.
     </div>
     <div class="two">
       <img src="images/test/testimage.jpg" alt="Group Photo">
     </div>
     <div class="three">
+      As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational             activities and team outings, the fun never ceases on this sunny island.
     </div>
     <div class="four">
     <img src="images/test/testimage.jpg" alt="Group Photo">
     </div>
     <div class="five">
+      As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational             activities and team outings, the fun never ceases on this sunny island.
     </div>
     <div class="six">
     <img src="images/test/testimage.jpg" alt="Group Photo">

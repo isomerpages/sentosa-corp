@@ -18,6 +18,8 @@ As makers of FUN, we are committed to helping our Sentosians make time for fun. 
     <div class="column">
 As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational activities and team outings, the fun never ceases on this sunny island.As makers of FUN, we are committed to helping our Sentosians make time for fun. From weekly workout sessions to recreational activities and team outings, the fun never ceases on this sunny island.
     </div>
+    </section>
+  <section class="contain">
     <div class="column">
     <img src="images/test/testimage.jpg" alt="Group Photo">
     </div>

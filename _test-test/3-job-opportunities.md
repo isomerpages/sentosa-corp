@@ -11,8 +11,11 @@ collection_name: test-test
   Browse through the opportunities now!
   
   [Full Time POSITIONS][1]
-    [PART TIME POSITIONS][2]
+  
+  [PART TIME POSITIONS][2]
+  
   [GRADUATE PROGRAMME][3]
+  
   [1FG POSITIONS][4]
   
 Still uncertain, which role/ function to join us for?

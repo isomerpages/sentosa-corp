@@ -30,8 +30,7 @@ As makers of FUN, we are committed to helping our Sentosians make time for fun. 
     <img src="images/test/testimage.jpg" alt="Group Photo">
     </div>
   </section>
-  ## Our thoughts
+## Our thoughts
   **Employee**
-  
   **Leaders**
   

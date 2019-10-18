@@ -406,6 +406,7 @@ $desktop: 960px + (2 * $gap) !default;
     width: 33%;
     height: 19%;
     background: blue;
+    float:left;
     display: inline;
 }
 .three {
@@ -419,6 +420,7 @@ $desktop: 960px + (2 * $gap) !default;
     width: 33%;
     height: 19%;
     background: blue;
+    float:left;
     display: inline;
 }
 .five {
@@ -431,6 +433,7 @@ $desktop: 960px + (2 * $gap) !default;
 .six {
     width: 33%;
     height: 19%;
-    background: blue;
+    background: red;
+    float:left;
     display: inline;
 }

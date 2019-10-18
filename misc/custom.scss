@@ -404,8 +404,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 @media (max-width: 100%) {
   .one {
-    width: auto%;
-    height: auto%;
+    width: auto;
+    height: auto;
     background: red;
     font-size: 13px;
     vertical-align: baseline;
@@ -419,8 +419,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 @media (max-width: 100%) {
   .two {
-    width: auto%;
-    height: auto%;
+    width: auto;
+    height: auto;
     background: red;
     font-size: 13px;
     vertical-align: baseline;
@@ -435,8 +435,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 @media (max-width: 100%) {
   .three {
-    width: auto%;
-    height: auto%;
+    width: auto;
+    height: auto;
     background: red;
     font-size: 13px;
     vertical-align: baseline;
@@ -450,8 +450,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 @media (max-width: 100%) {
   .four {
-    width: auto%;
-    height: auto%;
+    width: auto;
+    height: auto;
     background: red;
     font-size: 13px;
     vertical-align: baseline;
@@ -466,8 +466,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 @media (max-width: 100%) {
   .five {
-    width: auto%;
-    height: auto%;
+    width: auto;
+    height: auto;
     background: red;
     font-size: 13px;
     vertical-align: baseline;
@@ -481,8 +481,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 @media (max-width: 100%) {
   .six {
-    width: auto%;
-    height: auto%;
+    width: auto;
+    height: auto;
     background: red;
     font-size: 13px;
     vertical-align: baseline;

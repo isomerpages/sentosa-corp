@@ -401,6 +401,7 @@ $desktop: 960px + (2 * $gap) !default;
   height: 25%;
   padding: 5px;
   background: orange;
+  vertical-align: top;
 }
 
 /* Clearfix (clear floats) */

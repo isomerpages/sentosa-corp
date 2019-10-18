@@ -396,7 +396,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .column {
-  float: left;
+  overflow: auto;
+  margin-left: auto;
   width: 33.33%;
   height: 33.33%;
   padding: 5px;
@@ -408,7 +409,8 @@ img.one {
     width: 33.33%;
     height: 33.33%;
     background: red;
-    float:left;
+    overflow: auto;
+    margin-left: auto;
     display: inline;
 }
 /* Clearfix (clear floats) */

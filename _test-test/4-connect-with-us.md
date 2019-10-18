@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Connect with us
+title: Connect with us(test)
 permalink: /test/connect-with-us/
 breadcrumb: connect-with-us
 collection_name: test-test

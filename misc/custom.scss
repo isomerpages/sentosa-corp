@@ -400,8 +400,15 @@ $desktop: 960px + (2 * $gap) !default;
   width: 33.33%;
   height: 33.33%;
   padding: 5px;
-  background: #f48123;
+  background: blue;
   word-wrap: break-word;
+}
+img.one {
+    width: 33.33%;
+    height: 33.33%;
+    background: red;
+    float:left;
+    display: inline;
 }
 /* Clearfix (clear floats) */
 .section::after {

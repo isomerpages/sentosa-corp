@@ -390,50 +390,20 @@ $desktop: 960px + (2 * $gap) !default;
     flex-direction:row-reverse;
   }
 }
-.contain {
-    width: 100%;
-    height: 38%;
-    background: aqua;
+
+* {
+  box-sizing: border-box;
 }
-.one {
-    width: 33%;
-    height: 19%;
-    background: blue;
-    font-size: 13px;
-    vertical-align: baseline;
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
 }
-.two {
-    width: 33%;
-    height: 19%;
-    background: blue;
-    float:left;
-    display: inline;
-}
-.three {
-    width: 33%;
-    height: 19%;
-    background: blue;
-    font-size: 13px;
-    vertical-align: baseline;
-}
-.four {
-    width: 33%;
-    height: 19%;
-    background: blue;
-    float:left;
-    display: inline;
-}
-.five {
-    width: 33%;
-    height: 19%;
-    background: red;
-    font-size: 13px;
-    vertical-align: baseline;
-}
-.six {
-    width: 33%;
-    height: 19%;
-    background: red;
-    float:left;
-    display: inline;
+
+/* Clearfix (clear floats) */
+.section::after {
+  content: "";
+  clear: both;
+  display: table;
 }

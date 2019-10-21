@@ -417,4 +417,5 @@ $desktop: 960px + (2 * $gap) !default;
   text-align: center;
   display: inline;
   float: left;
+  overflow: hidden;
 }

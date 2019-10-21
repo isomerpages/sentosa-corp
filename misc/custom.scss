@@ -390,37 +390,30 @@ $desktop: 960px + (2 * $gap) !default;
     flex-direction:row-reverse;
   }
 }
-
-* {
-  box-sizing: border-box;
+.grid-container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 50% 50%;
+  background-color: #2196F3;
+  padding: 10px;
 }
-
-.column {
-  overflow: auto;
-  width: 33.33%;
-  height: 33.33%;
-  padding: 5px;
-  background: blue;
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  display: inline;
   word-wrap: break-word;
-  text-align:justify;
-  float:left;
+  overflow-y: scroll;
+  float: left;
 }
-img.one {
-    width: 33.33%;
-    height: 33.33%;
-    background: red;
-    overflow: auto;
-    float:left;
-    display: inline;
-}
-/* Clearfix (clear floats) */
-.section::after {
-  content: "";
-  clear: both;
-  display: table;
-  background: blue;
-}
-video {
-  display: block;
-  margin: auto;
+.grid-image{
+	background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  text-align: center;
+  display: inline;
+  float: left;
 }

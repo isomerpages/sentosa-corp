@@ -395,7 +395,7 @@ $desktop: 960px + (2 * $gap) !default;
   height: 33.33%;
   display: grid;
   grid-template-columns: 33% 33% 33%;
-  grid-template-rows: 50% 50%;
+  grid-template-rows: 20% 20%;
   background-color: #2196F3;
   padding: 10px;
 }

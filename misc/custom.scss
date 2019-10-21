@@ -391,7 +391,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 .grid-container {
-  width: 100%;
+  width: auto;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 50% 50%;

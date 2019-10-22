@@ -8,11 +8,10 @@ collection_name: test-test
 ## Find your fit
   Keen to join us in this fun-making career?
   Browse through the opportunities now!
-  
   [Full Time POSITIONS][1]
-    [PART TIME POSITIONS][2]
-      [GRADUATE PROGRAMME][3]
-        [1FG POSITIONS][4]
+  [PART TIME POSITIONS][2]
+  [GRADUATE PROGRAMME][3]
+  [1FG POSITIONS][4]
   
 Still uncertain, which role/ function to join us for?
 Meet our teams and understand more [here][5]!

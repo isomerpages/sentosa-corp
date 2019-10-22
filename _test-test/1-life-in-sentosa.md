@@ -12,19 +12,16 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   <div class="grid-item">  wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
   </div>
   <div class="grid-image">
-    <image src="images/test/testimage.jpg" alt="Flowers in Chania">
-  </div>
+    <image src="images/test/testimage.jpg" alt="Flowers in Chania"></div>
   <div class="grid-item"> wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
   </div>  
   <div class="grid-image">
-    <image src="images/test/testimage.jpg" alt="Flowers in Chania">
-  </div>
+    <image src="images/test/testimage.jpg" alt="Flowers in Chania"></div>
   <div class="grid-item">
 wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
   </div>
   <div class="grid-image">
-    <image src="images/test/testimage.jpg" alt="Flowers in Chania">
-  </div>
+    <image src="images/test/testimage.jpg" alt="Flowers in Chania"></div>
 </div>
 ## Our thoughts
   **Employee**

@@ -402,7 +402,7 @@ $desktop: 960px + (2 * $gap) !default;
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
-  max-height: 30%;
+  height: 50%;
   text-align: center;
   display: inline;
   word-wrap: break-word;

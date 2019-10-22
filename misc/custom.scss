@@ -410,7 +410,8 @@ $desktop: 960px + (2 * $gap) !default;
   overflow: hidden;
 //  overflow-y: scroll;
   float: left;
-  background-color: blue; 
+  background-color: blue;
+  padding: 10px;
 }
 image.grid-image{
   width: 100%;

@@ -6,7 +6,7 @@ breadcrumb: job-opportunities
 collection_name: test-test
 ---
 ## Find your fit
-  Keen to join us in this fun-making career?
+  Keen to join us in this fun-making career?  
   Browse through the opportunities now!
   
   [Full Time POSITIONS][1]  

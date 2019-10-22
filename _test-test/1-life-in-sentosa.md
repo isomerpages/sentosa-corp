@@ -21,7 +21,7 @@ wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 <image class="grid-image" src="images/test/baby-husky.jpg" alt="Flowers in Chania"/>
 </div>
 
-## Our thoughtssssss
+## Our thoughts
   **Employee**
   **Leaders**
   

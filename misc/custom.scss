@@ -417,7 +417,8 @@ image.grid-image{
   border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 20px;
   text-align: center;
-  display: inline;
+  display: inline-block;
   float: left;
   overflow: hidden;
+  vertical-align: top;
 }

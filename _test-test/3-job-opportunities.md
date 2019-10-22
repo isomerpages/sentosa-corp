@@ -8,6 +8,7 @@ collection_name: test-test
 ## Find your fit
   Keen to join us in this fun-making career?
   Browse through the opportunities now!
+  
   [Full Time POSITIONS][1]
   [PART TIME POSITIONS][2]
   [GRADUATE PROGRAMME][3]

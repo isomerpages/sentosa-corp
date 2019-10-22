@@ -10,10 +10,18 @@ collection_name: test-test
   Browse through the opportunities now!
   
   <ul>
-  <li>[Full Time POSITIONS][1]</li>
-  <li>[PART TIME POSITIONS][2]</li>
-  <li>[GRADUATE PROGRAMME][3]</li>
-  <li>[1FG POSITIONS][4]</li>
+  <li>
+    [Full Time POSITIONS][1]
+  </li>
+  <li>
+    [PART TIME POSITIONS][2]
+  </li>
+  <li>
+    [GRADUATE PROGRAMME][3]
+  </li>
+  <li>
+    [1FG POSITIONS][4]
+  </li>
   </ul>
     
 Still uncertain, which role/ function to join us for?

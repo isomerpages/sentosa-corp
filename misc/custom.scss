@@ -390,7 +390,7 @@ $desktop: 960px + (2 * $gap) !default;
     flex-direction:row-reverse;
   }
 }
-.grid-container:hover .image {
+.grid-container:hover image.grid-image {
   opacity: 0.5;
 }
 .grid-container:hover .image-text {
@@ -430,13 +430,13 @@ image.grid-image{
   //vertical-align: top;
   background-color: orange;
   transition: .5s ease;
-  opacity: 0;
+  opacity: 1;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: bottom;
 }
 .image-text{
-   opacity: 1;
+   opacity: 0;
    color: white; 
    font: bold 52px Helvetica, Arial, Sans-Serif;
    text-shadow: 1px 1px #fe4902, 

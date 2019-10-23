@@ -423,4 +423,10 @@ image.grid-image {
   overflow: hidden;
   //vertical-align: top;
   background-color: orange;
+  visibility: hidden;
+  opacity: 0;
+}
+.grid-container:hover .grid-image {
+  visibility: visible;
+  opacity: 1;
 }

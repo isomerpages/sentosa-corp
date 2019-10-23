@@ -390,12 +390,6 @@ $desktop: 960px + (2 * $gap) !default;
     flex-direction:row-reverse;
   }
 }
-.grid-container:hover .grid-image {
-  opacity: 0.5;
-}
-.grid-container:hover .image-text {
-  opacity: 1;
-}
 .grid-container {
   width: 100%;
   height: 30%;
@@ -436,10 +430,18 @@ image.grid-image {
   text-align: bottom;
 }
 .image-text {
+   visibility: hidden;
    opacity: 0;
    color: white; 
    font: bold 33px Helvetica, Arial, Sans-Serif;
    text-shadow: 1px 1px #fe4902, 
                 2px 2px #fe4902, 
                 3px 3px #fe4902;
+}
+.grid-container:hover .grid-image {
+  opacity: 0.5;
+}
+.grid-container:hover .image-text {
+  visibility: visible;
+  opacity: 1;
 }

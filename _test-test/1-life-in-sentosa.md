@@ -41,7 +41,7 @@ wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 <image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania">
 <div class="image-text">
   
-  Disclaimer
+  Disclaimer1
   
 </div>
 </div>

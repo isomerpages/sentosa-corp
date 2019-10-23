@@ -390,7 +390,7 @@ $desktop: 960px + (2 * $gap) !default;
     flex-direction:row-reverse;
   }
 }
-.grid-container:hover image.grid-image {
+.grid-container:hover .grid-image {
   opacity: 0.5;
 }
 .grid-container:hover .image-text {

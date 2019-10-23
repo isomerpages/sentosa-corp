@@ -13,20 +13,18 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
   
   </div>
-  <div>
-<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania">
+  <div><image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania">
   <div class="image-text">
 
 Disclaimer
   
   </div>
-</div>
+  </div>
 <div class="grid-item"> 
   wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
   
 </div>
-<div>
-<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania">
+<div><image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania">
   <div class="image-text">
   
 Disclaimer
@@ -38,8 +36,7 @@ Disclaimer
 wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 
 </div>
-<div>
-<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania">
+<div><image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania">
   <div class="image-text">
   
 Disclaimer

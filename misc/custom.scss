@@ -393,7 +393,7 @@ $desktop: 960px + (2 * $gap) !default;
 .grid-container:hover .image {
   opacity: 0.5;
 }
-.grid-container:hover .grid-text {
+.grid-container:hover .image-text {
   opacity: 1;
 }
 .grid-container {

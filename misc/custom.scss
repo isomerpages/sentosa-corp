@@ -426,7 +426,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .grid-image:hover {
   visibility: visible;
-  opacity: 0;
+  opacity: 0.2;
 }
 .image-text {
   visibility: hidden;

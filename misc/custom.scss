@@ -429,6 +429,8 @@ image-text-container {
   position: relative;
 }
 div.image-text {
+  width: auto;
+  height: auto;
   position: relative;
   visibility: hidden;
   background-color: blue;

@@ -429,12 +429,12 @@ image.grid-image:hover {
   opacity: 0.2;
 }
 p.image-text {
-  visibility: hidden;
-  opacity: 0;
+  visibility: visible;
+  opacity: 0.2;
 }
 image.grid-image:hover .image-text {
   opacity: 1;
   visibility: visible;
   text-align: bottom;
-  float: left;
+  position: absolute;
 }

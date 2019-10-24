@@ -426,11 +426,7 @@ img.grid-image {
   //vertical-align: top;
   background-color: #ffffff;
 }
-img.grid-image:hover {
-  visibility: visible;
-  opacity: 0.2;
-}
-p.image-text {
+image-text-container {
   transition: .5s ease;
   opacity: 0;
   position: absolute;
@@ -440,8 +436,11 @@ p.image-text {
   -ms-transform: translate(-50%, -50%);
   text-align: center;
 }
-img.grid-image:hover p.image-text {
-  opacity: 1;
+.image-text-container:hover img.grid-image {
   visibility: visible;
-
+  opacity: 0.2;
+}
+.image-text-container:hover image-text {
+  visibility: visible;
+  opacity: 0.2;
 }

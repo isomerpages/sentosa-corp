@@ -427,11 +427,11 @@ img.grid-image {
 }
 image-text-container {
   position: relative;
-  text-align: bottom;
 }
 p.image-text {
+  margin-bottom: 25px;
   visibility: hidden;
-  background-color: red;
+  background-color: blue;
   color: white;
   position: absolute;
 }

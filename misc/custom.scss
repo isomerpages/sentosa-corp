@@ -433,7 +433,7 @@ div.image-text {
   visibility: hidden;
   background-color: green;
   color: white;
-  position: absolute;
+  bottom: 0px;
 }
 .image-text-container:hover img.grid-image {
   visibility: visible;

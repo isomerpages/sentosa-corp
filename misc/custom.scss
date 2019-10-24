@@ -431,11 +431,11 @@ image-text-container {
 }
 p.image-text {
   visibility: hidden;
-  position: absolute;
-  background-color: blue;
+  background-color: yellow;
   color: white;
-  bottom: 20px;
-  right: 20px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 .image-text-container:hover img.grid-image {
   visibility: visible;

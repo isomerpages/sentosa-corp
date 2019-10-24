@@ -13,18 +13,18 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 
   </div>
-<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/><p class="image-text">This image looks super neat.</p>
+<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
   <div class="grid-item"> 
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 
   </div>
-<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/><p class="image-text">This image looks super neat.</p>
+<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
   <div class="grid-item">
 
   wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 
   </div>
-<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/><p class="image-text">This image looks super neat.</p>
+<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
 </div>
   
 ## Our thoughts

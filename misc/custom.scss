@@ -428,8 +428,8 @@ img.grid-image {
 image-text-container {
   position: relative;
 }
-p.image-text {
-  margin-top: 80%;
+div.image-text {
+  position: absolute;
   visibility: hidden;
   background-color: green;
   color: white;
@@ -439,7 +439,7 @@ p.image-text {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover p.image-text {
+.image-text-container:hover div.image-text {
   visibility: visible;
   opacity: 1;
 }

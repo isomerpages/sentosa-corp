@@ -424,13 +424,14 @@ image.grid-image {
   //vertical-align: top;
   background-color: orange;
 }
-.grid-container:hover .grid-image {
+.grid-image:hover {
   visibility: visible;
   opacity: 0.3;
 }
 .image-text {
   opacity: 0;
 }
-.grid-container:hover .image-text {
+.grid-image:hover .image-text {
   opacity: 1;
+  position: absolute;
 }

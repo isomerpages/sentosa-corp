@@ -390,3 +390,51 @@ $desktop: 960px + (2 * $gap) !default;
     flex-direction:row-reverse;
   }
 }
+.grid-container {
+  width: 100%;
+  height: 30%;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 50% 50%;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  display: inline;
+  word-wrap: break-word;
+  overflow: hidden;
+//  overflow-y: scroll;
+  float: left;
+  background-color: yellow;
+  padding: 10px;
+}
+image.grid-image {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  text-align: center;
+  //display: inline-block;
+  float: left;
+  overflow: hidden;
+  //vertical-align: top;
+  background-color: orange;
+}
+image.grid-image:hover {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text {
+  visibility: hidden;
+  opacity: 0;
+}
+image.grid-image:hover .image-text {
+  opacity: 1;
+  visibility: visible;
+  text-align: bottom;
+  float: left;
+}

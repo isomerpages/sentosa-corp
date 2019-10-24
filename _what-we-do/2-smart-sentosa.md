@@ -22,7 +22,7 @@ Created by the Singapore Tourism Board (STB), the Tourism Information & Services
 <div class="row">
 	<div class="col is-6">
 		<p>
-			In 2019, as part of a three-month public trial, visitors and staff in Sentosa will be able to hail the autonomous shuttles via their smartphones or at kiosks, along a longer 5km route. Fully enclosed and air-conditioned, the autonomous shuttles will complement Sentosa’s on-island transportation network during the public trial, providing guests with even more ways to access the island’s various unique leisure experiences. The autonomous mobility-on-demand solution is being developed by the Land Systems arm of ST Engineering, in partnership with the Ministry of Transport (MOT) and Sentosa Development Corporation (SDC). The public trial will involve two types of autonomous vehicles (AVs), namely, two units of a 22-seater mini-bus, as well as two units of a smaller, 15-seater shuttle. 
+			Between 26 August and 12 November 2019, as part of a three-month public trial, visitors and staff in Sentosa will be able to hail the autonomous shuttles via their smartphones or at kiosks along a 5.7km route. The autonomous mobility-on-demand solution is being developed by the Land Systems arm of ST Engineering, in partnership with the Ministry of Transport (MOT) and Sentosa Development Corporation (SDC). The public trial will involve two types of autonomous vehicles (AVs), namely, two units of a 22-seater mini-bus, as well as two units of a smaller, 15-seater shuttle. 
 		</p>
 	</div>
 	<div class="col is-6">

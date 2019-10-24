@@ -14,7 +14,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
   </div>
   <div class="image-text-container">
-<img class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
+<img class="grid-image" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
 <div class="image-text">there</div>
   </div>
 
@@ -22,12 +22,12 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 
   </div>
-<img class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
+<img class="grid-image" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
   <div class="grid-item">
   wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 
   </div>
-<img class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
+<img class="grid-image" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
 </div>
   
 ## Our thoughts

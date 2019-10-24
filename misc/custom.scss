@@ -396,10 +396,11 @@ $desktop: 960px + (2 * $gap) !default;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 50% 50%;
-  background-color: #f48123;
+  background-color: black;
+//   background-color: #f48123;
 //   padding: 10px;
-  margin: 0px;
-  padding: 0px;
+  margin: auto;
+  padding: auto;
 }
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
@@ -440,5 +441,4 @@ img.grid-image:hover .image-text {
   opacity: 1;
   visibility: visible;
   text-align: bottom;
-  position: absolute;
 }

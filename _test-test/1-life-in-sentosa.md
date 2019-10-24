@@ -15,7 +15,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   </div>
   <div class="image-text">
 <img class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
-<p>Hi there</p>
+<p class="image-text-container">there</p>
   </div>
 
   <div class="grid-item"> 

@@ -434,9 +434,10 @@ p.image-text {
   visibility: visible;
   opacity: 0;
   position: absolute;
+    text-align: bottom;
 }
-img.grid-image:hover .image-text {
+img.grid-image:hover p.image-text {
   opacity: 1;
   visibility: visible;
-  text-align: bottom;
+
 }

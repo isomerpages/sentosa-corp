@@ -413,7 +413,7 @@ $desktop: 960px + (2 * $gap) !default;
   background-color: yellow;
   padding: 10px;
 }
-.grid-image {
+image.grid-image {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
@@ -424,7 +424,7 @@ $desktop: 960px + (2 * $gap) !default;
   //vertical-align: top;
   background-color: orange;
 }
-.grid-image:hover {
+image.grid-image:hover {
   visibility: visible;
   opacity: 0.2;
 }
@@ -432,7 +432,7 @@ $desktop: 960px + (2 * $gap) !default;
   visibility: hidden;
   opacity: 0;
 }
-.grid-image:hover .image-text {
+image.grid-image:hover .image-text {
   opacity: 1;
   visibility: visible;
   text-align: bottom;

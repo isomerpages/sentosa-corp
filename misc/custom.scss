@@ -440,7 +440,7 @@ image-text-container {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover image-text {
+.image-text-container:hover p.image-text {
   visibility: visible;
-  opacity: 0.2;
+  opacity: 1;
 }

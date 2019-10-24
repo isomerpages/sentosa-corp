@@ -427,14 +427,13 @@ img.grid-image {
 }
 image-text-container {
   position: relative;
+  text-align: bottom;
 }
 p.image-text {
   visibility: hidden;
   background-color: blue;
   color: white;
   position: absolute;
-  text-align: bottom;
-  padding-bottom: 0;
 }
 .image-text-container:hover img.grid-image {
   visibility: visible;

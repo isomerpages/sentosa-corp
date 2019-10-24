@@ -397,7 +397,9 @@ $desktop: 960px + (2 * $gap) !default;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 50% 50%;
   background-color: #f48123;
-  padding: 10px;
+//   padding: 10px;
+  margin: 0px;
+  padding: 0px;
 }
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
@@ -410,7 +412,7 @@ $desktop: 960px + (2 * $gap) !default;
   overflow: hidden;
 //  overflow-y: scroll;
   float: left;
-  padding: 10px;
+//   padding: 10px;
 }
 img.grid-image {
   width: 100%;
@@ -421,6 +423,7 @@ img.grid-image {
   float: left;
   overflow: hidden;
   //vertical-align: top;
+  background-color: #ffffff;
 }
 img.grid-image:hover {
   visibility: visible;

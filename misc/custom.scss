@@ -419,7 +419,6 @@ img.grid-image {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
-  text-align: center;
   //display: inline-block;
   float: left;
   overflow: hidden;
@@ -431,11 +430,10 @@ image-text-container {
 }
 p.image-text {
   visibility: hidden;
-  background-color: yellow;
+  background-color: red;
   color: white;
   position: absolute;
-  bottom: 0;
-  left: 0;
+  text-align: bottom;
 }
 .image-text-container:hover img.grid-image {
   visibility: visible;

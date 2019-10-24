@@ -427,12 +427,13 @@ image.grid-image {
 .grid-image:hover {
   visibility: visible;
   opacity: 0.3;
+  content: "Hi there";
 }
-.image-text {
-  visibility: hidden;
-  opacity: 0;
-}
-.grid-image:hover .image-text {
-  opacity: 1;
-  visibility: visible;
-}
+// .image-text {
+//   visibility: hidden;
+//   opacity: 0;
+// }
+// .grid-image:hover .image-text {
+//   opacity: 1;
+//   visibility: visible;
+// }

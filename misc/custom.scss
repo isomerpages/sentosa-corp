@@ -413,7 +413,7 @@ $desktop: 960px + (2 * $gap) !default;
   background-color: yellow;
   padding: 10px;
 }
-image.grid-image {
+.grid-image {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
@@ -428,7 +428,7 @@ image.grid-image {
   visibility: visible;
   opacity: 0.3;
 }
-image-text {
+.image-text {
   opacity: 0;
 }
 .grid-container:hover .grid-text {

@@ -10,4 +10,4 @@ collection_name: test-test
 Can’t seem to find a suited current opening but still keen to join us?   
 Leave us your contact and deposit your resume [here][1] for us to contact you if you are shortlisted for any unpublished roles. 
 
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle>

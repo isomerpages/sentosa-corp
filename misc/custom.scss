@@ -436,6 +436,9 @@ image-text-container {
   -ms-transform: translate(-50%, -50%);
   text-align: center;
 }
+p.image-text {
+  visibility: hidden;
+}
 .image-text-container:hover img.grid-image {
   visibility: visible;
   opacity: 0.2;

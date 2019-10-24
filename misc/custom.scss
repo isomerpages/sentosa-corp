@@ -429,9 +429,10 @@ image.grid-image {
   opacity: 0.3;
 }
 .image-text {
+  visibility: hidden;
   opacity: 0;
 }
 .grid-image:hover .image-text {
   opacity: 1;
-  position: absolute;
+  visibility: visible;
 }

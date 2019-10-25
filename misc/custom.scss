@@ -395,7 +395,7 @@ $desktop: 960px + (2 * $gap) !default;
   height: 30%;
   display: grid;
   grid-template-columns: 33% 33% 33%;
-  grid-template-rows: 50% 50%;
+  grid-template-rows: 48% 48%;
   background-color: black;
 //   background-color: #f48123;
 //   padding: 10px;
@@ -431,10 +431,10 @@ image-text-container {
 div.image-text {
   position: relative;
   visibility: hidden;
-  background-color: blue;
+  background-color: green;
   color: white;
   bottom: 0px;
-  left: 16px;
+  left: 0px;
 }
 .image-text-container:hover img.grid-image {
   visibility: visible;

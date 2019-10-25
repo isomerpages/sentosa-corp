@@ -428,10 +428,10 @@ img.grid-image {
 image-text-container {
   position: relative;
 }
-div.image-text {
+div span.image-text {
   position: relative;
   visibility: hidden;
-  background-color: green;
+  background-color: orange;
   color: white;
   bottom: 0px;
   left: 0px;

@@ -395,11 +395,11 @@ $desktop: 960px + (2 * $gap) !default;
 //   height: 30%;
   display: grid;
   grid-template-columns: 33.333% 33.333% 33.333%;
-  grid-template-rows: 47% 47%;
-  background-color: green;
+  grid-template-rows: 50% 50%;
+  background-color: yellow;
 //   background-color: #f48123;
 //   padding: 10px;
-  margin: auto;
+//   margin: auto;
 }
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);

@@ -396,7 +396,7 @@ $desktop: 960px + (2 * $gap) !default;
   display: grid;
   grid-template-columns: 33.333% 33.333% 33.333%;
   grid-template-rows: 50% 50%;
-  background-color: red;
+  background-color: #f48123;
 //   background-color: #f48123;
 //   padding: 10px;
 //   margin: auto;
@@ -422,7 +422,6 @@ img.grid-image-1 {
   float: left;
   overflow: hidden;
   //vertical-align: top;
-  background-color: #ffffff;
 }
 img.grid-image-2 {
   width: 100%;
@@ -432,7 +431,6 @@ img.grid-image-2 {
   float: left;
   overflow: hidden;
   //vertical-align: top;
-  background-color: #ffffff;
 }
 img.grid-image-3 {
   width: 100%;
@@ -442,7 +440,6 @@ img.grid-image-3 {
   float: left;
   overflow: hidden;
   //vertical-align: top;
-  background-color: #ffffff;
 }
 image-text-container {
   position: relative;

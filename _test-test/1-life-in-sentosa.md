@@ -14,7 +14,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
   </div>
   <div class="image-text-container">
-<img class="grid-image" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
+<img class="grid-image-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
   <span class="image-text">DEVELOP WITH US</span>
   </div>
 
@@ -24,7 +24,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   </div>
   
  <div class="image-text-container">
-<img class="grid-image" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
+<img class="grid-image-2" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
   <span class="image-text">WORK AND HAVE FUN WITH US</span>
   </div>
   
@@ -34,7 +34,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   </div>
   
  <div class="image-text-container">
-<img class="grid-image" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
+<img class="grid-image-3" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
   <span class="image-text">CARE WITH US</span>
   </div>
   

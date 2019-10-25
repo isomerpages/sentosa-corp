@@ -456,10 +456,11 @@ span.image-text-1 {
        position: absolute;
        top: 52%;
        left: 52%;
-       background: rgba(29, 106, 154, 0.72);
        color: #fff;
        visibility: hidden;
        opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
 }
 span.image-text-2 {
 //   visibility: hidden;
@@ -470,10 +471,11 @@ span.image-text-2 {
        position: absolute;
        top: 75%;
        left: 29%;
-       background: rgba(29, 106, 154, 0.72);
        color: #fff;
        visibility: hidden;
        opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
 }
 span.image-text-3 {
 //   visibility: hidden;
@@ -484,10 +486,11 @@ span.image-text-3 {
        position: absolute;
        top: 75%;
        right: 17.5%;
-       background: rgba(29, 106, 154, 0.72);
        color: #fff;
        visibility: hidden;
        opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
 }
 .image-text-container:hover img.grid-image-1 {
   visibility: visible;

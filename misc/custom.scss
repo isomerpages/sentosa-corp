@@ -396,7 +396,7 @@ $desktop: 960px + (2 * $gap) !default;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 48% 48%;
-  background-color: green;
+  background-color: red;
 //   background-color: #f48123;
 //   padding: 10px;
   margin: auto;
@@ -434,6 +434,7 @@ span.image-text {
 //   color: white;
 //   bottom: 0px;
 //   left: 0px;
+       position: absolute;
        top: 50%;
        bottom: 50%;
        left: 40%;

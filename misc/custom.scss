@@ -429,9 +429,9 @@ image-text-container {
   position: relative;
 }
 span.image-text {
-  position: absolute;
+  position:initial;
   visibility: hidden;
-  background-color: green;
+  background-color: red;
   color: white;
   bottom: 0px;
   left: 0px;

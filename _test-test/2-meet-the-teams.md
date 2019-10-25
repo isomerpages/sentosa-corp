@@ -8,24 +8,24 @@ collection_name: test-test
 ## #teamsentosa
   <section class="contain">
     <div class="column">
-    <img src="images/test/testimage.jpg" alt="Group Photo">
+    <img src="images/test/baby-husky.jpg" alt="Group Photo">
     </div>
     <div class="column">
-      <img src="images/test/testimage.jpg" alt="Group Photo">
+      <img src="images/test/husky.jpg" alt="Group Photo">
     </div>
     <div class="column">
-    <img src="images/test/testimage.jpg" alt="Group Photo">
+    <img src="images/test/baby-husky.jpg" alt="Group Photo">
     </div>
     </section>
   <section class="contain">
     <div class="column">
-    <img src="images/test/testimage.jpg" alt="Group Photo">
+      <img src="images/test/husky.jpg" alt="Group Photo">
     </div>
     <div class="column">
-    <img src="images/test/testimage.jpg" alt="Group Photo">
+    <img src="images/test/baby-husky.jpg" alt="Group Photo">
     </div>
     <div class="column">
-    <img src="images/test/testimage.jpg" alt="Group Photo">
+      <img src="images/test/husky.jpg" alt="Group Photo">
     </div>
   </section>
   

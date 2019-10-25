@@ -431,7 +431,7 @@ image-text-container {
 div span.image-text {
   position: relative;
   visibility: hidden;
-  background-color: orange;
+  background-color: yellow;
   color: white;
   bottom: 0px;
   left: 0px;
@@ -440,7 +440,7 @@ div span.image-text {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover div.image-text {
+.image-text-container:hover div span.image-text {
   visibility: visible;
   opacity: 1;
 }

@@ -429,8 +429,7 @@ image-text-container {
   position: relative;
 }
 span.image-text {
-  translate(0%,-10%)
-  position:initial;
+  translate: (0%,-10%);
   visibility: hidden;
   background-color: orange;
   color: white;

@@ -428,7 +428,7 @@ img.grid-image {
 image-text-container {
   position: relative;
 }
-div span.image-text {
+span.image-text {
   position: relative;
   visibility: hidden;
   background-color: yellow;
@@ -440,7 +440,7 @@ div span.image-text {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover div span.image-text {
+.image-text-container:hover span.image-text {
   visibility: visible;
   opacity: 1;
 }

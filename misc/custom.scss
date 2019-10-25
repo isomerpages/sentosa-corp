@@ -414,7 +414,27 @@ $desktop: 960px + (2 * $gap) !default;
   float: left;
 //   padding: 10px;
 }
-img.grid-image {
+img.grid-image-1 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  //display: inline-block;
+  float: left;
+  overflow: hidden;
+  //vertical-align: top;
+  background-color: #ffffff;
+}
+img.grid-image-2 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  //display: inline-block;
+  float: left;
+  overflow: hidden;
+  //vertical-align: top;
+  background-color: #ffffff;
+}
+img.grid-image-3 {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.8);
 //   border: 1px solid rgba(0, 0, 0, 0.8);
@@ -427,7 +447,7 @@ img.grid-image {
 image-text-container {
   position: relative;
 }
-span.image-text {
+span.image-text-1 {
 //   visibility: hidden;
 //   background-color: red;
 //   color: white;
@@ -441,11 +461,55 @@ span.image-text {
        visibility: hidden;
        opacity: 0;
 }
-.image-text-container:hover img.grid-image {
+span.image-text-2 {
+//   visibility: hidden;
+//   background-color: red;
+//   color: white;
+//   bottom: 0px;
+//   left: 0px;
+       position: absolute;
+       top: 55%;
+       left: 55%;
+       background: rgba(29, 106, 154, 0.72);
+       color: #fff;
+       visibility: hidden;
+       opacity: 0;
+}
+span.image-text-3 {
+//   visibility: hidden;
+//   background-color: red;
+//   color: white;
+//   bottom: 0px;
+//   left: 0px;
+       position: absolute;
+       top: 55%;
+       left: 55%;
+       background: rgba(29, 106, 154, 0.72);
+       color: #fff;
+       visibility: hidden;
+       opacity: 0;
+}
+.image-text-container:hover img.grid-image-1 {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover span.image-text {
+.image-text-container:hover img.grid-image-2 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container:hover img.grid-image-3 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container:hover span.image-text-1 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container:hover span.image-text-2 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container:hover span.image-text-3 {
   visibility: visible;
   opacity: 1;
 }

@@ -431,11 +431,10 @@ image-text-container {
 span.image-text {
   position: relative;
   visibility: hidden;
-  background-color: green;
+  background-color: red;
   color: white;
   bottom: 0px;
   left: 0px;
-  display: inline;
 }
 .image-text-container:hover img.grid-image {
   visibility: visible;

@@ -396,7 +396,7 @@ $desktop: 960px + (2 * $gap) !default;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 58% 58%;
-  background-color: #f48123;
+  background-color: red;
 //   background-color: #f48123;
 //   padding: 10px;
 //   margin: auto;
@@ -404,7 +404,7 @@ $desktop: 960px + (2 * $gap) !default;
 //   grid-row-gap: 0.5%;
 }
 .grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: blue;
 //   border: 1px solid rgba(0, 0, 0, 0.8);
   position: relative;
   text-align: justify;
@@ -414,6 +414,7 @@ $desktop: 960px + (2 * $gap) !default;
 //  overflow-y: scroll;
   float: left;
 //   padding: 10px;
+  height: auto;
 }
 img.grid-image-1 {
   width: 100%;

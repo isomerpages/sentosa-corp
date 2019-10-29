@@ -10,27 +10,69 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 <div class="grid-container">
   <div class="grid-item">
-    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
 
   </div>
-  <div>
-<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
-<p class="image-text">Hi there</p>
+  <div class="image-text-container">
+<img class="grid-image-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
+  <span class="image-text-1">DEVELOP WITH US</span>
   </div>
 
   <div class="grid-item"> 
-    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordrdwordwordwordwordwordwordwordwordwo
 
   </div>
-<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
+  
+ <div class="image-text-container">
+<img class="grid-image-2" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
+  <span class="image-text-2">WORK AND HAVE FUN WITH US</span>
+  </div>
+  
   <div class="grid-item">
-  wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
+  wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordrdwordwordwordwordwordwordwordwordwo
 
   </div>
-<image class="grid-image" src="images/test/testimage.gif" alt="Flowers in Chania"/>
+  
+ <div class="image-text-container">
+<img class="grid-image-3" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
+  <span class="image-text-3">CARE WITH US</span>
+  </div>
+  
 </div>
   
-## Our thoughts
-  **Employee**
-  **Leaders**
+  
+## Our thoughts  
+**Employee**
+  
+  <div class="grid-container-our-thoughts">
+    <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+   <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+   <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+  </div>
+  
+**Leaders**
+
+ <div class="grid-container-our-thoughts">
+    <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+   <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+   <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+  </div>
   

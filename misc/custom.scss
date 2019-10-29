@@ -390,51 +390,289 @@ $desktop: 960px + (2 * $gap) !default;
     flex-direction:row-reverse;
   }
 }
+// css for Life in sentosa
 .grid-container {
-  width: 100%;
-  height: 30%;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 50% 50%;
-  background-color: #2196F3;
-  padding: 10px;
+//   background-color: #f48123;
+  background-color: #fffff;
+  grid-column-gap: 0.333%;
+//   grid-row-gap: 0.5%;
 }
 .grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  width: 100%;
-  height: 100%;
-  text-align: center;
+  background-color: #f48123;
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  position: relative;
+  text-align: justify;
   display: inline;
   word-wrap: break-word;
   overflow: hidden;
 //  overflow-y: scroll;
   float: left;
-  background-color: yellow;
-  padding: 10px;
 }
-image.grid-image {
+img.grid-image-1 {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  text-align: center;
+//   border: 1px solid rgba(0, 0, 0, 0.8);
   //display: inline-block;
   float: left;
   overflow: hidden;
-  //vertical-align: top;
-  background-color: orange;
 }
-image.grid-image:hover {
+img.grid-image-2 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  float: left;
+  overflow: hidden;
+}
+img.grid-image-3 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  float: left;
+  overflow: hidden;
+}
+image-text-container {
+  position: relative;
+}
+span.image-text-1 {
+       position: absolute;
+       top: 32%;
+       left: 52%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+span.image-text-2 {
+       position: absolute;
+       top: 47%;
+       left: 29%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+span.image-text-3 {
+       position: absolute;
+       top: 47%;
+       right: 17.5%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+.image-text-container:hover img.grid-image-1 {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text {
-  visibility: hidden;
-  opacity: 0;
-}
-image.grid-image:hover .image-text {
-  opacity: 1;
+.image-text-container:hover img.grid-image-2 {
   visibility: visible;
-  text-align: bottom;
+  opacity: 0.2;
+}
+.image-text-container:hover img.grid-image-3 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container:hover span.image-text-1 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container:hover span.image-text-2 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container:hover span.image-text-3 {
+  visibility: visible;
+  opacity: 1;
+}
+.grid-container-our-thoughts {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 100%;
+  background-color: #ffffff;
+//   background-color: #f48123;
+  grid-column-gap: 0.333%;
+
+}
+.grid-item-our-thoughts {
+  background-color: #f48123;
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  position: relative;
+  text-align: justify;
+  display: inline;
+  word-wrap: break-word;
+  overflow: hidden;
+//  overflow-y: scroll;
   float: left;
+  height: 100%
+}
+//
+// css for Meet the teams
+.grid-container-mmt {
+  display: grid;
+  grid-template-columns: 33.333% 33.333% 33.333%;
+  grid-template-rows: 50% 50%;
+  background-color: #f48123;
+//   grid-column-gap: 0.333%;
+//   grid-row-gap: 0.5%;
+}
+img.grid-image-mmt-1 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  //display: inline-block;
+  float: left;
+  overflow: hidden;
+}
+img.grid-image-mmt-2 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  float: left;
+  overflow: hidden;
+}
+img.grid-image-mmt-3 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  float: left;
+  overflow: hidden;
+}
+img.grid-image-mmt-4 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  //display: inline-block;
+  float: left;
+  overflow: hidden;
+}
+img.grid-image-mmt-5 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  float: left;
+  overflow: hidden;
+}
+img.grid-image-mmt-6 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  float: left;
+  overflow: hidden;
+}
+image-text-container-mmt {
+  position: relative;
+}
+span.image-text-mmt-1 {
+       position: absolute;
+       top: 54%;
+       left: 28%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+span.image-text-mmt-2 {
+       position: absolute;
+       top: 54%;
+       left: 50%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+span.image-text-mmt-3 {
+       position: absolute;
+       top: 54%;
+       right: 7%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+span.image-text-mmt-4 {
+       position: absolute;
+       top: 72.5%;
+       left: 28%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+span.image-text-mmt-5 {
+       position: absolute;
+       top: 72.5%;
+       left: 50%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+span.image-text-mmt-6 {
+       position: absolute;
+       top: 72.5%;
+       right: 7%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+.image-text-container-mmt:hover img.grid-image-mmt-1 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container-mmt:hover img.grid-image-mmt-2 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container-mmt:hover img.grid-image-mmt-3 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container-mmt:hover img.grid-image-mmt-4 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container-mmt:hover img.grid-image-mmt-5 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container-mmt:hover img.grid-image-mmt-6 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container-mmt:hover span.image-text-mmt-1 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container-mmt:hover span.image-text-mmt-2 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container-mmt:hover span.image-text-mmt-3 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container-mmt:hover span.image-text-mmt-4 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container-mmt:hover span.image-text-mmt-5 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container-mmt:hover span.image-text-mmt-6 {
+  visibility: visible;
+  opacity: 1;
 }

@@ -43,16 +43,16 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   
 ## Our thoughts
   **Employee**  
-  <div class="grid-container">
-    <div class="grid-item">
+  <div class="grid-container-our-thoughts">
+    <div class="grid-item-our-thoughts">
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 
    </div>
-   <div class="grid-item">
+   <div class="grid-item-our-thoughts">
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 
    </div>
-   <div class="grid-item">
+   <div class="grid-item-our-thoughts">
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
 
    </div>

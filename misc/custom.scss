@@ -402,7 +402,7 @@ $desktop: 960px + (2 * $gap) !default;
 //   grid-row-gap: 0.5%;
 }
 .grid-item {
-  background-color: green;
+  background-color: blue;
 //   border: 1px solid rgba(0, 0, 0, 0.8);
   position: relative;
   text-align: justify;
@@ -411,6 +411,7 @@ $desktop: 960px + (2 * $gap) !default;
   overflow: hidden;
 //  overflow-y: scroll;
   float: left;
+  max-height: 58%;
 }
 img.grid-image-1 {
   width: 100%;

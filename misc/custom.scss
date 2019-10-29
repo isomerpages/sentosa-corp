@@ -415,7 +415,6 @@ $desktop: 960px + (2 * $gap) !default;
   overflow: hidden;
 //  overflow-y: scroll;
   float: left;
-  text-overflow: ellipsis;
 //   padding: 10px;
 }
 img.grid-image-1 {
@@ -522,7 +521,7 @@ span.image-text-3 {
 //   height: 30%;
   display: grid;
   grid-template-columns: 33% 33% 33%;
-  grid-template-rows: 60%;
+  grid-template-rows: 58%;
   background-color: #ffffff;
 //   background-color: #f48123;
 //   padding: 0.05%;
@@ -540,6 +539,5 @@ span.image-text-3 {
   overflow: hidden;
 //  overflow-y: scroll;
   float: left;
-  text-overflow: ellipsis;
 //   padding: 10px;
 }

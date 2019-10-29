@@ -43,6 +43,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   
 ## Our thoughts
   **Employee**  
+  
   <div class="grid-container-our-thoughts">
     <div class="grid-item-our-thoughts">
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordword
@@ -57,5 +58,6 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
    </div>
   </div>  
+  
 **Leaders**
   

@@ -398,13 +398,11 @@ $desktop: 960px + (2 * $gap) !default;
   grid-template-rows: 58% 58%;
   background-color: red;
 //   background-color: #f48123;
-//   padding: 10px;
-//   margin: auto;
   grid-column-gap: 0.333%;
 //   grid-row-gap: 0.5%;
 }
 .grid-item {
-  background-color: blue;
+  background-color: green;
 //   border: 1px solid rgba(0, 0, 0, 0.8);
   position: relative;
   text-align: justify;
@@ -413,8 +411,6 @@ $desktop: 960px + (2 * $gap) !default;
   overflow: hidden;
 //  overflow-y: scroll;
   float: left;
-//   padding: 10px;
-  height: auto;
 }
 img.grid-image-1 {
   width: 100%;

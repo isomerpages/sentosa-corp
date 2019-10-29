@@ -515,10 +515,10 @@ span.image-text-3 {
 // css for Meet the teams
 .grid-container-mmt {
   display: grid;
-  grid-template-columns: 33% 33% 33%;
+  grid-template-columns: 33.333% 33.333% 33.333%;
   grid-template-rows: 50% 50%;
   background-color: #f48123;
-  grid-column-gap: 0.333%;
+//   grid-column-gap: 0.333%;
 //   grid-row-gap: 0.5%;
 }
 img.grid-image-mmt-1 {

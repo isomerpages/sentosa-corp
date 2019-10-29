@@ -11,32 +11,32 @@ collection_name: test-test
   
 <div class="grid-container">
   <div class="image-text-container">
-<img class="grid-image-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
-  <span class="image-text-1">Example ,<br>PLANNING AND PLANNING(Test)</span>
+<img class="grid-image-mmt-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
+  <span class="image-text-mmt-1">Example ,<br>PLANNING AND PLANNING(Test)</span>
   </div>
 
  <div class="image-text-container">
-<img class="grid-image-2" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
-  <span class="image-text-2">Example,<br>PLANNING AND PLANNING(Test)</span>
+<img class="grid-image-mmt-2" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
+  <span class="image-text-mmt-2">Example,<br>PLANNING AND PLANNING(Test)</span>
  </div>
   
  <div class="image-text-container">
-<img class="grid-image-3" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
-  <span class="image-text-3">Example,<br>PLANNING AND PLANNING(Test)</span>
+<img class="grid-image-mmt-3" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
+  <span class="image-text-mmt-3">Example,<br>PLANNING AND PLANNING(Test)</span>
  </div>
   
  <div class="image-text-container">
-<img class="grid-image-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
-  <span class="image-text-4">Example,<br>PLANNING AND PLANNING(Test)</span>
+<img class="grid-image-mmt-4" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
+  <span class="image-text-mmt-4">Example,<br>PLANNING AND PLANNING(Test)</span>
  </div>
   
  <div class="image-text-container">
-<img class="grid-image-2" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
+<img class="grid-image-mmt-5" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
   <span class="image-text-5">Example,<br>PLANNING AND PLANNING(Test)</span>
  </div>
   
  <div class="image-text-container">
-<img class="grid-image-3" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
+<img class="grid-image-mmt-6" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
   <span class="image-text-6">Example,<br>PLANNING AND DEVELOPMENT(Test)</span>
  </div>
 </div>

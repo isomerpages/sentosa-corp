@@ -517,3 +517,31 @@ span.image-text-3 {
   visibility: visible;
   opacity: 1;
 }
+.grid-container-our-thoughts {
+//   width: 100%;
+//   height: 30%;
+  display: grid;
+  grid-template-columns: 33.333% 33.333% 33.333%;
+  grid-template-rows: 50%;
+  background-color: #f48123;
+//   background-color: #f48123;
+//   padding: 10px;
+//   margin: auto;
+//   grid-column-gap: 0.3%;
+//   grid-row-gap: 0.5%;
+}
+.grid-item-our-thoughts {
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  display: inline;
+  word-wrap: break-word;
+  overflow: hidden;
+//  overflow-y: scroll;
+  float: left;
+  text-overflow: ellipsis;
+//   padding: 10px;
+}

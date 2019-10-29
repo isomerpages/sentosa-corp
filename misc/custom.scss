@@ -395,13 +395,12 @@ $desktop: 960px + (2 * $gap) !default;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 50% 50%;
-  background-color: green;
-//   background-color: #f48123;
+  background-color: #f48123;
   grid-column-gap: 0.333%;
 //   grid-row-gap: 0.5%;
 }
 .grid-item {
-  background-color: yellow;
+  background-color: #f48123;
 //   border: 1px solid rgba(0, 0, 0, 0.8);
   position: relative;
   text-align: justify;
@@ -517,8 +516,7 @@ span.image-text-3 {
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 50% 50%;
-  background-color: green;
-//   background-color: #f48123;
+  background-color: #f48123;
   grid-column-gap: 0.333%;
 //   grid-row-gap: 0.5%;
 }

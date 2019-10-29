@@ -511,4 +511,93 @@ span.image-text-3 {
   float: left;
   height: 100%
 }
+//
 // css for Meet the teams
+.grid-container-mmt {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 50% 50%;
+  background-color: green;
+//   background-color: #f48123;
+  grid-column-gap: 0.333%;
+//   grid-row-gap: 0.5%;
+}
+img.grid-image-mmt-1 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  //display: inline-block;
+  float: left;
+  overflow: hidden;
+}
+img.grid-image-mmt-2 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  float: left;
+  overflow: hidden;
+}
+img.grid-image-mmt-3 {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+//   border: 1px solid rgba(0, 0, 0, 0.8);
+  float: left;
+  overflow: hidden;
+}
+image-text-container-mmt {
+  position: relative;
+}
+span.image-text-mmt-1 {
+       position: absolute;
+       top: 32%;
+       left: 52%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+span.image-text-mmt-2 {
+       position: absolute;
+       top: 47%;
+       left: 29%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+span.image-text-mmt-3 {
+       position: absolute;
+       top: 47%;
+       right: 17.5%;
+       color: #FFFFF;
+       visibility: hidden;
+       opacity: 0;
+       font-weight: bold;
+       text-decoration: underline;
+}
+.image-text-container:hover img.grid-image-mmt-1 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container:hover img.grid-image-mmt-2 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container:hover img.grid-image-mmt-3 {
+  visibility: visible;
+  opacity: 0.2;
+}
+.image-text-container:hover span.image-text-mmt-1 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container:hover span.image-text-mmt-2 {
+  visibility: visible;
+  opacity: 1;
+}
+.image-text-container:hover span.image-text-mmt-3 {
+  visibility: visible;
+  opacity: 1;
+}

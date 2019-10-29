@@ -6,28 +6,9 @@ breadcrumb: meet-the-team
 collection_name: test-test
 ---
 ## #teamsentosa
-  <section class="contain">
-    <div class="column">
-    <img src="images/test/baby-husky.jpg" alt="Group Photo">
-    </div>
-    <div class="column">
-      <img src="images/test/husky.jpg" alt="Group Photo">
-    </div>
-    <div class="column">
-    <img src="images/test/baby-husky.jpg" alt="Group Photo">
-    </div>
-    </section>
-  <section class="contain">
-    <div class="column">
-      <img src="images/test/husky.jpg" alt="Group Photo">
-    </div>
-    <div class="column">
-    <img src="images/test/baby-husky.jpg" alt="Group Photo">
-    </div>
-    <div class="column">
-      <img src="images/test/husky.jpg" alt="Group Photo">
-    </div>
-  </section>
+  
+<img src="images/test/test-hero-banner.jpg" alt="Group Photo">
+
   
   <video width="320" height="240" controls>
   <source src="video/test.mp4" type="video/mp4">

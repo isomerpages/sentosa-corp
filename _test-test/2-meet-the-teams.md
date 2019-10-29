@@ -12,32 +12,32 @@ collection_name: test-test
   <div class="grid-container">
   <div class="image-text-container">
 <img class="grid-image-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
-  <span class="image-text-1">Gavin Teo,<br>PLANNING AND DEVELOPMENT </span>
+  <span class="image-text-1">Example ,<br>PLANNING AND PLANNING(Test)</span>
   </div>
 
  <div class="image-text-container">
 <img class="grid-image-2" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
-  <span class="image-text-2">Gavin Teo,<br>PLANNING AND DEVELOPMENT</span>
+  <span class="image-text-2">Example,<br>PLANNING AND PLANNING(Test)</span>
   </div>
   
  <div class="image-text-container">
 <img class="grid-image-3" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
-  <span class="image-text-3">Gavin Teo,<br>PLANNING AND DEVELOPMENT</span>
+  <span class="image-text-3">Example,<br>PLANNING AND PLANNING(Test)</span>
   </div>
   
  <div class="image-text-container">
 <img class="grid-image-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
-  <span class="image-text-4">Gavin Teo,<br>PLANNING AND DEVELOPMENT</span>
+  <span class="image-text-4">Example,<br>PLANNING AND PLANNING(Test)</span>
   </div>
   
    <div class="image-text-container">
 <img class="grid-image-2" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
-  <span class="image-text-5">Gavin Teo,<br>PLANNING AND DEVELOPMENT</span>
+  <span class="image-text-5">Example,<br>PLANNING AND PLANNING(Test)</span>
   </div>
   
  <div class="image-text-container">
 <img class="grid-image-3" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
-  <span class="image-text-6">Gavin Teo,<br>PLANNING AND DEVELOPMENT</span>
+  <span class="image-text-6">Example,<br>PLANNING AND DEVELOPMENT(Test)</span>
   </div>
 </div>
   

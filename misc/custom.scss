@@ -395,7 +395,7 @@ $desktop: 960px + (2 * $gap) !default;
 //   height: 30%;
   display: grid;
   grid-template-columns: 33% 33% 33%;
-  grid-template-rows: 60% 660%;
+  grid-template-rows: 50% 50%;
   background-color: blue;
 //   background-color: #f48123;
   grid-column-gap: 0.333%;
@@ -411,8 +411,7 @@ $desktop: 960px + (2 * $gap) !default;
   overflow: hidden;
 //  overflow-y: scroll;
   float: left;
-  max-height: 60%;
-  margin: 0;
+  max-height: 50%;
 }
 img.grid-image-1 {
   width: 100%;

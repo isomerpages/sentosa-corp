@@ -522,7 +522,7 @@ span.image-text-3 {
 //   height: 30%;
   display: grid;
   grid-template-columns: 33% 33% 33%;
-  grid-template-rows: auto;
+  grid-template-rows: 50%;
   background-color: #ffffff;
 //   background-color: #f48123;
 //   padding: 0.05%;
@@ -531,8 +531,7 @@ span.image-text-3 {
 //   grid-row-gap: 0.5%;
 }
 .grid-item-our-thoughts {
-//   background-color: #f48123;
-     background-color: blue;
+  background-color: #f48123;
 //   border: 1px solid rgba(0, 0, 0, 0.8);
   position: relative;
   text-align: justify;

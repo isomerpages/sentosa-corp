@@ -9,7 +9,7 @@ collection_name: test-test
   
 <img src="images/test/test-hero-banner.jpg" alt="Group Photo">
   
-  <div class="grid-container">
+<div class="grid-container">
   <div class="image-text-container">
 <img class="grid-image-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
   <span class="image-text-1">Example ,<br>PLANNING AND PLANNING(Test)</span>
@@ -18,27 +18,27 @@ collection_name: test-test
  <div class="image-text-container">
 <img class="grid-image-2" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
   <span class="image-text-2">Example,<br>PLANNING AND PLANNING(Test)</span>
-  </div>
+ </div>
   
  <div class="image-text-container">
 <img class="grid-image-3" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
   <span class="image-text-3">Example,<br>PLANNING AND PLANNING(Test)</span>
-  </div>
+ </div>
   
  <div class="image-text-container">
 <img class="grid-image-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
   <span class="image-text-4">Example,<br>PLANNING AND PLANNING(Test)</span>
-  </div>
+ </div>
   
-   <div class="image-text-container">
+ <div class="image-text-container">
 <img class="grid-image-2" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
   <span class="image-text-5">Example,<br>PLANNING AND PLANNING(Test)</span>
-  </div>
+ </div>
   
  <div class="image-text-container">
 <img class="grid-image-3" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
   <span class="image-text-6">Example,<br>PLANNING AND DEVELOPMENT(Test)</span>
-  </div>
+ </div>
 </div>
   
   <video width="320" height="240" controls>

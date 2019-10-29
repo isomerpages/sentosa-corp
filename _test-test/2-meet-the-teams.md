@@ -37,7 +37,7 @@ collection_name: test-test
   
  <div class="image-text-container-mmt">
 <img class="grid-image-mmt-6" src="images/test/testimagev3.gif" alt="Flowers in Chania"/>
-  <span class="image-text-mmt-6">Example,<br>PLANNING AND DEVELOPMENT(Test6)</span>
+  <span class="image-text-mmt-6">Example,<br>PLANNING AND PLANNING(Test6)</span>
  </div>
 </div>
   

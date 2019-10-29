@@ -253,6 +253,16 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MrLAMYueKwai.jpg" alt="LAM Yue Kwai">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">LAM Yue Kwai</p>
+        <strong>Divisional Director, Project Development</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MsMaryGermaineTAN.jpg" alt="Mary Germaine TAN">
     </div>
     <div class="col is-8">

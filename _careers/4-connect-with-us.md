@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Connect with us(test)
-permalink: /test/connect-with-us/
+permalink: /careers/connect-with-us/
 breadcrumb: connect-with-us
-collection_name: test-test
+collection_name: careers
 ---
 ## Get in touch with us today!
   

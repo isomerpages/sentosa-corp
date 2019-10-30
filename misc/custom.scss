@@ -395,8 +395,8 @@ $desktop: 960px + (2 * $gap) !default;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 50% 50%;
+  background-color: #FFFFFF;
 //   background-color: #f48123;
-  background-color: #f48123;
   grid-column-gap: 0.333%;
 //   grid-row-gap: 0.5%;
 }

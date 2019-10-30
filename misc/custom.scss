@@ -395,8 +395,7 @@ $desktop: 960px + (2 * $gap) !default;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 50% 50%;
-//   background-color: #FFFFFF;
-//   background-color: #f48123;
+  background-color: #f48123;
   grid-column-gap: 0.333%;
 //   grid-row-gap: 0.5%;
 }
@@ -413,7 +412,6 @@ $desktop: 960px + (2 * $gap) !default;
 }
 img.grid-image-1 {
   width: 100%;
-  background-color: #f48123;
 //   border: 1px solid rgba(0, 0, 0, 0.8);
   //display: inline-block;
   float: left;
@@ -421,14 +419,12 @@ img.grid-image-1 {
 }
 img.grid-image-2 {
   width: 100%;
-  background-color: #f48123;
 //   border: 1px solid rgba(0, 0, 0, 0.8);
   float: left;
   overflow: hidden;
 }
 img.grid-image-3 {
   width: 100%;
-  background-color: #f48123;
 //   border: 1px solid rgba(0, 0, 0, 0.8);
   float: left;
   overflow: hidden;
@@ -469,17 +465,14 @@ span.image-text-3 {
 .image-text-container:hover img.grid-image-1 {
   visibility: visible;
   opacity: 0.2;
-  background-color: #f48123;
 }
 .image-text-container:hover img.grid-image-2 {
   visibility: visible;
   opacity: 0.2;
-  background-color: #f48123;
 }
 .image-text-container:hover img.grid-image-3 {
   visibility: visible;
   opacity: 0.2;
-  background-color: #f48123;
 }
 .image-text-container:hover span.image-text-1 {
   visibility: visible;

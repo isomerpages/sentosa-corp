@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Job-Opportunities(test)
-permalink: /test/job-opportunities
+permalink: /careers/job-opportunities
 breadcrumb: job-opportunities
-collection_name: test-test
+collection_name: careers
 ---
 ## Find your fit
   Keen to join us in this fun-making career?  

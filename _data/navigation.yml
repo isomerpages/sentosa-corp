@@ -47,6 +47,9 @@
   sub-links:
   - title: Life In Sentosa
     url: /careers/life-in-sentosa
+    sub-links:
+    - title: Develop With Us
+      url: /careers/life-in-sentosa/develop-with-us
   - title: Meet The Teams
     url: /careers/meet-the-teams
   - title: Job Opportunities

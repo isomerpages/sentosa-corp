@@ -11,9 +11,9 @@ collection_name: careers
   
   [Full Time POSITIONS][1]  
   [PART TIME POSITIONS][2]  
-  [GRADUATE PROGRAMME(NOT READY !)][3]  
+  [GRADUATE PROGRAMME(NOT READY!)][3]  
   [1FG POSITIONS][4]  
-    
+    <!-- remember to change hyperlink for 5,6 -->
 Still uncertain, which role/ function to join us for?  
 Meet our teams and understand more [here][5]!
   
@@ -24,5 +24,5 @@ Or you are unable to find a role that you are interested in joining us for?
 [2]: <https://www.jobstreet.com.sg/career/sentosa_pt.htm> "PART Time POSITION"
 [3]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
 [4]: <https://www.jobstreet.com.sg/career/onefabergroup.htm> "1FG POSITION"
-[5]: <https://isomer-sentosa-staging.netlify.com/test/meet-the-teams/>
-[6]: <https://isomer-sentosa-staging.netlify.com/test/connect-with-us/>
+[5]: <https://isomer-sentosa-staging.netlify.com/careers/meet-the-teams/>
+[6]: <https://isomer-sentosa-staging.netlify.com/careers/connect-with-us/>

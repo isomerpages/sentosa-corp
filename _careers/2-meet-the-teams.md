@@ -7,7 +7,7 @@ collection_name: careers
 ---
 ## #teamsentosa
   
-<img src="images/test/test-hero-banner.jpg" alt="Group Photo">
+<img src="images/test/test-hero-banner.jpg" alt="Group Photo"/>
   
 <div class="grid-container-mmt">
   <div class="image-text-container-mmt">

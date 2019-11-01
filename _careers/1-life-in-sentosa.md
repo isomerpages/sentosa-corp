@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Life in Sentosa (test)
+title: Life in Sentosa (Overview)(test)
 permalink: /careers/life-in-sentosa
 breadcrumb: life-in-sentosa
 collection_name: careers

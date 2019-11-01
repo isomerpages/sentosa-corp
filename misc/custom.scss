@@ -160,12 +160,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bp-menu-list li:not(:first-child) a {
     border-top: 0px;
-    border-bottom: 1px solid #767676;
+    //border-bottom: 1px solid #767676;
 }
-.second-level-nav-div li { 
-  border-bottom: 1.333px solid blue !important;
-	// test
-}
+
 // Button
 
 .bp-button.is-text span {

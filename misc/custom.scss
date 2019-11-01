@@ -162,8 +162,9 @@ $desktop: 960px + (2 * $gap) !default;
     border-top: 0px;
     border-bottom: 1px solid #767676;
 }
-.second-level-nav-div>li { 
-    border: 0;
+.second-level-nav-div li { 
+    	color: $secondary !important;
+  border-bottom: 1px solid $secondary !important;
 	// test
 }
 // Button

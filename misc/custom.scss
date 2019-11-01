@@ -162,7 +162,11 @@ $desktop: 960px + (2 * $gap) !default;
     border-top: 0px;
     //border-bottom: 1px solid #767676;
 }
-
+.second-level-nav-header li:(first-child) a {
+    color: $secondary !important;
+  border-bottom: 1px solid $secondary !important;
+	//test
+}
 // Button
 
 .bp-button.is-text span {

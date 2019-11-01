@@ -162,7 +162,7 @@ $desktop: 960px + (2 * $gap) !default;
     border-top: 0px;
     border-bottom: 1px solid #767676;
 }
-.bp-menu-list li a li { 
+.bp-menu-list li>ul>li { 
     border-top: 0px;
     border-bottom: 0px;
 	// test

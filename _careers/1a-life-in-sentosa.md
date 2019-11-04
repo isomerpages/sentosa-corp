@@ -14,6 +14,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
 
   </div>
+  
   <div class="image-text-container">
     <img class="grid-image-1" src="images/test/testimagev1.gif" alt="Develop with us"/>
     <span class="image-text-1">DEVELOP WITH US</span>

@@ -20,7 +20,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   <img class="grid-image-1" src="images/test/testimagev1.gif" alt="Flowers in Chania"/>
   </a>
   <span class="image-text-1">DEVELOP WITH US</span>
-  </div>
+ </div>
 
   <div class="grid-item"> 
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordrdwordwordwordwordwordwordwordwordwo
@@ -30,7 +30,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
  <div class="image-text-container">
 <img class="grid-image-2" src="images/test/testimagev2.gif" alt="Flowers in Chania"/>
   <span class="image-text-2">WORK AND HAVE FUN WITH US</span>
-  </div>
+ </div>
   
   <div class="grid-item">
   wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordrdwordwordwordwordwordwordwordwordwo
@@ -47,36 +47,36 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
   
 ## Our thoughts  
 **Employee**
-  
-  <div class="grid-container-our-thoughts">
-    <div class="grid-item-our-thoughts">
+
+<div class="grid-container-our-thoughts">
+  <div class="grid-item-our-thoughts">
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
 
-   </div>
-   <div class="grid-item-our-thoughts">
-    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
-
-   </div>
-   <div class="grid-item-our-thoughts">
-    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
-
-   </div>
   </div>
+  <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+   <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+</div>
   
-**Leaders**
+**Leaders**  
 
- <div class="grid-container-our-thoughts">
-    <div class="grid-item-our-thoughts">
+<div class="grid-container-our-thoughts">
+  <div class="grid-item-our-thoughts">
     wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
 
-   </div>
-   <div class="grid-item-our-thoughts">
-    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
-
-   </div>
-   <div class="grid-item-our-thoughts">
-    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
-
-   </div>
   </div>
+  <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+   <div class="grid-item-our-thoughts">
+    wordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwordwo
+
+   </div>
+</div>
   

@@ -13,13 +13,33 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 	<div class="col is-4">
 		<figure style="margin:0;">
 			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>	
-			<figcaption>Sentosa Nature Discovery</figcaption>
 		</figure>
 	</div>
 	<div class="col is-4">
 		<figure style="margin:0;">
-			<img src="/images/what-we-do/fun-sentosa/skyline-luge.jpg" alt="Image of Skyline Luge"/>
-			<figcaption>Skyline Luge</figcaption>
+			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>
+		</figure>
+	</div>
+	<div class="col is-4">
+		<figure style="margin:0;">
+			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>
+		</figure>
+	</div>
+</div>
+ <div class="row">
+	<div class="col is-4">
+		<figure style="margin:0;">
+			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>	
+		</figure>
+	</div>
+	<div class="col is-4">
+		<figure style="margin:0;">
+			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>
+		</figure>
+	</div>
+	<div class="col is-4">
+		<figure style="margin:0;">
+			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>
 		</figure>
 	</div>
 </div>

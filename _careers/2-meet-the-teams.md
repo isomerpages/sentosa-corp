@@ -41,7 +41,7 @@ collection_name: careers
  </div>
 </div>
   
-  <video width="320" height="240" controls>
+  <video controls>
   <source src="video/test.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>

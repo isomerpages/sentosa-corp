@@ -462,11 +462,11 @@ span.image-text-3 {
        font-weight: bold;
        text-decoration: underline;
 }
-.col is-4:hover img.grid-image-1 {
+.image-text-container:hover img.grid-image-1 {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover img.grid-image-2 {
+.col is-4:hover img.grid-image-2 {
   visibility: visible;
   opacity: 0.2;
 }
@@ -478,7 +478,7 @@ span.image-text-3 {
   visibility: visible;
   opacity: 1;
 }
-.image-text-container:hover span.image-text-2 {
+.col is-4:hover span.image-text-2 {
   visibility: visible;
   opacity: 1;
 }

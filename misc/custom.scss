@@ -466,7 +466,7 @@ span.image-text-3 {
   visibility: visible;
   opacity: 0.2;
 }
-.col is-4:hover img.grid-image-2 {
+.col.is-4:hover img.grid-image-2 {
   visibility: visible;
   opacity: 0.2;
 }
@@ -478,7 +478,7 @@ span.image-text-3 {
   visibility: visible;
   opacity: 1;
 }
-.col is-4:hover span.image-text-2 {
+.col.is-4:hover span.image-text-2 {
   visibility: visible;
   opacity: 1;
 }

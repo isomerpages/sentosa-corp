@@ -33,10 +33,12 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 </div>
 </div>
  <div class="row">
-	<div class="col is-4">
+	<div class="container">
+	  <div class="col is-4">
 		<figure style="margin: 0">
 			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>	
 		</figure>
+	  </div>
 	</div>
 	<div class="col is-4" style="background-color: orange;">
 

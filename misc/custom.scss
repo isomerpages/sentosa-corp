@@ -447,7 +447,7 @@ span.image-text-1 {
        font-weight: bold;
        text-decoration: underline;
 }
-h3.image-text-2 {
+span.image-text-2 {
        position: absolute;
        top: 60%;
        left: 60%;
@@ -456,6 +456,7 @@ h3.image-text-2 {
        visibility: hidden;
        opacity: 0;
        font-weight: bold;
+       font-size: 150%;
        text-decoration: underline;
 }
 span.image-text-3 {

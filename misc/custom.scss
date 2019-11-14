@@ -439,19 +439,22 @@ image-text-container {
 }
 span.image-text-1 {
        position: absolute;
-       top: 32%;
-       left: 52%;
+       top: 60%;
+       left: 60%;
        color: #FFFFFF;
        visibility: hidden;
        opacity: 0;
        font-weight: bold;
+       font-size: 150%;
        text-decoration: underline;
+       left: 0;
+       right: 0;
+       bottom: 0;
 }
 span.image-text-2 {
        position: absolute;
        top: 60%;
        left: 60%;
-       //transform: translate( -60%, -60% );
        color: #FFFFFF;
        visibility: hidden;
        opacity: 0;
@@ -464,15 +467,19 @@ span.image-text-2 {
 }
 span.image-text-3 {
        position: absolute;
-       top: 47%;
-       right: 17.5%;
+       top: 60%;
+       left: 60%;
        color: #FFFFFF;
        visibility: hidden;
        opacity: 0;
        font-weight: bold;
+       font-size: 150%;
        text-decoration: underline;
+       left: 0;
+       right: 0;
+       bottom: 0;
 }
-.image-text-container:hover img.grid-image-1 {
+.col.is-4:hover img.grid-image-1 {
   visibility: visible;
   opacity: 0.2;
 }
@@ -480,11 +487,11 @@ span.image-text-3 {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover img.grid-image-3 {
+.col.is-4:hover img.grid-image-3 {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover span.image-text-1 {
+.col.is-4:hover span.image-text-1 {
   visibility: visible;
   opacity: 1;
 }
@@ -492,7 +499,7 @@ span.image-text-3 {
   visibility: visible;
   opacity: 1;
 }
-.image-text-container:hover span.image-text-3 {
+.col.is-4:hover span.image-text-3 {
   visibility: visible;
   opacity: 1;
 }

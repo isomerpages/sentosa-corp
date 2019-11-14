@@ -14,15 +14,15 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
    </div>
 </div>
- <div class="row">
-	<div class="col is-4" style="background-color: orange;margin: 0; padding: 0;">
+ <div class="row" style="background-color: orange;">
+	<div class="col is-4" style="background-color: orange;">
 
 orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the
 
 </div>
-	  <div class="col is-4">
+	  <div class="col is-4" style="background-color: white;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
-			<figure style="margin: 0;padding: 0; position: relative;">
+			<figure style="margin: 0;position: relative;">
 			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>
 			<span class="image-text-1">Develop With Us</span>
 		</figure>
@@ -34,7 +34,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 </div>
 </div>
- <div class="row">
+ <div class="row" style="background-color: orange;">
 	  <div class="col is-4">
                 <figure style="margin: 0; position: relative;">
 			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>

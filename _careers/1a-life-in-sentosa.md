@@ -21,10 +21,12 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 
 </div>
 	  <div class="col is-4">
-		<figure style="margin: 0; position: relative;">
+		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
+			<figure style="margin: 0; position: relative;">
 			<img src="/images/test/testimagev1.gif" alt="Image of SND"/>
 			<span class="image-text-1">Develop With Us</span>
 		</figure>
+		</a>
 	  </div>
 	<div class="col is-4" style="background-color: orange;">
 

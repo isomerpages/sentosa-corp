@@ -449,8 +449,9 @@ span.image-text-1 {
 }
 span.image-text-2 {
        position: absolute;
-       top: 47%;
-       left: 29%;
+       top: 50%;
+       left: 50%;
+       transform: translate( -50%, -50% );
        color: #FFFFFF;
        visibility: hidden;
        opacity: 0;

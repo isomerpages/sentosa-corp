@@ -8,16 +8,12 @@ collection_name: careers
 <div><h2>#teamsentosa</h2></div>  
 <div class="row">
   <div class="col is-12">
-		<figure style="margin:0;">
-		<img src="../images/careers/hero-banner.jpg"/>
-		</figure>
-   <div id="wave-space">
-	<div id="wave">
-		<figure style="margin:0;margin-top:-5%;position:fixed;">
-		<img src="../images/careers/wave.svg"/>
-		</figure>
+	  <div class="hero-banner-parent">  
+	  </div>
+   <div class="wave-space">
+	<div class="wave">
 	</div>
-	</div>
+   </div>
   </div>
 </div>
 <div class="grid-container-mmt">

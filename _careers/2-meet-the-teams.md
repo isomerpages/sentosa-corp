@@ -8,7 +8,7 @@ collection_name: careers
 <div><h2>#teamsentosa</h2></div>  
 <div class="row">
   <div class="col is-12">
-	<figure style="margin:0;">
+	<figure style="margin:0;position:fixed;">
 	<img src="../images/careers/hero-banner.jpg"/>
 	<div class="wave">
 	</div>

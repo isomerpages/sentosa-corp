@@ -693,9 +693,6 @@ span.image-text-mmt-6 {
   overflow: hidden;
   background-image:url(../images/careers/hero-banner.jpg);
   z-index: -1;
-    display: block;
-    margin: auto;
-    width: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -717,4 +714,7 @@ span.image-text-mmt-6 {
   background-image:url(https://raw.githubusercontent.com/isomerpages/isomerpages-sentosa/9e9158248a876d65fe5f0208b6a24b73739f7b6b/images/careers/wave.svg);
   z-index: 1;
   background-repeat: repeat-x;
+}
+body, html {
+  height: 100%;
 }

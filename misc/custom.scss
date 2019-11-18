@@ -2,7 +2,6 @@
 
 ---
 @charset "utf-8";
-// @import url("./bootstrap.min.css");
 // HLB brand colors , original secondary:#BD5A0A;
 $primary: #f48123;
 $secondary: #f48123;
@@ -688,4 +687,33 @@ span.image-text-mmt-6 {
 .image-text-container-mmt:hover span.image-text-mmt-6 {
   visibility: visible;
   opacity: 1;
+}
+.hero-banner-parent {
+  position: relative;
+  overflow: hidden;
+  background-image: url(./images/careers/hero_banner.jpg);
+  z-index: -1;
+  width: 100%;
+  height:	auto;
+  background-repeat: no-repeat;
+  margin-top: -15%;
+  margin-bottom: -10%;
+  background-attachment: fixed;
+}
+.wave-space {
+  position: absolute;
+  width:  80%;
+  height: 100%;
+  bottom:0;
+  left:0;
+}
+.wave {
+  position: relative;
+  width: 100%;
+  height: 80%;
+  margin-top:15%;
+  background-attachment: scroll;
+  background-image: url(./images/careers/wave.svg);
+  z-index: 1;
+  background-repeat: repeat-x;
 }

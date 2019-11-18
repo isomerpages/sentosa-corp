@@ -7,9 +7,7 @@ collection_name: careers
 ---
 <div><h2>#teamsentosa</h2></div>  
 <div class="row">
-  <div class="col is-12">
-      <div class="hero-banner-parent">
-    </div>
+  <div class="col is-12" style="position: relative;overflow: hidden;background-image:url(../images/careers/hero-banner.jpg);z-index: height: 100%;background-repeat: no-repeat;background-attachment: fixed;background-size: cover;background-position: center center;">
    <div id="wave-space">
 	<div id="wave">
 	</div>

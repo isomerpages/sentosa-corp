@@ -8,8 +8,7 @@ collection_name: careers
 ## #teamsentosa  
 <div class="row">
   <div class="col is-12">
-      <div class="hero-banner-parent" style="backgroundImage: url('https://github.com/isomerpages/isomerpages-sentosa/blob/staging/images/careers/hero-banner.jpg');">
-        &nbsp;
+      <div class="hero-banner-parent" style="backgroundImage: url(https://github.com/isomerpages/isomerpages-sentosa/blob/staging/images/careers/hero-banner.jpg);">
     </div>
    
   </div>

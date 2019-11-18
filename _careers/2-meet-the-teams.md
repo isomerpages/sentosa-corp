@@ -5,7 +5,7 @@ permalink: /careers/meet-the-teams/
 breadcrumb: meet-the-team
 collection_name: careers
 ---
-## #teamsentosa  
+<div><h2>#teamsentosa</h2></div>  
 <div class="row">
   <div class="col is-12">
       <div class="hero-banner-parent">

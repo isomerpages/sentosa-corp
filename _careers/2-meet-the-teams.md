@@ -8,10 +8,9 @@ collection_name: careers
 <div><h2>#teamsentosa</h2></div>  
 <div class="row">
   <div class="col is-12">
-	  <div class="hero-banner-parent">
-		<figure style="margin:0;">
+		<figure style="margin:0;position: fixed; z-index: -1;">
+			<img src="/images/careers/hero-banner.gif" alt="Develop With Us"/>
 		</figure>
-	  </div>
    <div id="wave-space">
 	<div id="wave">
 	</div>

@@ -9,6 +9,9 @@ collection_name: careers
 <div class="row">
   <div class="col is-12">
 	  <div class="hero-banner-parent">
+		<figure style="margin:0;">
+			<img src="../images/careers/hero-banner.jpg"/>
+		</figure>
 	  </div>
    <div id="wave-space">
 	<div id="wave">

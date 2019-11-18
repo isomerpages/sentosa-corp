@@ -10,8 +10,8 @@ collection_name: careers
   <div class="col is-12">
       <div class="hero-banner-parent">
     </div>
-   <div id="child-length">
-	<div id="child">
+   <div id="wave-space">
+	<div id="wave">
 	</div>
 	</div>
   </div>

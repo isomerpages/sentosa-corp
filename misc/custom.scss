@@ -706,12 +706,13 @@ span.image-text-mmt-6 {
   left:0;
 }
 .wave {
-  position: relative;
-  width: 100%;
-  height: 80%;
-  margin-top: 30%;
-  background-attachment: fixed;
-  background-image:url(../images/careers/wave.svg);
-  z-index: 1;
-  background-repeat: repeat-x;
+	position: relative;
+	width: 100%;
+	height: 80%;
+        margin-top:27%;
+	background-attachment: scroll;
+	background-image: url(./images/wave.svg);
+	z-index: 1;
+	background-size: 100% auto;
+	background-repeat: repeat-x;
 }

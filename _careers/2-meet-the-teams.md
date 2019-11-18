@@ -10,9 +10,9 @@ collection_name: careers
   <div class="col is-12">
 	<figure style="margin:0;position:fixed;">
 	<img src="../images/careers/hero-banner.jpg"/>
-	<div class="wave">
-	</div>
 	</figure>
+	  	<div class="wave">
+	</div>
 
   </div>
 </div>

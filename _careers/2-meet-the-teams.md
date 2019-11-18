@@ -9,7 +9,7 @@ collection_name: careers
 <div class="row">
   <div class="col is-12">
 		<figure style="margin:0;position: fixed; z-index: -1;">
-			<img src="/images/careers/hero-banner.gif" alt="Develop With Us"/>
+			<img src="/images/careers/hero-banner.jgp"/>
 		</figure>
    <div id="wave-space">
 	<div id="wave">

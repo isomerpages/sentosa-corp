@@ -7,12 +7,13 @@ collection_name: careers
 ---
 ## #teamsentosa  
 <div class="row">
-	<div class="col is-12">
+  <div class="col is-12">
     <div class="hero-banner-parent">
     </div>
     <div class="wave-space">
-	  <div class="wave"></div>
-	  </div>
+      <div class="wave">
+      </div>
+    </div>
   </div>
 </div>
 <div class="grid-container-mmt">

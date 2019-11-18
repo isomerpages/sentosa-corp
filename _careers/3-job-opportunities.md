@@ -9,12 +9,12 @@ collection_name: careers
   Keen to join us in this fun-making career?  
   Browse through the opportunities now!
   
-  [Full Time POSITIONS][1]  
+  [FULL TIME POSITIONS][1]  
   [PART TIME POSITIONS][2]  
   [GRADUATE PROGRAMME(NOT READY!)][3]  
-  [1FG POSITIONS][4]
-    <!-- remember to change hyperlink for 5,6 to live site-->
-  Still uncertain, which role/ function to join us for?  
+  [1FG POSITIONS][4]  
+<!-- remember to change hyperlink for 5,6 to live site-->
+Still uncertain, which role/ function to join us for?  
 Meet our teams and understand more [here][5]!
   
 Or you are unable to find a role that you are interested in joining us for?  

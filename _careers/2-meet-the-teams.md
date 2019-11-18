@@ -5,10 +5,16 @@ permalink: /careers/meet-the-teams/
 breadcrumb: meet-the-team
 collection_name: careers
 ---
-## #teamsentosa
-  
-<img src="images/test/test-hero-banner.jpg" alt="Group Photo"/>
-  
+## #teamsentosa  
+<div class="row">
+	<div class="col is-12">
+    <div class="hero-banner-parent">
+    </div>
+    <div class="wave-space">
+	  <div class="wave"></div>
+	  </div>
+  </div>
+</div>
 <div class="grid-container-mmt">
   <div class="image-text-container-mmt">
 <img class="grid-image-mmt-1" src="images/careers/testimagev1.gif" alt=""/>

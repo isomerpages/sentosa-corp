@@ -14,7 +14,7 @@ collection_name: careers
 </div>
 
 <div class="row">
-  <div class"col is-12">
+  <div class="col is-12">
 	  <div class="wave">
 	  </div>
   <div>

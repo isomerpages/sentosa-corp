@@ -21,7 +21,7 @@ collection_name: careers
   </div>
 </div>
 </div>
-<div class="row:not(:last-child)">
+<div class="row">
   <video controls>
   <source src="video/test.mp4" type="video/mp4">
   Your browser does not support the video tag.

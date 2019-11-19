@@ -700,7 +700,7 @@ span.image-text-mmt-6 {
 	background-size: cover;
 
 }
-.wave {
+.wave::before {
 	position: absolute;
 	width: 100%;
 	background-image: url(../images/careers/wave.svg);

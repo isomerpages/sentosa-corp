@@ -10,9 +10,10 @@ collection_name: careers
   <h2>#teamsentosa</h2>
   <div class="bp-container">
      <div class="hero">
-  </div>
-  <div class="wave">
+         <div class="wave">
     </div>
+  </div>
+
   </div>
   <video controls>
   <source src="video/careers/test.mp4" type="video/mp4">

@@ -6,14 +6,10 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 <div><h2>#teamsentosa</h2></div>  
-<div class="bp-container">
-  <div class="col is-12">
-	<div class="hero">
-	</div>
-	  <figure style="position:relative; fixed;z-index: 1";>
-          <img src="../images/careers/wave.svg"/>
-          </figure>
-  </div>
+<div class="hero"></div>
+ <div class="wave-space">
+   <div class="wave"></div>
+ </div>
   <div class="col is-12" style="position: relative;">
   <video controls>
   <source src="video/careers/test.mp4" type="video/mp4">

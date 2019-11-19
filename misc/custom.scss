@@ -694,7 +694,7 @@ span.image-text-mmt-6 {
 	background-image: url(./images/careers/hero-banner.jpg);
 	z-index: -1;
 	width: 100%;
- 	height:	100%;
+ 	height:	100vh;
 	background-repeat: no-repeat;
         background-attachment: fixed;
 	background-position: center center;
@@ -702,14 +702,14 @@ span.image-text-mmt-6 {
 .wave-space {
     position: absolute;
 	width:  80%;
-	height: 100%;
+	height: 100vh;
 	bottom:0;
 	left:0;
 }
 .wave {
 	position: relative;
 	width: 100%;
-	height: 80%;
+	height: 80vh;
 	background-attachment: scroll;
 	background-image: url(./images/careers/wave.svg);
 	z-index: 1;

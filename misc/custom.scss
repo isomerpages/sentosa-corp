@@ -715,7 +715,7 @@ span.image-text-mmt-6 {
 	background-size: 100% auto;
 	background-repeat: repeat-x;
 }
-.hero-banner-parent::before {
+.hero::before {
   content: "";
   background-image: url(../images/careers/wave.svg);
   z-index: 1;

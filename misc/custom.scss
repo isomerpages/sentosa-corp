@@ -695,8 +695,7 @@ span.image-text-mmt-6 {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
-  background-size: 100% auto;
-  height: auto;
+  background-size: cover;
 }
 .wave-space {
   position: absolute;
@@ -715,4 +714,14 @@ span.image-text-mmt-6 {
 	z-index: 1;
 	background-size: 100% auto;
 	background-repeat: repeat-x;
+}
+.wave::before {
+  content: "";
+  background-image: url(../images/careers/wave.svg);
+  z-index: 1;
+  background-size: 100% auto;
+  background-repeat: repeat-x;
+}
+.wave::after {
+ content: "";
 }

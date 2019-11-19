@@ -6,9 +6,11 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 
-<div><h2>#teamsentosa</h2></div>
 <div class="col is-12">
-  <div class="hero">
+  <h2>#teamsentosa</h2>
+  <div class="bp-container">
+    <div class="hero">
+    </div>
   </div>
   <div class="wave">
   </div>

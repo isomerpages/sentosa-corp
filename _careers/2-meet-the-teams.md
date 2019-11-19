@@ -5,8 +5,9 @@ permalink: /careers/meet-the-teams/
 breadcrumb: meet-the-team
 collection_name: careers
 ---
+
+<div><h2>#teamsentosa</h2></div> 
   <div class="col is-12" style="position: relative;">
-<div><h2>#teamsentosa</h2></div>  
 <div class="hero"></div>
    <div class="wave">
  </div>

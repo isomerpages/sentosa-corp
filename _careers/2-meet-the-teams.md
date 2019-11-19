@@ -9,9 +9,9 @@ collection_name: careers
 <div class="col is-12">
   <h2>#teamsentosa</h2>
   <div class="bp-container">
-      <div class="wave">
+     <div class="hero">
   </div>
-    <div class="hero">
+  <div class="wave">
     </div>
   </div>
   <video controls>
@@ -19,4 +19,3 @@ collection_name: careers
   Your browser does not support the video tag.
   </video>
 </div>
-  

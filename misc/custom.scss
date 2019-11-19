@@ -719,10 +719,9 @@ span.image-text-mmt-6 {
   content: "";
   background-image: url(../images/careers/hero-banner.jpg);
   z-index: -1;
-  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-repeat: repeat-x;
   background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
 }
 .wave::after {
  content: "";

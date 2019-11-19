@@ -8,8 +8,7 @@ collection_name: careers
   <div class="col is-12">
 <div><h2>#teamsentosa</h2></div>  
 <div class="hero"></div>
- <div class="wave-space">
-   <div class="wave"></div>
+   <div class="wave">
  </div>
   <video controls>
   <source src="video/careers/test.mp4" type="video/mp4">

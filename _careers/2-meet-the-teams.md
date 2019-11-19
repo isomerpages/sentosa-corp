@@ -6,7 +6,7 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 <div><h2>#teamsentosa</h2></div>  
-
+<div style="width: 100%;height: 80%;">
 <div class="row">
   <div class="col is-12">
 	<div class="hero">
@@ -20,7 +20,7 @@ collection_name: careers
 	  </div>
   <div>
 </div>
-
+<div>
 <div class="row">
   <video controls>
   <source src="video/test.mp4" type="video/mp4">

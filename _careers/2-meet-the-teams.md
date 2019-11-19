@@ -8,11 +8,11 @@ collection_name: careers
 <div><h2>#teamsentosa</h2></div>  
 <div class="row">
   <div class="col is-12">
-	<figure style="position:relative;width:100%; height:60%;margin-top:30%;">
-	<img src="../images/careers/wave.svg" style="position: scoll"/>
-	</figure>
 	<div class="hero-banner-parent">
 	</div>
+	  <figure style="position:relative;width:100%; height:60%;margin-top:30%;">
+	<img src="../images/careers/wave.svg" style="position: absolute;"/>
+	</figure>
   </div>
 </div>
   

@@ -18,9 +18,9 @@ collection_name: careers
   <div class="col is-12">
 	  <div class="wave">
 	  </div>
-  <div>
+  </div>
 </div>
-<div>
+</div>
 <div class="row:not(:last-child)">
   <video controls>
   <source src="video/test.mp4" type="video/mp4">

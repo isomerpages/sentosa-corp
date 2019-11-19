@@ -696,6 +696,8 @@ span.image-text-mmt-6 {
  	height:	30vh;
 	background-repeat: no-repeat;
 	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
 	z-index: -1;
 }
 .wave::before {
@@ -708,5 +710,6 @@ span.image-text-mmt-6 {
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: left center;
+
 	right: 0;
 }

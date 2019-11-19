@@ -10,11 +10,9 @@ collection_name: careers
   <div class="col is-12">
 	<div class="hero">
 	</div>
-  </div>
-  <div class="col is-12" style="position: fixed;z-index: 2;">
-  <figure>
-  <img src="../images/careers/wave.svg"/>
-  </figure>
+	  <figure style="position: fixed;z-index: 1";>
+          <img src="../images/careers/wave.svg"/>
+          </figure>
   </div>
   <div class="col is-12" style="position: relative;">
   <video controls>

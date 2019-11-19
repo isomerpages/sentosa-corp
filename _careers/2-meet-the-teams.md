@@ -10,9 +10,7 @@ collection_name: careers
   <div class="col is-12">
 	<div class="hero-banner-parent">
 	</div>
-	  <figure style="position:relative;width:100%; height:60%;margin-top:30%;">
-	<img src="../images/careers/wave.svg" style="position: absolute;"/>
-	</figure>
+
   </div>
 </div>
   

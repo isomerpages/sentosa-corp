@@ -5,6 +5,7 @@ permalink: /careers/meet-the-teams/
 breadcrumb: meet-the-team
 collection_name: careers
 ---
+<div bp-container>
 <div><h2>#teamsentosa</h2></div>  
 <div class="hero"></div>
  <div class="wave-space">
@@ -16,3 +17,4 @@ collection_name: careers
   Your browser does not support the video tag.
   </video>
   </div>
+</div>

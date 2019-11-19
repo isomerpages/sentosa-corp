@@ -6,24 +6,21 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 <div><h2>#teamsentosa</h2></div>  
-<div style="width: 100%;height: 80%;">
 <div class="row">
-  <div class="col is-12">
-	<div class="hero">
-	</div>
+  <div class="col is-12" style="position: fixed;">
+	<figure>
+	<img src="../images/careers/hero-banner.jpg"/>	
+	</figure>
   </div>
-</div>
-
-<div class="row">
-  <div class="col is-12">
-	  <div class="wave">
-	  </div>
+  <div class="col is-12" style="position: relative;">
+  <figure>
+  <img src="../images/careers/wave.svg"/>
+  </figure>
   </div>
-</div>
-</div>
-<div class="row">
+  <div class="col is-12" style="position: fixed;">
   <video controls>
   <source src="video/test.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
+  </div>
 </div>

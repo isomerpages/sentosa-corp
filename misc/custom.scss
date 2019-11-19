@@ -689,7 +689,7 @@ span.image-text-mmt-6 {
   opacity: 1;
 }
 .hero {
-	position: absolute;
+	position: relative;
 	overflow: hidden;
         background-color: red;
 	z-index: -1;
@@ -707,10 +707,10 @@ span.image-text-mmt-6 {
 	left:0;
 }
 .wave {
-	position: fixed;
+	position: absolute;
 	width: 100%;
-	height: 10vh;
-	background-attachment: scroll;
+	height: 1vh;
+	background-attachment: fixed;
 	background-image: url(../images/careers/wave.svg);
 	z-index: 1;
 	background-size: 100% auto;

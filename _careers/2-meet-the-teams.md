@@ -9,11 +9,16 @@ collection_name: careers
 <div class="row">
   <div class="col is-12">
 	<div class="hero-banner-parent">
-	</div>
-
+	  </div>
   </div>
 </div>
-  
+
+<div class="row">
+  <div class"col is-12">
+	  <div class="wave">
+	  </div>
+  <div>
+</div>
   <video controls>
   <source src="video/test.mp4" type="video/mp4">
   Your browser does not support the video tag.

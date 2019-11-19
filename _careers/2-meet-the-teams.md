@@ -6,11 +6,11 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 <div><h2>#teamsentosa</h2></div>  
-<div class="row">
+<div class="bp-container">
   <div class="col is-12">
 	<div class="hero">
 	</div>
-	  <figure style="position: fixed;z-index: 1";>
+	  <figure style="position:relative; fixed;z-index: 1";>
           <img src="../images/careers/wave.svg"/>
           </figure>
   </div>

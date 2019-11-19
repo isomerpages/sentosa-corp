@@ -717,19 +717,3 @@ span.image-text-mmt-6 {
 	background-size: 100% auto;
 	background-repeat: repeat-x;
 }
-.hero::before {
-  content: "";
-  background-image: url(../images/careers/wave.svg);
-  z-index: 1;
-  background-size: 100% auto;
-  background-repeat: repeat-x;
-  background-attachment: scroll;
-}
-.wave::before {
-  content: "";
-  background-image: url(../images/careers/wave.svg);
-  z-index: 1;
-  background-size: 100% auto;
-  background-repeat: repeat-x;
-  background-attachment: scroll;
-}

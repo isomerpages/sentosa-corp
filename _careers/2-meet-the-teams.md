@@ -19,7 +19,7 @@ collection_name: careers
   </div>
   <div class="col is-12" style="position: fixed;">
   <video controls>
-  <source src="video/test.mp4" type="video/mp4">
+  <source src="video/careers/test.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
   </div>

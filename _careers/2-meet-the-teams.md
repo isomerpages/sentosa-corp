@@ -7,8 +7,9 @@ collection_name: careers
 ---
 
 <div class="col is-12">
-  <h2>#teamsentosa</h2>
-  <img src="../images/careers/hero-banner.jpg"style="position: fixed;z-index:-1;"/>
+	<div class="hero" style="width: 90%;height: 16%;">
+		<img src="./images/hero-banner.jpg/>
+	</div>
  
   <video controls>
   <source src="video/careers/test.mp4" type="video/mp4">

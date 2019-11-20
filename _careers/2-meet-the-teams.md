@@ -7,10 +7,7 @@ collection_name: careers
 ---
 
 <div class="col is-12">
-	<div class="hero" style="width: 90%;height: 16%;">
-		<img src="../images/careers/hero-banner.jpg"/>
-	</div>
- 	<div class="hero" style="width: 90%;height: 16%;">
+ 	<div class="hero" style="width: 90%;height: auto;">
 		<img src="../images/careers/hero-banner.jpg" style="position: fixed;z-index:-1;"/>
 	</div>
   <video controls>

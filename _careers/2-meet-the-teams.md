@@ -13,7 +13,3 @@ collection_name: careers
   <img src="../images/careers/wave.svg" style="position: sticky;top: 0%;z-index: 2;max-width: 70%;"/>
   </div>
 </div>
-  <video controls>
-  <source src="video/careers/test.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>

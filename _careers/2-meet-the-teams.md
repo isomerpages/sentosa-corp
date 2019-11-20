@@ -8,17 +8,8 @@ collection_name: careers
 
 <div class="col is-12">
   <h2>#teamsentosa</h2>
-  <div class="hero" style="width: 90%;height: 16vhj;">
-    <img src="../images/careers/hero-banner.jpg"style="position: fixed;z-index:-1;"/>
-  </div>
-  <div class="stick" style="width: 100%; height: 4vh;z-index:2	;font-size: 0;margin-top:-10%;">
-    <img src="../images/careers/wave.svg"style="position: sticky;top: 0%;z-index: 2;width: 90%;height: auto;"/>
-   </div>
-  <div class="SECTION-TWO" style="width: 90%; height: 100vh;z-index:2;background:black;font-size: 0;margin-top: 5%;">
-    <p>HI THERE !</p>
-   </div>
-</div>
-<div>
+  <img src="../images/careers/hero-banner.jpg"style="position: fixed;z-index:-1;"/>
+ 
   <video controls>
   <source src="video/careers/test.mp4" type="video/mp4">
   Your browser does not support the video tag.

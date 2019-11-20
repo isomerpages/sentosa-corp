@@ -689,25 +689,6 @@ span.image-text-mmt-6 {
   opacity: 1;
 }
 .hero {
-	position: relative;
-	overflow: hidden;
-        background-image: url(../images/careers/wave.svg);
-	width: 100%;
- 	height:	30vh;
-	background-repeat: no-repeat;
-	background-position: center center;
+	position: fixed;
 	z-index: -1;
-}
-.wave::before {
-	position: absolute;
-	content: "";
-	width: 100%;
-	background-image: url(../images/careers/hero-banner.jpg);
-	z-index: 1;
-	height: 30%;
-	background-size: 100% 100%;
-	background-repeat: no-repeat;
-	background-position: left center;
-	background-attachment: fixed;
-	right: 0;
 }

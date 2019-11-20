@@ -8,7 +8,7 @@ collection_name: careers
 
 <div class="col is-12">
 	<div class="hero" style="width: 90%;height: 16%;">
-		<img src="./images/hero-banner.jpg/>
+		<img src="../images/careers/hero-banner.jpg/>
 	</div>
  
   <video controls>

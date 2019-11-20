@@ -7,10 +7,8 @@ collection_name: careers
 ---
 <h2>#Teamsentosa</h2>
 <div class="row">
-	<div class="col is-12" style="background-color: black;">
-	<figure style="margin: 0;position: relative;">
-  <img src="../images/careers/hero-banner.jpg" style="position: fixed;z-index:-1;max-width: 59.5%;"/>
-	</figure>
+	<div class="col is-12">
+<div class="hero" style:max-width: 100%;></div>
 	<figure style="margin: 0;position: relative;">
   <img src="../images/careers/wave.svg" style="position: sticky;top: 0%;z-index: 2;max-width: 100%;background-color: black;"/>
 	</figure>

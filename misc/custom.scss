@@ -689,8 +689,8 @@ span.image-text-mmt-6 {
   opacity: 1;
 }
 .hero {
-  background-image: url(../images/careers/hero-banner.jpg);
+  background-image: url(../images/careers/hero-banner.jpg),url(../images/careers/hero-banner.jpg);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed, scroll;
   background-position: center center;
 }

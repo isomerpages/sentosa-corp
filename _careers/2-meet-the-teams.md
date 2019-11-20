@@ -6,8 +6,11 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 <div class="row">
-<div class="col is-12">
-  <img src="../images/careers/hero-banner.jpg" style="position: fixed;z-index:-1;max-width: 100%;"/>
+  <div class="col is-12">
+  <img src="../images/careers/hero-banner.jpg" style="position: fixed;z-index:-1;max-width: 80%;"/>
+  </div>
+  <div class="col is-12">
+  <img src="../images/careers/wave.svg"style="position: sticky;top: 0%;z-index: 2;width: 90%;height: auto;"/>
   </div>
 </div>
   <video controls>

@@ -3,7 +3,6 @@ layout: leftnav-page-content
 title: Graduate Programme
 permalink: /careers/job-opportunities/graduate-programme
 breadcrumb: graduate-programme
-collection_name: x
 ---
 <div class="row">
 <div col-is-12>

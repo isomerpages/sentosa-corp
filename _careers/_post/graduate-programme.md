@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: graduate-programme
 title: Graduate-Programme
 permalink: /graduate-programme
 ---

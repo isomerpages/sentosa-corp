@@ -1,7 +1,7 @@
 ---
 layout: no-display
 title: Graduate Programme
-permalink: /careers/job-opportunities/graduate-programme
+permalink: /graduate-programme
 breadcrumb: graduate-programme
 ---
 <div class="row">

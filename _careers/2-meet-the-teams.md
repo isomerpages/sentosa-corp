@@ -10,8 +10,6 @@ collection_name: careers
 	<div class="col is-12">
 	<figure style="margin: 0;position: relative;">
 		<img src="../images/careers/hero-bannerv2.jpg" style="position: relative;z-index:-1;"/>
-		</figure>
-	<figure style="margin: 0;position: absolute;">
   <img src="../images/careers/wave.svg" style="position: relative;top: 0;z-index: 2;max-width: 100%;background-color: black;"/>
 	</figure>
   </div>

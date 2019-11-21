@@ -8,7 +8,6 @@ permalink: /graduate-programme
 <figure style="margin: 0;position: relative;">
 <img src="images/graduate-programme/hero-bannerv2.jpg" alt="Graduate Programme Hero Banner"/>
 </figure>
-<br/>
 <h2><b>Graduate Programme</b></h2>
 <br/>
 <h4><b>For the fun-lovers & fun-makers</b></h4>
@@ -37,6 +36,7 @@ You will be exposed to two months of ground operations on the island and two six
 <br/>
 
 The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh graduates with less than two years of work experience. Candidates with the following qualities will be viewed favourably:
+
   - Good academic results
   - Excellent Co-Curricular Activities track record
   - Strong leadership capabilities
@@ -45,7 +45,7 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
 
 </br>
 <h4><b>Application is currently closed. Follow us <a href="https://www.linkedin.com/company/sentosa-development-corporation/">here</a>
- for updates.</b></h4>
+ for updates.</br></h4>
  <br/>
  <figure style="margin: 0;">
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>

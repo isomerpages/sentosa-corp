@@ -24,7 +24,6 @@ You will be exposed to two months of ground operations on the island and two six
  <figure style="margin: 0;">
   <img src="images/graduate-programme/your journey.jpg" alt="Your Journey"/>
  </figure>
-<br/>
 <h4 style="color: #00DBFF"><b>WHO SHOULD APPLY</b></h4>
 
 The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh graduates with less than two years of work experience. Candidates with the following qualities will be viewed favourably:
@@ -37,8 +36,7 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
 
 <br/>
 <h4><b>Application is currently closed. Follow us <a href="https://www.linkedin.com/company/sentosa-development-corporation/">here</a>
- for updates.</br></h4>
- <br/>
+ for updates.</h4>
  <figure style="margin: 0;">
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>

@@ -1,6 +1,7 @@
 ---
 title: Graduate Programme
 permalink: /careers/job-opportunities/graduate-programme
+breadcrumb: graduate-programme
 ---
 <div class="row">
 <div col-is-12>

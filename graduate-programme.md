@@ -35,7 +35,7 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
   - Passion for the tourism industry
 
 <h4><b>Application is currently closed. Follow us <a href="https://www.linkedin.com/company/sentosa-development-corporation/">here</a>
- for updates.</h4>
+ for updates.</b></h4>
  <figure style="margin: 0;">
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>

@@ -1,8 +1,8 @@
 ---
 layout: no-display
-title: Graduate Programme
-permalink: /graduate-programme
-breadcrumb: graduate-programme
+title: x
+permalink: /x
+breadcrumb: x
 ---
 <div class="row">
 <div col-is-12>

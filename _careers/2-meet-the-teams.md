@@ -7,22 +7,22 @@ collection_name: careers
 ---
 <h2>#Teamsentosa</h2>
  <div class="row" style="background-color: white;">
- <div class="col is-4" style="background-color: black;">
+ <div class="col is-4" style="background-color: black;padding: 0;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
 			<figure style="margin: 0; position: relative;">
-			<img src="../images/careers/testimagev1.gif" alt="Develop With Us" style="width: 100%;"/>
+			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
 			<span class="image-text-1">Events</span>
 				</figure>
 		</a>
 	  </div>
-	 <div class="col is-4" style="background-color: yellow;">
+	 <div class="col is-4" style="background-color: yellow;padding: 0;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
 			<figure style="margin: 0; position: relative;">
 			<img src="../images/careers/testimagev1.gif" alt="Develop With Us" style="width: 100%;"/>
 			<span class="image-text-1">Planning</span>
 				</figure>
 		</a></div>
-	 <div class="col is-4" style="background-color: red;">
+	 <div class="col is-4" style="background-color: red;padding: 0;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
 			<figure style="margin: 0; position: relative;">
 			<img src="../images/careers/testimagev1.gif" alt="Develop With Us" style="width: 100%;"/>

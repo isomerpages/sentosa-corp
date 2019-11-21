@@ -7,7 +7,7 @@ collection_name: careers
 ---
 <h2>#Teamsentosa</h2>
  <div class="row" style="background-color: white;">
- <div class="col is-4" style="background-color: white;">
+ <div class="col is-12" style="background-color: white;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
 			<figure style="margin: 0; position: relative;">
 			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
@@ -15,22 +15,18 @@ collection_name: careers
 				</figure>
 		</a>
 	  </div>
-	  <div class="col is-4" style="background-color: white;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
 			<figure style="margin: 0; position: relative;">
 			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
 			<span class="image-text-1">Planning</span>
 				</figure>
 		</a>
-	  </div>
- <div class="col is-4" style="background-color: white;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
 			<figure style="margin: 0; position: relative;">
 			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
 			<span class="image-text-1">IT</span>
 			</figure>
 		</a>
-	  </div>
 </div>
  <div class="row" style="background-color: white;">
 	  <div class="col is-4" style="background-color: white;">

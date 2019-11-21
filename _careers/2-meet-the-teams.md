@@ -30,7 +30,6 @@ collection_name: careers
 			</figure>
 		</a></div>
 </div>
-</div>
  <div class="row" style="background-color: white;">
 	  <div class="col is-4" style="background-color: white;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/work-and-have-fun-with-us">

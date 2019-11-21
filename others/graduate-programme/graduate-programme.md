@@ -1,8 +1,7 @@
 ---
-layout: homepage
-title: x
-permalink: /x
-breadcrumb: x
+layout: leftnav-page-content
+title: Graduate-Programme
+permalink: /careers/graduate-programme
 ---
 <div class="row">
 <div col-is-12>

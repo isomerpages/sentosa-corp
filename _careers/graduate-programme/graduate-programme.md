@@ -1,5 +1,5 @@
 ---
-layout: no-display
+layout: homepage
 title: x
 permalink: /x
 breadcrumb: x

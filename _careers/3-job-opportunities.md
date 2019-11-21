@@ -12,7 +12,7 @@ collection_name: careers
   
 <a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm" target="_blank">FULL TIME POSITIONS</a><br/>
 <a href="https://www.jobstreet.com.sg/career/sentosa_pt.ht" target="_blank">PART TIME POSITIONS</a><br/>
-<a href="../graduate-programme/graduate-programme" target="_blank">GRADUATE PROGRAMME(Change Url)</a><br/>
+<a href="../graduate-programme" target="_blank">GRADUATE PROGRAMME(Change Url)</a><br/>
 <a href="https://www.jobstreet.com.sg/career/onefabergroup.htm" target="_blank">ONE FABER GROUP POSITIONS</a>
   
 <!-- remember to change hyperlink for 3,5,6 to live site-->

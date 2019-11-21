@@ -1,6 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Graduate-Programme
+permalink: /graduate-programme
 ---
 <div class="row">
 <div col-is-12>

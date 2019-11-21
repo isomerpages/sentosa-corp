@@ -6,7 +6,7 @@ permalink: /graduate-programme
 <div class="row">
 <div col-is-12>
       <figure style="margin: 0;position: relative;">
-			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
+			<img src="../../images/careers/testimagev1.gif" alt="Develop With Us"/>
 			</figure>
       <h2><b>Graduate Programme</b></h2>
         **##For the fun-lovers & fun-makers**

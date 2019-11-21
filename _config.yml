@@ -48,6 +48,8 @@ collections:
     output: true
   careers:
     output: true
+  no-display:
+    output: false
  #collection-name:
  #  output: true
 resources_name: resources

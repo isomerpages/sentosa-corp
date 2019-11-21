@@ -9,8 +9,8 @@ collection_name: careers
 <div class="row">
 	<div class="col is-12">
 	<figure style="margin: 0;position: relative;">
-		<img src="../images/careers/hero-bannerv2.jpg" style="position: relative;z-index:-1;"/>
-  <img src="../images/careers/wave.svg" style="position: absolute;left: 0;z-index: 2;max-width: 100%; top-padding: 25%;"/>
+		<img src="../images/careers/hero-bannerv2.jpg" style="position: relative;"/>
+  <img src="../images/careers/wave.svg" style="position: absolute;max-width: 100%; top: 73.5%;"/>
 	</figure>
   </div>
 </div>

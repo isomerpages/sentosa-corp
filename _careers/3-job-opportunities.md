@@ -1,4 +1,5 @@
 ---
+layout: leftnav-page-content
 title: Job-Opportunities(test)
 permalink: /careers/job-opportunities
 breadcrumb: job-opportunities

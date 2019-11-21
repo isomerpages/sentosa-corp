@@ -10,7 +10,10 @@ collection_name: careers
   Browse through the opportunities now!
   
   [FULL TIME POSITIONS][1]  
-  [PART TIME POSITIONS][2]  
+  [PART TIME POSITIONS][2]
+  
+  <a href="www.google.com" target="_blank">Launch Google in a new window</a>
+  
   [GRADUATE PROGRAMME(Change Url)][3]  
   [ONE FABER GROUP POSITIONS][4]  
     

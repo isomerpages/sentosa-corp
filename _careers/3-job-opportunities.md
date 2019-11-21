@@ -11,10 +11,8 @@ collection_name: careers
   
   [FULL TIME POSITIONS][1]  
   [PART TIME POSITIONS][2]
-  
-  <a href="www.google.com" target="_blank">Launch Google in a new window</a>
-  
-  [GRADUATE PROGRAMME(Change Url)][3]  
+  <a href="graduate programme" target="_blank">GRADUATE PROGRAMME(Change Url)</a>
+  [][3]  
   [ONE FABER GROUP POSITIONS][4]  
     
 <!-- remember to change hyperlink for 3,5,6 to live site-->

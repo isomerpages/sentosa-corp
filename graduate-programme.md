@@ -3,8 +3,6 @@ layout: leftnav-page-content
 title: Graduate Programme
 permalink: /graduate-programme
 ---
-<div class="row">
-<div col-is-12>
 <figure style="margin: 0;position: relative;">
 <img src="images/graduate-programme/hero-bannerv2.jpg" alt="Graduate Programme Hero Banner"/>
 </figure>
@@ -44,5 +42,3 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
  <figure style="margin: 0;">
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
-</div>
-</div>

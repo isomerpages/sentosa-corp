@@ -5,7 +5,8 @@ permalink: /careers/meet-the-teams/
 breadcrumb: meet-the-team
 collection_name: careers
 ---
-<h2>#Teamsentosa</h2>
+<h2>#Teamsentosa</h2>  
+
  <div class="row" style="background-color: white;">
  <div class="col is-4" style="background-color: black;padding: 0;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">

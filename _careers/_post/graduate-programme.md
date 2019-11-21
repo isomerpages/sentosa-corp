@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graduate-Programme
-permalink: /graduate-programme
+permalink: /careers/graduate-programme
 ---
 <div class="row">
 <div col-is-12>

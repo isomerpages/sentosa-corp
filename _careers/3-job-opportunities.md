@@ -23,7 +23,7 @@ Or you are unable to find a role that you are interested in joining us for?
 
 [1]: <https://www.jobstreet.com.sg/career/sentosa_ft.htm> "Full Time POSITION"
 [2]: <https://www.jobstreet.com.sg/career/sentosa_pt.htm> "PART Time POSITION"
-[3]: <https://www.google.com> "Google" {:target="_blank"}
+[3]: <https://www.google.com/ target="_blank"> "Google"
 [4]: <https://www.jobstreet.com.sg/career/onefabergroup.htm> "ONE FABER GROUP POSITIONS"
 [5]: <https://isomer-sentosa-staging.netlify.com/careers/meet-the-teams/>
 [6]: <https://isomer-sentosa-staging.netlify.com/careers/connect-with-us/>

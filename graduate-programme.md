@@ -41,7 +41,7 @@ permalink: /graduate-programme
  for updates.</b></h4>
  <br/>
  <figure style="margin: 0;">
-  <img src="images/graduate-programme/application_timeline.jpg" alt="Your Journey"/>
+  <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
 </div>
 </div>

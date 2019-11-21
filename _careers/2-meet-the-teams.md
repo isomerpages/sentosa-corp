@@ -6,16 +6,55 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 <h2>#Teamsentosa</h2>
-<div class="row">
-  <div class="col is-12">
-  <figure>
-  <img src="../images/careers/hero-bannerv2.jpg" style="position: relative;"/>
-  <img src="../images/careers/wave.svg" style="position: absolute;max-width: 100%; top: 50.5%;"/>
-  </figure>
-
-  </div>
+ <div class="row" style="background-color: white;">
+ <div class="col is-4" style="background-color: white;">
+		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
+			<figure style="margin: 0;position: relative;">
+			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
+			<span class="image-text-1">Events</span>
+		</figure>
+		</a>
+	  </div>
+	  <div class="col is-4" style="background-color: white;">
+		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
+			<figure style="margin: 0;position: relative;">
+			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
+			<span class="image-text-1">Planning</span>
+		</figure>
+		</a>
+	  </div>
+ <div class="col is-4" style="background-color: white;">
+		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
+			<figure style="margin: 0;position: relative;">
+			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
+			<span class="image-text-1">IT</span>
+		</figure>
+		</a>
+	  </div>
 </div>
-  <div>	
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  
-		  
-   </div>
+ <div class="row" style="background-color: white;">
+	  <div class="col is-4" style="background-color: white;">
+		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/work-and-have-fun-with-us">
+                <figure style="margin: 0; position: relative;">
+			<img src="../images/careers/testimagev1.gif" alt="Work And Have Fun With Us"/>
+			<span class="image-text-2">Finance</span>
+		</figure>
+		</a>
+	</div>
+ <div class="col is-4" style="background-color: white;">
+		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
+			<figure style="margin: 0;position: relative;">
+			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
+			<span class="image-text-1">Marketing</span>
+		</figure>
+		</a>
+	  </div>
+	  <div class="col is-4" style="background-color: white;">
+		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/care-with-us">
+                <figure style="margin: 0; position: relative;">
+			<img src="../images/careers/testimagev1.gif" alt="Care With Us"/>
+			<span class="image-text-3">Human Resource</span>
+		</figure>
+			</a>
+	</div>
+</div>

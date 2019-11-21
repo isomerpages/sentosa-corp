@@ -1,4 +1,5 @@
 ---
+layout: leftnav-page-content
 title: Graduate Programme
 permalink: /careers/job-opportunities/graduate-programme
 breadcrumb: graduate-programme

@@ -10,8 +10,9 @@ collection_name: careers
   
   [FULL TIME POSITIONS][1]  
   [PART TIME POSITIONS][2]  
+  
   <a href="http://example.com/" target="_blank">GRADUATE PROGRAMME(Change Url)</a>
-  [ONE FABER GROUP POSITIONS][3]  
+    [ONE FABER GROUP POSITIONS][3]  
     
 <!-- remember to change hyperlink for 3,5,6 to live site-->
 <!-- remember to change hyperlink for 3,5,6 to live site-->

@@ -11,7 +11,6 @@ permalink: /graduate-programme
 
 The Sentosa Graduate Development programme is designed to kick-start your career in the tourism industry by exposing you to dynamic job experience and mentorship opportunities aimed at building your leadership capabilities.
 
-<br/>
 <h4 style="color: #00DBFF"><b>TIMELINE</b></h4>
   <figure style="margin: 0;">
   <img src="images/graduate-programme/timeline.jpg" alt="Timeline"/>

@@ -12,7 +12,7 @@ collection_name: careers
   [FULL TIME POSITIONS][1]  
   [PART TIME POSITIONS][2]  
   
-  <a href="graduate-programme" target="_blank">GRADUATE PROGRAMME(Change Url)</a>
+  <a href="../graduate-programme/graduate-programme" target="_blank">GRADUATE PROGRAMME(Change Url)</a>
   
   [ONE FABER GROUP POSITIONS][3]  
     

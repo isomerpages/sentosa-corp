@@ -38,7 +38,7 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
  <figure style="margin: 0;">
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
-
+<div class="graduate">
 <div class="row">
   <div class="col">
     <h2>Open <b>multiple</b></h2>
@@ -58,4 +58,5 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
         </div>
       </div>
     </div>
+  </div>
   </div>

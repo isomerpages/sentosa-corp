@@ -3,15 +3,9 @@ layout: leftnav-page-content
 title: Graduate Programme
 permalink: /graduate-programme
 ---
-<div class="hero" style="width: 90%;height: 16vh;">
-</div>
-<div class="stick" style="width: 100%; height: 4%;z-index:2;font-size: 0;margin-top:-10%;">
-</div>
-<div class="SECTION-TWO" style="width: 90%; height: 100%;z-index:2;background:black;font-size: 0;margin-top: 5%;">
-<p>HI THERE !</p>
-</div>
-
-
+<figure style="margin: 0;position: relative;">
+<img src="images/graduate-programme/hero-bannerv2.jpg" alt="Graduate Programme Hero Banner"/>
+</figure>
 <h2><b>Graduate Programme</b></h2>
 <h5><b>For the fun-lovers & fun-makers</b></h5>
 
@@ -44,3 +38,33 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
  <figure style="margin: 0;">
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
+
+<button type="button" class="collapsible">Open Section 1</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button type="button" class="collapsible">Open Section 2</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button type="button" class="collapsible">Open Section 3</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>

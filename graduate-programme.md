@@ -38,16 +38,51 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
  <figure style="margin: 0;">
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
+ <br/>
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">More Info</label>
+  <label for="collapsible" class="lbl-toggle">1. How many graduates does Sentosa intend to recruit this year?</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-        QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
-        its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
-        plug-ins. Test-Driven Development.
+        A: The number of graduates recruited will depend on the quality of our applicants that year.
+      </p>
+    </div>
+  </div>
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">2. How are we being assessed?</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        A: You will be assessed through your academic and co-curricular track records as well as any past internship experiences and leadership capabilities. If short-listed, you will then undergo a series of assessments and panel interviews. If you are selected, you will be informed within a week following the final assessment. 
       </p>
     </div>
   </div>
 </div>
+<input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">3. Can we choose our preferred divisions for the two rotations and final posting?</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+       A: HR will assign you to your respective divisions during the two 6-month divisional rotation. This is to ensure that you receive a holistic and well-rounded exposure, while taking into consideration organizational needs. You will then be formally deployed to a division based on available positions, your career aspirations, and job fit.
+      </p>
+    </div>
+  </div>
+<input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">4. How is our performance evaluated if we are rotated to various functions during the programme period?</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        A: You will be assessed towards the end of each rotation, including the operations attachment. At the end of each rotation, your reporting officer will conduct a performance review with you. At the end of the 14-month programme, HR will consolidate all performance reviews to finalize your final assessment result.
+      </p>
+    </div>
+  </div>
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">5. What will my remuneration package be?</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        A: You will receive competitive entry-level salaries and you will also be eligible for full benefits and other bonuses.
+      </p>
+    </div>
+  </div>

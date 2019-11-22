@@ -42,11 +42,20 @@
     url: /resources/news/
 - title: Contact Us
   url: /contact-us/
-# - title: Test
-#   url: /test/test
+# - title: Careers
+#   url: /careers/life-in-sentosa
 #   sub-links:
-#   - title: test2
-#     url: /test/test2
+#   - title: Life In Sentosa
+#     url: /careers/life-in-sentosa
+#     sub-links:
+#     - title: Develop With Us
+#       url: /careers/life-in-sentosa/develop-with-us
+#   - title: Meet The Teams
+#     url: /careers/meet-the-teams
+#   - title: Job Opportunities
+#     url: /careers/job-opportunities
+#   - title: Connect With Us
+#     url: /careers/connect-with-us
   
 #- title: Collection Name
 #  url: /collection-name/page-name/

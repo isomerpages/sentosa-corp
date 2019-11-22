@@ -2,7 +2,6 @@
 
 ---
 @charset "utf-8";
-
 // HLB brand colors , original secondary:#BD5A0A;
 $primary: #f48123;
 $secondary: #f48123;
@@ -391,30 +390,9 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 // css for Life in sentosa
-.grid-container {
-  display: grid;
-  grid-template-columns: 33% 33% 33%;
-  grid-template-rows: 50% 50%;
-//   background-color: #f48123;
-  background-color: #fffff;
-  grid-column-gap: 0.333%;
-//   grid-row-gap: 0.5%;
-}
-.grid-item {
-  background-color: #f48123;
-//   border: 1px solid rgba(0, 0, 0, 0.8);
-  position: relative;
-  text-align: justify;
-  display: inline;
-  word-wrap: break-word;
-  overflow: hidden;
-//  overflow-y: scroll;
-  float: left;
-}
 img.grid-image-1 {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.8);
-//   border: 1px solid rgba(0, 0, 0, 0.8);
   //display: inline-block;
   float: left;
   overflow: hidden;
@@ -422,14 +400,12 @@ img.grid-image-1 {
 img.grid-image-2 {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.8);
-//   border: 1px solid rgba(0, 0, 0, 0.8);
   float: left;
   overflow: hidden;
 }
 img.grid-image-3 {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.8);
-//   border: 1px solid rgba(0, 0, 0, 0.8);
   float: left;
   overflow: hidden;
 }
@@ -438,241 +414,140 @@ image-text-container {
 }
 span.image-text-1 {
        position: absolute;
-       top: 32%;
-       left: 52%;
-       color: #FFFFF;
+       top: 60%;
+       left: 60%;
+       color: #FFFFFF;
        visibility: hidden;
        opacity: 0;
        font-weight: bold;
+       font-size: 150%;
        text-decoration: underline;
+       left: 0;
+       right: 0;
+       bottom: 0;
 }
 span.image-text-2 {
        position: absolute;
-       top: 47%;
-       left: 29%;
-       color: #FFFFF;
+       top: 60%;
+       left: 60%;
+       color: #FFFFFF;
        visibility: hidden;
        opacity: 0;
        font-weight: bold;
+       font-size: 150%;
        text-decoration: underline;
+       left: 0;
+       right: 0;
+       bottom: 0;
 }
 span.image-text-3 {
        position: absolute;
-       top: 47%;
-       right: 17.5%;
-       color: #FFFFF;
+       top: 60%;
+       left: 60%;
+       color: #FFFFFF;
        visibility: hidden;
        opacity: 0;
        font-weight: bold;
+       font-size: 150%;
        text-decoration: underline;
+       left: 0;
+       right: 0;
+       bottom: 0;
 }
-.image-text-container:hover img.grid-image-1 {
+.col.is-4:hover img.grid-image-1 {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover img.grid-image-2 {
+.col.is-4:hover img.grid-image-2 {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover img.grid-image-3 {
+.col.is-4:hover img.grid-image-3 {
   visibility: visible;
   opacity: 0.2;
 }
-.image-text-container:hover span.image-text-1 {
+.col.is-4:hover span.image-text-1 {
   visibility: visible;
   opacity: 1;
 }
-.image-text-container:hover span.image-text-2 {
+.col.is-4:hover span.image-text-2 {
   visibility: visible;
   opacity: 1;
 }
-.image-text-container:hover span.image-text-3 {
+.col.is-4:hover span.image-text-3 {
   visibility: visible;
   opacity: 1;
 }
-.grid-container-our-thoughts {
-  display: grid;
-  grid-template-columns: 33% 33% 33%;
-  grid-template-rows: 100%;
-  background-color: #ffffff;
-//   background-color: #f48123;
-  grid-column-gap: 0.333%;
+// css for graduate programme
+.wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+}
 
+input[type='checkbox'] {
+  display: none;
 }
-.grid-item-our-thoughts {
-  background-color: #f48123;
-//   border: 1px solid rgba(0, 0, 0, 0.8);
-  position: relative;
-  text-align: justify;
-  display: inline;
-  word-wrap: break-word;
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  text-align: center;
+
+  padding: 1rem;
+
+  color: #A77B0E;
+  background: #FAE042;
+
+  cursor: pointer;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #7C5A0B;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
   overflow: hidden;
-//  overflow-y: scroll;
-  float: left;
-  height: 100%
+  transition: max-height .25s ease-in-out;
 }
-//
-// css for Meet the teams
-.grid-container-mmt {
-  display: grid;
-  grid-template-columns: 33.333% 33.333% 33.333%;
-  grid-template-rows: 50% 50%;
-  background-color: #f48123;
-//   grid-column-gap: 0.333%;
-//   grid-row-gap: 0.5%;
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 350px;
 }
-img.grid-image-mmt-1 {
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-//   border: 1px solid rgba(0, 0, 0, 0.8);
-  //display: inline-block;
-  float: left;
-  overflow: hidden;
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
 }
-img.grid-image-mmt-2 {
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-//   border: 1px solid rgba(0, 0, 0, 0.8);
-  float: left;
-  overflow: hidden;
-}
-img.grid-image-mmt-3 {
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-//   border: 1px solid rgba(0, 0, 0, 0.8);
-  float: left;
-  overflow: hidden;
-}
-img.grid-image-mmt-4 {
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-//   border: 1px solid rgba(0, 0, 0, 0.8);
-  //display: inline-block;
-  float: left;
-  overflow: hidden;
-}
-img.grid-image-mmt-5 {
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-//   border: 1px solid rgba(0, 0, 0, 0.8);
-  float: left;
-  overflow: hidden;
-}
-img.grid-image-mmt-6 {
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-//   border: 1px solid rgba(0, 0, 0, 0.8);
-  float: left;
-  overflow: hidden;
-}
-image-text-container-mmt {
-  position: relative;
-}
-span.image-text-mmt-1 {
-       position: absolute;
-       top: 54%;
-       left: 28%;
-       color: #FFFFF;
-       visibility: hidden;
-       opacity: 0;
-       font-weight: bold;
-       text-decoration: underline;
-}
-span.image-text-mmt-2 {
-       position: absolute;
-       top: 54%;
-       left: 50%;
-       color: #FFFFF;
-       visibility: hidden;
-       opacity: 0;
-       font-weight: bold;
-       text-decoration: underline;
-}
-span.image-text-mmt-3 {
-       position: absolute;
-       top: 54%;
-       right: 7%;
-       color: #FFFFF;
-       visibility: hidden;
-       opacity: 0;
-       font-weight: bold;
-       text-decoration: underline;
-}
-span.image-text-mmt-4 {
-       position: absolute;
-       top: 72.5%;
-       left: 28%;
-       color: #FFFFF;
-       visibility: hidden;
-       opacity: 0;
-       font-weight: bold;
-       text-decoration: underline;
-}
-span.image-text-mmt-5 {
-       position: absolute;
-       top: 72.5%;
-       left: 50%;
-       color: #FFFFF;
-       visibility: hidden;
-       opacity: 0;
-       font-weight: bold;
-       text-decoration: underline;
-}
-span.image-text-mmt-6 {
-       position: absolute;
-       top: 72.5%;
-       right: 7%;
-       color: #FFFFF;
-       visibility: hidden;
-       opacity: 0;
-       font-weight: bold;
-       text-decoration: underline;
-}
-.image-text-container-mmt:hover img.grid-image-mmt-1 {
-  visibility: visible;
-  opacity: 0.2;
-}
-.image-text-container-mmt:hover img.grid-image-mmt-2 {
-  visibility: visible;
-  opacity: 0.2;
-}
-.image-text-container-mmt:hover img.grid-image-mmt-3 {
-  visibility: visible;
-  opacity: 0.2;
-}
-.image-text-container-mmt:hover img.grid-image-mmt-4 {
-  visibility: visible;
-  opacity: 0.2;
-}
-.image-text-container-mmt:hover img.grid-image-mmt-5 {
-  visibility: visible;
-  opacity: 0.2;
-}
-.image-text-container-mmt:hover img.grid-image-mmt-6 {
-  visibility: visible;
-  opacity: 0.2;
-}
-.image-text-container-mmt:hover span.image-text-mmt-1 {
-  visibility: visible;
-  opacity: 1;
-}
-.image-text-container-mmt:hover span.image-text-mmt-2 {
-  visibility: visible;
-  opacity: 1;
-}
-.image-text-container-mmt:hover span.image-text-mmt-3 {
-  visibility: visible;
-  opacity: 1;
-}
-.image-text-container-mmt:hover span.image-text-mmt-4 {
-  visibility: visible;
-  opacity: 1;
-}
-.image-text-container-mmt:hover span.image-text-mmt-5 {
-  visibility: visible;
-  opacity: 1;
-}
-.image-text-container-mmt:hover span.image-text-mmt-6 {
-  visibility: visible;
-  opacity: 1;
+
+.collapsible-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
 }

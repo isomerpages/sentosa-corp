@@ -56,3 +56,6 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
 
 <input type="checkbox" id="title3" />
 <label for="title3">Accordion Three</label>
+<div class="content">
+<p>Your content goes here.</p>
+</div>

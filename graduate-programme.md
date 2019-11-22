@@ -4,10 +4,10 @@ title: Graduate Programme
 permalink: /graduate-programme
 ---
 <div class="hero" style="width: 90%;height: 16%;">
-		<img src="/images/graduate-programme/hero-bannerv2.jpg"style="position: fixed;z-index:-1;"/>
+		<img src="./images/graduate-programme/hero-bannerv2.jpg"style="position: fixed;z-index:-1;"/>
 	</div>
 	<div class="stick" style="width: 100%; height: 4%;z-index:2	;font-size: 0;margin-top:-10%;">
-		<img src="/images/graduate-programme/wave.svg"style="position: sticky;z-index: 2;width: 90%;height: auto;text-align: right;"/>
+		<img src="./images/graduate-programme/wave.svg"style="position: sticky;z-index: 2;width: 90%;height: auto;text-align: right;"/>
    </div>
 	<div class="SECTION-TWO" style="width: 90%; height: 100%;z-index:2;background:black;font-size: 0;margin-top: 5%;">
 	<p>HI THERE !</p>

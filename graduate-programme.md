@@ -39,50 +39,41 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
  <br/>
-<div class="wrap-collabsible">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">1. How many graduates does Sentosa intend to recruit this year?</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        A: The number of graduates recruited will depend on the quality of our applicants that year.
-      </p>
-    </div>
-  </div>
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">2. How are we being assessed?</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        A: You will be assessed through your academic and co-curricular track records as well as any past internship experiences and leadership capabilities. If short-listed, you will then undergo a series of assessments and panel interviews. If you are selected, you will be informed within a week following the final assessment. 
-      </p>
-    </div>
-  </div>
+<div style="visibility: hidden; position: absolute; width: 0px; height: 0px;">
+  <svg xmlns="http://www.w3.org/2000/svg">
+    <symbol viewBox="0 0 24 24" id="expand-more">
+      <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/><path d="M0 0h24v24H0z" fill="none"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="close">
+      <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/><path d="M0 0h24v24H0z" fill="none"/>
+    </symbol>
+  </svg>
 </div>
-<input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">3. Can we choose our preferred divisions for the two rotations and final posting?</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-       A: HR will assign you to your respective divisions during the two 6-month divisional rotation. This is to ensure that you receive a holistic and well-rounded exposure, while taking into consideration organizational needs. You will then be formally deployed to a division based on available positions, your career aspirations, and job fit.
-      </p>
-    </div>
-  </div>
-<input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">4. How is our performance evaluated if we are rotated to various functions during the programme period?</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        A: You will be assessed towards the end of each rotation, including the operations attachment. At the end of each rotation, your reporting officer will conduct a performance review with you. At the end of the 14-month programme, HR will consolidate all performance reviews to finalize your final assessment result.
-      </p>
-    </div>
-  </div>
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">5. What will my remuneration package be?</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        A: You will receive competitive entry-level salaries and you will also be eligible for full benefits and other bonuses.
-      </p>
-    </div>
-  </div>
+
+<details>
+  <summary>
+    Does this product have what I need?
+    <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
+    <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
+  </summary>
+  <p>Totally. Totally does.</p>
+</details>
+
+<details>
+
+  <summary>
+    Can I use it all the time?
+    <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
+    <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
+  </summary>
+  <p>Of course you can, we won't stop you.</p>
+</details>
+
+<details>
+  <summary>
+    Are there any restrictions?    
+    <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
+    <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
+  </summary>
+  <p>Only your imagination my friend. Go forth!</p>
+</details>

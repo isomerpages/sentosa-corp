@@ -478,3 +478,35 @@ span.image-text-3 {
   visibility: visible;
   opacity: 1;
 }
+.hero {
+	position: relative;
+	overflow: hidden;
+	background-image: url(./images/graduate-programme/hero-bannerv2.jpg);
+	z-index: -1;
+	width: 100%;
+ 	height:	25%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: center center;
+}
+#child-length
+{
+    position: absolute;
+	width:  80%;
+	height: 100%;
+margin-left: 15%;
+margin-right: 15%;
+
+}
+#child
+{
+	background-color: green;
+	position: relative;
+	width: 100%;
+	height: 20%;
+	background-attachment: scroll;
+	background-image: url(./images/graduate-programme/wave.svg);
+	z-index: 1;
+	background-size: 10% 10%;
+	background-repeat: repeat-x;
+}

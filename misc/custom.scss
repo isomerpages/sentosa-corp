@@ -553,14 +553,14 @@ input {
 }
 
 // :checked
-.graduate input:checked {
-  + .tab-label {
+input:checked {
+  + .graduate .tab-label {
     background: darken($midnight, 10%);
     &::after {
       transform: rotate(90deg);
     }
   }
-  ~ .tab-content {
+  ~ .graduate .tab-content {
     max-height: 100vh;
     padding: 1em;
   }

@@ -494,9 +494,9 @@ input {
   z-index: -1;
 }
 // Layout
-.graduate .row {
+.row {
   display:flex;
-.graduate  .col {
+.col {
     flex:1;
     &:last-child {
       margin-left: 1em;
@@ -504,12 +504,12 @@ input {
   }
 }
 /* Accordion styles */
-.graduate .tabs {
+.tabs {
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 4px 4px -2px rgba(0,0,0,0.5);
 }
-.graduate .tab {
+.tab {
   width: 100%;
   color: white;
   overflow: hidden;
@@ -554,14 +554,16 @@ input {
 
 // :checked
 input:checked {
-  + .graduate .tab-label {
+  + .tab-label {
     background: darken($midnight, 10%);
     &::after {
       transform: rotate(90deg);
     }
   }
-  ~ .graduate .tab-content {
+  ~ .tab-content {
     max-height: 100vh;
     padding: 1em;
   }
 }
+$midnight: #2c3e50;
+$clouds: #ecf0f1;

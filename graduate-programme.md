@@ -38,26 +38,16 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
  <figure style="margin: 0;">
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
-<div class="graduate">
-<div class="row">
-  <div class="col">
-    <h2>Open <b>multiple</b></h2>
-    <div class="tabs">
-      <div class="tab">
-        <input type="checkbox" id="chck1">
-        <label class="tab-label" for="chck1">Item 1</label>
-        <div class="tab-content">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
-        </div>
-      </div>
-      <div class="tab">
-        <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2">Item 2</label>
-        <div class="tab-content">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
-        </div>
-      </div>
+<div class="wrap-collabsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">More Info</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
+        its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
+        plug-ins. Test-Driven Development.
+      </p>
     </div>
   </div>
-  </div>
- </div>
+</div>

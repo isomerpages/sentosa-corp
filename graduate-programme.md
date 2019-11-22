@@ -39,41 +39,20 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
  <br/>
-<div style="visibility: hidden; position: absolute; width: 0px; height: 0px;">
-  <svg xmlns="http://www.w3.org/2000/svg">
-    <symbol viewBox="0 0 24 24" id="expand-more">
-      <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/><path d="M0 0h24v24H0z" fill="none"/>
-    </symbol>
-    <symbol viewBox="0 0 24 24" id="close">
-      <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/><path d="M0 0h24v24H0z" fill="none"/>
-    </symbol>
-  </svg>
+ 
+<input type="checkbox" id="title1" />
+<label for="title1">Accordion One</label>
+
+<div class="content">
+<p>Your content goes here.</p>
 </div>
 
-<details>
-  <summary>
-    Does this product have what I need?
-    <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
-    <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
-  </summary>
-  <p>Totally. Totally does.</p>
-</details>
+<input type="checkbox" id="title2" />
+<label for="title2">Accordion Two</label>
 
-<details>
+<div class="content">
+<p>Your content goes here.</p>
+</div>
 
-  <summary>
-    Can I use it all the time?
-    <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
-    <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
-  </summary>
-  <p>Of course you can, we won't stop you.</p>
-</details>
-
-<details>
-  <summary>
-    Are there any restrictions?    
-    <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
-    <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
-  </summary>
-  <p>Only your imagination my friend. Go forth!</p>
-</details>
+<input type="checkbox" id="title3" />
+<label for="title3">Accordion Three</label>

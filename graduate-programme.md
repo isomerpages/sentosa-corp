@@ -3,9 +3,17 @@ layout: leftnav-page-content
 title: Graduate Programme
 permalink: /graduate-programme
 ---
-<figure style="margin: 0;position: relative;">
-<img src="images/graduate-programme/hero-bannerv2.jpg" alt="Graduate Programme Hero Banner"/>
-</figure>
+<div class="hero" style="width: 90%;height: 16%;">
+		<img src="./images/hero-banner.jpg"style="position: fixed;z-index:-1;"/>
+	</div>
+	<div class="stick" style="width: 100%; height: 4%;z-index:2	;font-size: 0;margin-top:-10%;">
+		<img src="./images/wave.svg"style="position: sticky;z-index: 2;width: 90%;height: auto;text-align: right;"/>
+   </div>
+	<div class="SECTION-TWO" style="width: 90%; height: 100%;z-index:2;background:black;font-size: 0;margin-top: 5%;">
+	<p>HI THERE !</p>
+	</div>
+
+
 <h2><b>Graduate Programme</b></h2>
 <h5><b>For the fun-lovers & fun-makers</b></h5>
 

@@ -39,32 +39,23 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
 
-<button type="button" class="collapsible">Open Section 1</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<button type="button" class="collapsible">Open Section 2</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<button type="button" class="collapsible">Open Section 3</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
+<div class="row">
+  <div class="col">
+    <h2>Open <b>multiple</b></h2>
+    <div class="tabs">
+      <div class="tab">
+        <input type="checkbox" id="chck1">
+        <label class="tab-label" for="chck1">Item 1</label>
+        <div class="tab-content">
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
+        </div>
+      </div>
+      <div class="tab">
+        <input type="checkbox" id="chck2">
+        <label class="tab-label" for="chck2">Item 2</label>
+        <div class="tab-content">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
+        </div>
+      </div>
+    </div>
+  </div>

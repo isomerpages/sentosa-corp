@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Graduate Programme
 permalink: /graduate-programme
 ---
-<div class="hero" style="width: 90%;height: 16%;">
+<div class="hero" style="width: 90%;height: 16vh;">
 </div>
 <div class="stick" style="width: 100%; height: 4%;z-index:2;font-size: 0;margin-top:-10%;">
 </div>

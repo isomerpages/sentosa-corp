@@ -390,25 +390,6 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 // css for Life in sentosa
-img.grid-image-1 {
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-  //display: inline-block;
-  float: left;
-  overflow: hidden;
-}
-img.grid-image-2 {
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-  float: left;
-  overflow: hidden;
-}
-img.grid-image-3 {
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-  float: left;
-  overflow: hidden;
-}
 image-text-container {
   position: relative;
 }

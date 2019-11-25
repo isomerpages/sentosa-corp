@@ -39,32 +39,16 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
   <img src="images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
  <br/>
- 
-<div class="container">
-			<header class="clearfix">
-			</header>	
-			<div class="main">
-				<ul id="cbp-ntaccordion" class="cbp-ntaccordion">
-								<li>
-									<h4 class="cbp-nttrigger">Chocolate caramels</h4>
-									<div class="cbp-ntcontent">
-										<p>Faworki oat cake cotton candy cookie ice cream gummi bears. Ice cream bear claw icing macaroon apple pie caramels. Sugar plum applicake candy canes sesame snaps I love. Sugar plum brownie biscuit tiramisu marzipan. Ice cream I love sweet bear claw I love sweet cake tart. Danish marshmallow I love wypas pastry. Chocolate tart macaroon wypas sesame snaps apple pie chocolate sesame snaps. Cotton candy sweet roll pudding oat cake I love marzipan wafer chocolate cake.</p>
-									</div>
-								</li>
-								<li>
-									<h4 class="cbp-nttrigger">Lollipop liquorice</h4>
-									<div class="cbp-ntcontent">
-										<p>Cookie ice cream sweet I love cupcake. Fruitcake topping wafer. Lollipop liquorice I love tart wypas biscuit. Danish jelly-o gingerbread. Faworki jelly pastry. Wypas wypas topping I love I love candy canes liquorice. I love sweet roll fruitcake dragée wafer icing bonbon.</p>
-									</div>
-								</li>
-							</ul>
-						</div>
-</div>
-<script src="/misc/js/modernizr.custom.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="/misc/js/jquery.cbpNTAccordion.min.js"></script>
-<script>
-	$( function() {
-				$( '#cbp-ntaccordion' ).cbpNTAccordion();
-			} );
-</script>
+
+  <details>
+      <summary>Child</summary>
+    <p>
+      Child Holder Text
+    </p>
+</details>
+  <details>
+      <summary>Child 2</summary>
+    <p>
+      Child Holder Text 2
+    </p>
+</details>

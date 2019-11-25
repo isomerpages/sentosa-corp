@@ -524,10 +524,10 @@ input:checked + label::after {
 }
 
 input + label + .collapse {
-    display: none; !important;
+    display: none !important;
 }
 
 input:checked + label + .collapse {
-    display: block; 
+    display: block;
 }
 

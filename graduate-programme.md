@@ -63,9 +63,9 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
 				</ul>
 			</div>
 </div>
-<script src="js/modernizr.custom.js"></script>
+<script src="/misc/js/modernizr.custom.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="js/jquery.cbpNTAccordion.min.js"></script>
+<script src="/misc/js/jquery.cbpNTAccordion.min.js"></script>
 <script>
 	$( function() {
 				$( '#cbp-ntaccordion' ).cbpNTAccordion();

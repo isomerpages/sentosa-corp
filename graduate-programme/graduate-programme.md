@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: 
 title: Graduate Programme
 permalink: /graduate-programme
 ---

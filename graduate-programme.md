@@ -40,23 +40,34 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
  </figure>
  <br/>
  
-<input type="checkbox" id="title1" />
-<label for="title1">Accordion One</label>
-
-<div class="collapse">
-<p>Your content goes here.</p>
+<div class="container">
+			<header class="clearfix">
+			</header>	
+			<div class="main">
+				<ul id="cbp-ntaccordion" class="cbp-ntaccordion">
+								<li>
+									<h4 class="cbp-nttrigger">Chocolate caramels</h4>
+									<div class="cbp-ntcontent">
+										<p>Faworki oat cake cotton candy cookie ice cream gummi bears. Ice cream bear claw icing macaroon apple pie caramels. Sugar plum applicake candy canes sesame snaps I love. Sugar plum brownie biscuit tiramisu marzipan. Ice cream I love sweet bear claw I love sweet cake tart. Danish marshmallow I love wypas pastry. Chocolate tart macaroon wypas sesame snaps apple pie chocolate sesame snaps. Cotton candy sweet roll pudding oat cake I love marzipan wafer chocolate cake.</p>
+									</div>
+								</li>
+								<li>
+									<h4 class="cbp-nttrigger">Lollipop liquorice</h4>
+									<div class="cbp-ntcontent">
+										<p>Cookie ice cream sweet I love cupcake. Fruitcake topping wafer. Lollipop liquorice I love tart wypas biscuit. Danish jelly-o gingerbread. Faworki jelly pastry. Wypas wypas topping I love I love candy canes liquorice. I love sweet roll fruitcake dragée wafer icing bonbon.</p>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
 </div>
-
-<input type="checkbox" id="title2" />
-<label for="title2">Accordion Two</label>
-
-<div class="collapse">
-<p>Your content goes here.</p>
-</div>
-
-<input type="checkbox" id="title3" />
-<label for="title3">Accordion Three</label>
-
-<div class="collapse">
-<p>Your content goes here.</p>
-</div>
+<script src="js/modernizr.custom.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="js/jquery.cbpNTAccordion.min.js"></script>
+<script>
+	$( function() {
+				$( '#cbp-ntaccordion' ).cbpNTAccordion();
+			} );
+</script>

@@ -479,55 +479,11 @@ span.image-text-3 {
   opacity: 1;
 }
 // css for graduate programme
-
-input {
-    display: none;
+details summary::-webkit-details-marker {
+    background: url(./images/add.svg) center no-repeat;
+    color: transparent;
 }
-
-label {
-    display: block;    
-    padding: 8px 22px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #6AAB95;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
-    position: relative; /* ADDING THIS IS REQUIRED */
+details[open] summary::-webkit-details-marker {
+    background: url(./images/ban-circle.svg) center no-repeat;
+    color: transparent;
 }
-
-label:hover {
-    background: #4E8774;
-}
-
-label::after {
-    content: '+';
-    font-size: 22px;
-    font-weight: bold;
-    position: absolute;
-    right: 10px;
-    top: 2px;
-}
-
-input:checked + label::after {
-    content: '-';
-    right: 14px;
-    top: 3px;
-}
-
-.collapse {
-    background: #E2E5F6;
-    padding: 10px 25px;
-    border: 1px solid #A7A7A7;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
-}
-
-input + label + .collapse {
-    display: none !important;
-}
-
-input:checked + label + .collapse {
-    display: block;
-}
-

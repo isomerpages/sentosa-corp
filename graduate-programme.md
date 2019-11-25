@@ -43,19 +43,20 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
 <input type="checkbox" id="title1" />
 <label for="title1">Accordion One</label>
 
-<div class="content">
+<div class="collapse">
 <p>Your content goes here.</p>
 </div>
 
 <input type="checkbox" id="title2" />
 <label for="title2">Accordion Two</label>
 
-<div class="content">
+<div class="collapse">
 <p>Your content goes here.</p>
 </div>
 
 <input type="checkbox" id="title3" />
 <label for="title3">Accordion Three</label>
-<div class="content">
+
+<div class="collapse">
 <p>Your content goes here.</p>
 </div>

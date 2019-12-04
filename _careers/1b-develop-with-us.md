@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Develop-with-us (test)
+title: Develop-with-us
 permalink: /careers/life-in-sentosa/develop-with-us
 breadcrumb: life in sentosa - develop with us
 collection_name: careers
-second_nav_title: "Life in Sentosa (test)"
+second_nav_title: "Life in Sentosa"
 ---

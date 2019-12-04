@@ -6,7 +6,7 @@ breadcrumb: life in sentosa - Overview
 collection_name: careers
 second_nav_title: "Life in Sentosa"
 ---
-## Love having fun ??
+## Love having fun ?
 <div class="row">
 	<div class="col is-12">
 	

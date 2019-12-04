@@ -4,7 +4,7 @@ title: Overview
 permalink: /careers/life-in-sentosa
 breadcrumb: life in sentosa - Overview
 collection_name: careers
-second_nav_title: "Life in Sentosa (test)"
+second_nav_title: "Life in Sentosa"
 ---
 ## Love having fun ??
 <div class="row">

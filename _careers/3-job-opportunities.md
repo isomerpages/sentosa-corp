@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Job-Opportunities(test)
+title: Job-Opportunities
 permalink: /careers/job-opportunities
 breadcrumb: job-opportunities
 collection_name: careers

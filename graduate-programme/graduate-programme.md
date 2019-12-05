@@ -38,7 +38,6 @@ The Sentosa Graduate Development Programme is open to all Singaporean/PR fresh g
  <figure style="margin: 0;">
   <img src="../images/graduate-programme/application-timeline.jpg" alt="Application Timeline"/>
  </figure>
-<br/>
 <h5><b>Frequently Asked Questions(FAQs)</b></h5>
   <details>
       <summary>1. How many graduates does Sentosa intend to recruit this year?</summary>

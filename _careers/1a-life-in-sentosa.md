@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Overview
 permalink: /careers/life-in-sentosa
 breadcrumb: life in sentosa - Overview
-second_nav_title: "Life in Sentosa"
+collection_name: careers
 ---
 ## Love having fun ?
 <div class="row">

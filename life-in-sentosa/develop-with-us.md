@@ -12,7 +12,7 @@ breadcrumb: life in sentosa - develop with us
   </div>
 </div>
 <h2>Grow further</h2>
-Growth is constant in Sentosa.  
+<h4>Growth is constant in Sentosa.123</h4>
 
 <div class="row">
 	<div class="col is-12">

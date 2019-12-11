@@ -18,7 +18,7 @@ collection_name: careers
   
   <div class="row" style="background-color: white;">
 <div class="col is-6" style="background-color: white;padding:0;">
-		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm" target="_blank">
+		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Full-time Position"/>
 			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Full-time Position"/>
@@ -27,7 +27,7 @@ collection_name: careers
 			</a>
 	</div>
 <div class="col is-6" style="background-color: white;padding:0;">
-		<a href="https://www.jobstreet.com.sg/career/sentosa_pt.htm" target="_blank">
+		<a href="https://www.jobstreet.com.sg/career/sentosa_pt.htm">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Part-time Position"/>
 			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Part-time Position"/>
@@ -40,7 +40,7 @@ collection_name: careers
 
   <div class="row" style="background-color: white;">
 <div class="col is-6" style="background-color: white;padding:0;">
-		<a href="../graduate-programme" target="_blank">
+		<a href="../graduate-programme">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="GraduateProgramme"/>
 			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="GraduateProgramme"/>
@@ -49,7 +49,7 @@ collection_name: careers
 			</a>
 	</div>
 <div class="col is-6" style="background-color: white;padding:0;">
-		<a href="https://www.jobstreet.com.sg/career/onefabergroup.htm" target="_blank">
+		<a href="https://www.jobstreet.com.sg/career/onefabergroup.htm">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="One Faber Group Positions"/>
 			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="One Faber Group Positions"/>

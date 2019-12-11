@@ -16,20 +16,20 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
  <div class="row" style="background-color: white;">
 	<div class="col is-4" style="background-color: white;padding:0;">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/dog.jpg" alt="Care With Us"/>
+			<img src="../images/careers/dog.jpg"/>
 		</figure>
 	</div>
 <div class="col is-4" style="background-color: white;padding:0;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/care-with-us">
+		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Care With Us"/>
+			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Develop-With-Us"/>
 			<span class="image-text-1">Care With Us</span>
 		</figure>
 			</a>
 	</div>
 	<div class="col is-4" style="background-color: white;padding:0;">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/dog.jpg" alt="Care With Us"/>
+			<img src="../images/careers/dog.jpg">
 		</figure>
 	</div>
 </div>
@@ -44,7 +44,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 	</div>
 	<div class="col is-4" style="background-color: white;padding:0;">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/dog.jpg" alt="Care With Us"/>
+			<img src="../images/careers/dog.jpg">
 		</figure>
 	</div>
 	  <div class="col is-4" style="background-color: white;padding:0;">

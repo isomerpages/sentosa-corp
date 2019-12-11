@@ -407,8 +407,9 @@ span.image-text-1 {
        bottom: 0;
 }
 img.grid-image-2 {
+  position: absolute;
   visibility: hidden;
-  opacity: 0;
+  opacity: 0.2;
   top: 60%;
   left: 60%;
 }

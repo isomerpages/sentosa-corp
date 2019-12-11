@@ -9,8 +9,10 @@ collection_name: careers
 <div class="row">
 	<div class="col is-12">
 	
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  
-
+We at Sentosa serve from the heart with energy, passion and fun – to provide memorable experiences for all our guests!
+  Bringing to life our STAR values (Service, Teamwork, Acting with integrity, Results-oriented), we are empowered to make a difference and make things happen.
+  Here at Sentosa, we provide a fun and stimulating work environment, and an opportunity to be part of a growing organisation. Whether it is working full-time, part-time or on contract, we invite you to dive into this fun-making journey with us today!
+  
    </div>
 </div>
  <div class="row" style="background-color: white;">

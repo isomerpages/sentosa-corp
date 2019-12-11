@@ -393,7 +393,15 @@ $desktop: 960px + (2 * $gap) !default;
 image-text-container {
   position: relative;
 }
-span.image-text-1, img.grid-image-2 {
+img.grid-image-2 {
+       position: absolute;
+       visibility: hidden;
+       opacity: 0;
+       left: 0;
+       right: 0;
+       bottom: 0;
+}
+span.image-text-1 {
        position: absolute;
        top: 60%;
        left: 60%;
@@ -412,7 +420,11 @@ span.image-text-1, img.grid-image-2 {
   opacity: 0.2;
 }
 
-.col.is-4:hover span.image-text-1, img.grid-image-2 {
+.col.is-4:hover span.image-text-1 {
+  visibility: visible;
+  opacity: 1;
+}
+.col.is-4:hover img.grid-image-2 {
   visibility: visible;
   opacity: 1;
 }

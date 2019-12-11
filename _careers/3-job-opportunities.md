@@ -16,7 +16,7 @@ collection_name: careers
   Keen to join us in this fun-making career?  
   Browse through the opportunities now!
   
-  <div class="row" style="background-color: white;">
+<div class="row" style="background-color: white;">
 <div class="col is-6" style="background-color: white;padding:0;">
 		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
                 <figure style="margin: 0; position: relative;">
@@ -38,7 +38,7 @@ collection_name: careers
 </div>
 
 
-  <div class="row" style="background-color: white;">
+<div class="row" style="background-color: white;">
 <div class="col is-6" style="background-color: white;padding:0;">
 		<a href="../graduate-programme">
                 <figure style="margin: 0; position: relative;">

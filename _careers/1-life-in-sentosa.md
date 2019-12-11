@@ -14,11 +14,11 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
    </div>
 </div>
  <div class="row" style="background-color: white;">
-	<div class="col is-4" style="background-color: orange;">
-
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the
-
-</div>
+	<div class="col is-4" style="background-color: white;padding:0;">
+                <figure style="margin: 0; position: relative;">
+			<img class="grid-image-1" src="../images/careers/dog.jpg" alt="Care With Us"/>
+		</figure>
+	</div>
 <div class="col is-4" style="background-color: white;padding:0;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/care-with-us">
                 <figure style="margin: 0; position: relative;">
@@ -27,11 +27,11 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 		</figure>
 			</a>
 	</div>
-	<div class="col is-4" style="background-color: orange;">
-
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the
-
-</div>
+	<div class="col is-4" style="background-color: white;padding:0;">
+                <figure style="margin: 0; position: relative;">
+			<img class="grid-image-1" src="../images/careers/dog.jpg" alt="Care With Us"/>
+		</figure>
+	</div>
 </div>
  <div class="row" style="background-color: white;">
 	  <div class="col is-4" style="background-color: white;padding:0;">
@@ -42,11 +42,11 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 		</figure>
 		</a>
 	</div>
-	<div class="col is-4" style="background-color: orange;">
-
-orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the
-
-</div>
+	<div class="col is-4" style="background-color: white;padding:0;">
+                <figure style="margin: 0; position: relative;">
+			<img class="grid-image-1" src="../images/careers/dog.jpg" alt="Care With Us"/>
+		</figure>
+	</div>
 	  <div class="col is-4" style="background-color: white;padding:0;">
 		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/care-with-us">
                 <figure style="margin: 0; position: relative;">

@@ -20,10 +20,10 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 		</figure>
 	</div>
 <div class="col is-4" style="background-color: white;padding:0;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
+		<a href="https://isomer-sentosa-staging.netlify.com/develop-with-us">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Develop-With-Us"/>
-			<span class="image-text-1">Care With Us</span>
+			<span class="image-text-1">Develop With Us</span>
 		</figure>
 			</a>
 	</div>
@@ -35,7 +35,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 </div>
  <div class="row" style="background-color: white;">
 	  <div class="col is-4" style="background-color: white;padding:0;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/work-and-have-fun-with-us">
+		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/work-and-have-fun-with-us">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Work And Have Fun With Us"/>
 			<span class="image-text-1">Work And Have Fun With Us</span>
@@ -48,7 +48,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 		</figure>
 	</div>
 	  <div class="col is-4" style="background-color: white;padding:0;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/care-with-us">
+		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/care-with-us">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Care With Us"/>
 			<span class="image-text-1">Care With Us</span>

@@ -11,8 +11,8 @@ breadcrumb: life in sentosa - develop with us
         </figure>
   </div>
 </div>
-<h2 style="margin: 0;">Grow further</h2>
-<h4 style="margin: 0;">Growth is constant in Sentosa.</h4>
+<h2>Grow further</h2>
+<p style="font-size: 150%;">Growth is constant in Sentosa.</p>
 
 <div class="row">
 	<div class="col is-12">

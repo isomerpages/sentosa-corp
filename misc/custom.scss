@@ -412,6 +412,7 @@ span.image-text-1 {
 }
 
 .col.is-4:hover span.image-text-1 {
+  content: url('../images/careers/dog.jpg');
   visibility: visible;
   opacity: 1;
 }

@@ -20,7 +20,7 @@ orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
 		</figure>
 	</div>
 <div class="col is-4" style="background-color: white;padding:0;">
-		<a href="https://isomer-sentosa-staging.netlify.com/develop-with-us">
+		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/develop-with-us">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Develop-With-Us"/>
 			<span class="image-text-1">Develop With Us</span>

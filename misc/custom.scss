@@ -406,13 +406,18 @@ span.image-text-1 {
        right: 0;
        bottom: 0;
 }
+img.grid-image-2 {
+  visibility: hidden;
+  opacity: 0;
+  top: 60%;
+  left: 60%;
+}
 .col.is-4:hover img.grid-image-1 {
   visibility: visible;
   opacity: 0.2;
 }
 
-.col.is-4:hover span.image-text-1 {
-  content: url('../images/careers/dog.jpg');
+.col.is-4:hover span.image-text-1, img.grid-image-2 {
   visibility: visible;
   opacity: 1;
 }

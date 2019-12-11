@@ -14,6 +14,7 @@ collection_name: careers
 <p>Bringing to life our STAR values (Service, Teamwork, Acting with integrity, Results-oriented), we are empowered to make a difference and make things happen.</p>
 
 <p>Here at Sentosa, we provide a fun and stimulating work environment, and an opportunity to be part of a growing organisation. Whether it is working full-time, part-time or on contract, we invite you to dive into this fun-making journey with us today!</p>
+<br/>
    </div>
 </div>
  <div class="row" style="background-color: white;">

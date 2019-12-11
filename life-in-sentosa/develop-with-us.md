@@ -12,7 +12,8 @@ breadcrumb: life in sentosa - develop with us
   </div>
 </div>
 ## Grow further
-#### Growth is constant in Sentosa.
+Growth is constant in Sentosa.  
+
 <div class="row">
 	<div class="col is-12">
 	

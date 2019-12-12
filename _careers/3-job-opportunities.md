@@ -17,9 +17,13 @@ collection_name: careers
   Browse through the opportunities now!  
  <div class="row" style="background-color: white;">
 	<div class="col is-4" style="background-color: white;padding:0;">
+		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/develop-with-us">
                 <figure style="margin: 0; position: relative;">
-			<img src="../images/careers/dog.jpg"/>
+			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
+			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Develop With Us"/>
+			<span class="image-text-1">Develop With Us</span>
 		</figure>
+			</a>
 	</div>
 <div class="col is-4" style="background-color: white;padding:0;">
 		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/develop-with-us">
@@ -37,10 +41,14 @@ collection_name: careers
 </div>
 
  <div class="row" style="background-color: white;">
-	<div class="col is-4" style="background-color: white;padding:0;">
+<div class="col is-4" style="background-color: white;padding:0;">
+		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/develop-with-us">
                 <figure style="margin: 0; position: relative;">
-			<img src="../images/careers/dog.jpg"/>
+			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
+			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Develop With Us"/>
+			<span class="image-text-1">Develop With Us</span>
 		</figure>
+			</a>
 	</div>
 <div class="col is-4" style="background-color: white;padding:0;">
 		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/develop-with-us">

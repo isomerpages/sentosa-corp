@@ -390,6 +390,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 // css for Life in sentosa
+@media (min-width:1025px) {
 image-text-container {
   position: relative;
 }
@@ -426,6 +427,7 @@ span.image-text-1 {
 .col.is-4:hover img.grid-image-2 {
   visibility: visible;
   opacity: 0.2;
+}
 }
 // css for graduate programme
 details summary::-webkit-details-marker {

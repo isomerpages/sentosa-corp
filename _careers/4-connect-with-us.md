@@ -13,7 +13,7 @@ Leave us your contact and deposit your resume [here][1] for us to contact you if
 Connect with us on these platforms as well!  
 <a href="https://www.facebook.com/sentosaofficial" target="_blank"><span class="sgds-icon sgds-icon-facebook is-size-4" title="Facebook"></span></a>
 <a href="https://twitter.com/Sentosa_Island" target="_blank"><span class="sgds-icon sgds-icon-twitter is-size-4" title="Twitter"></span></a>
-<a href="https://www.youtube.com/user/SentosaTV" target="_blank" style="display: none;"><span class="sgds-icon sgds-icon-youtube is-size-4" title="Youtube"></span></a>
+<a href="https://www.youtube.com/user/SentosaTV" target="_blank" style="content: none; font-family: unset;"><span class="sgds-icon sgds-icon-youtube is-size-4" title="Youtube"></span></a>
 <a href="https://www.instagram.com/sentosa_island/" target="_blank"><span class="sgds-icon sgds-icon-instagram is-size-4" title="Instagram"></span></a>
 <a href="https://www.linkedin.com/company/sentosa-development-corporation" target="_blank"><span class="sgds-icon sgds-icon-linkedin is-size-4" title="LinkedIn"></span></a>
 

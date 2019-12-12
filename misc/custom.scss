@@ -435,7 +435,7 @@ $desktop: 960px + (2 * $gap) !default;
 	img.grid-image-2 {
 	       position: absolute;
 	       visibility: visible;
-	       opacity: 0;
+	       opacity: 1;
 	       left: 0;
 	       right: 0;
 	       bottom: 0;
@@ -446,12 +446,15 @@ $desktop: 960px + (2 * $gap) !default;
 	       left: 60%;
 	       color: #f48123;
 	       visibility: visible;
-	       opacity: 0;
+	       opacity: 1;
 	       font-weight: bold;
 	       font-size: 150%;
 	       left: 0;
 	       right: 0;
 	       bottom: 0;
+	}
+	img.grid-image-1 {
+	  visibility: hidden;
 	}
 }
 // css for graduate programme

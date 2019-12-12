@@ -40,8 +40,9 @@
     url: /resources/annual-reports/
   - title: News
     url: /resources/news/
-  - title: Careers
-    url: /careers/life-in-sentosa
+- title: Careers
+  url: /careers/life-in-sentosa
+  sub-links:
   - title: Life In Sentosa
     url: /careers/life-in-sentosa
   - title: Meet The Teams

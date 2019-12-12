@@ -476,10 +476,8 @@ summary{
     margin-right: 0;
     font-weight: bold;
 }
-a[target="_blank"]:after >.sgds-icon>.sgds-icon-facebook>.is-size-4{
-    display: inline-block;
-    font-family: "sgds-icons";
-    content: "";
-    padding-left: 0.25rem;
-    font-weight: 0;
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
 }

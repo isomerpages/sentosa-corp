@@ -21,7 +21,7 @@ collection_name: careers
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Full-time Position"/>
 			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Full-time Position"/>
-			<span class="image-text-1">Full-time Position</span>
+			<span class="image-text-1">Full-time<br/>Position</span>
 		</figure>
 			</a>
 	</div>
@@ -30,7 +30,7 @@ collection_name: careers
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Part-time Position"/>
 			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Part-time Position"/>
-			<span class="image-text-1">Part-time Position</span>
+			<span class="image-text-1">Part-time<br/>Position</span>
 		</figure>
 			</a>
 	</div>
@@ -46,7 +46,7 @@ collection_name: careers
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Graduate Programme"/>
 			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Graduate Programme"/>
-			<span class="image-text-1">Graduate Programme</span>
+			<span class="image-text-1">Graduate<br/>Programme</span>
 		</figure>
 			</a>
 	</div>
@@ -55,7 +55,7 @@ collection_name: careers
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="One Faber Group Positions"/>
 			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="One Faber Group Positions"/>
-			<span class="image-text-1">One Faber Group Positions</span>
+			<span class="image-text-1">One Faber Group<br/>Positions</span>
 		</figure>
 			</a>
 	</div>

@@ -17,7 +17,7 @@ Connect with us on these platforms as well!
 <a href="https://www.instagram.com/sentosa_island/" target="_blank"><span class="sgds-icon sgds-icon-instagram is-size-4" title="Instagram"></span></a>
 <a href="https://www.linkedin.com/company/sentosa-development-corporation" target="_blank"><span class="sgds-icon sgds-icon-linkedin is-size-4" title="LinkedIn"></span></a>
 
-~~Connect with us on these platforms as well!~~ 
+~~Connect with us on these platforms as well!~~  
 [<span class="sgds-icon sgds-icon-instagram is-size-4" title="Instagram"></span>](https://www.instagram.com/sentosa_island/)
 
 [1]: <https://form.gov.sg/#!/5dbb9938895bd600128339aa>

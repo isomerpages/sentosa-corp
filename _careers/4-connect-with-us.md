@@ -10,6 +10,6 @@ collection_name: careers
 Can’t seem to find a suited current opening but still keen to join us?   
 Leave us your contact and deposit your resume [here][1] for us to contact you if you are shortlisted for any unpublished roles.  
 
-Connect with us on these platforms as well!<a href="https://www.linkedin.com/company/sentosa-development-corporation"><figure style="margin: 0; position: relative;"><img class="sgds-icon sgds-icon-linkedin is-size-4" src="/images/careers/linkedin-icon.jpg" alt="linkedin"/></figure></a>
+Connect with us on these platforms as well!<span class="sgds-icon sgds-icon-linkedin is-size-4" title="linkedin">
 
 [1]: <https://form.gov.sg/#!/5dbb9938895bd600128339aa>

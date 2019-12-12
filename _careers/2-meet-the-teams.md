@@ -13,14 +13,6 @@ collection_name: careers
         </figure>
   </div>
 </div>
-
-<div id="owl-demo" class="owl-carousel owl-theme">
- 
-  <div class="item"><img src="../images/careers/hero-banner.jpg" alt="The Last of us"></div>
-  <div class="item"><img src="../images/careers/hero-banner.jpg" alt="GTA V"></div>
-  <div class="item"><img src="../images/careers/hero-banner.jpg" alt="Mirror Edge"></div>
- 
-</div>
 <h2>Our Divisions</h2>
 <p style="font-size: 150%;"><b>Corporate Functions</b></p>
 <details>
@@ -216,22 +208,3 @@ collection_name: careers
       Cove matters.
     </p>
 </details>
-$(document).ready(function() {
- 
-  $("#owl-demo").owlCarousel({
- 
-      navigation : true, // Show next and prev buttons
-      slideSpeed : 300,
-      paginationSpeed : 400,
-      singleItem:true
- 
-      // "singleItem:true" is a shortcut for:
-      // items : 1, 
-      // itemsDesktop : false,
-      // itemsDesktopSmall : false,
-      // itemsTablet: false,
-      // itemsMobile : false
- 
-  });
- 
-});

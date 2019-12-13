@@ -13,15 +13,36 @@ collection_name: careers
         </figure>
   </div>
 </div>
-<div class="owl-carousel owl-theme">
-  <div> Your Content </div>
-  <div> Your Content </div>
-  <div> Your Content </div>
-  <div> Your Content </div>
-  <div> Your Content </div>
-  <div> Your Content </div>
-  <div> Your Content </div>
-</div>
+<div class="slider-wrapper">
+  <div class="slider">
+    <input type="radio" name="slider" class="trigger" id="one" checked="checked" />
+    <div class="slide">
+      <figure class="slide-figure">
+        <img class="slide-img" src="../images/careers/hero-banner.jpg" />
+        <figcaption class="slide-caption"><p>...</p></figcaption>
+      </figure><!-- .slide-figure -->
+    </div><!-- .slide -->
+    <input type="radio" name="slider" class="trigger" id="two" />
+    <div class="slide">
+      <figure class="slide-figure">
+        <img class="slide-img" src="../images/careers/hero-banner.jpg" />
+        <figcaption class="slide-caption"><p>...</p></figcaption>
+      </figure><!-- .slide-figure -->
+    </div><!-- .slide -->
+    <input type="radio" name="slider" class="trigger" id="three" />
+    <div class="slide">
+      <figure class="slide-figure">
+        <img class="slide-img" src="../images/careers/hero-banner.jpg" />
+        <figcaption class="slide-caption"><p>...</p></figcaption>
+      </figure><!-- .slide-figure -->
+    </div><!-- .slide -->
+  </div><!-- .slider -->
+  <ul class="slider-nav">
+    <li class="slider-nav__item"><label class="slider-nav__label" for="one">1</label></li>
+    <li class="slider-nav__item"><label class="slider-nav__label" for="two">2</label></li>
+    <li class="slider-nav__item"><label class="slider-nav__label" for="three">3</label></li>
+  </ul><!-- .slider-nav -->
+</div><!-- .slider-wrapper -->
 <h2>Our Divisions</h2>
 <p style="font-size: 150%;"><b>Corporate Functions</b></p>
 <details>

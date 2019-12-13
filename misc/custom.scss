@@ -487,7 +487,7 @@ summary{
 }
 
 .slide {
-  background-color: black;
+//   background-color: white;
   width: 100%;
   overflow: hidden;
   position: absolute;
@@ -505,7 +505,7 @@ summary{
   object-fit: fill;
   display: block;
 //   margin: 0 auto;
-  margin: 0;
+  margin: 0 auto;
 }
 
 // .slide-figure {

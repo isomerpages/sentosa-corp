@@ -500,18 +500,19 @@ summary{
 }
 
 .slide-img {
-  filter: brightness(50%);
+  filter: brightness(100%);
   height: 100%;
   object-fit: fill;
   display: block;
-  margin: 0 auto;
-}
-
-.slide-figure {
-  height: 100%;
-  position: relative;
+//   margin: 0 auto;
   margin: 0;
 }
+
+// .slide-figure {
+//   height: 100%;
+//   position: relative;
+//   margin: 0;
+// }
 
 .slide-caption {
   position: absolute;

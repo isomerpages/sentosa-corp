@@ -26,7 +26,6 @@ collection_name: careers
 				<h3></h3>
 				<div>
 			</div>
-		::after
 	</div>
 </div>
 </div>

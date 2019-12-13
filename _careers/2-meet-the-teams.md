@@ -58,14 +58,18 @@ collection_name: careers
 <details>
       <summary>Finance</summary>
     <div class="row">
-	<div class="col is-6">
+	<div class="col is-4">
 		<figure style="margin:0;">
 			<img src="/images/careers/dog.jpg" alt="Finance"/>	
 		</figure>
 	</div>
-	    	<div class="col is-6">
+	    	<div class="col is-4">
 		<figure style="margin:0;">
 			<img src="/images/careers/dog.jpg" alt="Finance"/>	
+		</figure>
+	</div>
+	    <div class="col is-4">
+		<figure style="margin:0;">	
 		</figure>
 	</div>
 </div>
@@ -76,14 +80,22 @@ collection_name: careers
 <details>
       <summary>Legal</summary>
     <div class="row">
-	<div class="col is-6">
+	<div class="col is-3">
 		<figure style="margin:0;">
 			<img src="/images/careers/dog.jpg" alt="Legal"/>	
 		</figure>
 	</div>
-	    	<div class="col is-6">
+	    	<div class="col is-3">
 		<figure style="margin:0;">
 			<img src="/images/careers/dog.jpg" alt="Legal"/>	
+		</figure>
+	</div>
+	    <div class="col is-3">
+		<figure style="margin:0;">	
+		</figure>
+	</div>
+	    	<div class="col is-3">
+		<figure style="margin:0;">	
 		</figure>
 	</div>
 </div>

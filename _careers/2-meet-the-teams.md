@@ -27,7 +27,7 @@ collection_name: careers
     <input type="radio" name="slider" class="trigger" id="two" />
     <div class="slide">
       <figure class="slide-figure">
-        <img class="slide-img" src="../images/graduate-programme/hero-bannerv2.jpg" />
+        <img class="slide-img" src="../images/careers/hero-bannerv3.jpg" />
         <figcaption class="slide-caption"><p>...</p></figcaption>
       </figure><!-- .slide-figure -->
     </div><!-- .slide -->

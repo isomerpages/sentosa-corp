@@ -21,7 +21,7 @@ collection_name: careers
 	<div class="owl-stage">
 			<div class="owl-item active">
 				<div class="item bg-parkingsg">
-				<img src="https://d33wubrfki0l68.cloudfront.net/dae743fd21536913a4b34b9d3c3e761fd03aad77/98b73/images/programmes/products-and-services/parkingsg.png">
+				<img src="https://d33wubrfki0l68.cloudfront.net/dae743fd21536913a4b34b9d3c3e761fd03aad77/98b73/images/programmes/products-and-services/parkingsg.png" alt=""/>
 				<p></p>
 				<h3></h3>
 				<div>

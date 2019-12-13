@@ -6,14 +6,6 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 <h2>#Teamsentosa</h2>  
-<div class="row">
-  <div class="col is-12">
-	<figure style="margin: 0;position: relative;">
-        <img src="../images/careers/hero-banner.jpg" alt="Team Sentosa"/>
-        </figure>
-  </div>
-</div>
-
 <div class="slider-wrapper">
   <div class="slider">
     <input type="radio" name="slider" class="trigger" id="one" checked="checked" />
@@ -46,38 +38,25 @@ collection_name: careers
 </div><!-- .slider-wrapper -->
 
 <h2>Our Divisions</h2>
-<p style="font-size: 150%;"><b>Corporate Functions</b></p>
 <details>
-      <summary>Human Resource & Administration</summary>
-    <div class="row">
-	<div class="col is-12">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Human Resource & Administration"/>	
-		</figure>
-	</div>
-</div>
-    <p>
-      We hire and manage human related matters.
-    </p>
-</details>
-<details>
-      <summary>Procurement & Contracts</summary>
+      <summary>Corporate Planning</summary>
     <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Procurement & Contracts"/>	
+			<img src="/images/careers/dog.jpg" alt="Corporate Planning"/>	
 		</figure>
 	</div>
 	    	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Procurement & Contracts"/>	
+			<img src="/images/careers/dog.jpg" alt="Corporate Planning"/>	
 		</figure>
 	</div>
 </div>
     <p>
-      Process matters.
+      Plan first.
     </p>
 </details>
+<details>
 <details>
       <summary>Finance</summary>
     <div class="row">
@@ -100,6 +79,26 @@ collection_name: careers
       Money matters.
     </p>
 </details>
+<details>
+<details>
+      <summary>Island Operations</summary>
+    <div class="row">
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/careers/dog.jpg" alt="Island Operations"/>	
+		</figure>
+	</div>
+	    	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/careers/dog.jpg" alt="Island Operations"/>	
+		</figure>
+	</div>
+</div>
+    <p>
+      island matters.
+    </p>
+</details>
+<details>
 <details>
       <summary>Legal</summary>
     <div class="row">
@@ -127,24 +126,6 @@ collection_name: careers
     </p>
 </details>
 <details>
-      <summary>Corporate Planning</summary>
-    <div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Corporate Planning"/>	
-		</figure>
-	</div>
-	    	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Corporate Planning"/>	
-		</figure>
-	</div>
-</div>
-    <p>
-      Plan first.
-    </p>
-</details>
-<details>
       <summary>Marketing & Experience</summary>
     <div class="row">
 	<div class="col is-6">
@@ -163,39 +144,21 @@ collection_name: careers
     </p>
 </details>
 <details>
-      <summary>Singapore Golf Club</summary>
+      <summary>Procurement & Contracts</summary>
     <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Singapore Golf Club"/>	
+			<img src="/images/careers/dog.jpg" alt="Procurement & Contracts"/>	
 		</figure>
 	</div>
 	    	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Singapore Golf Club"/>	
+			<img src="/images/careers/dog.jpg" alt="Procurement & Contracts"/>	
 		</figure>
 	</div>
 </div>
     <p>
-      Golf matters.
-    </p>
-</details>
-<details>
-      <summary>Island Operations</summary>
-    <div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Island Operations"/>	
-		</figure>
-	</div>
-	    	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Island Operations"/>	
-		</figure>
-	</div>
-</div>
-    <p>
-      island matters.
+      Process matters.
     </p>
 </details>
 <details>
@@ -217,24 +180,6 @@ collection_name: careers
     </p>
 </details>
 <details>
-      <summary>Island Investment & Asset Management</summary>
-    <div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Island Investment & Asset Management"/>	
-		</figure>
-	</div>
-	    	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Island Investment & Asset Management"/>	
-		</figure>
-	</div>
-</div>
-    <p>
-      Investment and asset matters.
-    </p>
-</details>
-<details>
       <summary>Sentosa Cove Resort Management</summary>
     <div class="row">
 	<div class="col is-6">
@@ -250,5 +195,23 @@ collection_name: careers
 </div>
     <p>
       Cove matters.
+    </p>
+</details>
+<details>
+      <summary>Sentosa Golf Club</summary>
+    <div class="row">
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/careers/dog.jpg" alt="Singapore Golf Club"/>	
+		</figure>
+	</div>
+	    	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/careers/dog.jpg" alt="Singapore Golf Club"/>	
+		</figure>
+	</div>
+</div>
+    <p>
+      Golf matters.
     </p>
 </details>

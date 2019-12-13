@@ -57,7 +57,6 @@ collection_name: careers
     </p>
 </details>
 <details>
-<details>
       <summary>Finance</summary>
     <div class="row">
 	<div class="col is-4">
@@ -80,7 +79,6 @@ collection_name: careers
     </p>
 </details>
 <details>
-<details>
       <summary>Island Operations</summary>
     <div class="row">
 	<div class="col is-6">
@@ -98,7 +96,6 @@ collection_name: careers
       island matters.
     </p>
 </details>
-<details>
 <details>
       <summary>Legal</summary>
     <div class="row">

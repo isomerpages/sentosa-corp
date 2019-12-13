@@ -41,14 +41,9 @@ collection_name: careers
 <details>
       <summary>Corporate Planning</summary>
     <div class="row">
-	<div class="col is-6">
+	<div class="col is-12">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Corporate Planning"/>	
-		</figure>
-	</div>
-	    	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Corporate Planning"/>	
+			<img class="slide-img" src="../images/careers/hero-banner.jpg" />
 		</figure>
 	</div>
 </div>

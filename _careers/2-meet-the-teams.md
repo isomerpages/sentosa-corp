@@ -13,8 +13,7 @@ collection_name: careers
         </figure>
   </div>
 </div>
-<div class="row">
-  <div class="col is-12">
+
 <div class="slider-wrapper">
   <div class="slider">
     <input type="radio" name="slider" class="trigger" id="one" checked="checked" />
@@ -45,8 +44,6 @@ collection_name: careers
     <li class="slider-nav__item"><label class="slider-nav__label" for="three">3</label></li>
   </ul><!-- .slider-nav -->
 </div><!-- .slider-wrapper -->
-</div>
-</div>
 
 <h2>Our Divisions</h2>
 <p style="font-size: 150%;"><b>Corporate Functions</b></p>

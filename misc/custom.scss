@@ -483,6 +483,9 @@ summary{
  	  height: 30vh;
 	}
 }
+//  @media screen and (orientation:portrait) { … }
+//  @media screen and (orientation:landscape) { … }
+//  @media  (max-device-width: 480px) and (orientation: landscape) {}
 
 .slide {
   background-color: black;

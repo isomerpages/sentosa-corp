@@ -450,18 +450,39 @@ summary{
   display: none;
 }
 
+
+@media only screen and (min-width: 320px){
+	.slider, .slider-wrapper {
+	  position: relative;
+	  height: 16vh;
+	}
+}
+
+@media only screen and (min-width: 481px){
+	.slider, .slider-wrapper {
+	  position: relative;
+	  height: 18vh;
+	}
+}
+@media only screen and (min-width: 641px){
+	.slider, .slider-wrapper {
+	  position: relative;
+	  height: 23vh;
+	}
+}
+@media only screen and (min-width: 961px){
+	.slider, .slider-wrapper {
+	  position: relative;
+	  height: 26vh;
+	}
+}
 @media only screen and (min-width: 1025px){
 	.slider, .slider-wrapper {
 	  position: relative;
 	  height: 30vh;
 	}
 }
-@media only screen and (max-width: 1024px){
-	.slider, .slider-wrapper {
-	  position: relative;
-	  height: 16vh;
-	}
-}
+
 .slide {
   background-color: black;
   width: 100%;

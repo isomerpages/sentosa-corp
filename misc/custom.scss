@@ -450,11 +450,18 @@ summary{
   display: none;
 }
 
-.slider, .slider-wrapper {
-  position: relative;
-  height: 30vh;
+@media only screen and (min-width: 1025px){
+	.slider, .slider-wrapper {
+	  position: relative;
+	  height: 30vh;
+	}
 }
-
+@media only screen and (max-width: 1024px){
+	.slider, .slider-wrapper {
+	  position: relative;
+	  height: 20vh;
+	}
+}
 .slide {
   background-color: black;
   width: 100%;

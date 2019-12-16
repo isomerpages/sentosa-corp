@@ -11,19 +11,19 @@ collection_name: careers
     <input type="radio" name="slider" class="trigger" id="one" checked="checked" />
     <div class="slide">
       <figure class="slide-figure" style="margin: 0;">
-        <img class="slide-img" src="../images/careers/hero-banner.jpg" />
+        <img class="slide-img" src="../images/careers/hero-banner.jpg" style="margin: 0;"/>
       </figure><!-- .slide-figure -->
     </div><!-- .slide -->
     <input type="radio" name="slider" class="trigger" id="two" />
     <div class="slide">
       <figure class="slide-figure" style="margin: 0;">
-        <img class="slide-img" src="../images/careers/hero-bannerv3.jpg" />
+        <img class="slide-img" src="../images/careers/hero-bannerv3.jpg" style="margin: 0;"/>
       </figure><!-- .slide-figure -->
     </div><!-- .slide -->
     <input type="radio" name="slider" class="trigger" id="three" />
     <div class="slide">
       <figure class="slide-figure" style="margin: 0;">
-        <img class="slide-img" src="../images/careers/hero-banner.jpg" />
+        <img class="slide-img" src="../images/careers/hero-banner.jpg" style="margin: 0;"/>
       </figure><!-- .slide-figure -->
     </div><!-- .slide -->
   </div><!-- .slider -->

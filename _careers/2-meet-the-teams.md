@@ -39,9 +39,11 @@ collection_name: careers
 <details>
       <summary>Corporate Planning</summary>
     <div class="row">
-	<figure style="margin:0;">
-		<img class="slide-img" src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
-	</figure>
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		</figure>
+	</div>
 </div>
     <p>
       Plan first.

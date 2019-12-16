@@ -19,9 +19,8 @@ collection_name: careers
 	<div class="col is-4" style="background-color: white;padding:0;">
 		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Full-time Position"/>
-			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Full-time Position"/>
-			<span class="image-text-1">Full-time<br/>Position</span>
+			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Full-time Position"/>
+			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Full-time Position"/>
 		</figure>
 			</a>
 	</div>

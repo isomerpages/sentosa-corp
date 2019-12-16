@@ -404,27 +404,8 @@ $desktop: 960px + (2 * $gap) !default;
 	       bottom: 0;
 	}
 
-	span.image-text-1 {
-	       position: absolute;
-	       top: 60%;
-	       left: 60%;
-	       color: #f48123;
-	       visibility: hidden;
-	       opacity: 0;
-	       font-weight: bold;
-	       font-size: 150%;
-	       left: 0;
-	       right: 0;
-	       bottom: 0;
-	}
-
 	.col.is-4:hover img.grid-image-1 {
 	  visibility: hidden;
-	}
-
-	.col.is-4:hover span.image-text-1 {
-	  visibility: visible;
-	  opacity: 1;
 	}
 
 	.col.is-4:hover img.grid-image-2 {
@@ -434,7 +415,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 @media (max-width:1024px) 
 {
-	img.grid-image-2 {
+	img.grid-image-1 {
 	       position: absolute;
 	       visibility: visible;
 	       opacity: 0.2;
@@ -442,20 +423,7 @@ $desktop: 960px + (2 * $gap) !default;
 	       right: 0;
 	       bottom: 0;
 	}
-		span.image-text-1 {
-	       position: absolute;
-	       top: 60%;
-	       left: 60%;
-	       color: #f48123;
-	       visibility: visible;
-	       opacity: 1;
-	       font-weight: bold;
-	       font-size: 150%;
-	       left: 0;
-	       right: 0;
-	       bottom: 0;
-	}
-	img.grid-image-1 {
+	img.grid-image-2 {
 	  visibility: hidden;
 	}
 }

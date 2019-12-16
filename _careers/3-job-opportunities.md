@@ -24,11 +24,11 @@ collection_name: careers
 		</figure>
 			</a>
 	</div>
-<div class="col is-4" style="background-color: white;padding:0;">
+<div class="col is-4" style="background-color: white;padding:1vh;">
 		<a href="https://www.jobstreet.com.sg/career/sentosa_pt.htm">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Part-time Position"/>
-			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Part-time Position"/>
+			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Part-time Position"/>
+			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Part-time Position"/>
 			<span class="image-text-1">Part-time<br/>Position</span>
 		</figure>
 			</a>

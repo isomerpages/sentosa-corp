@@ -454,32 +454,37 @@ summary{
 @media only screen and (min-width: 320px){
 	.slider, .slider-wrapper {
 	  position: relative;
-	  height: 16vh;
+// 	  height: 16vh;
+	  width: 100vh;
 	}
 }
 
 @media only screen and (min-width: 481px){
 	.slider, .slider-wrapper {
 	  position: relative;
-	  height: 27vh;
+// 	  height: 16vh;
+	  width: 100vh;
 	}
 }
 @media only screen and (min-width: 641px){
 	.slider, .slider-wrapper {
 	  position: relative;
-	  height: 28vh;
+// 	  height: 16vh;
+	  width: 100vh;
 	}
 }
 @media only screen and (min-width: 961px){
 	.slider, .slider-wrapper {
 	  position: relative;
-	  height: 29vh;
+// 	  height: 16vh;
+	  width: 100vh;
 	}
 }
 @media only screen and (min-width: 1025px){
 	.slider, .slider-wrapper {
 	  position: relative;
-	  height: 30vh;
+// 	  height: 30vh;
+	  width: 100vh;
 	}
 }
 

@@ -463,14 +463,15 @@ summary{
   height: 100%;
   left: 0;
   top: 0;
-  z-index: 5000;
+//   z-index: 5000;
   opacity: 0;
   transition: opacity .5s ease-in-out;
 }
 
 .slide-img {
   filter: brightness(100%);
-  height: 100%;
+//   height: 100%;
+  width: 100%;
   object-fit: fill;
   display: block;
 //   margin: 0 auto;

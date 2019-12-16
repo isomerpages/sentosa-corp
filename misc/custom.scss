@@ -551,6 +551,8 @@ summary{
   color: white;
   cursor: pointer;
   transition: background-color .25s, color .25s ease-in-out;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .slider-nav__label:hover,

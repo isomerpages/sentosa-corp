@@ -474,12 +474,12 @@ summary{
   width: 100%;
   object-fit: fill;
   display: block;
-  margin: 0 auto;
+  margin: 0;
 //   margin: 0px;
 }
 
 .slide-figure {
-  height: 100%;
+//   height: 100%;
   width: 100%;
   position: relative;
 }
@@ -501,7 +501,8 @@ summary{
 .slider-nav {
   width: 100%;
   text-align: center;
-  margin: 1rem 0;
+//   margin: 1rem 0;
+  margin: 0;
 }
 
 .slider-nav__item {

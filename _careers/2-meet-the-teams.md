@@ -7,9 +7,9 @@ collection_name: careers
 ---
 <h2>#Teamsentosa</h2>  
 
-
-<div class="row">
-  <div class="col is-12">
+<div class="col is-12">
+<div class="slider-wrapper">
+	    <div class="slider">
     <input type="radio" name="slider" class="trigger" id="one" checked="checked" />
     <div class="slide">
       <figure class="slide-figure" style="margin: 0;">
@@ -29,6 +29,7 @@ collection_name: careers
       </figure><!-- .slide-figure -->
     </div><!-- .slide -->
   </div><!-- .slider -->
+</div>
   <ul class="slider-nav" style="margin: 0;">
     <li class="slider-nav__item"><label class="slider-nav__label" for="one">1</label></li>
     <li class="slider-nav__item"><label class="slider-nav__label" for="two">2</label></li>

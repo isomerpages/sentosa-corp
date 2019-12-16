@@ -6,7 +6,7 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 <h2>#Teamsentosa</h2>  
-<div class="col is-12">
+<div class="slider-wrapper">
   <div class="slider">
     <input type="radio" name="slider" class="trigger" id="one" checked="checked" />
     <div class="slide">

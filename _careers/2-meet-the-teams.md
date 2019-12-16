@@ -43,7 +43,7 @@ collection_name: careers
     <div class="row">
 	<div class="col is-12">
 		<figure style="margin:0;">
-			<img class="slide-img" src="../images/careers/hero-banner.jpg" />
+			<img class="slide-img" src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
 		</figure>
 	</div>
 </div>
@@ -54,18 +54,13 @@ collection_name: careers
 <details>
       <summary>Finance</summary>
     <div class="row">
-	<div class="col is-4">
+	<div class="col is-10">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Finance"/>	
+		<img class="slide-img" src="../images/careers/hero-banner.jpg" alt="Finance"/>	
 		</figure>
 	</div>
-	    	<div class="col is-4">
+	    	<div class="col is-2">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Finance"/>	
-		</figure>
-	</div>
-	    <div class="col is-4">
-		<figure style="margin:0;">	
 		</figure>
 	</div>
 </div>
@@ -76,14 +71,13 @@ collection_name: careers
 <details>
       <summary>Island Operations</summary>
     <div class="row">
-	<div class="col is-6">
+	<div class="col is-8">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Island Operations"/>	
+			<img class="slide-img" src="../images/careers/hero-banner.jpg" alt="Island Operations"/>
 		</figure>
 	</div>
-	    	<div class="col is-6">
+	    	<div class="col is-4">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Island Operations"/>	
 		</figure>
 	</div>
 </div>

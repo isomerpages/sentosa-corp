@@ -6,7 +6,7 @@ breadcrumb: meet-the-team
 collection_name: careers
 ---
 <h2>#Teamsentosa</h2>  
-<div class="col is-12">
+
 <div class="slider-wrapper">
   <div class="slider">
     <input type="radio" name="slider" class="trigger" id="one" checked="checked" />
@@ -34,7 +34,7 @@ collection_name: careers
     <li class="slider-nav__item"><label class="slider-nav__label" for="three">3</label></li>
   </ul><!-- .slider-nav -->
 </div><!-- .slider-wrapper -->
-</div>
+
 <h2>Our Divisions</h2>
 <details>
       <summary>Corporate Planning</summary>

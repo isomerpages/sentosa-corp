@@ -469,7 +469,8 @@ summary{
 // 	portrait tablets, portrait iPad,landscape 800x480 or 854x480 phones
 	.slider, .slider-wrapper {
 	  position: relative;
- 	  height: 25vh;
+//  	  height: 25vh;
+	  height: 100vh;
 	}
 }
 

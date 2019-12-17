@@ -471,7 +471,7 @@ summary{
 // 	portrait tablets, portrait iPad,landscape 800x480 or 854x480 phones
 	.slider, .slider-wrapper {
 	  position: relative;
- 	  height: 30vh;
+ 	  height: 25vh;
 // 	  height: 100vh;
 	}
 }
@@ -489,9 +489,6 @@ summary{
  	  height: 30vh;
 	}
 }
-//  @media screen and (orientation:portrait) { … }
-//  @media screen and (orientation:landscape) { … }
-//  @media  (max-device-width: 480px) and (orientation: landscape) {}
 
 .slide {
   background-color: black;

@@ -46,12 +46,12 @@ collection_name: careers
 <div class="row" style="background-color: white;">
 	<div class="col is-6" style="background-color: white;padding:1.5vh;">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/mockup1.jpg"/>
+			<img src="../images/careers/mockup1.jpg"/>
 		</figure>
 	</div>
 	<div class="col is-6" style="background-color: white;padding:1.5vh;">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/mockup1.jpg"/>
+			<img src="../images/careers/mockup1.jpg"/>
 		</figure>
 	</div>
 </div>
@@ -64,12 +64,12 @@ collection_name: careers
 <div class="row" style="background-color: white;">
 	<div class="col is-6" style="background-color: white;padding:1.5vh;">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/mockup1.jpg"/>
+			<img src="../images/careers/mockup1.jpg"/>
 		</figure>
 	</div>
 	<div class="col is-6" style="background-color: white;padding:1.5vh;">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/mockup1.jpg"/>
+			<img src="../images/careers/mockup1.jpg"/>
 		</figure>
 	</div>
 </div>
@@ -82,12 +82,12 @@ collection_name: careers
 <div class="row" style="background-color: white;">
 	<div class="col is-6" style="background-color: white;padding:1.5vh;">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/mockup1.jpg"/>
+			<img src="../images/careers/mockup1.jpg"/>
 		</figure>
 	</div>
 	<div class="col is-6" style="background-color: white;padding:1.5vh;">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/mockup1.jpg"/>
+			<img src="../images/careers/mockup1.jpg"/>
 		</figure>
 	</div>
 </div>

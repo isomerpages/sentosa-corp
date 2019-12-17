@@ -472,13 +472,7 @@ summary{
  	  height: 25vh;
 	}
 }
-@media only screen and (min-width: 896px){
-// 	iphone 11 landscape test
-	.slider, .slider-wrapper {
-	  position: relative;
- 	  height: 30vh;
-	}
-}
+
 @media only screen and (min-width: 961px){
 // 	tablet, landscape iPad
 	.slider, .slider-wrapper {
@@ -500,7 +494,17 @@ summary{
  	  height: 35vh;
 	}
 }
-
+@media only screen 
+    and (device-width: 414px) 
+    and (device-height: 896px)
+    and (orientation : landscape) 
+    and (-webkit-device-pixel-ratio: 2) { 
+		.slider, .slider-wrapper {
+	  position: relative;
+ 	  height: 30vh;
+	}
+}
+}
 .slide {
   background-color: black;
   width: 100%;

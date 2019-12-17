@@ -455,15 +455,13 @@ summary{
 	.slider, .slider-wrapper {
 	  position: relative;
  	  height: 16vh;
-// 	  height: 100vh;
 	}
 }
 @media only screen and (min-width: 481px){
 // 	 portrait e-readers (Nook/Kindle), smaller tablets
 	.slider, .slider-wrapper {
 	  position: relative;
- 	  height: 18vh;
-// 	  height: 100vh;
+ 	  height: 23vh;
 	}
 }
 	 
@@ -472,7 +470,6 @@ summary{
 	.slider, .slider-wrapper {
 	  position: relative;
  	  height: 25vh;
-// 	  height: 100vh;
 	}
 }
 @media only screen and (min-width: 961px){

@@ -472,7 +472,13 @@ summary{
  	  height: 25vh;
 	}
 }
-
+@media only screen and (min-width: 896px) and (orientation: landscape) { 
+// 	iphone11 landscape 
+	.slider, .slider-wrapper {
+	  position: relative;
+ 	  height: 30vh;
+	}
+}
 @media only screen and (min-width: 961px){
 // 	tablet, landscape iPad
 	.slider, .slider-wrapper {

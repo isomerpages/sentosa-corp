@@ -44,6 +44,10 @@ collection_name: careers
 		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
 		</figure>
 	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
 </div>
     <p>
       Plan first.
@@ -74,6 +78,10 @@ collection_name: careers
 		<img src="../images/careers/hero-banner.jpg" alt="Island Operations"/>
 		</figure>
 	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
 </div>
     <p>
       island matters.
@@ -85,6 +93,10 @@ collection_name: careers
 	<div class="col is-10">
 		<figure style="margin:0;">
 		<img src="../images/careers/hero-banner.jpg" alt="Legal"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
 		</figure>
 	</div>
 </div>
@@ -100,6 +112,10 @@ collection_name: careers
 		<img src="../images/careers/hero-banner.jpg" alt="Marketing & Experience"/>
 		</figure>
 	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
 </div>
     <p>
       Buiness matters.
@@ -111,6 +127,10 @@ collection_name: careers
 	<div class="col is-10">
 		<figure style="margin:0;">
 		<img src="../images/careers/hero-banner.jpg" alt="Procurement & Contracts"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
 		</figure>
 	</div>
 </div>
@@ -126,6 +146,10 @@ collection_name: careers
 		<img src="../images/careers/hero-banner.jpg" alt="Project Development"/>
 		</figure>
 	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
 </div>
     <p>
       Project matters.
@@ -139,6 +163,10 @@ collection_name: careers
 		<img src="../images/careers/hero-banner.jpg" alt="Sentosa Cove Resort Management"/>
 		</figure>
 	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
 </div>
     <p>
       Cove matters.
@@ -150,6 +178,10 @@ collection_name: careers
 	<div class="col is-10">
 		<figure style="margin:0;">
 		<img src="../images/careers/hero-banner.jpg" alt="Sentosa Golf Club"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
 		</figure>
 	</div>
 </div>

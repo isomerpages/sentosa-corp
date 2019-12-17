@@ -466,7 +466,7 @@ summary{
 }
 	 
 @media only screen and (min-width: 641px){
-// 	portrait tablets, portrait iPad,landscape 800x480 or 854x480 phones
+// 	mobile landscpe
 	.slider, .slider-wrapper {
 	  position: relative;
 //  	  height: 25vh;
@@ -479,6 +479,14 @@ summary{
 	  position: relative;
 //  	  height: 25vh;
 	  height: 25vh;
+	}
+}
+@media only screen and (min-width: 896px){
+// 	 iPhone landscape,
+	.slider, .slider-wrapper {
+	  position: relative;
+//  	  height: 25vh;
+	  height: 100vh;
 	}
 }
 

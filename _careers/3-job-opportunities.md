@@ -1,22 +1,68 @@
 ---
 layout: leftnav-page-content
-title: Job-Opportunities(test)
+title: Job-Opportunities
 permalink: /careers/job-opportunities
 breadcrumb: job-opportunities
 collection_name: careers
 ---
+<div class="row">
+  <div class="col is-12">
+	<figure style="margin: 0;position: relative;">
+        <img src="../images/careers/hero-banner.jpg" alt="Life in Sentosa"/>
+        </figure>
+  </div>
+</div>
 ## Find your fit
   Keen to join us in this fun-making career?  
-  Browse through the opportunities now!
+  Browse through the opportunities now!  
+ <div class="row" style="background-color: white;">
+	<div class="col is-4" style="background-color: white;padding:1.5vh;">
+		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
+                <figure style="margin: 0; position: relative;">
+			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Full-time Position"/>
+			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Full-time Position"/>
+		</figure>
+			</a>
+	</div>
+<div class="col is-4" style="background-color: white;padding:1.5vh;">
+		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
+                <figure style="margin: 0; position: relative;">
+			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Full-time Position"/>
+			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Full-time Position"/>
+		</figure>
+			</a>
+	</div>
+	<div class="col is-4" style="background-color: white;padding:0;">
+                <figure style="margin: 0; position: relative;">
+		</figure>
+	</div>
+</div>
+
+ <div class="row" style="background-color: white;">
+<div class="col is-4" style="background-color: white;padding:1.5vh;">
+		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
+                <figure style="margin: 0; position: relative;">
+			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Full-time Position"/>
+			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Full-time Position"/>
+		</figure>
+			</a>
+	</div>
+<div class="col is-4" style="background-color: white;padding:1.5vh;">
+		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
+                <figure style="margin: 0; position: relative;">
+			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Full-time Position"/>
+			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Full-time Position"/>
+		</figure>
+			</a>
+	</div>
+	<div class="col is-4" style="background-color: white;padding:0;">
+                <figure style="margin: 0; position: relative;">
+		</figure>
+	</div>
+</div>
   
-  
-<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm" target="_blank">FULL TIME POSITIONS</a><br/>
-<a href="https://www.jobstreet.com.sg/career/sentosa_pt.ht" target="_blank">PART TIME POSITIONS</a><br/>
-<a href="../graduate-programme" target="_blank">GRADUATE PROGRAMME(Change Url)</a><br/>
-<a href="https://www.jobstreet.com.sg/career/onefabergroup.htm" target="_blank">ONE FABER GROUP POSITIONS</a>
-  
-<!-- remember to change hyperlink for 3,5,6 to live site-->
-<!-- remember to change hyperlink for 3,5,6 to live site-->
+<!-- remember to change hyperlink for 1,2 to live site-->
+<!-- remember to change hyperlink for 1,2 to live site-->
 Still uncertain, which role/ function to join us for?  
 Meet our teams and understand more [here][1]!
   

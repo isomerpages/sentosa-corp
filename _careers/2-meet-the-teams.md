@@ -1,59 +1,191 @@
 ---
 layout: leftnav-page-content
-title: Meet the teams(test)
+title: Meet the teams
 permalink: /careers/meet-the-teams/
 breadcrumb: meet-the-team
 collection_name: careers
 ---
 <h2>#Teamsentosa</h2>  
 
- <div class="row" style="background-color: white;">
- <div class="col is-4" style="background-color: black;padding: 0;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
-			<figure style="margin: 0; position: relative;">
-			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
-			<span class="image-text-1">Events</span>
-				</figure>
-		</a>
-	  </div>
-	 <div class="col is-4" style="background-color: yellow;padding: 0;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
-			<figure style="margin: 0; position: relative;">
-			<img src="../images/careers/testimagev1.gif" alt="Develop With Us" style="width: 100%;"/>
-			<span class="image-text-1">Planning</span>
-				</figure>
-		</a></div>
-	 <div class="col is-4" style="background-color: red;padding: 0;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
-			<figure style="margin: 0; position: relative;">
-			<img src="../images/careers/testimagev1.gif" alt="Develop With Us" style="width: 100%;"/>
-			<span class="image-text-1">IT</span>
-			</figure>
-		</a></div>
-</div>
- <div class="row" style="background-color: white;">
-	  <div class="col is-4" style="background-color: white;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/work-and-have-fun-with-us">
-                <figure style="margin: 0; position: relative;">
-			<img src="../images/careers/testimagev1.gif" alt="Work And Have Fun With Us"/>
-			<span class="image-text-2">Finance</span>
+<div class="slider-wrapper">
+	    <div class="slider">
+    <input type="radio" name="slider" class="trigger" id="one" checked="checked" />
+    <div class="slide">
+      <figure class="slide-figure" style="margin: 0;">
+        <img class="slide-img" src="../images/careers/hero-banner.jpg" style="margin: 0;"/>
+      </figure><!-- .slide-figure -->
+    </div><!-- .slide -->
+    <input type="radio" name="slider" class="trigger" id="two" />
+    <div class="slide">
+      <figure class="slide-figure" style="margin: 0;">
+        <img class="slide-img" src="../images/careers/hero-bannerv3.jpg" style="margin: 0;"/>
+      </figure><!-- .slide-figure -->
+    </div><!-- .slide -->
+    <input type="radio" name="slider" class="trigger" id="three" />
+    <div class="slide">
+      <figure class="slide-figure" style="margin: 0;">
+        <img class="slide-img" src="../images/careers/hero-banner.jpg" style="margin: 0;"/>
+      </figure><!-- .slide-figure -->
+    </div><!-- .slide -->
+  </div><!-- .slider -->
+  <ul class="slider-nav" style="margin: 0;">
+    <li class="slider-nav__item"><label class="slider-nav__label" for="one">1</label></li>
+    <li class="slider-nav__item"><label class="slider-nav__label" for="two">2</label></li>
+    <li class="slider-nav__item"><label class="slider-nav__label" for="three">3</label></li>
+  </ul><!-- .slider-nav -->
+</div><!-- .slider-wrapper -->
+
+<h2>Our Divisions</h2>
+<details>
+      <summary>Corporate Planning</summary>
+    <div class="row">
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
 		</figure>
-		</a>
 	</div>
- <div class="col is-4" style="background-color: white;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/develop-with-us">
-			<figure style="margin: 0;position: relative;">
-			<img src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
-			<span class="image-text-1">Marketing</span>
+	    <div class="col is-2">
+		<figure style="margin:0;">
 		</figure>
-		</a>
-	  </div>
-	  <div class="col is-4" style="background-color: white;">
-		<a href="https://isomer-sentosa-staging.netlify.com/careers/life-in-sentosa/care-with-us">
-                <figure style="margin: 0; position: relative;">
-			<img src="../images/careers/testimagev1.gif" alt="Care With Us"/>
-			<span class="image-text-3">Human Resource</span>
-		</figure>
-			</a>
 	</div>
 </div>
+    <p>
+      Plan first.
+    </p>
+</details>
+<details>
+      <summary>Finance</summary>
+    <div class="row">
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img class="slide-img" src="../images/careers/hero-banner.jpg" alt="Finance"/>	
+		</figure>
+	</div>
+	    	<div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
+</div>
+    <p>
+      Money matters.
+    </p>
+</details>
+<details>
+      <summary>Island Operations</summary>
+    <div class="row">
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Island Operations"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
+</div>
+    <p>
+      island matters.
+    </p>
+</details>
+<details>
+      <summary>Legal</summary>
+    <div class="row">
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Legal"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
+</div>
+    <p>
+      English matters.
+    </p>
+</details>
+<details>
+      <summary>Marketing & Experience</summary>
+    <div class="row">
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Marketing & Experience"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
+</div>
+    <p>
+      Buiness matters.
+    </p>
+</details>
+<details>
+      <summary>Procurement & Contracts</summary>
+    <div class="row">
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Procurement & Contracts"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
+</div>
+    <p>
+      Process matters.
+    </p>
+</details>
+<details>
+      <summary>Project Development</summary>
+    <div class="row">
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Project Development"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
+</div>
+    <p>
+      Project matters.
+    </p>
+</details>
+<details>
+      <summary>Sentosa Cove Resort Management</summary>
+    <div class="row">
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Sentosa Cove Resort Management"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
+</div>
+    <p>
+      Cove matters.
+    </p>
+</details>
+<details>
+      <summary>Sentosa Golf Club</summary>
+    <div class="row">
+	<div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Sentosa Golf Club"/>
+		</figure>
+	</div>
+	    <div class="col is-2">
+		<figure style="margin:0;">
+		</figure>
+	</div>
+</div>
+    <p>
+      Golf matters.
+    </p>
+</details>

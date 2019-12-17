@@ -12,7 +12,7 @@ collection_name: careers
         </figure>
   </div>
 </div>
-## Love having fun ?
+## Love having fun ??
 <div class="row">
 	<div class="col is-12">
 	

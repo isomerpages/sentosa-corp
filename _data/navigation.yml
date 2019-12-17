@@ -40,17 +40,17 @@
     url: /resources/annual-reports/
   - title: News
     url: /resources/news/
-- title: Careers
-  url: /careers/life-in-sentosa
-  sub-links:
-  - title: Life In Sentosa
-    url: /careers/life-in-sentosa
-  - title: Meet The Teams
-    url: /careers/meet-the-teams
-  - title: Job Opportunities
-    url: /careers/job-opportunities
-  - title: Connect With Us
-    url: /careers/connect-with-us
+# - title: Careers
+#   url: /careers/life-in-sentosa
+#   sub-links:
+#   - title: Life In Sentosa
+#     url: /careers/life-in-sentosa
+#   - title: Meet The Teams
+#     url: /careers/meet-the-teams
+#   - title: Job Opportunities
+#     url: /careers/job-opportunities
+#   - title: Connect With Us
+#     url: /careers/connect-with-us
 - title: Contact Us
   url: /contact-us/
 

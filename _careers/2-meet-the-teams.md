@@ -69,13 +69,9 @@ collection_name: careers
 <details>
       <summary>Island Operations</summary>
     <div class="row">
-	<div class="col is-8">
+	<div class="col is-10">
 		<figure style="margin:0;">
-			<img class="slide-img" src="../images/careers/hero-banner.jpg" alt="Island Operations"/>
-		</figure>
-	</div>
-	    	<div class="col is-4">
-		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Island Operations"/>
 		</figure>
 	</div>
 </div>
@@ -86,22 +82,9 @@ collection_name: careers
 <details>
       <summary>Legal</summary>
     <div class="row">
-	<div class="col is-3">
+	<div class="col is-10">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Legal"/>	
-		</figure>
-	</div>
-	    	<div class="col is-3">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Legal"/>	
-		</figure>
-	</div>
-	    <div class="col is-3">
-		<figure style="margin:0;">	
-		</figure>
-	</div>
-	    	<div class="col is-3">
-		<figure style="margin:0;">	
+		<img src="../images/careers/hero-banner.jpg" alt="Legal"/>
 		</figure>
 	</div>
 </div>
@@ -112,14 +95,9 @@ collection_name: careers
 <details>
       <summary>Marketing & Experience</summary>
     <div class="row">
-	<div class="col is-6">
+	<div class="col is-10">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Marketing & Experience"/>	
-		</figure>
-	</div>
-	    	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Marketing & Experience"/>	
+		<img src="../images/careers/hero-banner.jpg" alt="Marketing & Experience"/>
 		</figure>
 	</div>
 </div>
@@ -130,14 +108,9 @@ collection_name: careers
 <details>
       <summary>Procurement & Contracts</summary>
     <div class="row">
-	<div class="col is-6">
+	<div class="col is-10">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Procurement & Contracts"/>	
-		</figure>
-	</div>
-	    	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Procurement & Contracts"/>	
+		<img src="../images/careers/hero-banner.jpg" alt="Procurement & Contracts"/>
 		</figure>
 	</div>
 </div>
@@ -148,14 +121,9 @@ collection_name: careers
 <details>
       <summary>Project Development</summary>
     <div class="row">
-	<div class="col is-6">
+	<div class="col is-10">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Project Development"/>	
-		</figure>
-	</div>
-	    	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Project Development"/>	
+		<img src="../images/careers/hero-banner.jpg" alt="Project Development"/>
 		</figure>
 	</div>
 </div>
@@ -166,14 +134,9 @@ collection_name: careers
 <details>
       <summary>Sentosa Cove Resort Management</summary>
     <div class="row">
-	<div class="col is-6">
+	<div class="col is-10">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Sentosa Cove Resort Management"/>	
-		</figure>
-	</div>
-	    <div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Sentosa Cove Resort Management"/>	
+		<img src="../images/careers/hero-banner.jpg" alt="Sentosa Cove Resort Management"/>
 		</figure>
 	</div>
 </div>
@@ -184,14 +147,9 @@ collection_name: careers
 <details>
       <summary>Sentosa Golf Club</summary>
     <div class="row">
-	<div class="col is-6">
+	<div class="col is-10">
 		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Singapore Golf Club"/>	
-		</figure>
-	</div>
-	    	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/careers/dog.jpg" alt="Singapore Golf Club"/>	
+		<img src="../images/careers/hero-banner.jpg" alt="Sentosa Golf Club"/>
 		</figure>
 	</div>
 </div>

@@ -489,6 +489,13 @@ summary{
  	  height: 30vh;
 	}
 }
+@media only screen and (min-width: 1281px){
+	// desktop
+	.slider, .slider-wrapper {
+	  position: relative;
+ 	  height: 35vh;
+	}
+}
 
 .slide {
   background-color: black;

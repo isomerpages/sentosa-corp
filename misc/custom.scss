@@ -449,43 +449,34 @@ summary{
 .trigger {
   display: none;
 }
-orientation : landscape
-
-@media only screen and (min-device-width: 320px) 
-                   and (max-device-width: 640px) 
-                   and (orientation: landscape) {
-
-//enter code here
-	 .slider, .slider-wrapper {
-	  position: relative;
- 	  height: 1000px;
-	}
-}
 
 @media only screen and (min-width: 320px){
 	.slider, .slider-wrapper {
 	  position: relative;
- 	  height: 16vh;
-
+//  	  height: 16vh;
+	  height: 100vh;
 	}
 }
 @media only screen and (min-width: 481px){
 	.slider, .slider-wrapper {
 	  position: relative;
- 	  height: 30vh;
+//  	  height: 30vh;
+	  height: 100vh;
 	}
 }
 	 
 @media only screen and (min-width: 641px){
 	.slider, .slider-wrapper {
 	  position: relative;
- 	  height: 30vh;
+//  	  height: 30vh;
+	  height: 100vh;
 	}
 }
 @media only screen and (min-width: 961px){
 	.slider, .slider-wrapper {
 	  position: relative;
- 	  height: 30vh;
+//  	  height: 30vh;
+	  height: 100vh;
 	}
 }
 @media only screen and (min-width: 1025px){

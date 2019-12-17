@@ -25,47 +25,27 @@ collection_name: careers
    </div>
 </div>
  <div class="row" style="background-color: white;">
-	<div class="col is-4" style="background-color: white;padding:0;">
-                <figure style="margin: 0; position: relative;">
-			<img src="../images/careers/dog.jpg"/>
-		</figure>
-	</div>
-<div class="col is-4" style="background-color: white;padding:0;">
+	<div class="col is-4" style="background-color: white;padding:1.5vh;">
 		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/develop-with-us">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Develop With Us"/>
-			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Develop With Us"/>
-			<span class="image-text-1">Develop With Us</span>
+			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Develop With Us"/>
+			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Develop With Us"/>
 		</figure>
 			</a>
 	</div>
-	<div class="col is-4" style="background-color: white;padding:0;">
-                <figure style="margin: 0; position: relative;">
-			<img src="../images/careers/dog.jpg">
-		</figure>
-	</div>
-</div>
- <div class="row" style="background-color: white;">
-	  <div class="col is-4" style="background-color: white;padding:0;">
+<div class="col is-4" style="background-color: white;padding:1.5vh;">
 		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/work-and-have-fun-with-us">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Work And Have Fun With Us"/>
-			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Work And Have Fun With Us"/>
-			<span class="image-text-1">Work And Have <br/> Fun With Us</span>
+			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Work And Have Fun-With Us"/>
+			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Work And Have Fun-With Us"/>
 		</figure>
-		</a>
+			</a>
 	</div>
-	<div class="col is-4" style="background-color: white;padding:0;">
-                <figure style="margin: 0; position: relative;">
-			<img src="../images/careers/dog.jpg">
-		</figure>
-	</div>
-	  <div class="col is-4" style="background-color: white;padding:0;">
+<div class="col is-4" style="background-color: white;padding:1.5vh;">
 		<a href="https://isomer-sentosa-staging.netlify.com/life-in-sentosa/care-with-us">
                 <figure style="margin: 0; position: relative;">
-			<img class="grid-image-1" src="../images/careers/testimagev1.gif" alt="Care With Us"/>
-			<img src="../images/careers/dog.jpg" class="grid-image-2" alt="Work And Have Fun With Us"/>
-			<span class="image-text-1">Care With Us</span>
+			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Care With Us"/>
+			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Care With Us"/>
 		</figure>
 			</a>
 	</div>

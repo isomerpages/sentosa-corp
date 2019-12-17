@@ -451,6 +451,7 @@ summary{
 }
 
 @media only screen and (min-width: 320px){
+// 	 smartphones, iPhone, portrait
 	.slider, .slider-wrapper {
 	  position: relative;
  	  height: 16vh;
@@ -458,6 +459,7 @@ summary{
 	}
 }
 @media only screen and (min-width: 481px){
+// 	 portrait e-readers (Nook/Kindle), smaller tablets
 	.slider, .slider-wrapper {
 	  position: relative;
  	  height: 18vh;
@@ -466,6 +468,7 @@ summary{
 }
 	 
 @media only screen and (min-width: 641px){
+// 	portrait tablets, portrait iPad,landscape 800x480 or 854x480 phones
 	.slider, .slider-wrapper {
 	  position: relative;
  	  height: 55vh;
@@ -473,13 +476,14 @@ summary{
 	}
 }
 @media only screen and (min-width: 961px){
+// 	tablet, landscape iPad
 	.slider, .slider-wrapper {
 	  position: relative;
  	  height: 45vh;
-// 	  height: 100vh;
 	}
 }
 @media only screen and (min-width: 1025px){
+	// desktop
 	.slider, .slider-wrapper {
 	  position: relative;
  	  height: 30vh;

@@ -494,16 +494,6 @@ summary{
  	  height: 35vh;
 	}
 }
-@media only screen 
-    and (device-width: 414px) 
-    and (device-height: 896px)
-    and (orientation : landscape) 
-    and (-webkit-device-pixel-ratio: 2) { 
-		.slider, .slider-wrapper {
-	  position: relative;
- 	  height: 30vh;
-	}
-}
 
 .slide {
   background-color: black;

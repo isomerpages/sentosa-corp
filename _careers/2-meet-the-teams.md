@@ -7,13 +7,11 @@ collection_name: careers
 ---
 <h2>#Teamsentosa</h2>  
 
-<div class="row">
   <div class="col is-12">
 	<figure style="margin: 0;position: relative;">
         <img src="../images/careers/hero-banner-gif-version.gif" alt="Meet The Teams"/>
         </figure>
   </div>
-</div>
 
 <h2>Our Divisions</h2>
 <details>

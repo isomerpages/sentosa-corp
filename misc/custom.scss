@@ -450,68 +450,6 @@ summary{
   display: none;
 }
 
-@media only screen and (min-width: 320px){
-// 	 smartphones, iPhone, portrait
-	.slider, .slider-wrapper {
-	  position: relative;
- 	  height: 16vh;
-	}
-}
-@media only screen and (min-width: 480px){
-// 	 portrait e-readers (Nook/Kindle), smaller tablets
-	.slider, .slider-wrapper {
-	  position: relative;
- 	  height: 18vh;
-	}
-}
-	 
-@media only screen and (min-width: 641px){
-// 	mobile landscpe
-	.slider, .slider-wrapper {
-	  position: relative;
-//  	  height: 25vh;
-	  height: 60vh;
-	}
-}
-@media only screen and (min-width: 810px){
-// 	portrait tablets, portrait iPad,
-	.slider, .slider-wrapper {
-	  position: relative;
-//  	  height: 25vh;
-	  height: 25vh;
-	}
-}
-@media only screen and (min-width: 896px){
-// 	 iPhone landscape,
-	.slider, .slider-wrapper {
-	  position: relative;
-//  	  height: 25vh;
-	  height: 100vh;
-	}
-}
-
-@media only screen and (min-width: 961px){
-// 	tablet, landscape iPad
-	.slider, .slider-wrapper {
-	  position: relative;
- 	  height: 30vh;
-	}
-}
-@media only screen and (min-width: 1025px){
-	// desktop
-	.slider, .slider-wrapper {
-	  position: relative;
- 	  height: 30vh;
-	}
-}
-@media only screen and (min-width: 1281px){
-	// desktop
-	.slider, .slider-wrapper {
-	  position: relative;
- 	  height: 35vh;
-	}
-}
-
 .slide {
   background-color: black;
   width: 100%;

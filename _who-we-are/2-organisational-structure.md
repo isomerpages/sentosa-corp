@@ -179,10 +179,9 @@ collection_name: who-we-are
     </div>
 </div>
 
-
 <div class="row">
     <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/Bod-Kevin-Kwok.jpg" alt="Kevin KWOK">
+        <img src="/images/who-we-are/organisational-structure/Bod-Kevin-Kwok.jpg" alt="Kevin KWOK">
     </div>
     <div class="col is-8">
         <p class="title is-4">Kevin KWOK</p>

@@ -178,6 +178,19 @@ collection_name: who-we-are
         <br> Sentosa Golf Club
     </div>
 </div>
+
+
+<div class="row">
+    <div class="col is-4">
+        <img src="images/who-we-are/organisational-structure/Bod-Kevin-Kwok.jpg" alt="Kevin KWOK">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Kevin KWOK</p>
+        <strong>Independent Director</strong>
+        <br> Singapore Exchange Ltd
+    </div>
+</div>
+
 <hr> 
 ### **Senior Executive Team**
 
@@ -197,6 +210,16 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Jacqueline TAN Yi-Ping</p>
+        <strong>Assistant Chief Executive</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Set-Michael-Ma.jpg" alt="Michael MA">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Michael MA</p>
         <strong>Assistant Chief Executive</strong>
     </div>
 </div>

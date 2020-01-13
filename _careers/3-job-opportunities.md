@@ -25,7 +25,7 @@ collection_name: careers
 			</a>
 	</div>
 <div class="col is-4" style="background-color: white;padding:1.5vh;">
-		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
+		<a href="https://www.jobstreet.com.sg/career/sentosa_pt.htm">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Full-time Position"/>
 			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Full-time Position"/>
@@ -40,7 +40,7 @@ collection_name: careers
 
  <div class="row" style="background-color: white;">
 <div class="col is-4" style="background-color: white;padding:1.5vh;">
-		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
+		<a href="https://isomer-sentosa-staging.netlify.com/graduate-programme">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Full-time Position"/>
 			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Full-time Position"/>
@@ -48,7 +48,7 @@ collection_name: careers
 			</a>
 	</div>
 <div class="col is-4" style="background-color: white;padding:1.5vh;">
-		<a href="https://www.jobstreet.com.sg/career/sentosa_ft.htm">
+		<a href="https://www.jobstreet.com.sg/career/onefabergroup.htm">
                 <figure style="margin: 0; position: relative;">
 			<img class="grid-image-1" src="../images/careers/mockup1.jpg" alt="Full-time Position"/>
 			<img src="../images/careers/mockup2.jpg" class="grid-image-2" alt="Full-time Position"/>

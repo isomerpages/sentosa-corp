@@ -11,7 +11,9 @@ collection_name: who-we-are
 ![Image of Sentosa SOF logo](/images/who-we-are/our-brands/SENTOSA_SOF_LOGO_ORANGE.png)
 
 <div class="bp-youtube">
+  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gprw9KKS32s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>
 
 Sentosa unveiled the tagline - The State of Fun in May 2014, in a significant move aimed at positioning Singapore’s iconic resort destination as the capital of fun for everyone.

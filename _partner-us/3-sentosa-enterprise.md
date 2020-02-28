@@ -16,8 +16,45 @@ Aimed at driving innovation among local enterprises, Sentosa x Enterprise will c
 ### Innovation Focus
 The focus areas include Connectivity, Experience, Sustainability and Digital, as outlined below. Click <a href="#example-of-ideas">here</a> to see examples of ideas.
 
-![Image of Key Focus](/images/partner-us/enterprise/inov_focus.png)
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/partner-us/enterprise/icons/12_cycling.png" alt="Connectivity">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">##Connectivity##</p>
+        <br> Enhance navigation and make intra-island commute more fun and/or convenient
+    </div>
+</div>
 
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/partner-us/enterprise/icons/20_sightseeing.png" alt="Experience">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Experience</p>
+        <br> Novel offerings to accentuate our island's ridge-reef landscape and encourage night visitorship
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/iimages/partner-us/enterprise/icons/01_peacock.png" alt="Sustainability">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Sustainability</p>
+        <br> Initiatives to maintain Sentosa's biodiversity and manage waste and resources
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/partner-us/enterprise/icons/07_segway.png" alt="Digital">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Digital</p>
+        <br> Technologies to enhance integrated guest experiences, productivity and security in management of the island's operations and assets
+    </div>
+</div>
 
 ### How It Works
 

@@ -21,7 +21,7 @@ The focus areas include Connectivity, Experience, Sustainability and Digital, as
         <img src="/images/partner-us/enterprise/icons/12_cycling.png" alt="Connectivity">
     </div>
     <div class="col is-8">
-        <p class="title is-4">##Connectivity##</p>
+        <p class="title is-4">Connectivity</p>
         <br> Enhance navigation and make intra-island commute more fun and/or convenient
     </div>
 </div>
@@ -38,7 +38,7 @@ The focus areas include Connectivity, Experience, Sustainability and Digital, as
 
 <div class="row">
     <div class="col is-4">
-        <img src="/iimages/partner-us/enterprise/icons/01_peacock.png" alt="Sustainability">
+        <img src="/images/partner-us/enterprise/icons/01_peacock.png" alt="Sustainability">
     </div>
     <div class="col is-8">
         <p class="title is-4">Sustainability</p>

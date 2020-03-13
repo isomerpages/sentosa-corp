@@ -229,7 +229,7 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Lynette ANG</p>
-        <strong>Chief Marketing Officer</strong>
+        <strong>Chief Marketing and Experience Officer</strong>
     </div>
 </div>
 

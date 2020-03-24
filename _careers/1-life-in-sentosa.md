@@ -17,7 +17,7 @@ collection_name: careers
 <div class="row">
 	<div class="col is-12">
 	
-<p>We at Sentosa serve from the heart with energy, passion and fun – to provide memorable experiences for all our guests!</p>
+<p>We at Sentosa serve from the heart with energy, passion and fun – to provide memorable experiences for all our guests!!</p>
 
 <p>Bringing to life our STAR values (Service, Teamwork, Acting with integrity, Results-oriented), we are empowered to make a difference and make things happen.</p>
 

@@ -467,3 +467,37 @@ summary{
     margin-right: 0;
     font-weight: bold;
 }
+
+/*IE*/
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  summary{
+    color: #003349;
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+  }
+
+  details summary:before {
+    content: "888";
+    height: 30px;
+    width: 15px;
+    //background: url(../images/graduate-programme/add.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
+  }
+
+ details[open] > summary:before {
+    content: "888";
+    height: 30px;
+    width: 15px;
+    //background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
+ }
+}

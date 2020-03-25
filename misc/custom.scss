@@ -427,14 +427,26 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 // css for graduate programme
-details summary::-webkit-details-marker {
+/*details summary::-webkit-details-marker {
     background: url(../images/graduate-programme/add.svg) center no-repeat;
     color: transparent;
 }
+
 details[open] summary::-webkit-details-marker {
     background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
     color: transparent;
+}*/
+
+details summary::before {
+    background: url(../images/graduate-programme/add.svg) center no-repeat;
+    color: transparent;
 }
+
+details[open] summary::before {
+    background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
+    color: transparent;
+}
+
 summary{
     color: #003349;
     display: block;

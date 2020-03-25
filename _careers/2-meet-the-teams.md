@@ -17,20 +17,19 @@ collection_name: careers
 <details>
       <summary>Corporate Planning</summary>
 	
-    <div class="row">
-	<div class="col is-10">
-		<figure style="margin:0;">
-		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
-		</figure>
+    	<div class="row">
+		<div class="col is-10">
+			<figure style="margin:0;">
+			<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+			</figure>
+		</div>
+		<div class="col is-2">
+			<figure style="margin:0;"></figure>
+		</div>
 	</div>
-	    <div class="col is-2">
-		<figure style="margin:0;">
-		</figure>
-	</div>
-</div>
-    <p>
-      Plan first.
-    </p>
+   	 <p>
+      	Plan first.
+    	</p>
 </details>
 
 <details>

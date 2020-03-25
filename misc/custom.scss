@@ -470,15 +470,15 @@ summary{
 
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  summary + div{
+  summary + div + p{
     display:none;
     opacity:0;
+    transition: all .4s ease-in-out;
   }
   
-  summary:active + div{
+  summary:target + div + p{
     display: block;
-    opacity:1;
-    transition: all .4s ease-in-out;
+    opacity:1; 
   }
 
   details summary:before {

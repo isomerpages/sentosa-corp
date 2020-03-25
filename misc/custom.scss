@@ -438,15 +438,11 @@ details[open] summary::-webkit-details-marker {
 }*/
 
 details summary:before {
-    content: " ";
-    background: url(../images/graduate-programme/add.svg) center no-repeat;
-    color: transparent;
+    content: url(../images/graduate-programme/add.svg) center no-repeat;
 }
 
 details[open] > summary:after {
-    content: " ";
-    background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
-    color: transparent;
+    content: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
 }
 
 summary{

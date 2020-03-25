@@ -438,17 +438,19 @@ details[open] summary::-webkit-details-marker {
 }*/
 
 details summary:before {
-    content: "+";
+    content: " ";
     height: 15px;
     width: 15px;
-    background-image: url(../images/graduate-programme/add.svg) center no-repeat;
+    background: url(../images/graduate-programme/add.svg) center no-repeat;
+    display: block;
 }
 
 details[open] > summary:before {
-    content: "-";
+    content: " ";
     height: 15px;
     width: 15px;
-    background-image: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
+    background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
+    display: block;
 }
 
 summary{

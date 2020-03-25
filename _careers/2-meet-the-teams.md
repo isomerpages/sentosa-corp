@@ -33,8 +33,7 @@ collection_name: careers
 </details>
 
 <details>
-      <summary>Finance</summary>
-	
+      <summary>Finance</summary>	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -53,7 +52,6 @@ collection_name: careers
 
 <details>
       <summary>Island Operations</summary>
-	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -71,8 +69,7 @@ collection_name: careers
 </details>
 
 <details>
-      <summary>Legal</summary>
-	
+      <summary>Legal</summary>	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -91,7 +88,6 @@ collection_name: careers
 
 <details>
       <summary>Marketing & Experience</summary>
-	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -109,8 +105,7 @@ collection_name: careers
 </details>
 
 <details>
-      <summary>Procurement & Contracts</summary>
-	
+      <summary>Procurement & Contracts</summary>	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -129,7 +124,6 @@ collection_name: careers
 
 <details>
       <summary>Project Development</summary>
-	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -147,8 +141,7 @@ collection_name: careers
 </details>
 
 <details>
-      <summary>Sentosa Cove Resort Management</summary>
-	
+      <summary>Sentosa Cove Resort Management</summary>	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -167,7 +160,6 @@ collection_name: careers
 
 <details>
       <summary>Sentosa Golf Club</summary>
-	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">

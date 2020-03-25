@@ -25,9 +25,10 @@ collection_name: careers
 		<div class="col is-2">
 			<figure style="margin:0;"></figure>
 		</div>
-		<p>
-      			Plan first.
-    		</p>
+		<div class="col is-10">
+			<p>Plan first.</p>
+		</div>
+		
 	</div>
    	 
 </details>

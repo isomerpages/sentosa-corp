@@ -443,6 +443,8 @@ details summary:before {
     width: 15px;
     background: url(../images/graduate-programme/add.svg) center no-repeat;
     display: block;
+    float: left;
+    margin-right:10px;
 }
 
 details[open] > summary:before {
@@ -451,6 +453,8 @@ details[open] > summary:before {
     width: 15px;
     background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
     display: block;
+    float: left;
+    margin-right:10px;
 }
 
 summary{

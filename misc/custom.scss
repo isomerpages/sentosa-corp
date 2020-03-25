@@ -437,12 +437,14 @@ details[open] summary::-webkit-details-marker {
     color: transparent;
 }*/
 
-details summary::before {
+details summary:before {
+    content: " ";
     background: url(../images/graduate-programme/add.svg) center no-repeat;
     color: transparent;
 }
 
-details[open] summary::before {
+details[open] > summary:after {
+    content: " ";
     background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
     color: transparent;
 }

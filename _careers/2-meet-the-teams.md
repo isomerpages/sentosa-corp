@@ -15,8 +15,7 @@ collection_name: careers
 
 <h2>Our Divisions</h2>
 <details>
-      <summary>Corporate Planning</summary>
-	
+      <summary>Corporate Planning</summary>	
     	<div class="row">
 		<div class="col is-10">
 			<figure style="margin:0;">
@@ -26,10 +25,11 @@ collection_name: careers
 		<div class="col is-2">
 			<figure style="margin:0;"></figure>
 		</div>
+		<p>
+      			Plan first.
+    		</p>
 	</div>
-   	 <p>
-      	Plan first.
-    	</p>
+   	 
 </details>
 
 <details>

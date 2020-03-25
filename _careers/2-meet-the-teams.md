@@ -16,6 +16,7 @@ collection_name: careers
 <h2>Our Divisions</h2>
 <details>
       <summary>Corporate Planning</summary>
+	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -31,8 +32,10 @@ collection_name: careers
       Plan first.
     </p>
 </details>
+
 <details>
       <summary>Finance</summary>
+	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -48,8 +51,10 @@ collection_name: careers
       Money matters.
     </p>
 </details>
+
 <details>
       <summary>Island Operations</summary>
+	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -65,8 +70,10 @@ collection_name: careers
       island matters.
     </p>
 </details>
+
 <details>
       <summary>Legal</summary>
+	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -82,8 +89,10 @@ collection_name: careers
       English matters.
     </p>
 </details>
+
 <details>
       <summary>Marketing & Experience</summary>
+	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -99,8 +108,10 @@ collection_name: careers
       Buiness matters.
     </p>
 </details>
+
 <details>
       <summary>Procurement & Contracts</summary>
+	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -116,8 +127,10 @@ collection_name: careers
       Process matters.
     </p>
 </details>
+
 <details>
       <summary>Project Development</summary>
+	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -133,8 +146,10 @@ collection_name: careers
       Project matters.
     </p>
 </details>
+
 <details>
       <summary>Sentosa Cove Resort Management</summary>
+	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -150,8 +165,10 @@ collection_name: careers
       Cove matters.
     </p>
 </details>
+
 <details>
       <summary>Sentosa Golf Club</summary>
+	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">

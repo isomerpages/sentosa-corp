@@ -484,8 +484,8 @@ summary{
     transition: all .4s ease-in-out;
   }
   
-  .toggler:checked{
-     .toggler-content{
+  input:checked{
+    + .toggler-content{
         display: block;   
         opacity:1;
   } 

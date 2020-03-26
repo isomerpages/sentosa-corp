@@ -486,7 +486,7 @@ summary{
     transition: all .4s ease-in-out;
   }
   
-  input[type="checkbox"][checked="checked"]+.toggler-content{
+  input[type="checkbox"][checked="checked"] .toggler-content{
     display: block;
     height: 100px;   
     opacity:1; 

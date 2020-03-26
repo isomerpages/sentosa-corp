@@ -478,15 +478,12 @@ summary{
   .toggler{
     display:block;
   }
-  summary + div{
-    display:none;
-    height:0;
-    opacity:0;
-    overflow: hidden;
+  .toggler-content{
+    display: none;
     transition: all .4s ease-in-out;
   }
   
-  input[type="checkbox"][checked="checked"] .toggler-content{
+  input[type="checkbox"][checked="checked"].toggler-content{
     display: block;
     height: 100px;   
     opacity:1; 

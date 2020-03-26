@@ -468,19 +468,24 @@ summary{
     font-weight: bold;
 }
 
+.toggler{
+    display: none;
+}
+
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	
   summary + div{
     display:none;
     height:0;
     opacity:0;
+    overflow: hidden;
     transition: all .4s ease-in-out;
   }
   
-  summary:target + div{
+  toggler:checked + div{
     display: block;
-    height: 100px;
-    overflow: hidden;
+    height: 100px;   
     opacity:1; 
   }
 

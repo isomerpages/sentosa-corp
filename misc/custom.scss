@@ -470,16 +470,17 @@ summary{
 
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  summary + div, summary + p{
+  summary + div{
     display:none;
     height:0;
     opacity:0;
     transition: all .4s ease-in-out;
   }
   
-  summary:target + div, summary:target + p{
+  summary:target + div{
     display: block;
     height: 100px;
+    overflow: hidden;
     opacity:1; 
   }
 
@@ -492,14 +493,4 @@ summary{
     float: left;
     margin-right:10px;
   }
-
- details summary:before {
-    content: " ";
-    height: 30px;
-    width: 15px;
-    background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
-    display: block;
-    float: left;
-    margin-right:10px;
- }
 }

@@ -474,7 +474,10 @@ summary{
 
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-	
+
+  .toggler{
+    display:block;
+  }
   summary + div{
     display:none;
     height:0;
@@ -483,7 +486,7 @@ summary{
     transition: all .4s ease-in-out;
   }
   
-  toggler:checked + div{
+  toggler:checked+.toggler-content{
     display: block;
     height: 100px;   
     opacity:1; 

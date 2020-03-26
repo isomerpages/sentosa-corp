@@ -480,15 +480,16 @@ summary{
   }
   .toggler-content{
     display: none;
+    opacity: 0;
     transition: all .4s ease-in-out;
   }
   
-  input[type="checkbox"][checked="checked"].toggler-content{
-    display: block;
-    height: 100px;   
-    opacity:1; 
-  }
-
+  .toggler:checked{
+     .toggler-content{
+        display: block;   
+        opacity:1;
+  } 
+  
   details summary:before {
     content: " ";
     height: 30px;

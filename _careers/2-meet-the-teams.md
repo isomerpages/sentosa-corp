@@ -17,7 +17,7 @@ collection_name: careers
 <details>
       <input type="checkbox" class="toggler" />
       <summary>Corporate Planning</summary>	
-    	<div class="row">
+    	<div class="row toggler-content">
 		<div class="col is-10">
 			<figure style="margin:0;">
 			<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>

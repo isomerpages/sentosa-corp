@@ -14,7 +14,7 @@ collection_name: careers
   </div>
 
 <h2>Our Divisions</h2>
-<details open = "">
+<details>
       <input type="checkbox" class="toggler" />
       <summary>Corporate Planning</summary>	
     	<div class="row">

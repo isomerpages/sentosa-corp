@@ -474,7 +474,7 @@ summary{
     font-weight: bold;
 }
 
-#labelHeader:before {
+.labelHeader:before {
     content: " ";
     height: 30px;
     width: 15px;
@@ -484,7 +484,7 @@ summary{
     margin-right:10px;
 }
 
-.toggler:checked#labelHeader:before {
+.toggler:checked.labelHeader:before {
     content: " ";
     height: 30px;
     width: 15px;

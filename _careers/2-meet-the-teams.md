@@ -16,9 +16,19 @@ collection_name: careers
 <h2>Our Divisions</h2>
 
 <div>
-  <label for="toggler-id-1">Toggle</label>
+  <label for="toggler-id-1">Corporate Planning</label>
   <input type="checkbox" id="toggler-id-1" class="toggler" />
-  <div class="toggler-content">Hideable</div>
+  <div class="row toggler-content">
+	  <div class="col is-10">
+		<figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		</figure>
+	  </div>
+	  <div class="col is-2">
+		<figure style="margin:0;"></figure>
+	  </div><br/>
+	  <p>Plan first.</p>
+  </div>
 </div>
 
 <details>

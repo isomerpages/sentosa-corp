@@ -472,31 +472,24 @@ summary{
     display: none;
 }
 
+.toggler {
+  display: none;
+}
+
+.toggler+.toggler-content {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: all .4s ease-in-out;
+}
+
+.toggler:checked+.toggler-content {
+  max-height: 1000px;
+  opacity: 1;
+}
+
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 
-  .toggler{
-    display:block;
-  }
-  .toggler-content{
-    display: none;
-    opacity: 0;
-    transition: all .4s ease-in-out;
-  }
   
-  input:checked{
-    + .toggler-content{
-        display: block;   
-        opacity:1;
-  } 
-  
-  details summary:before {
-    content: " ";
-    height: 30px;
-    width: 15px;
-    background: url(../images/graduate-programme/add.svg) center no-repeat;
-    display: block;
-    float: left;
-    margin-right:10px;
-  }
 }

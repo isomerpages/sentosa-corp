@@ -468,8 +468,20 @@ summary{
     font-weight: bold;
 }
 
-.toggler{
-    display: none;
+#labelHeader{
+    color: #003349;
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
+#labelHeader:before {
+    content: " ";
+    height: 30px;
+    width: 15px;
+    background: url(../images/graduate-programme/add.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
 }
 
 .toggler {
@@ -487,6 +499,8 @@ summary{
   max-height: 1000px;
   opacity: 1;
 }
+
+
 
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {

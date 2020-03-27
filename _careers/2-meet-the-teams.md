@@ -14,6 +14,13 @@ collection_name: careers
   </div>
 
 <h2>Our Divisions</h2>
+
+<div>
+  <label for="toggler-id-1">Toggle</label>
+  <input type="checkbox" id="toggler-id-1" class="toggler" />
+  <div class="toggler-content">Hideable</div>
+</div>
+
 <details>
       <input type="checkbox" class="toggler" />
       <summary>Corporate Planning</summary>	

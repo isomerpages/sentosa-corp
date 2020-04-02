@@ -14,25 +14,42 @@ collection_name: careers
   </div>
 
 <h2>Our Divisions</h2>
-<details>
-      <summary>Corporate Planning</summary>
-    <div class="row">
-	<div class="col is-10">
+
+<div>
+  <label class="labelHeader" for="toggler-id-1">Corporate Planning</label>
+  <input type="checkbox" id="toggler-id-1" class="toggler" />
+  <div class="row toggler-content">
+	  <div class="col is-10">
 		<figure style="margin:0;">
 		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>Plan first.</p>
 		</figure>
-	</div>
-	    <div class="col is-2">
-		<figure style="margin:0;">
-		</figure>
-	</div>
+	  </div>
+	  <div class="col is-2">
+		<figure style="margin:0;"></figure>
+	  </div>	  
+  </div>
 </div>
-    <p>
-      Plan first.
-    </p>
-</details>
+
 <details>
-      <summary>Finance</summary>
+      <input type="checkbox" class="toggler" />
+      <summary>Corporate Planning</summary>	
+    	<div class="row toggler-content">
+		<div class="col is-10">
+			<figure style="margin:0;">
+			<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+			</figure>
+		</div>
+		<div class="col is-2">
+			<figure style="margin:0;"></figure>
+		</div>
+	</div>
+	<p>Plan first.</p>
+   	 
+</details>
+
+<details>
+      <summary>Finance</summary>	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -48,6 +65,7 @@ collection_name: careers
       Money matters.
     </p>
 </details>
+
 <details>
       <summary>Island Operations</summary>
     <div class="row">
@@ -65,8 +83,9 @@ collection_name: careers
       island matters.
     </p>
 </details>
+
 <details>
-      <summary>Legal</summary>
+      <summary>Legal</summary>	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -82,6 +101,7 @@ collection_name: careers
       English matters.
     </p>
 </details>
+
 <details>
       <summary>Marketing & Experience</summary>
     <div class="row">
@@ -99,8 +119,9 @@ collection_name: careers
       Buiness matters.
     </p>
 </details>
+
 <details>
-      <summary>Procurement & Contracts</summary>
+      <summary>Procurement & Contracts</summary>	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -116,6 +137,7 @@ collection_name: careers
       Process matters.
     </p>
 </details>
+
 <details>
       <summary>Project Development</summary>
     <div class="row">
@@ -133,8 +155,9 @@ collection_name: careers
       Project matters.
     </p>
 </details>
+
 <details>
-      <summary>Sentosa Cove Resort Management</summary>
+      <summary>Sentosa Cove Resort Management</summary>	
     <div class="row">
 	<div class="col is-10">
 		<figure style="margin:0;">
@@ -150,6 +173,7 @@ collection_name: careers
       Cove matters.
     </p>
 </details>
+
 <details>
       <summary>Sentosa Golf Club</summary>
     <div class="row">

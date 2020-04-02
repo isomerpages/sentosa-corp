@@ -427,14 +427,36 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 // css for graduate programme
-details summary::-webkit-details-marker {
+/*details summary::-webkit-details-marker {
     background: url(../images/graduate-programme/add.svg) center no-repeat;
     color: transparent;
 }
+
 details[open] summary::-webkit-details-marker {
     background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
     color: transparent;
+}*/
+
+details summary:before {
+    content: " ";
+    height: 30px;
+    width: 15px;
+    background: url(../images/graduate-programme/add.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
 }
+
+details[open] > summary:before {
+    content: " ";
+    height: 30px;
+    width: 15px;
+    background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
+}
+
 summary{
     color: #003349;
     display: block;
@@ -444,4 +466,56 @@ summary{
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
+}
+
+.labelHeader{
+    color: #003349;
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
+.labelHeader:before {
+    content: " ";
+    height: 30px;
+    width: 15px;
+    background: url(../images/graduate-programme/add.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
+}
+
+.toggler:checked.labelHeader:before {
+    content: " ";
+    height: 30px;
+    width: 15px;
+    background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
+}
+
+.toggler {
+  display: none;
+}
+
+.toggler+.toggler-content {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: all .4s ease-in-out;
+}
+
+.toggler:checked+.toggler-content {
+  max-height: 1000px;
+  opacity: 1;
+}
+
+.toggler-content p{
+  text-align: left;
+}
+
+/*IE*/
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+
+  
 }

@@ -38,6 +38,17 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Adrian_Chua.jpg" alt="Adrian CHUA">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Adrian CHUA</p>
+        <strong>Deputy Secretary (Industry)</strong>
+        <br> Ministry of Trade and Industry
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrAndrewLim.jpeg" alt="Andrew LIM">
     </div>
     <div class="col is-8">
@@ -47,7 +58,109 @@ collection_name: who-we-are
         <br>
         Co-Head of Corporate Mergers & Acquisitions
         </strong>
-        <br>Allen and Gledhill
+        <br> Allen and Gledhill
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Angelene_Chan.jpg" alt="Angelene CHAN">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Angelene CHAN</p>
+        <strong>Chief Executive Officer</strong>
+        <br> DP Architects
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MsDianaEE-TAN.jpg" alt="Diana EE-Tan">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Diana EE-TAN</p>
+        <strong>Chairman</strong>
+        <br> Mount Faber Leisure Group Pte Ltd
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MrEugeneHO.jpg" alt="Eugene HO">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Eugene HO</p>
+        <strong>Regional Managing Director</strong>
+        <br> Deloitte SEA Consulting
+        <br>
+        <strong>Chief Strategy & Innovation Officer</strong>
+        <br> Deloitte SEA
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MrEugeneLEONG.jpg" alt="Eugene LEONG">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Eugene LEONG</p>
+        <strong>2 Deputy Secretary</strong>
+        <br> Ministry of the Environment and Water Resources
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Guna_Chellappan.jpg" alt="Guna CHELLAPPAN">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Guna CHELLAPPAN</p>
+        <strong>General Manager (Cloud & Cognitive Software)</strong>
+        <br> IBM
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MrKeithTAN.jpg" alt="Keith TAN">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Keith TAN</p>
+        <strong>Chief Executive</strong>
+        <br> Singapore Tourism Board
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Bod-Kevin-Kwok.jpg" alt="Kevin KWOK">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Kevin KWOK</p>
+        <strong>Independent Director</strong>
+        <br> Singapore Exchange Ltd
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Mariam_Jaafar.jpg" alt="Mariam JAAFAR">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mariam JAAFAR</p>
+        <strong>Managing Director & Partner</strong>
+        <br> Boston Consulting Group
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Michael_Syn.jpg" alt="Michael SYN">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Michael SYN</p>
+        <strong>Head (Equities)</strong>
+        <br> Singapore Exchange Ltd
     </div>
 </div>
 
@@ -68,125 +181,12 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsDianaEE-TAN.jpg" alt="Diana EE-Tan">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Diana EE-TAN</p>
-        <strong>Chairman</strong>
-        <br> Mount Faber Leisure Group Pte Ltd
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrDavidHENG.jpg" alt="David HENG">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">David HENG</p>
-        <strong>Chief Executive Officer</strong>
-        <br> ABC World Asia
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrEugeneHO.jpg" alt="Eugene HO">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Eugene HO</p>
-        <strong>Regional Managing Director</strong>
-        <br> Deloitte SEA Consulting
-        <br>
-        <strong>Chief Strategy & Innovation Officer</strong>
-        <br> Deloitte SEA
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsKOH-LIMWenGin.jpg" alt="KOH-LIM Wen Gin">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">KOH-LIM Wen Gin</p>
-        <strong>Independent Director</strong>
-        <br> Keppel Land Ltd
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrLAMYiYoung.jpg" alt="LAM Yi Young">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">LAM Yi Young</p>
-        <strong>Deputy Secretary (Industry)</strong>
-        <br> Ministry of Trade and Industry
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrEugeneLEONG.jpg" alt="Eugene LEONG">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Eugene LEONG</p>
-        <strong>2 Deputy Secretary</strong>
-        <br> Ministry of the Environment and Water Resources
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrLIMJooBoon.jpg" alt="LIM Joo Boon">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">LIM Joo Boon</p>
-        <strong>Chairman</strong>
-        <br> Singapore Turf Club
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MsRitaSOH.jpg" alt="Rita SOH">
     </div>
     <div class="col is-8">
         <p class="title is-4">Rita SOH</p>
         <strong>Managing Director</strong>
         <br> RDC Architects Pte Ltd
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrKeithTAN.jpg" alt="Keith TAN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Keith TAN</p>
-        <strong>Chief Executive</strong>
-        <br> Singapore Tourism Board
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrRonnyTAN.jpg" alt="Ronny TAN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ronny TAN</p>
-        <strong>President</strong>
-        <br> Sentosa Golf Club
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Bod-Kevin-Kwok.jpg" alt="Kevin KWOK">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Kevin KWOK</p>
-        <strong>Independent Director</strong>
-        <br> Singapore Exchange Ltd
     </div>
 </div>
 

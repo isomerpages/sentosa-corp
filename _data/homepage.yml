@@ -11,8 +11,8 @@ favicon: /images/favicon.ico
 agency-logo: /images/sentosa_logo.png
 
 # Hero Banner
-# hero-title: Businesses can go to covid.gobusiness.gov.sg for more information regarding the temporary suspension of activities.
-hero-title: Sentosa Development Corporation. Businesses can go to covid.gobusiness.gov.sg for more information regarding the temporary suspension of activities.
+hero-subtitle: Businesses can go to covid.gobusiness.gov.sg for more information regarding the temporary suspension of activities.
+hero-title: Sentosa Development Corporation.
 hero-subtitle: Developing a Fun, Smart, and Sustainable Sentosa
 hero-banner: /images/sentosa-banner.jpg
 

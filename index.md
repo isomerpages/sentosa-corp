@@ -5,4 +5,4 @@ permalink: /
 ---
 <!--Backup: ###### This website is in beta - your valuable [feedback](https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335){:target="_blank"} will help us in improving it.-->
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
-Businesses can go to covid.gobusiness.gov.sg for more information regarding the temporary suspension of activities.
+Businesses can go to [covid.gobusiness.gov.sg](www.google.com){:target="_blanck"} for more information regarding the temporary suspension of activities.

@@ -166,6 +166,17 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MsRitaSOH.jpg" alt="Rita SOH">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Rita SOH</p>
+        <strong>Managing Director</strong>
+        <br> RDC Architects Pte Ltd
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/ANGShihHuei.jpg" alt="ANG Shih-Huei ">
     </div>
     <div class="col is-8">
@@ -176,17 +187,6 @@ collection_name: who-we-are
         Chief Executive Officer
         </strong>
         <br> Klareco Communications
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsRitaSOH.jpg" alt="Rita SOH">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Rita SOH</p>
-        <strong>Managing Director</strong>
-        <br> RDC Architects Pte Ltd
     </div>
 </div>
 
@@ -229,7 +229,7 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Lynette ANG</p>
-        <strong>Chief Marketing and Experience Officer</strong>
+        <strong>Chief Marketing Officer</strong>
     </div>
 </div>
 

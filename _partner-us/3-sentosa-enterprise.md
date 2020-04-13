@@ -116,7 +116,7 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
     <div class="col is-6">
         <p>
             <h5 style="margin-top:0;">ST Engineering Land Systems & Ministry of Transport</h5>
-            <strong>Trial Period:</strong> Oct 2017 - Dec 2019
+            <strong>Trial Period:</strong> October 2017 - December 2019
             <ul>
                 <li>As part of Singapore's Smart Nation drive, we tested driverless shuttles within our islands. </li>
                 <li>Guests were also able to get on board the vehicles during the public trial, which took place from August to November 2019.</li>
@@ -125,37 +125,96 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
     </div>
 </div>
 
-<h4>One Piece Puzzle Hunt</h4>
 <div class="row">
-    <div class="col is-5">
+    <div class="col is-4">
+        <img src="/images/partner-us/enterprise/icons/20_sightseeing.png" alt="Experience">
+    </div>
+    <div class="col is-8">
+      <p class="title is-4"><h3>Experience</h3></p>
+    </div>
+</div>
+
+<h4>ScentOsa AR Perfumery</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/one_piece.png" alt="Image of One Piece Puzzle Hunt" />
+            <img src="/images/partner-us/enterprise/ScentOsa.jpg" alt="Image of ScentOsa" />
         </figure>
     </div>
-    <div class="col is-offset-1 is-6">
+    <div class="col is-6">
         <p>
-            <h5 style="margin-top:0;">Comm Pte Ltd</h5>
-            <strong>Trial Period:</strong> 14 Dec 2018 - 13 Feb 2019
+            <h5 style="margin-top:0;">Jetaime Perfumery Pte Ltd</h5>
+            <strong>Trial Period:</strong> November 2019 - April 2020
             <ul>
-                <li>The One Piece Puzzle Hunt showcased an augmented reality app, which provided an immersive experience for participants in this innovative escape event.</li>
+                <li>A personalised perfume workshop catered to discerning guests and couples on Sentosa Island. </li>
+                <li>Personality surveys and Augmented Reality (AR) projections are used to provide guests with a unique and immersive experience.</li>
             </ul>
         </p>
     </div>
 </div>
 
-<h4>Sen-D-Bee</h4>
+<h4>Food Educational Workshop and Dining Event</h4>
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/sen_d_bee.png" alt="Image of Sen-D-Bee" />
+            <img src="/images/partner-us/enterprise/food-education-and-dining-workshop.jpg" alt="Image Food Educational Workshop and Dining Event" />
         </figure>
     </div>
     <div class="col is-6">
         <p>
-            <h5 style="margin-top:0;">CtrlWorks</h5>
+            <h5 style="margin-top:0;">Edible Garden City Pte Ltd</h5>
+            <strong>Trial Period:</strong> February 2020 - April 2020
             <ul>
-                <li>Prospective Concept</li>
-                <li>A unique on-demand delivery robot, which sells and delivers chilled drinks along the beach. Guests can order their drinks by calling up this service through an application.</li>
+                <li>An educational workshop on food sustainability and war time food crops at Fort Siloso.</li>
+                <li>A pop up dining event held at a hotel on Sentosa Island featuring creative use of ingredients.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/partner-us/enterprise/icons/01_peacock.png" alt="Sustainability">
+    </div>
+    <div class="col is-8">
+      <p class="title is-4"><h3>Sustainability</h3></p>
+    </div>
+</div>
+
+<h4>Solar-Powered Sunscreen Kiosk</h4>
+<div class="row">
+    <div class="col is-5">
+        <figure style="margin:0;">
+            <img src="images/partner-us/enterprise/Sunscreen_Kiosk.png" alt="Image of Sunscreen Kiosk" />
+        </figure>
+    </div>
+    <div class="col is-offset-1 is-6">
+        <p>
+            <h5 style="margin-top:0;">No Fry Zone Pte Ltd</h5>
+            <strong>Trial Period:</strong> June 2019 - December 2019
+            <ul>
+                <li>Singapore's first sunscreen dispension kiosk along the beaches.</li>
+                <li>No electrical connection is required due to the solar panels attached to its roof.</li>
+                <li>Sunscreen is directly dispensed, reducing the need for plastic packaging.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<h4>Waste Management Sensor</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+            <img src="/images/partner-us/enterprise/Waste_Management_Sensor.png" alt="Image of Waste Management Sensor" />
+        </figure>
+    </div>
+    <div class="col is-6">
+        <p>
+            <h5 style="margin-top:0">SembWaste Ptd Ltd</h5>
+            <strong>Trial Period:</strong> February 2020 - May 2020
+            <ul>
+                <li>Sensors installed in litter bins will capture data on the filling level and transmit such data into cloud storage.</li>
+                <li>Reports can be generated from such dashboards to analyse the trend of litter bin emptying trips and volume, which could lead to prodictivity improvements.</li>
             </ul>
         </p>
     </div>

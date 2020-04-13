@@ -103,6 +103,8 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
     </div>
     <div class="col is-10">
         <p class="title is-4">Connectivity</p>
+    </div>
+</div>
 
 <h4>Autonomous Shuttle Trials</h4>
 <div class="row reverse-row-order">

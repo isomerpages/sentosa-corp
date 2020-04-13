@@ -228,56 +228,48 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
     </div>
 </div>
 
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/partner-us/enterprise/icons/07_segway.png" alt="Digital">
+    </div>
+    <div class="col is-8">
+      <p class="title is-4"><h3>Digital</h3></p>
+    </div>
+</div>
+
 <h4>Smart Navigation, Itinerary Planning</h4>
 <div class="row">
     <div class="col is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/fooyo.png" alt="Image of Fooyo" />
+            <img src="/images/partner-us/enterprise/phone-scanner.gif" alt="Image of Scott AR" />
         </figure>
     </div>
     <div class="col is-offset-1 is-6">
         <p>
-            <h5 style="margin-top:0;">Fooyo & Info-Communications Media Development Authority</h5>
-            <strong>Trial Period:</strong> 2016 - Early 2018
+            <h5 style="margin-top:0;">SixTrees Viz Comms Pte Ltd</h5>
+            <strong>Trial Period:</strong> November 2019 - February 2020
             <ul>
-                <li>Fooyo developed the smart navigation and itinerary planning features for the MySentosa App. Guests can plan their trips to Sentosa, access latest events and promotions using the app.</li>
+                <li>Developed an Augmented Reality (AR) mobile application for Android devices, with AR content and navigational functions at Fort Siloso.</li>
+              <li>Guests can learn more about and experience the historical context of the site, including the history of Fort Siloso, the howitzers and army troops.</li>
             </ul>
         </p>
     </div>
 </div>
 
-<h4>Interactive Trails</h4>
+<h4>Swipe WiFi Marketing Cards</h4>
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/interactive_trails.jpg" alt="Image of Interactive Trails" />
+            <img src="/images/partner-us/enterprise/Swipe_Wifi.png" alt="Image of Swipe WiFi Marketing Cards" />
         </figure>
     </div>
     <div class="col is-6">
         <p>
-            <h5 style="margin-top:0">LDR Pte Ltd and Info-Communications Media Development Authority</h5>
+            <h5 style="margin-top:0">Swipe WiFi Pte Ltd</h5>
+            <strong>Trial Period:</strong> March 2020 - May 2020
             <ul>
-                <li>As part of the Integrated Guest Experience Challenge in collaboration with IMDA and SDC, LDR Pte Ltd developed fun and interactive journeys on the MySentosa app for guests to explore complimentary and unique parts of Sentosa.</li>
-                <li>These trails bring to life the rich history and heritage of Sentosa.</li>
-            </ul>
-        </p>
-    </div>
-</div>
-
-<h4>Smart Lamp Post</h4>
-<div class="row">
-    <div class="col is-5">
-        <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/smart_lampost.png" alt="Image of Smart Lampost" />
-        </figure>
-    </div>
-    <div class="col is-offset-1 is-6">
-        <p>
-            <h5 style="margin-top:0;">Technolite, GovTech & Enterprise Singapore</h5>
-            <strong>Trial Period:</strong> Jun 2019 - Dec 2019
-            <ul>
-                <li>In a bid to improve efficiency in resource use, the smart lamp post will be trialled on Sentosa Island under the Gov-PACT programme.</li>
-                <li>The smart lamp post is able to track visior footfall, light and noise levels and other environmental indicators so as to empower monitoring utilities, security and guest experience.</li>
+                <li>Marketing Cards are overlayed on top of Sentosa's Free WiFi.</li>
+                <li>Guests can swipe through marketing cards for the latest promotions and updates.</li>
             </ul>
         </p>
     </div>

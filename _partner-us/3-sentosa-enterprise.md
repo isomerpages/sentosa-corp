@@ -110,7 +110,7 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
         <img src="/images/partner-us/enterprise/icons/12_cycling.png" alt="Connectivity">
     </div>
     <div class="col is-8">
-      <p class="title is-4"><h3>Connectivity</h3></p>
+      <p class="title is-4"><h2>Connectivity</h2></p>
     </div>
 </div>
 
@@ -138,7 +138,7 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
         <img src="/images/partner-us/enterprise/icons/20_sightseeing.png" alt="Experience">
     </div>
     <div class="col is-8">
-      <p class="title is-4"><h3>Experience</h3></p>
+      <p class="title is-4"><h2>Experience</h2></p>
     </div>
 </div>
 
@@ -185,7 +185,7 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
         <img src="/images/partner-us/enterprise/icons/01_peacock.png" alt="Sustainability">
     </div>
     <div class="col is-8">
-      <p class="title is-4"><h3>Sustainability</h3></p>
+      <p class="title is-4"><h2>Sustainability</h2></p>
     </div>
 </div>
 
@@ -233,7 +233,7 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
         <img src="/images/partner-us/enterprise/icons/07_segway.png" alt="Digital">
     </div>
     <div class="col is-8">
-      <p class="title is-4"><h3>Digital</h3></p>
+      <p class="title is-4"><h2>Digital</h2></p>
     </div>
 </div>
 

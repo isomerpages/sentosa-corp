@@ -60,42 +60,49 @@ The focus areas include Connectivity, Experience, Sustainability and Digital, as
 
 Sentosa x Enterprise offers a win-win partnership, where innovators and enterprises benefit from a risk-sharing arrangement while working on projects that could boost Sentosa's vibrancy and attractiveness.
 
-Successful applicants will enjoy the co-sharing or waiver of venue rental, as well as support in terms of infrastructure and other facilitation resources. In turn, the innovation efforts are expected to drive visitorship to Sentosa, enhance guest satisfaction, and support SDC's environmental sustainability goals. 
+Sentosa island is being offered as a testbed venue to innovators and enterprises to bring innovative or novel ideas, concepts or technology that require Proof-Of-Concept.
 
-![Image of Win-Win model](/images/partner-us/enterprise/win_win.png)
+Sentosa Development Corporation (SDC) is prepared to fund up to S$100K to support Proof-Of-Concept costs, co-share rental expenses, set-up of supporting infrastructure and facilitation of resources.
+
+![Image of Win-Win model](/images/partner-us/enterprise/win-win-revised.png)
 
 ### How To Apply
 
 #### Application
 
-<div class="row">
-	<div class="col is-6">
-		<p>
-		<ol>
-          Those interested in being a part of the Sentosa x Enterprise scheme can download the application form <a href="/files/partner-us/enterprise/Sentosa-x-Enterprise-Application-Form.pdf" target="_blank">here</a>.
-			<br>
-			Successful applicants will be contacted after the proposal has been evaluated.
-			<br>
-		</ol>
-		</p>
-	</div>
-  <div class="col is-offset-1 is-5">
-		<figure style="margin:0;">
-			<img src="/images/partner-us/enterprise/eval_crit.png" alt="Image of Evaluation Criteria"/>
-		</figure>
-	</div>
-</div>
+Applications are open all year round. Those interested in being a part of Sentosa x Enterprise can fill in your details <a href="https://form.gov.sg/5cab194e241e960017305fa1" target="_blank">here</a>, or scan the QR code below. Alternatively, you can download the application form <a href="/files/partner-us/enterprise/Sentosa-x-Enterprise-Application-Form.pdf" target="_blank">here</a>.
+
+![Image of QR code](/images/partner-us/enterprise/QR_code_application.png)
+
+#### Evaluation Criteria
+
+1. How the project drives visitorship and spending, enhances guest satisfaction and supports Sentosa's drive for sustainability.
+
+2. How it will benefit Singapore's tourism scene.
+
+2. How innovative or novel the concepts are.
 
 #### Available Grants
 
-Sentosa x Enterprise does not cover development costs. For funding of development costs, interested parties can apply direct to Singapore Tourism Board (STB) for tourism related projects and Enterprise Singapore (ESG) for innovation development grants.
+Sentosa x Enterprise funds up to S$100K of Proof-Of-Concept costs.
+
+For other funding of development costs, interested parties can apply directly to Singapore Tourism Board (STB) for tourism-related projects and Enterprise Singapore (ESG) for innivation development grants.
 
 For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html" target="_blank">here</a>.
 
 For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants" target="_blank">here</a>. 
 
-### Example of Ideas
-SDC has always been working with partners to trial ideas on Sentosa Island. Some past and ongoing trials are listed here. For each of the initiatives, Sentosa has provided venue support as well as facilitation for the trial. 
+### Ongoing / Past Trials
+SDC has always been working with partners to trial ideas on Sentosa Island. Some past and ongoing trials are listed here.
+
+For each of the initiatives, Sentosa provided venue support as well as facilitation for the trial. 
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/partner-us/enterprise/icons/12_cycling.png" alt="Connectivity">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">#### Connectivity</p>
 
 <h4>Autonomous Shuttle Trials</h4>
 <div class="row reverse-row-order">
@@ -109,8 +116,8 @@ SDC has always been working with partners to trial ideas on Sentosa Island. Some
             <h5 style="margin-top:0;">ST Engineering Land Systems & Ministry of Transport</h5>
             <strong>Trial Period:</strong> Oct 2017 - Dec 2019
             <ul>
-                <li>As part of Singapore's Smart Nation drive, we are testing driverless shuttles within our islands. </li>
-                <li>Guests will soon be able to get on board the vehicles during the public trial.</li>
+                <li>As part of Singapore's Smart Nation drive, we tested driverless shuttles within our islands. </li>
+                <li>Guests were also able to get on board the vehicles during the public trial, which took place from August to November 2019.</li>
             </ul>
         </p>
     </div>

@@ -185,7 +185,7 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
 <div class="row">
     <div class="col is-5">
         <figure style="margin:0;">
-            <img src="images/partner-us/enterprise/Sunscreen_Kiosk.png" alt="Image of Sunscreen Kiosk" />
+            <img src="/images/partner-us/enterprise/Sunscreen_Kiosk.png" alt="Image of Sunscreen Kiosk" />
         </figure>
     </div>
     <div class="col is-offset-1 is-6">

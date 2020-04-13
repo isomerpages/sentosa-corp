@@ -98,11 +98,11 @@ SDC has always been working with partners to trial ideas on Sentosa Island. Some
 For each of the initiatives, Sentosa provided venue support as well as facilitation for the trial. 
 
 <div class="row">
-    <div class="col is-4">
+    <div class="col is-2">
         <img src="/images/partner-us/enterprise/icons/12_cycling.png" alt="Connectivity">
     </div>
-    <div class="col is-8">
-        <p class="title is-4">#### Connectivity</p>
+    <div class="col is-10">
+        <p class="title is-4">Connectivity</p>
 
 <h4>Autonomous Shuttle Trials</h4>
 <div class="row reverse-row-order">

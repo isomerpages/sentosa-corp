@@ -72,7 +72,15 @@ Sentosa Development Corporation (SDC) is prepared to fund up to S$100K to suppor
 
 Applications are open all year round. Those interested in being a part of Sentosa x Enterprise can fill in your details <a href="https://form.gov.sg/5cab194e241e960017305fa1" target="_blank">here</a>, or scan the QR code below. Alternatively, you can download the application form <a href="/files/partner-us/enterprise/Sentosa-x-Enterprise-Application-Form.pdf" target="_blank">here</a>.
 
-![Image of QR code](/images/partner-us/enterprise/QR_code_application.png)
+<div class="row">
+    <div class="col is-4">
+    </div>
+    <div class="col is-4">
+        <img src="/images/partner-us/enterprise/QR_code_application.png" alt="QR code">
+    </div>
+     <div class="col is-4">
+    </div>
+</div>
 
 #### Evaluation Criteria
 

@@ -381,11 +381,7 @@ $desktop: 960px + (2 * $gap) !default;
     text-decoration: none;
   }
 }
-@media only screen and (min-width: 480px){
-   h1.b {
-      fontsize: 45px !important;
-   }
-}
+
 
 // To make images appear on top before text
 // When the image is on the right on desktop
@@ -430,6 +426,11 @@ $desktop: 960px + (2 * $gap) !default;
 	img.grid-image-2 {
 	  visibility: hidden;
 	}
+}
+@media screen and (max-width: 480px){
+   h1.b {
+      fontsize: 45px !important;
+   }
 }
 // css for graduate programme
 /*details summary::-webkit-details-marker {

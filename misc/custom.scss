@@ -382,8 +382,8 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 @media screen and (max-width: 480px){
-   .display {
-      fontsize: 45px
+   h1.b {
+      fontsize: 45px !important;
    }
 }
 

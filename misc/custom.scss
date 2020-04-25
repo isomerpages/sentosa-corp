@@ -381,6 +381,11 @@ $desktop: 960px + (2 * $gap) !default;
     text-decoration: none;
   }
 }
+@media screen and (max-width: 480px){
+   h1.display {
+      fontsize: 45px
+   }
+}
 
 // To make images appear on top before text
 // When the image is on the right on desktop

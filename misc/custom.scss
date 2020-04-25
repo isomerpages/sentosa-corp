@@ -427,8 +427,8 @@ $desktop: 960px + (2 * $gap) !default;
 	  visibility: hidden;
 	}
 }
-@media screen and (max-width: 480px){
-   h1{
+@media screen and (max-width: 375px){
+   h1.display.padding--bottom--lg.margin--none{
       fontsize: 45px !important;
    }
 }

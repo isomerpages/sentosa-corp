@@ -62,7 +62,10 @@ Sentosa x Enterprise offers a win-win partnership, where innovators and enterpri
 
 Sentosa island is being offered as a testbed venue to innovators and enterprises to bring innovative or novel ideas, concepts or technology that require Proof-Of-Concept.
 
-Sentosa Development Corporation (SDC) is prepared to fund up to S$100K to support Proof-Of-Concept costs, co-share rental expenses, set-up of supporting infrastructure and facilitation of resources.
+In addition to facilitation support, proposals will be reviewed for eligibility for funding under relevant government schemes, subject to criteria and qualifying costs.
+
+For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html" target="_blank">here</a>.
+For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants" target="_blank">here</a>.
 
 ![Image of Win-Win model](/images/partner-us/enterprise/win-win-revised.png)
 
@@ -84,26 +87,20 @@ Applications are open all year round. Those interested in being a part of Sentos
 
 #### Evaluation Criteria
 
-1. How the project drives visitorship and spending, enhances guest satisfaction and supports Sentosa's drive for sustainability.
+1. How the project can drive island visitorship, spending, enhance guest satisfaction and support Sentosa's drive for sustainability.
 
-2. How it will benefit Singapore's tourism scene.
+2. How the project can be scaled up for commercialisation and contribute to Singapore's tourism and hospitality industry.
 
-2. How innovative or novel the concepts are.
+2. How innovative/novel the concepts are, and feasibility of these concepts for implementation on the island.
 
 #### Available Grants
 
-Sentosa x Enterprise funds up to S$100K of Proof-Of-Concept costs.
-
-For other funding of development costs, interested parties can apply directly to Singapore Tourism Board (STB) for tourism-related projects and Enterprise Singapore (ESG) for innivation development grants.
-
-For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html" target="_blank">here</a>.
-
-For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants" target="_blank">here</a>. 
+Proposals will be reviewed for eligibility for funding under relevant government schemes, subject to criteria and qualifying costs.
 
 ### Ongoing / Past Trials
-SDC has always been working with partners to trial ideas on Sentosa Island. Some past and ongoing trials are listed here.
+SDC has always been working with partners to trial new ideas on Sentosa Island. Some past and ongoing trials are listed here.
 
-For each of the initiatives, Sentosa provided venue support as well as facilitation for the trial. 
+For each of the initiatives, SDC has provied venue and facilitation support to ensure a smooth implementation.
 
 <div class="row">
     <div class="col is-4">
@@ -126,8 +123,8 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
             <h5 style="margin-top:0;">ST Engineering Land Systems & Ministry of Transport</h5>
             <strong>Trial Period:</strong> October 2017 - December 2019
             <ul>
-                <li>As part of Singapore's Smart Nation drive, we tested driverless shuttles within our islands. </li>
-                <li>Guests were also able to get on board the vehicles during the public trial, which took place from August to November 2019.</li>
+                <li>As part of Singapore's Smart Nation drive, we facilitated the test-bed of driverless shuttles within our island. </li>
+                <li>During the public trial, guests had the chance to try out the on-demand autonomous shuttle buses to get around the island.</li>
             </ul>
         </p>
     </div>
@@ -154,27 +151,29 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
             <h5 style="margin-top:0;">Jetaime Perfumery Pte Ltd</h5>
             <strong>Trial Period:</strong> November 2019 - April 2020
             <ul>
-                <li>A personalised perfume workshop catered to discerning guests and couples on Sentosa Island. </li>
-                <li>Personality surveys and Augmented Reality (AR) projections are used to provide guests with a unique and immersive experience.</li>
+                <li>A personalised, multi-sensory, perfume-making for guests on Sentosa Island. </li>
+                <li>Personality surveys and Augmented Reality (AR) projections were employed to provide guests with a unique and immersive experience.</li>
+                <li>As part of the project, Jetaime developed a proprietary, all-new perfume using orchids and plants indigenous to Singapore and Sentosa.</li>
+              
             </ul>
         </p>
     </div>
 </div>
 
-<h4>Food Educational Workshop and Dining Event</h4>
+<h4>Sustainable Food Workshop and Pop-up Dining Event</h4>
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/food-education-and-dining-workshop.jpg" alt="Image Food Educational Workshop and Dining Event" />
+            <img src="/images/partner-us/enterprise/food-education-and-dining-workshop.jpg" alt="Image of Food Workshop and Pop-up Dining Event" />
         </figure>
     </div>
     <div class="col is-6">
         <p>
             <h5 style="margin-top:0;">Edible Garden City Pte Ltd</h5>
-            <strong>Trial Period:</strong> February 2020 - April 2020
+            <strong>Trial Period:</strong> February 2020 - Ongoing
             <ul>
-                <li>An educational workshop on food sustainability and war time food crops at Fort Siloso.</li>
-                <li>A pop up dining event held at a hotel on Sentosa Island featuring creative use of ingredients.</li>
+                <li>A hands-on, educational gastronomy workshop on food sustainability, featuring war time food crops at Fort Siloso.</li>
+                <li>Participants were treated to a pop up dining event held at a hotel on Sentosa Island featuring creative use of sustainable sources of ingredients.</li>
             </ul>
         </p>
     </div>
@@ -201,9 +200,9 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
             <h5 style="margin-top:0;">No Fry Zone Pte Ltd</h5>
             <strong>Trial Period:</strong> June 2019 - December 2019
             <ul>
-                <li>Singapore's first sunscreen dispension kiosk along the beaches.</li>
+                <li>Singapore's first sustainable sunscreen dispenser kiosk on the beaches.</li>
                 <li>No electrical connection is required due to the solar panels attached to its roof.</li>
-                <li>Sunscreen is directly dispensed, reducing the need for plastic packaging.</li>
+                <li>Sunscreen lotion was dispensed directly to users, therefore reducing the need for single-use plastic packaging for a more environmentally-friendly outcome.</li>
             </ul>
         </p>
     </div>
@@ -237,7 +236,7 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
     </div>
 </div>
 
-<h4>Smart Navigation, Itinerary Planning</h4>
+<h4>Scott AR Mobile</h4>
 <div class="row">
     <div class="col is-5">
         <figure style="margin:0;">
@@ -249,8 +248,8 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
             <h5 style="margin-top:0;">SixTrees Viz Comms Pte Ltd</h5>
             <strong>Trial Period:</strong> November 2019 - February 2020
             <ul>
-                <li>Developed an Augmented Reality (AR) mobile application for Android devices, with AR content and navigational functions at Fort Siloso.</li>
-              <li>Guests can learn more about and experience the historical context of the site, including the history of Fort Siloso, the howitzers and army troops.</li>
+                <li>Featuring an interactive storyline, the different historic exhibits at Fort Siloso were brought to life through the AR App.</li>
+              <li>The immersive experience enabled guests to have a deeper perspective of the rich heritage of Fort Siloso.</li>
             </ul>
         </p>
     </div>
@@ -268,8 +267,8 @@ For each of the initiatives, Sentosa provided venue support as well as facilitat
             <h5 style="margin-top:0">Swipe WiFi Pte Ltd</h5>
             <strong>Trial Period:</strong> March 2020 - May 2020
             <ul>
-                <li>Marketing Cards are overlayed on top of Sentosa's Free WiFi.</li>
-                <li>Guests can swipe through marketing cards for the latest promotions and updates.</li>
+                <li>Swipe WiFi utilises Sentosa's WiFi network to connect visitors to relevant marketing and promotional information customised to user needs.</li>
+                <li>As a platform, Swipe WiFi opens up opportunities for location-based promotions.</li>
             </ul>
         </p>
     </div>

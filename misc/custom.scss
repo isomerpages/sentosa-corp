@@ -488,7 +488,7 @@ summary{
     font-weight: bold;
 }
 
-#toggler-id-1~.labelHeader:before {
+.labelHeader:before {
     content: " ";
     height: 30px;
     width: 15px;
@@ -498,7 +498,7 @@ summary{
     margin-right:10px;
 }
 
-#toggler-id-1:checked~.labelHeader:before {
+/*#toggler-id-1:checked~.labelHeader:before {
     content: " ";
     height: 30px;
     width: 15px;
@@ -506,7 +506,7 @@ summary{
     display: block;
     float: left;
     margin-right:10px;
-}
+}*/
 
 .toggler {
   display: none;

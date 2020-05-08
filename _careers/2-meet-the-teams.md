@@ -29,7 +29,6 @@ collection_name: careers
   	      <p>Bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
           </div> 
         </li> 
- </div> 
 
 <div>
   <label class="labelHeader" for="toggler-id-1">Corporate Planning</label>

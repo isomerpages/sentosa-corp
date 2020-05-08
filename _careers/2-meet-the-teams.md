@@ -13,8 +13,6 @@ collection_name: careers
         </figure>
   </div>
 
-<h2>Our Divisions</h2>
-
 <div class="accordion">
    <ul class="accordion__wrapper">  
        <li class="accordion__header">
@@ -25,8 +23,10 @@ collection_name: careers
           <span class="entypo-up-open-big"></span>
           <h2>Accordion Panel 1</h2>
           <div class="panel">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-  	      <p>Bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>Plan first.</p>
+		</figure>
           </div> 
         </li> 
 

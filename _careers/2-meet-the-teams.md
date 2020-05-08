@@ -18,7 +18,7 @@ collection_name: careers
 <div class="accordion">
    <ul class="accordion__wrapper">  
        <li class="accordion__header">
-          <h1>Accordion Header</h1>
+          <h2>Our Divisions</h2>
        </li>   
        <li class="accordion__item">
           <input type="checkbox" checked>

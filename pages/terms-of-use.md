@@ -25,7 +25,7 @@ Where appropriate, we use available technology to protect the security of commun
 We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other Internet site is at your own risk. If you create a link or frame to The Website, you do so at your own risk. We reserve the right to object or disable any link or frame to or from The Website. We reserve the right to change the URL of The Website.
 
 #### **Intellectual Property**
-Materials, including source code, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials is owned by or licensed to us. All rights reserved. Sentosa Development Corporation © 2016.
+All materials, including source code, pages, documents and online graphics, audio and video in The Website are protected by law including but not limited to copyright, trade mark or patent laws. The intellectual property rights in the materials is owned by or licensed to us. In particular, all trade marks, logograms, service marks and trade names (e.g, “SENTOSA” and “STATE OF FUN”) are owned, registered and/or licensed by us in Singapore. All rights reserved. SDC © 2020.
 
 Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted in law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission.
 

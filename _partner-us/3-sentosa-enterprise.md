@@ -67,7 +67,7 @@ In addition to facilitation support, proposals will be reviewed for eligibility 
 For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html" target="_blank">here</a>.
 For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants" target="_blank">here</a>.
 
-![Image of Win-Win model](/images/partner-us/enterprise/win-win-revised.png)
+![Image of Win-Win model](/images/partner-us/enterprise/win-win-revised2.png)
 
 ### How To Apply
 
@@ -100,7 +100,7 @@ Proposals will be reviewed for eligibility for funding under relevant government
 ### Ongoing / Past Trials
 SDC has always been working with partners to trial new ideas on Sentosa Island. Some past and ongoing trials are listed here.
 
-For each of the initiatives, SDC has provied venue and facilitation support to ensure a smooth implementation.
+For each of the initiatives, SDC has provided venue and facilitation support to ensure a smooth implementation.
 
 <div class="row">
     <div class="col is-4">
@@ -123,7 +123,7 @@ For each of the initiatives, SDC has provied venue and facilitation support to e
             <h5 style="margin-top:0;">ST Engineering Land Systems & Ministry of Transport</h5>
             <strong>Trial Period:</strong> October 2017 - December 2019
             <ul>
-                <li>As part of Singapore's Smart Nation drive, we facilitated the test-bed of driverless shuttles within our island. </li>
+                <li>As part of Singapore's Smart Nation drive, we facilitated the test-bed of driverless shuttles on the island. </li>
                 <li>During the public trial, guests had the chance to try out the on-demand autonomous shuttle buses to get around the island.</li>
             </ul>
         </p>
@@ -188,21 +188,22 @@ For each of the initiatives, SDC has provied venue and facilitation support to e
     </div>
 </div>
 
+
 <h4>Solar-Powered Sunscreen Kiosk</h4>
-<div class="row">
-    <div class="col is-5">
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
             <img src="/images/partner-us/enterprise/Sunscreen_Kiosk.png" alt="Image of Sunscreen Kiosk" />
         </figure>
     </div>
-    <div class="col is-offset-1 is-6">
+    <div class="col is-6">
         <p>
             <h5 style="margin-top:0;">No Fry Zone Pte Ltd</h5>
             <strong>Trial Period:</strong> June 2019 - December 2019
             <ul>
-                <li>Singapore's first sustainable sunscreen dispenser kiosk on the beaches.</li>
+               <li>Singapore's first sustainable sunscreen dispenser kiosk on the beaches.</li>
                 <li>No electrical connection is required due to the solar panels attached to its roof.</li>
-                <li>Sunscreen lotion was dispensed directly to users, therefore reducing the need for single-use plastic packaging for a more environmentally-friendly outcome.</li>
+                <li>Sunscreen lotion was dispensed directly to users, therefore reducing the need for single-use plastic packaging for a more environmentally-friendly outcome.</li>        
             </ul>
         </p>
     </div>
@@ -218,7 +219,7 @@ For each of the initiatives, SDC has provied venue and facilitation support to e
     <div class="col is-6">
         <p>
             <h5 style="margin-top:0">SembWaste Ptd Ltd</h5>
-            <strong>Trial Period:</strong> February 2020 - May 2020
+            <strong>Trial Period:</strong> February 2020 - Ongoing
             <ul>
                 <li>Sensors installed in litter bins will capture data on the filling level and transmit such data into cloud storage.</li>
                 <li>Reports can be generated from such dashboards to analyse the trend of litter bin emptying trips and volume, which could lead to prodictivity improvements.</li>
@@ -237,13 +238,13 @@ For each of the initiatives, SDC has provied venue and facilitation support to e
 </div>
 
 <h4>Scott AR Mobile</h4>
-<div class="row">
-    <div class="col is-5">
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
             <img src="/images/partner-us/enterprise/phone-scanner.gif" alt="Image of Scott AR" />
         </figure>
     </div>
-    <div class="col is-offset-1 is-6">
+    <div class="col is-6">
         <p>
             <h5 style="margin-top:0;">SixTrees Viz Comms Pte Ltd</h5>
             <strong>Trial Period:</strong> November 2019 - February 2020

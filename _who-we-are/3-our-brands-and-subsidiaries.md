@@ -45,4 +45,4 @@ This refreshed branding of Mount Faber Leisure Group stands for its commitment t
 
 To find out more, please visit [www.onefabergroup.com](https://www.onefabergroup.com){:target="_blank"}.
 
-“SENTOSA and STATE OF FUN, amongst other marks, are registered trade marks of the Sentosa Development Corporation ("SDC") in Singapore and various other countries. SDC’s trade marks may not be reproduced by any means or in any form whatsoever without written permission from SDC.”
+SENTOSA and STATE OF FUN, amongst other marks, are registered trade marks of the Sentosa Development Corporation ("SDC") in Singapore and various other countries. SDC’s trade marks may not be reproduced by any means or in any form whatsoever without written permission from SDC.

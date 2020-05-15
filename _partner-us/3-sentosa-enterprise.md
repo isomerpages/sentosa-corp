@@ -65,6 +65,7 @@ Sentosa island is being offered as a testbed venue to innovators and enterprises
 In addition to facilitation support, proposals will be reviewed for eligibility for funding under relevant government schemes, subject to criteria and qualifying costs.
 
 For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html" target="_blank">here</a>.
+
 For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants" target="_blank">here</a>.
 
 ![Image of Win-Win model](/images/partner-us/enterprise/win-win-revised2.png)

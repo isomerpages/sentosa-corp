@@ -498,16 +498,6 @@ summary{
     margin-right:10px;
 }
 
-.toggler:checked.labelHeader:before {
-    content: " ";
-    height: 30px;
-    width: 15px;
-    background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
-    display: block;
-    float: left;
-    margin-right:10px;
-}
-
 .toggler {
   display: none;
 }
@@ -526,6 +516,101 @@ summary{
 
 .toggler-content p{
   text-align: left;
+}
+
+
+
+// Begin Pattern Styles
+.accordion {
+  
+  $accordion-border-radius: 4px;
+  $accordion-border-color: #eaeaea;
+  $accordion-padding: 1rem;
+  $accordion-heading-color: #ff9e2c;
+  $accordion-icon-color: #ff9e2c;
+  
+  margin: 0 auto;
+  width: 100%;
+  
+  &__wrapper {
+    border: 1px solid $accordion-border-color;
+    border-radius: $accordion-border-radius;
+    list-style-type: none !important;
+    margin: $accordion-padding 0;
+    width: 100%;
+  }
+  
+  &__header, &__item {
+    float: left;
+    padding-left: $accordion-padding;
+    padding-right: $accordion-padding;
+    padding-top: $accordion-padding;
+    position: relative;
+    width: 100%;
+  }
+  
+  &__header {
+    background: $accordion-heading-color;
+    border-bottom: 1px solid darken($accordion-heading-color, 10);
+    border-top-left-radius: $accordion-border-radius;
+    border-top-right-radius: $accordion-border-radius;
+    color: #fff;
+    padding-bottom: $accordion-padding;
+    
+  }
+  
+  &__item {
+    background: #fff;
+    border-bottom: 1px solid $accordion-border-color;
+    margin-bottom: 1px;
+    padding-bottom: $accordion-padding / 2;
+    
+    &:last-of-type {
+      border: 0;
+      border-radius: $accordion-border-radius;
+      padding-bottom: 0;
+    }
+    
+    // The accordion chevron icon
+    span {
+      color: $accordion-icon-color;
+      margin-top: $accordion-padding;
+      position: absolute;
+      right: $accordion-padding;
+      top: 0;
+      transition: all 0.2s ease-in;
+    }
+    
+    input[type=checkbox] {
+      position: absolute;
+      cursor: pointer;
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+      opacity: 0;
+      
+      &:checked {
+      
+        // Ensures panels are closed until checked
+        &~div.panel {
+          float: left;
+          margin: 5px 0;
+          max-height: 0;
+          opacity: 0;
+          transform: translate(0, 50%);
+        }
+        
+        // Rotate chevron icon on selection  
+        &~span {
+          transform: rotate( 180deg );
+        }
+      
+      }
+      
+    }
+    
+  }
+
 }
 
 /*IE*/

@@ -13,7 +13,22 @@ collection_name: careers
         </figure>
   </div>
 
-<h2>Our Divisions</h2>
+<div class="accordion">
+   <ul class="accordion__wrapper">  
+       <li class="accordion__header">
+          <h3>Our Divisions</h3>
+       </li>   
+       <li class="accordion__item">
+          <input type="checkbox" checked>
+          <span class="entypo-up-open-big"></span>
+          <h2>Accordion Panel 1</h2>
+          <div class="panel">
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>Plan first.</p>
+		</figure>
+          </div> 
+        </li> 
 
 <div>
   <label class="labelHeader" for="toggler-id-1">Corporate Planning</label>

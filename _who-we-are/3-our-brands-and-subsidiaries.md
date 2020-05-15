@@ -44,3 +44,5 @@ Spanning across the hilltop at Mount Faber and Sentosa Island, One Faber Groupâ€
 This refreshed branding of Mount Faber Leisure Group stands for its commitment to create memorable experience for its guests, offering a delightful escape that spans from green hilltops to blue sea and sandy beach, with sunshine and happiness radiating through the warm service of its friendly staff.
 
 To find out more, please visit [www.onefabergroup.com](https://www.onefabergroup.com){:target="_blank"}.
+
+SENTOSA and STATE OF FUN, amongst other marks, are registered trade marks of the Sentosa Development Corporation ("SDC") in Singapore and various other countries. SDCâ€™s trade marks may not be reproduced by any means or in any form whatsoever without written permission from SDC.

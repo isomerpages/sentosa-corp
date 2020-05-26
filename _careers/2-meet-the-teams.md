@@ -51,26 +51,76 @@ collection_name: careers
 		</figure>
           </div> 
         </li>
+	<li class="accordion__item">
+          <input type="checkbox" checked>
+          <span class="entypo-up-open-big"></span>
+          <h2>Legal</h2>
+          <div class="panel">
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>English matters.</p>
+		</figure>
+          </div> 
+        </li>
+	<li class="accordion__item">
+          <input type="checkbox" checked>
+          <span class="entypo-up-open-big"></span>
+          <h2>Marketing & Experience</h2>
+          <div class="panel">
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>Buiness matters.</p>
+		</figure>
+          </div> 
+        </li>   
+	<li class="accordion__item">
+          <input type="checkbox" checked>
+          <span class="entypo-up-open-big"></span>
+          <h2>Procurement & Contracts</h2>
+          <div class="panel">
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>Process matters.</p>
+		</figure>
+          </div> 
+        </li> 
+	<li class="accordion__item">
+          <input type="checkbox" checked>
+          <span class="entypo-up-open-big"></span>
+          <h2>Project Development</h2>
+          <div class="panel">
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>Project matters.</p>
+		</figure>
+          </div> 
+        </li>
+	<li class="accordion__item">
+          <input type="checkbox" checked>
+          <span class="entypo-up-open-big"></span>
+          <h2>Sentosa Cove Resort Management</h2>
+          <div class="panel">
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>Cove matters.</p>
+		</figure>
+          </div> 
+        </li>
+	<li class="accordion__item">
+          <input type="checkbox" checked>
+          <span class="entypo-up-open-big"></span>
+          <h2>Sentosa Golf Club</h2>
+          <div class="panel">
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>Golf matters.</p>
+		</figure>
+          </div> 
+        </li>
     </ul>	   
 </div>	   
 
-<div>
-  <label class="labelHeader" for="toggler-id-1">Corporate Planning</label>
-  <input type="checkbox" id="toggler-id-1" class="toggler" />
-  <div class="row toggler-content">
-	  <div class="col is-10">
-		<figure style="margin:0;">
-		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
-		<p>Plan first.</p>
-		</figure>
-	  </div>
-	  <div class="col is-2">
-		<figure style="margin:0;"></figure>
-	  </div>	  
-  </div>
-</div>
-
-<details>
+<!-- <details>
       <input type="checkbox" class="toggler" />
       <summary>Corporate Planning</summary>	
     	<div class="row toggler-content">
@@ -84,10 +134,9 @@ collection_name: careers
 		</div>
 	</div>
 	<p>Plan first.</p>
-   	 
-</details>
+   </details>-->
 
-<details>
+<!--<details>
       <summary>Finance</summary>	
     <div class="row">
 	<div class="col is-10">
@@ -102,9 +151,9 @@ collection_name: careers
     <p>
       Money matters.
     </p>
-</details>
+</details>-->
 
-<details>
+<!--<details>
       <summary>Island Operations</summary>
     <div class="row">
 	<div class="col is-10">
@@ -120,9 +169,9 @@ collection_name: careers
     <p>
       island matters.
     </p>
-</details>
+</details>-->
 
-<details>
+<!--<details>
       <summary>Legal</summary>	
     <div class="row">
 	<div class="col is-10">
@@ -138,9 +187,9 @@ collection_name: careers
     <p>
       English matters.
     </p>
-</details>
+</details>-->
 
-<details>
+<!--<details>
       <summary>Marketing & Experience</summary>
     <div class="row">
 	<div class="col is-10">
@@ -156,9 +205,9 @@ collection_name: careers
     <p>
       Buiness matters.
     </p>
-</details>
+</details>-->
 
-<details>
+<!--<details>
       <summary>Procurement & Contracts</summary>	
     <div class="row">
 	<div class="col is-10">
@@ -174,9 +223,9 @@ collection_name: careers
     <p>
       Process matters.
     </p>
-</details>
+</details>-->
 
-<details>
+<!--<details>
       <summary>Project Development</summary>
     <div class="row">
 	<div class="col is-10">
@@ -192,9 +241,9 @@ collection_name: careers
     <p>
       Project matters.
     </p>
-</details>
+</details>-->
 
-<details>
+<!--<details>
       <summary>Sentosa Cove Resort Management</summary>	
     <div class="row">
 	<div class="col is-10">
@@ -210,9 +259,9 @@ collection_name: careers
     <p>
       Cove matters.
     </p>
-</details>
+</details>-->
 
-<details>
+<!--<details>
       <summary>Sentosa Golf Club</summary>
     <div class="row">
 	<div class="col is-10">
@@ -228,4 +277,4 @@ collection_name: careers
     <p>
       Golf matters.
     </p>
-</details>
+</details>-->

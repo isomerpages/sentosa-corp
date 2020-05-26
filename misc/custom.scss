@@ -636,6 +636,11 @@ summary{
     line-height: normal;
 }
 
+.accordion p {
+    text-align: left;
+    margin-top: 10px;
+}
+
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 

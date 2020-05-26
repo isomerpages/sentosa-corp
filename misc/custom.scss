@@ -622,7 +622,7 @@ summary{
     margin-top: 0px;
 }
 
-.accordion ul>li:hover{
+.accordion ul>li:not(:first-child):hover{
    background-color: #eee;
 }
 

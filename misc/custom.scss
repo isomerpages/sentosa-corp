@@ -524,7 +524,7 @@ summary{
 .accordion {
   
   $accordion-border-radius: 4px;
-  $accordion-border-color: #eaeaea;
+  $accordion-border-color: #ff9e2c;
   $accordion-padding: 1rem;
   $accordion-heading-color: #ff9e2c;
   $accordion-icon-color: #ff9e2c;
@@ -541,7 +541,7 @@ summary{
   }
   
   &__header, &__item {
-    float: left;
+    //float: left;
     padding-left: $accordion-padding;
     padding-right: $accordion-padding;
     padding-top: $accordion-padding;

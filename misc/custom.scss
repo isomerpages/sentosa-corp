@@ -524,7 +524,7 @@ summary{
 .accordion {
   
   $accordion-border-radius: 4px;
-  $accordion-border-color: #ff9e2c;
+  $accordion-border-color: #eee;
   $accordion-padding: 1rem;
   $accordion-heading-color: #ff9e2c;
   $accordion-icon-color: #ff9e2c;
@@ -533,7 +533,7 @@ summary{
   width: 100%;
   
   &__wrapper {
-    border: 1px solid $accordion-border-color;
+    border-bottom: 1px solid $accordion-border-color;
     border-radius: $accordion-border-radius;
     list-style-type: none !important;
     margin: $accordion-padding 0;
@@ -631,7 +631,6 @@ summary{
 
 .accordion h2 {
     margin-top: 0px;
-    margin-bottom: 0px;
     font-size: 20px;
     font-weight: bold;
     line-height: normal;

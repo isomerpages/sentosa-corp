@@ -626,6 +626,10 @@ summary{
    background-color: #eee;
 }
 
+.accordion ul>li:last-child {
+   margin-bottom:0px !important;
+}
+
 .accordion h3 {
     margin-bottom: 0px;
     font-size: 30px;

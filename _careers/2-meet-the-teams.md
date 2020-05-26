@@ -21,7 +21,7 @@ collection_name: careers
        <li class="accordion__item">
           <input type="checkbox" checked>
           <span class="entypo-up-open-big"></span>
-          <h2>Accordion Panel 1</h2>
+          <h2>Corporate Planning</h2>
           <div class="panel">
               <figure style="margin:0;">
 		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
@@ -29,6 +29,8 @@ collection_name: careers
 		</figure>
           </div> 
         </li> 
+    </ul>	   
+</div>	   
 
 <div>
   <label class="labelHeader" for="toggler-id-1">Corporate Planning</label>
@@ -72,10 +74,9 @@ collection_name: careers
 		</figure>
 	</div>
 	    	<div class="col is-2">
-		<figure style="margin:0;">
-		</figure>
-	</div>
-</div>
+			<figure style="margin:0;"></figure>
+		</div>
+    </div>
     <p>
       Money matters.
     </p>

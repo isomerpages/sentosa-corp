@@ -29,6 +29,28 @@ collection_name: careers
 		</figure>
           </div> 
         </li> 
+	<li class="accordion__item">
+          <input type="checkbox" checked>
+          <span class="entypo-up-open-big"></span>
+          <h2>Finance</h2>
+          <div class="panel">
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>Money matters.</p>
+		</figure>
+          </div> 
+        </li> 
+	<li class="accordion__item">
+          <input type="checkbox" checked>
+          <span class="entypo-up-open-big"></span>
+          <h2>Island Operations</h2>
+          <div class="panel">
+              <figure style="margin:0;">
+		<img src="../images/careers/hero-banner.jpg" alt="Corporate Planning"/>
+		<p>island matters.</p>
+		</figure>
+          </div> 
+        </li>
     </ul>	   
 </div>	   
 

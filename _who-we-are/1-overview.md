@@ -25,10 +25,10 @@ Sentosa Development Corporation (SDC) was established on 1 September 1972 as a S
 ### **Vision, Mission & Values**
 
 ##### **Vision**
-To be the world’s favourite leisure and lifestyle resort destination
+To be the world’s best loved leisure and lifestyle resort destination
 
 ##### **Mission**
-To create the Sentosa Experience through outstanding service and unique offerings
+To create and deliver the One-Sentosa Experience through outstanding service and world class offerings
 
 ##### **Sentosa STAR Values**
 Sentosa continually strives to enhance its level of service to offer our guests a memorable experience at The State of Fun. The Sentosa STAR values reflect our commitment in providing service from the heart.

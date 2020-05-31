@@ -27,10 +27,10 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrQUEKSweeKuan.jpg" alt="QUEK Swee Kuan">
+        <img src="/images/who-we-are/organisational-structure/Thien_Kwee_Eng.jpg" alt="THIEN Kwee Eng">
     </div>
     <div class="col is-8">
-        <p class="title is-4">QUEK Swee Kuan</p>
+        <p class="title is-4">THIEN Kwee Eng</p>
         <strong>Chief Executive Officer</strong>
         <br> Sentosa Development Corporation
     </div>
@@ -115,8 +115,8 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Guna CHELLAPPAN</p>
-        <strong>General Manager (Cloud & Cognitive Software)</strong>
-        <br> IBM
+        <strong>General Manager</strong>
+        <br> Red Hat Asia Pacific
     </div>
 </div>
 

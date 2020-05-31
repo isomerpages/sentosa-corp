@@ -524,7 +524,7 @@ summary{
 .accordion {
   
   $accordion-border-radius: 4px;
-  $accordion-border-color: #eaeaea;
+  $accordion-border-color: #eee;
   $accordion-padding: 1rem;
   $accordion-heading-color: #ff9e2c;
   $accordion-icon-color: #ff9e2c;
@@ -533,7 +533,7 @@ summary{
   width: 100%;
   
   &__wrapper {
-    border: 1px solid $accordion-border-color;
+    border-bottom: 1px solid $accordion-border-color;
     border-radius: $accordion-border-radius;
     list-style-type: none !important;
     margin: $accordion-padding 0;
@@ -541,7 +541,7 @@ summary{
   }
   
   &__header, &__item {
-    float: left;
+    //float: left;
     padding-left: $accordion-padding;
     padding-right: $accordion-padding;
     padding-top: $accordion-padding;
@@ -555,8 +555,7 @@ summary{
     border-top-left-radius: $accordion-border-radius;
     border-top-right-radius: $accordion-border-radius;
     color: #fff;
-    padding-bottom: $accordion-padding;
-    
+    padding-bottom: $accordion-padding;    
   }
   
   &__item {
@@ -568,7 +567,6 @@ summary{
     &:last-of-type {
       border: 0;
       border-radius: $accordion-border-radius;
-      padding-bottom: 0;
     }
     
     // The accordion chevron icon
@@ -611,6 +609,44 @@ summary{
     
   }
 
+}
+
+.accordion ul {
+    margin-left: 0px;
+}
+
+.accordion ul>li {
+    padding: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.accordion ul>li:not(:first-child):hover{
+   background-color: #eee;
+}
+
+.accordion ul>li:last-child {
+   margin-bottom:0px !important;
+}
+
+.accordion h3 {
+    margin-bottom: 0px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.accordion h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: normal;
+}
+
+.accordion p {
+    text-align: left;
+    margin-top: 10px;
 }
 
 /*IE*/

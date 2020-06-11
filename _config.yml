@@ -51,3 +51,5 @@ collections:
  #collection-name:
  #  output: true
 resources_name: resources
+
+extra_javascript: myscript.js

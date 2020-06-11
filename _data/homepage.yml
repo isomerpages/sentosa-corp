@@ -4,6 +4,12 @@
 #                                #
 ##################################
 
+<header>
+<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
+</header>
+
+
+
 # Favicon
 favicon: /images/favicon.ico
 

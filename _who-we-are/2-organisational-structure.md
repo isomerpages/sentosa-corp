@@ -30,7 +30,7 @@ collection_name: who-we-are
         <img src="/images/who-we-are/organisational-structure/Thien_Kwee_Eng.jpg" alt="THIEN Kwee Eng">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Thien Kwee Eng</p>
+        <p class="title is-4">THIEN Kwee Eng</p>
         <strong>Chief Executive Officer</strong>
         <br> Sentosa Development Corporation
     </div>

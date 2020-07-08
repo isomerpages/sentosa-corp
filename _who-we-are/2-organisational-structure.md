@@ -285,16 +285,6 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsMaryGermaineTAN.jpg" alt="Mary Germaine TAN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Mary Germaine TAN</p>
-        <strong>Divisional Director, Human Resource & Administration</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/LEEChehHsien.jpg" alt="LEE Cheh Hsien">
     </div>
     <div class="col is-8">

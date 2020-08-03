@@ -275,6 +275,16 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MsLindaLee.jpg" alt="Linda LEE">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Linda LEE</p>
+        <strong>Divisional Director, Human Resource & Administration</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrLAMYueKwai.jpg" alt="LAM Yue Kwai">
     </div>
     <div class="col is-8">

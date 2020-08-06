@@ -1,5 +1,5 @@
 ---
-layout: resources
+layout: simple-page
 title: Environmental Reports
 permalink: /resources/Environmental-Reports/
 breadcrumb: Ensuring sustainable development 

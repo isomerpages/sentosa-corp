@@ -673,6 +673,11 @@ summary{
    font-size: 12px;
 }
 
+.eia_report p:last-child {
+   font-size: 18px;
+   margin-bottom: 30px;
+}
+
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 

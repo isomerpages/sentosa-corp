@@ -12,6 +12,16 @@ breadcrumb: Ensuring sustainable development
    <p>The EIA process is conducted in consultation with stakeholders such as nature groups, technical agencies and relevant Government agencies. The EIA Reports published are open for public feedback for 4 weeks starting from the date of publication. We welcome your feedback at <a href="mailto:sustainability@sentosa.com.sg">sustainability@sentosa.com.sg</a></p>
 </div>
 
+<div id="eia_content">
+   <a id="eia_link_box" href="www.google.com">
+      <div class="eia_report">
+         <p>Published on 07/08/2020</p>
+         <p>Environmental Impact Assessment Report for RWS Waterfront project</p>
+      </div>
+   </a>
+   <div></div>
+   <div></div>
+</div>
 <form method="get" action="https://isomer-sentosa-staging.netlify.app/resources/news/files/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
    <button type="submit">Click Here to view the report!</button>
 </form>

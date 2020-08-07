@@ -663,7 +663,14 @@ summary{
 
 .eia_report{
    padding: 10px;
-   border: 3px solid;
+}
+
+.eia_report p{
+   margin: 0px;
+}
+
+.eia_report p:first-child {
+   font-size: 12px;
 }
 
 /*IE*/

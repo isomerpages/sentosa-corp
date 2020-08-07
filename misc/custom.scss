@@ -649,9 +649,22 @@ summary{
     margin-top: 10px;
 }
 
-/*.bp-buttons .bp-sec-button:first-child{
-    display: none;
-}*/
+#eia_content {
+    margin-top: 20px;
+}
+
+#eia_link_box {
+    display: block;
+    background-color: orange;
+    text-decoration: none;
+    color: black;
+    width: 32%;
+}
+
+.eia_report{
+   padding: 10px;
+   border: 3px solid;
+}
 
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {

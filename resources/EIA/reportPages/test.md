@@ -1,6 +1,6 @@
 ---
 layout: simple-page 
 title: Report one
-permalink: /reportPages/test/
+permalink: reportPages/test/
 breadcrumb: report one
 ---

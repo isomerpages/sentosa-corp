@@ -19,8 +19,18 @@ breadcrumb: Ensuring sustainable development
          <p>Environmental Impact Assessment Report for RWS Waterfront project</p>
       </div>
    </a>
-   <div></div>
-   <div></div>
+   <a id="eia_link_box" href="www.google.com">
+      <div class="eia_report">
+         <p>Published on 08/08/2020</p>
+         <p>Environmental Impact Assessment Report for Alpine Coaster Project</p>
+      </div>
+   </a>
+   <a id="eia_link_box" href="www.google.com">
+      <div class="eia_report">
+         <p>Published on 09/08/2020</p>
+         <p>Environmental Impact Assessment Report for Island Heart Land Reclamation</p>
+      </div>
+   </a>
 </div>
 <form method="get" action="https://isomer-sentosa-staging.netlify.app/resources/news/files/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
    <button type="submit">Click Here to view the report!</button>

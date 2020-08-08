@@ -428,6 +428,20 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+@media (max-width:992px) 
+{
+    #eia_link_box {
+    	display: block;
+    	background-color: #fcdf88;
+    	text-decoration: none;
+    	color: black;
+    	width: 100%;
+    	float: none;
+    	margin-right: 0px;
+    	height: auto;
+     }
+}
+
 @media screen and (max-width: 425px){
    iframe{
       width: 100% !important;

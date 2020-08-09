@@ -27,5 +27,5 @@ breadcrumb: RWS-Waterfront-Project
   </tr>
 </table>
 <form method="get" action="https://isomer-sentosa-staging.netlify.app/resources/news/files/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
-   <button type="submit">Click Here to view the report!</button>
+   <button id="eia_getReport" type="submit">Click Here to view the report!</button>
 </form>

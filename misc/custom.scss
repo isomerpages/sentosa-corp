@@ -696,6 +696,10 @@ summary{
    line-height: 1.2;
 }
 
+#eia_reportTable th{
+   border-right: 1px solid white;
+}
+
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 

@@ -1,6 +1,6 @@
 ---
 layout: simple-page 
-title: Report one
+title: Ensuring sustainable development 
 permalink: /resources/Environmental-Reports/reportPages/test/
-breadcrumb: report one
+breadcrumb: Environmental Reports
 ---

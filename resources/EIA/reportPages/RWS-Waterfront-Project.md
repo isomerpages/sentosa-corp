@@ -5,23 +5,23 @@ permalink: /resources/Environmental-Reports/reportPages/rws-waterfront-project/
 breadcrumb: RWS-Waterfront-Project
 ---
 <table id="eia_reportTable">
-  <tr>
+  <tr style="background-color: #ffbc40;">
     <th>Project Title</th>
     <td>EIA Report for Island Heart Land Reclamation</td>
   </tr>
-  <tr>
+  <tr style="background-color: #ffe0b8;">
     <th>Project Description</th>
     <td>(General description of what is the intended development that will take place)</td>
   </tr>
-  <tr>
+  <tr style="background-color: #fff3e3;">
     <th>Stakeholders Consulted</th>
     <td>(List of NGs consulted)</td>
   </tr>
-  <tr>
+  <tr style="background-color: #ffe0b8;">
     <th>Project Site Information</th>
     <td><img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg"/></td>
   </tr>
-  <tr>
+  <tr style="background-color: #fff3e3;">
     <th>Publication Date</th>
     <td>01 June 2021 (Feedback with regards to this EIA Report is open till 28 June 2021)</td>
   </tr>

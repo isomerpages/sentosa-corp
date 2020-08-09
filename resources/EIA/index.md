@@ -13,7 +13,7 @@ breadcrumb: Environmental Reports
 </div>
 
 <div id="eia_content">
-   <a id="eia_link_box" href="/reportpages/test/">
+   <a id="eia_link_box" href="/resources/Environmental-Reports/reportPages/rws-waterfront-project/">
       <div class="eia_report">
          <p>Published on 07/08/2020</p>
          <p>Environmental Impact Assessment Report for RWS Waterfront project</p>

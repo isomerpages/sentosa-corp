@@ -18,7 +18,7 @@ breadcrumb: RWS-Waterfront-Project
     <td>(List of NGs consulted)</td>
   </tr>
   <tr>
-    <th>Project Site Information</td>
+    <th>Project Site Information</th>
     <td><img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg"/></td>
   </tr>
   <tr>

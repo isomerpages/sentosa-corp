@@ -19,7 +19,7 @@ breadcrumb: RWS-Waterfront-Project
   </tr>
   <tr>
     <td>Project Site Information</td>
-    <td><img src=""/></td>
+    <td><img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg"/></td>
   </tr>
   <tr>
     <td>Publication Date</td>

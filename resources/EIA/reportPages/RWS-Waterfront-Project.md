@@ -26,3 +26,6 @@ breadcrumb: RWS-Waterfront-Project
     <td>01 June 2021 (Feedback with regards to this EIA Report is open till 28 June 2021)</td>
   </tr>
 </table>
+<form method="get" action="https://isomer-sentosa-staging.netlify.app/resources/news/files/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
+   <button type="submit">Click Here to view the report!</button>
+</form>

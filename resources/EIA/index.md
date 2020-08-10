@@ -19,13 +19,13 @@ breadcrumb: Environmental Reports
          <p>Environmental Impact Assessment Report for RWS Waterfront project</p>
       </div>
    </a>
-   <a id="eia_link_box" href="www.google.com">
+   <a id="eia_link_box" href="/resources/Environmental-Reports/reportPages/alpine-coaster-project/">
       <div class="eia_report">
          <p>Published on 08/08/2020</p>
          <p>Environmental Impact Assessment Report for Alpine Coaster Project</p>
       </div>
    </a>
-   <a id="eia_link_box" href="www.google.com">
+   <a id="eia_link_box" href="/resources/Environmental-Reports/reportPages/island-heart-land-project/">
       <div class="eia_report">
          <p>Published on 09/08/2020</p>
          <p>Environmental Impact Assessment Report for Island Heart Land Reclamation</p>

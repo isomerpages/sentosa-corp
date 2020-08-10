@@ -707,6 +707,17 @@ summary{
     border: 2px solid #c2a025;
 }
 
+#eiaFeedback{
+    margin-top: 50px;
+    background-color: #fce89d;
+    padding: 10px;
+}
+
+#eiaFeedback p{
+    line-height: normal;
+    font-size: 11px;
+}
+
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 

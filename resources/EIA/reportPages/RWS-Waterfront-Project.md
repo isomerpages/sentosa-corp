@@ -26,6 +26,12 @@ breadcrumb: RWS-Waterfront-Project
     <td>01 June 2021 (Feedback with regards to this EIA Report is open till 28 June 2021)</td>
   </tr>
 </table>
-<form method="get" action="https://isomer-sentosa-staging.netlify.app/resources/news/files/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
-   <button id="eia_getReport" type="submit">Click Here to view the report!</button>
-</form>
+<div id="getReportButton">
+  <form method="get" action="https://isomer-sentosa-staging.netlify.app/resources/news/files/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
+    <button id="eia_getReport" type="submit">Click Here to view the EIA report!</button>
+  </form>
+</div>
+
+<div id="eiaFeedback">
+  <p>The EIA Reports published are open for public feedback for 4 weeks starting from the date of publication. Feedback can be sent to <a mailto="sustainability@sentosa.com.sg">sustainability@sentosa.com.sg</a></p>
+</div>

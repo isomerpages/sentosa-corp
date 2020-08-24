@@ -428,6 +428,20 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+@media (max-width:992px) 
+{
+    #eia_link_box {
+    	display: block;
+    	background-color: #fcdf88;
+    	text-decoration: none;
+    	color: black;
+    	width: 100% !important;
+    	float: none !important;
+    	margin-right: 0px !important;
+    	height: auto !important;
+     }
+}
+
 @media screen and (max-width: 425px){
    iframe{
       width: 100% !important;
@@ -649,9 +663,75 @@ summary{
     margin-top: 10px;
 }
 
-/*.bp-buttons .bp-sec-button:first-child{
+#eia_content {
+    margin-top: 20px;
+}
+
+#eia_link_box {
+    display: block;
+    background-color: #fcdf88;
+    text-decoration: none;
+    color: black;
+    width: 30%;
+    float: left;
+    margin-right: 15px;
+    height: 170px;
+}
+
+.eia_report{
+   padding: 10px;
+}
+
+.eia_report p{
+   margin: 0px;
+}
+
+.eia_report p:first-child {
+   font-size: 12px;
+}
+
+.eia_report p:last-child {
+   font-size: 18px;
+   margin-bottom: 40px;
+   line-height: 1.2;
+}
+
+#eia_reportTable th{
+   border-right: 1px solid white;
+}
+
+#eia_getReport{
+    background-color: #ffd230;
+    font-size: 18px;
+    padding: 5px;
+    border: 2px solid #c2a025;
+}
+
+#getReportButton{
+   margin-top: 10px;
+}
+
+#eiaFeedback{
+    margin-top: 50px;
+    background-color: #fce89d;
+    padding: 10px;
+}
+
+#eiaFeedback p{
+    line-height: normal;
+    font-size: 11px;
+}
+
+.sub-link:nth-child(4), .sub-link:nth-child(5), .sub-link:nth-child(6){
     display: none;
-}*/
+}
+
+#more {display: none;}
+
+#myBtn{
+    border: 1px solid orange;
+    background-color: oldlace;
+}
 
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {

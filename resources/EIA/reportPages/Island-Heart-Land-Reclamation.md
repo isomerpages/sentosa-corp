@@ -5,7 +5,7 @@ permalink: /resources/Environmental-Reports/reportPages/island-heart-land-reclam
 breadcrumb: island-heart-land-reclamation
 ---
 <table id="eia_reportTable">
-  <tr style="background-color: #ffbc40;">
+  <tr style="background-color: #ffbc40; font-weight: bold;">
     <th>Project Title</th>
     <td>EIA Report for Island Heart Land Reclamation</td>
   </tr>

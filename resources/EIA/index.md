@@ -11,15 +11,29 @@ breadcrumb: Environmental Impact Assessment(EIA) Reports
    <br><br>To ensure that development works are done in an environmentally-sound manner, SDC and our Island Partners (tenants) have undertaken Environmental Impact Assessments (EIA) prior to such works. The purpose of these assessments is to identify, evaluate, and where necessary, mitigate the possible impacts of development projects.
   <br><br>The EIA process is conducted in consultation with stakeholders such as nature groups, technical agencies and relevant Government agencies. The EIA Reports published are open for public feedback for 4 weeks starting from the date of publication. We welcome your feedback at <a href="mailto:sustainability@sentosa.com.sg">sustainability@sentosa.com.sg</a></p>
 </div>
+
 <div class="row">
     <div class="col is-4">
         <img src="/images/eia/2.jpg" alt="image1">
     </div>
-    <div class="col is-4">
-        <img src="/images/eia/4.jpg" alt="image2">
+    <div class="col is-8">
+       <p>Artist’s impression featuring new attractions alongside Resorts World Sentosa, under the Sentosa-Brani Master Plan.</p>
     </div>
-   <div class="col is-4">
-        <img src="/images/eia/16.jpg" alt="image3">
+</div>
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/eia/4.jpg" alt="image1">
+    </div>
+    <div class="col is-8">
+       <p>Artist’s impression of expanded nature and heritage trails and attractions.</p>
+    </div>
+</div>
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/eia/16.jpg" alt="image1">
+    </div>
+    <div class="col is-8">
+       <p>Artist’s impression of one of the vessel-like structures, which features fragrant plants, as part of the rejuvenated Sentosa Sensoryscape.</p>
     </div>
 </div>
 

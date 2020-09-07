@@ -712,27 +712,16 @@ summary{
    margin-top: 10px;
 }
 
-#eiaFeedback{
-    margin-top: 50px;
-    background-color: #fce89d;
-    padding: 10px;
-}
-
-#eiaFeedback p{
-    line-height: normal;
-    font-size: 11px;
-}
-
 .sub-link:nth-child(4), .sub-link:nth-child(5), .sub-link:nth-child(6){
     display: none;
 }
 
-#more {display: none;}
+/*#more {display: none;}
 
 #myBtn{
     border: 1px solid orange;
     background-color: oldlace;
-}
+}*/
 
 /*IE*/
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {

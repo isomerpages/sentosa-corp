@@ -7,7 +7,7 @@ breadcrumb: Alpine-Coaster-Project
 <table id="eia_reportTable">
   <tr style="background-color: #ffbc40;">
     <th>Project Title</th>
-    <td>EIA Report for Island Heart Land Reclamation</td>
+    <td style="font-weight: bold;">EIA Report for Island Heart Land Reclamation</td>
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>Project Description</th>

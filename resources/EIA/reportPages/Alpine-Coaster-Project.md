@@ -15,7 +15,8 @@ breadcrumb: Alpine-Coaster-Project
   </tr>  
   <tr style="background-color: #fff3e3;">
     <th>Project Site Information</th>
-    <td><img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg"/></td>
+    <!--<td><img src="/images/what-we-do/fun-sentosa/sentosa-nd.jpg"/></td>-->
+    <td><img src="/images/what-we-do/smart-sentosa/shuttles.jpg"/></td>
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>EIA Summary</th>

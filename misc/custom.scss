@@ -712,9 +712,14 @@ summary{
 }
 
 .EIAImageRow_Col{
-   width: 33%;
+   width: 30%;
    float: left;
    display: inline-block;
+   margin-right: 15px;
+}
+
+.EIAImageRow_Col img{
+  min-height: 170px;
 }
 
 .sub-link:nth-child(4), .sub-link:nth-child(5), .sub-link:nth-child(6){

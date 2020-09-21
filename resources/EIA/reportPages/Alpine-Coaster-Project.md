@@ -36,7 +36,7 @@ breadcrumb: Alpine-Coaster-Project
   </tr>
   <tr style="background-color: #fff3e3;">
     <th>Publication Date</th>
-    <td>01 June 2021 (Feedback with regards to this EIA Report is open till 28 June 2021)</td>
+    <td>01 June 2021 <br>(Feedback with regards to this EIA Report is open till 28 June 2021)</td>
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>Feedback</th>

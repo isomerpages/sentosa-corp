@@ -428,10 +428,10 @@ $desktop: 960px + (2 * $gap) !default;
 	}
   
    .EIAImageRow_Col{
-      width: 100%;
-      float: none;
-      display: inline-block;
-      margin-right: 0px;
+      width: 100% !important;
+      float: none !important;
+      display: inline-block !important;
+      margin-right: 0px !important;
   }
 }
 
@@ -724,6 +724,7 @@ summary{
    float: left;
    display: inline-block;
    margin-right: 15px;
+   margin-bottom: 15px;
 }
 
 .EIAImageRow_Col img{

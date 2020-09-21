@@ -426,6 +426,13 @@ $desktop: 960px + (2 * $gap) !default;
 	img.grid-image-2 {
 	  visibility: hidden;
 	}
+  
+   .EIAImageRow_Col{
+      width: 100%;
+      float: none;
+      display: inline-block;
+      margin-right: 0px;
+  }
 }
 
 @media (max-width:992px) 
@@ -719,7 +726,11 @@ summary{
 }
 
 .EIAImageRow_Col img{
-  min-height: 170px;
+   min-height: 170px;
+}
+
+.EIAImageRow_Col p{
+   margin-top: 10px;
 }
 
 .sub-link:nth-child(4), .sub-link:nth-child(5), .sub-link:nth-child(6){

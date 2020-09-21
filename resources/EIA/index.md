@@ -1,7 +1,7 @@
 ---
 layout: simple-page 
 title: Ensuring sustainable development 
-permalink: /resources/Environmental-Reports/
+permalink: /resources/EIA-Reports/
 breadcrumb: Environmental Impact Assessment(EIA) Reports
 ---
 

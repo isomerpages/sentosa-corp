@@ -42,7 +42,7 @@ breadcrumb: Alpine-Coaster-Project
     <th>Feedback</th>
     <td>
       Feedback with regard to this EIA Report is open till 28 June 2021.<br><br>
-      Share your feedback with us at 
+      Share your feedback with us at <br>
       <a href="mailto:sustainability@sentosa.com.sg">sustainability@sentosa.com.sg</a>
     </td>
   </tr>

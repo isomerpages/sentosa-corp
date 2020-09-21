@@ -25,7 +25,7 @@ breadcrumb: island-heart-land-reclamation
     <th>EIA Report</th>
     <td>
         <form method="get" action="https://isomer-sentosa-staging.netlify.app/resources/news/files/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
-          <button id="eia_getReport" type="submit">Click Here to view the EIA report!</button>
+          <button id="eia_getReport" type="submit">Click here to view the EIA report</button>
         </form>
     </td>
   </tr>
@@ -35,7 +35,7 @@ breadcrumb: island-heart-land-reclamation
   </tr>
   <tr style="background-color: #fff3e3;">
     <th>Publication Date</th>
-    <td>01 June 2021<br>(Feedback with regards to this EIA Report is open till 28 June 2021)</td>
+    <td>01 June 2021 </td>
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>Feedback</th>

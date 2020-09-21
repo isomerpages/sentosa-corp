@@ -1,7 +1,7 @@
 ---
 layout: simple-page 
 title: Ensuring sustainable development 
-permalink: /resources/Environmental-Reports/reportPages/island-heart-land-reclamation/
+permalink: /resources/EIA-Reports/reportPages/island-heart-land-reclamation/
 breadcrumb: island-heart-land-reclamation
 ---
 <table id="eia_reportTable">

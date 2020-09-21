@@ -27,7 +27,7 @@ breadcrumb: Environmental Impact Assessment(EIA) Reports
     </div>
 </div>
 
-<div class="row">
+<div style = "width: 100%;">
    Find out more about each project below.
 </div>
 

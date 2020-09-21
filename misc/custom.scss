@@ -711,6 +711,12 @@ summary{
    margin-top: 10px;
 }
 
+.EIAImageRow_Col{
+   width: 33%;
+   float: left;
+   display: inline-block;
+}
+
 .sub-link:nth-child(4), .sub-link:nth-child(5), .sub-link:nth-child(6){
     display: none;
 }

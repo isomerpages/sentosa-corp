@@ -13,33 +13,17 @@ breadcrumb: Environmental Impact Assessment(EIA) Reports
    <br><br>Find out more about each project below.</p><br/>
 </div>
 
-<div class="row">
-    <div class="col is-4">
+<div class="EIAImageRow">
+    <div class="EIAImageRow_Col">
         <img src="/images/eia/2.jpg" alt="image1">
         <p>Artist’s impression featuring new attractions alongside Resorts World Sentosa, under the Sentosa-Brani Master Plan.</p>
     </div>
-    <div class="col is-4">
+    <div class="EIAImageRow_Col">
        <img src="/images/eia/4.jpg" alt="image1">
        <p>Artist’s impression of expanded nature and heritage trails and attractions.</p>
     </div>
-   <div class="col is-4">
+   <div class="EIAImageRow_Col">
        <img src="/images/eia/16.jpg" alt="image1">
-       <p>Artist’s impression of one of the vessel-like structures, which features fragrant plants, as part of the rejuvenated Sentosa Sensoryscape.</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col is-5">
-        <img src="/images/eia/4.jpg" alt="image1">
-    </div>
-    <div class="col is-7">
-       <p>Artist’s impression of expanded nature and heritage trails and attractions.</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col is-5">
-        <img src="/images/eia/16.jpg" alt="image1">
-    </div>
-    <div class="col is-7">
        <p>Artist’s impression of one of the vessel-like structures, which features fragrant plants, as part of the rejuvenated Sentosa Sensoryscape.</p>
     </div>
 </div>

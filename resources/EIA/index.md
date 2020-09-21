@@ -32,19 +32,19 @@ breadcrumb: Environmental Impact Assessment(EIA) Reports
 </div>
 
 <div id="eia_content">
-   <a id="eia_link_box" href="/resources/Environmental-Reports/reportPages/rws-waterfront-project/">
+   <a id="eia_link_box" href="/resources/EIA-Reports/reportPages/rws-waterfront-project/">
       <div class="eia_report">
          <p>Published on 07/08/2020</p>
          <p>Environmental Impact Assessment Report for RWS Waterfront project</p>
       </div>
    </a>
-   <a id="eia_link_box" href="/resources/Environmental-Reports/reportPages/alpine-coaster-project/">
+   <a id="eia_link_box" href="/resources/EIA-Reports/reportPages/alpine-coaster-project/">
       <div class="eia_report">
          <p>Published on 08/08/2020</p>
          <p>Environmental Impact Assessment Report for Alpine Coaster Project</p>
       </div>
    </a>
-   <a id="eia_link_box" href="/resources/Environmental-Reports/reportPages/island-heart-land-reclamation/">
+   <a id="eia_link_box" href="/resources/EIA-Reports/reportPages/island-heart-land-reclamation/">
       <div class="eia_report">
          <p>Published on 09/08/2020</p>
          <p>Environmental Impact Assessment Report for Island Heart Land Reclamation</p>

@@ -426,6 +426,13 @@ $desktop: 960px + (2 * $gap) !default;
 	img.grid-image-2 {
 	  visibility: hidden;
 	}
+  
+   .EIAImageRow_Col{
+      width: 100% !important;
+      float: none !important;
+      display: inline-block !important;
+      margin-right: 0px !important;
+  }
 }
 
 @media (max-width:992px) 
@@ -702,13 +709,32 @@ summary{
 }
 
 #eia_getReport{
-    background-color: #ffd230;
-    font-size: 18px;
-    border: 2px solid #c2a025;
+    background-color: #fff3e3;
+    font-size: 14px;
+    border: none;
+    padding: 0px;
 }
 
 #getReportButton{
    margin-top: 10px;
+}
+
+.EIAImageRow_Col{
+   width: 30%;
+   float: left;
+   display: inline-block;
+   margin-right: 15px;
+   margin-bottom: 15px;
+}
+
+.EIAImageRow_Col img{
+   min-height: 170px;
+}
+
+.EIAImageRow_Col p{
+   margin-top: 10px;
+   font-size: 18px;
+   line-height: 30px;
 }
 
 .sub-link:nth-child(4), .sub-link:nth-child(5), .sub-link:nth-child(6){

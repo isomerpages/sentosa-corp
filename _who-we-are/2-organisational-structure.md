@@ -18,9 +18,9 @@ collection_name: who-we-are
         <p class="title is-4">Bob TAN Beng Hai</p>
         <strong>Chairman</strong>
         <br> Sentosa Development Corporation
-        <br> Board of Ascott Residence Trust Management Ltd
-        <br> Institute of Technical Education
         <br> Jurong Engineering Limited
+        <br> Ascott Business Trust Management Ltd
+        <br> Ascott Residence Trust Management Ltd
         <br> Singex Holdings Pte Ltd
     </div>
 </div>
@@ -240,16 +240,6 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">Alex ANG</p>
         <strong>Chief Information Officer</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsCHUASiewHwi.jpg" alt="CHUA Siew Hwi">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">CHUA Siew Hwi</p>
-        <strong>Divisional Director, Finance</strong>
     </div>
 </div>
 

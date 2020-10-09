@@ -245,6 +245,16 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MsCHUASiewHwi.jpg" alt="CHUA Siew Hwi">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">CHUA Siew Hwi</p>
+        <strong>Divisional Director, Finance</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrKOHPiakHuat.jpg" alt="KOH Piak Huat">
     </div>
     <div class="col is-8">

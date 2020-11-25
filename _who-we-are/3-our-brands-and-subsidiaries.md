@@ -37,11 +37,11 @@ To find out more, please visit [www.sentosacove.com](https://www.sentosacove.com
 
 ![Image of 1FG](/images/who-we-are/our-brands/OurBrands-1FG.png)
 
-One Faber Group operates a suite of leisure and lifestyle services including attractions, guided tour experiences, the management of event venues, souvenirs and lifestyle merchandise as well as F&B operations. The company’s portfolio of products and services include the Singapore Cable Car, Wings of Time, Faber Peak Singapore, Spuds & Aprons, Dusk Restaurant & Bar, Good Old Days, Show Bites and Fun Shop.
+One Faber Group is one of Singapore’s leading operators of a suite of leisure and lifestyle services, including attractions, guided tours, event venues, souvenir and lifestyle outlets as well as F&B operations. The company’s portfolio of products and services include the Singapore Cable Car, Wings of Time, Sentosa Island Bus Tour, Gai Gai Tour, Faber Peak Singapore, Arbora Hilltop Garden & Bistro, Dusk Restaurant & Bar, Good Old Days, Show Bites, FUN Shop, Cable Car Gift Shop, and Faber Licence.
 
 Spanning across the hilltop at Mount Faber and Sentosa Island, One Faber Group’s products are linked by the Singapore Cable Car Sky Network of six stations on two main lines – the Mount Faber Line that connects mainland Singapore to the resort island of Sentosa, and the Sentosa Line that connects to the island’s western end at the Siloso Point.
 
-This refreshed branding of Mount Faber Leisure Group stands for its commitment to create memorable experience for its guests, offering a delightful escape that spans from green hilltops to blue sea and sandy beach, with sunshine and happiness radiating through the warm service of its friendly staff.
+The Group offers a memorable experience for its guests, offering a delightful escape that spans from green hilltop to blue sea and sandy beach, with sunshine and happiness radiating through the warm service of its friendly staff.
 
 To find out more, please visit [www.onefabergroup.com](https://www.onefabergroup.com){:target="_blank"}.
 

@@ -285,6 +285,16 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/SETRaymondYeo_cropped.png" alt="Raymond YEO">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Raymond YEO</p>
+        <strong>Divisional Director, Finance & Procurement</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrAndyJOHNSTON.jpg" alt="Andy JOHNSTON">
     </div>
     <div class="col is-8">

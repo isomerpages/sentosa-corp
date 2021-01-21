@@ -1,3 +1,4 @@
+<div id="archivedContent">
 Skip to content
 Search or jump to…
 
@@ -112,3 +113,4 @@ API
 Training
 Blog
 About
+</div>

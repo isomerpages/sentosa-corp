@@ -1,7 +1,5 @@
---- 
-layout: leftnav-page-content 
-title: Awards And Accolades 
---- 
+
+<div id="archivedContent">
 test
 <!--TEMPLATE
 #### **YEAR**
@@ -547,4 +545,5 @@ test
 </table>
 <div class="row is-pulled-right">
     <a href="#awards-and-accolades">Back to Top</a>
+</div>
 </div>

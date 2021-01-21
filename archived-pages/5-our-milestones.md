@@ -1,7 +1,5 @@
---- 
-layout: leftnav-page-content 
-title: Our Milestones
---- 
+
+<div id="archivedContent">
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">
@@ -770,4 +768,5 @@ title: Our Milestones
 </table>
 <div class="row is-pulled-right">
     <a href="#our-milestones-our-pride">Back to Top</a>
+</div>
 </div>

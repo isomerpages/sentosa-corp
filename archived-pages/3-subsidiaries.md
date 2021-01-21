@@ -1,9 +1,4 @@
-<!--
----
-layout: leftnav-page-content 
-title: Subsidiaries
----
--->
+
 <div id="archivedContent">
 ### **SDC and Subsidiaries**
 <div class="row">

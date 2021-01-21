@@ -1,9 +1,4 @@
-<!--
---- 
-layout: leftnav-page-content 
-title: Awards And Accolades 
---- 
--->
+
 <div id="archivedContent">
 test
 <!--TEMPLATE

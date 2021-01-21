@@ -1,6 +1,4 @@
---- 
-layout: leftnav-page-content 
---- 
+
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">

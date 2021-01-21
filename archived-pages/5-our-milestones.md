@@ -1,9 +1,4 @@
-<!--
---- 
-layout: leftnav-page-content 
-title: Our Milestones
---- 
--->
+
 <div id="archivedContent">
 <!--TEMPLATE
 #### **YEAR**

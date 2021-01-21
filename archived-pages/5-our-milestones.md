@@ -1,6 +1,5 @@
 --- 
 layout: leftnav-page-content 
-title: Our Milestones
 --- 
 <!--TEMPLATE
 #### **YEAR**

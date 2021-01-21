@@ -1,8 +1,5 @@
---- 
-layout: leftnav-page-content 
-title: Our Milestones
---- 
 
+<div id="archivedContent">
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">
@@ -21,7 +18,7 @@ title: Our Milestones
     <a href="#our-milestones-our-pride">Back to Top</a>
 </div>
 -->
-<div id="archivedContent">
+
 ### **Our Milestones. Our Pride.**
 
 #### **2016**

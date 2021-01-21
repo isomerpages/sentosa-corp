@@ -1,7 +1,10 @@
+<!--
 ---
 layout: leftnav-page-content 
 title: Subsidiaries
 ---
+-->
+<div id="archivedContent">
 ### **SDC and Subsidiaries**
 <div class="row">
     <div class="col is-4">
@@ -43,4 +46,5 @@ title: Subsidiaries
             </figcaption>
         </figure>
     </div>
+</div>
 </div>

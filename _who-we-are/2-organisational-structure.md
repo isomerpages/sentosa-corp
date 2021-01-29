@@ -235,31 +235,21 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Set-Mira-Bharin.jpg" alt="Mira BHARIN">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mira BHARIN</p>
+        <strong>Divisional Director, Marketing and Guest Experience</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrKOHPiakHuat.jpg" alt="KOH Piak Huat">
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH Piak Huat</p>
         <strong>Divisional Director, Operations</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsWONGSheauFong.jpg" alt="WONG Sheau Fong">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">WONG Sheau Fong</p>
-        <strong>Divisional Director, Architecture & Land Planning</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/MsLindaLEE.jpg" alt="Linda LEE">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Linda LEE</p>
-        <strong>Divisional Director, Human Resource & Administration</strong>
     </div>
 </div>
 
@@ -280,6 +270,26 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">LEE Cheh Hsien</p>
         <strong>Divisional Director, Planning</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="images/who-we-are/organisational-structure/MsLindaLEE.jpg" alt="Linda LEE">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Linda LEE</p>
+        <strong>Divisional Director, Human Resource & Administration</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MsWONGSheauFong.jpg" alt="WONG Sheau Fong">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">WONG Sheau Fong</p>
+        <strong>Divisional Director, Architecture & Land Planning</strong>
     </div>
 </div>
 

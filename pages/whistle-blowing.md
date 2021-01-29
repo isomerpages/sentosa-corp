@@ -38,10 +38,8 @@ breadcrumb: Whistle-Blowing
 #### **5. Procedures on reporting of concerns**
 5.1 The reporting channels are independently managed by the Internal Audit Department (SDC-IAD). Reports on any improprieties can be made in writing to the Director, Internal Audit through the following channels:
 
-| **Format**  | **Address** |
-| ------ | ----------- |
-| **Email** | Whistleblow@sentosa.gov.sg |
-| **Mail**  | Director, Internal Audit <br>39 Artillery Avenue, Singapore 099958 <br>(Mark on the envelope: <br> “Private & Confidential – To be opened by Addressee Only”)  |
+| ###**Email** | ###[link text] (whistleblow@sentosa.gov.sg) |
+| ###**Mail**  | ###Director, Internal Audit <br>39 Artillery Avenue, Singapore 099958 <br>(Mark on the envelope: <br> “Private & Confidential – To be opened by Addressee Only”)  |
 
 5.2 The following information should be made available whenever possible:
 - Particulars of the whistleblower, i.e., name and contact number/email

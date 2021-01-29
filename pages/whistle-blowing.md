@@ -35,11 +35,11 @@ breadcrumb: Whistle-Blowing
 
 4.2 If a whistleblower request that their identity be protected, SDC-IAD will not disclose it without consent, subject to any legal requirements to the contrary. Under certain circumstances, SDC may be under obligation to reveal the whistleblower’s identity to parties such as lawyers, the police or investigators.
 
-#### **5. Procedures on reportig of concerns**
+#### **5. Procedures on reporting of concerns**
 5.1 The reporting channels are independently managed by the Internal Audit Department (SDC-IAD). Reports on any improprieties can be made in writing to the Director, Internal Audit through the following channels:
 
-| **Email**  | Whistleblow@sentosa.gov.sg |
-| **Mail**   | Director, Internal Audit<br>39 Artillery Avenue, Singapore 099958<br>(Mark on the envelope: “Private & Confidential – To be opened by Addressee Only”)  |
+| Email | Whistleblow@sentosa.gov.sg |
+| Mail  | Director, Internal Audit <br>39 Artillery Avenue, Singapore 099958 <br>(Mark on the envelope: “Private & Confidential – To be opened by Addressee Only”)  |
 
 5.2 The following information should be made available whenever possible:
 - Particulars of the whistleblower, i.e., name and contact number/email

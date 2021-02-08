@@ -10,6 +10,7 @@ breadcrumb: Whistleblowing
 1.1 This Policy is intended to provide a platform for employees and external parties (e.g. consultants, contractors, suppliers and island partners) to report any wrong-doings,       unlawful conduct or malpractices within or involving Sentosa Development Corporation (SDC) and its subsidiaries and proprietary club (SDC Group). Individuals can raise their     concerns about possible improprieties without fear of reprisals or adverse personal consequences.
 
 1.2 The concern raised should generally cover the following without limitation:
+
     * A criminal offence or fraudulent activity, e.g. asset misappropriation, corruption/bribery, financial/procurement irregularity, financial statement fraud;
     * A failure to comply with company policies or any legal or regulatory obligation;
     * Health and safety of any individual being put at risk;
@@ -19,6 +20,7 @@ breadcrumb: Whistleblowing
 
 #### **2. Objectives**
 2.1 The Policy aims to:
+
     * Provide a confidential platform for whistleblowers and encourage them to raise concerns in good faith without fear of reprisals; and
     * Ensure that sound processes are in place to timely respond and act upon those reports with appropriate follow up actions.
 
@@ -26,6 +28,7 @@ breadcrumb: Whistleblowing
 3.1 The policy is applicable to all SDC Group employees and external parties (e.g. consultants, contractors, suppliers, island partners and their employees).
 
 3.2 SDC will not tolerate the harassment or victimization of anyone raising a genuine concern, nor in the case of employees, to be put at risk of losing his/her job or suffering     any form of retribution as a result, provided that:
+
     * The report is made in good faith;
     * he/she reasonably believes that the information and any other allegations contained therein are substantially true; and
     * he/she is not acting for the purposes of personal gain or personal vendetta or to satisfy a personal grouse
@@ -42,6 +45,7 @@ breadcrumb: Whistleblowing
 | **Mail**  | Director, Internal Audit <br>39 Artillery Avenue, Singapore 099958 <br>(Mark on the envelope: “Private & Confidential – To be opened by Addressee Only”)  |
 
 5.2 The following information should be made available whenever possible:
+
     * Particulars of the whistleblower, i.e., name and contact number/email
     * Incident description, i.e., date, time and place of the incident, how the incident occurred, frequency of occurrence, value of money or assets involved, etc.
     * Identity and particulars of party/parties involved, including details of any witness

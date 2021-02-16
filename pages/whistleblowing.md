@@ -7,7 +7,7 @@ breadcrumb: Whistleblowing
 ### **SDC Whistleblowing Policy**
 
 #### **1. Introduction**
-<table style="width:100%">
+<table style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
   <tr>
     <th>1.1</th>
     <th>This Policy is intended to provide a platform for employees and external parties (e.g. consultants, contractors, suppliers and island partners) to report any wrong-doings, unlawful conduct or malpractices within or involving Sentosa Development Corporation (SDC) and its subsidiaries and proprietary club (SDC Group). Individuals can raise their concerns about possible improprieties without fear of reprisals or adverse personal consequences.</th>
@@ -20,24 +20,11 @@ breadcrumb: Whistleblowing
     - Health and safety of any individual being put at risk;<br>
     - Racial or sexual harassment;<br>
     - Deliberate concealment relating to any of the above; or<br>
-    - Alleged retaliation against employees and/or other persons who, in good faith, make reports in line with this policy.</td>
+    - Alleged retaliation against employees and/or other persons who, in good faith, make reports in line with this policy.
+    </td>
   </tr>
 </table>
 
-<div class="WBpage_contentStyle">
-    <span class="WBpage_indentStyle">1.1 </span> <span>This Policy is intended to provide a platform for employees and external parties (e.g. consultants, contractors, suppliers and island partners) to report any wrong-doings, unlawful conduct or malpractices within or involving Sentosa Development Corporation (SDC) and its subsidiaries and proprietary club (SDC Group). Individuals can raise their concerns about possible improprieties without fear of reprisals or adverse personal consequences.</span>
-    <span style="clear: both"></span>
-</div><br>
-
-<div class="WBpage_contentStyle">
-    <span class="WBpage_indentStyle">1.2</span> <span>The concern raised should generally cover the following without limitation:<br>
-    - A criminal offence or fraudulent activity, e.g. asset misappropriation, corruption/bribery, financial/procurement irregularity, financial statement fraud;<br>
-    - A failure to comply with company policies or any legal or regulatory obligation;<br>
-    - Health and safety of any individual being put at risk;<br>
-    - Racial or sexual harassment;<br>
-    - Deliberate concealment relating to any of the above; or<br>
-    - Alleged retaliation against employees and/or other persons who, in good faith, make reports in line with this policy.</span>
-</div>
 #### **2. Objectives**
 <div class="WBpage_contentStyle">
     <span class="WBpage_indentStyle">2.1</span> <span> The Policy aims to:<br>

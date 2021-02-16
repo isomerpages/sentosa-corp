@@ -7,7 +7,9 @@ breadcrumb: Whistleblowing
 ### **SDC Whistleblowing Policy**
 
 #### **1. Introduction**
-1.1 This Policy is intended to provide a platform for employees and external parties (e.g. consultants, contractors, suppliers and island partners) to report any wrong-doings,       unlawful conduct or malpractices within or involving Sentosa Development Corporation (SDC) and its subsidiaries and proprietary club (SDC Group). Individuals can raise their     concerns about possible improprieties without fear of reprisals or adverse personal consequences.
+<div>
+    <span>1.1</span> This Policy is intended to provide a platform for employees and external parties (e.g. consultants, contractors, suppliers and island partners) to report any wrong-doings, unlawful conduct or malpractices within or involving Sentosa Development Corporation (SDC) and its subsidiaries and proprietary club (SDC Group). Individuals can raise their concerns about possible improprieties without fear of reprisals or adverse personal consequences.
+</div>
 
 1.2 The concern raised should generally cover the following without limitation:
     - A criminal offence or fraudulent activity, e.g. asset misappropriation, corruption/bribery, financial/procurement irregularity, financial statement fraud;

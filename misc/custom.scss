@@ -389,6 +389,12 @@ $desktop: 960px + (2 * $gap) !default;
    line-height: 2.2rem;
 }
 
+.WBpage_contentStyle{
+   line-height: 2.2rem;
+   font-family: Lato,sans-serif;
+   font-size: 1.25rem;
+}
+
 // To make images appear on top before text
 // When the image is on the right on desktop
 @media only screen and (min-width: 769px) {

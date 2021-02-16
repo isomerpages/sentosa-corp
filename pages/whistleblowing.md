@@ -85,9 +85,11 @@ breadcrumb: Whistleblowing
         <tr>
           <td>Email:</td>
           <td>whistleblow@sentosa.gov.sg</td>
+        </tr> 
+        <tr>
           <td>Mail:</td>
           <td>Director, Internal Audit <br>39 Artillery Avenue, Singapore 099958 <br>(Mark on the envelope: “Private & Confidential – To be opened by Addressee Only”)</td>
-        </tr>   
+        </tr> 
       </table> 
     </td>
   </tr>

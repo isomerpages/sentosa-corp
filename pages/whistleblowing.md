@@ -7,7 +7,7 @@ breadcrumb: Whistleblowing
 ### **SDC Whistleblowing Policy**
 
 #### **1. Introduction**
-<table style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
+<table class="WBpage_style" style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
   <tr>
     <td>1.1</td>
     <td>

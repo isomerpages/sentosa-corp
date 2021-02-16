@@ -11,18 +11,21 @@ breadcrumb: Whistleblowing
     <span class="WBpage_indentStyle">1.1 </span> <span>This Policy is intended to provide a platform for employees and external parties (e.g. consultants, contractors, suppliers and island partners) to report any wrong-doings, unlawful conduct or malpractices within or involving Sentosa Development Corporation (SDC) and its subsidiaries and proprietary club (SDC Group). Individuals can raise their concerns about possible improprieties without fear of reprisals or adverse personal consequences.</span>
 </div>
 
-1.2 The concern raised should generally cover the following without limitation:
-    - A criminal offence or fraudulent activity, e.g. asset misappropriation, corruption/bribery, financial/procurement irregularity, financial statement fraud;
-    - A failure to comply with company policies or any legal or regulatory obligation;
-    - Health and safety of any individual being put at risk;
-    - Racial or sexual harassment;
-    - Deliberate concealment relating to any of the above; or
-    - Alleged retaliation against employees and/or other persons who, in good faith, make reports in line with this policy.
-
+<div class="WBpage_contentStyle">
+    <span class="WBpage_indentStyle">1.2</span> <span>The concern raised should generally cover the following without limitation:<br>
+    - A criminal offence or fraudulent activity, e.g. asset misappropriation, corruption/bribery, financial/procurement irregularity, financial statement fraud;<br>
+    - A failure to comply with company policies or any legal or regulatory obligation;<br>
+    - Health and safety of any individual being put at risk;<br>
+    - Racial or sexual harassment;<br>
+    - Deliberate concealment relating to any of the above; or<br>
+    - Alleged retaliation against employees and/or other persons who, in good faith, make reports in line with this policy.</span>
+</div>
 #### **2. Objectives**
-2.1 The Policy aims to:
-    - Provide a confidential platform for whistleblowers and encourage them to raise concerns in good faith without fear of reprisals; and
-    - Ensure that sound processes are in place to timely respond and act upon those reports with appropriate follow up actions.
+<div class="WBpage_contentStyle">
+    <span class="WBpage_indentStyle">2.1</span> <span> The Policy aims to:<br>
+    - Provide a confidential platform for whistleblowers and encourage them to raise concerns in good faith without fear of reprisals; and<br>
+    - Ensure that sound processes are in place to timely respond and act upon those reports with appropriate follow up actions.</span>
+</div>
 
 #### **3. Who is covered under the policy and protection accorded**
 3.1 The policy is applicable to all SDC Group employees and external parties (e.g. consultants, contractors, suppliers, island partners and their employees).

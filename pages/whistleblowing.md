@@ -7,7 +7,7 @@ breadcrumb: Whistleblowing
 ### **SDC Whistleblowing Policy**
 
 #### **1. Introduction**
-<table class="WBpage_style" style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
+<table class="WBpage_style">
   <tr>
     <td>1.1</td>
     <td>
@@ -29,7 +29,7 @@ breadcrumb: Whistleblowing
 </table>
 
 #### **2. Objectives**
-<table style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
+<table class="WBpage_style">
   <tr>
     <td>2.1</td>
     <td>
@@ -41,7 +41,7 @@ breadcrumb: Whistleblowing
 </table>
 
 #### **3. Who is covered under the policy and protection accorded**
-<table style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
+<table class="WBpage_style">
   <tr>
     <td>3.1</td>
     <td>
@@ -60,7 +60,7 @@ breadcrumb: Whistleblowing
 </table>
 
 #### **4. Anonymity**
-<table style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
+<table class="WBpage_style">
   <tr>
     <td>4.1</td>
     <td>
@@ -76,7 +76,7 @@ breadcrumb: Whistleblowing
 </table>
 
 #### **5. Procedures on reporting of concerns**
-<table style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
+<table class="WBpage_style">
   <tr>
     <td>5.1</td>
     <td>
@@ -113,7 +113,7 @@ breadcrumb: Whistleblowing
 </table>
 
 #### **6. Abuse of system**
-<table style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
+<table class="WBpage_style">
   <tr>
     <td>6.1</td>
     <td>
@@ -123,7 +123,7 @@ breadcrumb: Whistleblowing
 </table>
 
 #### **7. Procedures on review of whistle-blowing reports received**
-<table style="width:100%; line-height: 2.2rem; font-family: Lato,sans-serif; font-size: 1.25rem;">
+<table class="WBpage_style">
   <tr>
     <td>7.1</td>
     <td>

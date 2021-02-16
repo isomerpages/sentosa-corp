@@ -390,7 +390,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .WBpage_style td{
-   border: none;	
+   border: none !important;	
 }	
 
 // To make images appear on top before text

@@ -382,6 +382,10 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+.WBpage_indentStyle{
+   float: left;
+   height: 120px;
+}
 
 // To make images appear on top before text
 // When the image is on the right on desktop

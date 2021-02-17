@@ -382,6 +382,16 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+.WBpage_style{
+   width: 100%;	
+   line-height: 2.2rem;
+   font-family: Lato,sans-serif;
+   font-size: 1.25rem;
+}
+
+.WBpage_style td{
+   border: none !important;	
+}	
 
 // To make images appear on top before text
 // When the image is on the right on desktop

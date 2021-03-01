@@ -245,6 +245,16 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Set-Chew-Tiong-Heng.jpg" alt="CHEW Tiong Heng">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">CHEW Tiong Heng</p>
+        <strong>Divisional Director, Business and Experience Development</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MrKOHPiakHuat.jpg" alt="KOH Piak Huat">
     </div>
     <div class="col is-8">

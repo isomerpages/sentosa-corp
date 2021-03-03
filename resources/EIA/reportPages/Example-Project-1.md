@@ -1,13 +1,13 @@
 ---
 layout: simple-page 
 title: Ensuring sustainable development 
-permalink: /resources/EIA-Reports/reportPages/alpine-coaster-project/
-breadcrumb: Alpine-Coaster-Project
+permalink: /resources/EIA-Reports/reportPages/Example-Project-1/
+breadcrumb: Example-Project-1
 ---
 <table id="eia_reportTable">
   <tr style="background-color: #ffbc40; font-weight: bold;">
     <th>Project Title</th>
-    <td >EIA Report for Island Heart Land Reclamation</td>
+    <td >EIA Report for Example-Project-1</td>
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>Project Description</th>
@@ -36,12 +36,12 @@ breadcrumb: Alpine-Coaster-Project
   </tr>
   <tr style="background-color: #fff3e3;">
     <th>Publication Date</th>
-    <td>01 June 2021 </td>
+    <td>XX month 20XX </td>
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>Feedback</th>
     <td>
-      Feedback with regard to this EIA Report is open till 28 June 2021.<br><br>
+      Feedback with regard to this EIA Report is open till xx month 20xx.<br><br>
       Share your feedback with us at <br>
       <a href="mailto:sustainability@sentosa.com.sg">sustainability@sentosa.com.sg</a>
     </td>

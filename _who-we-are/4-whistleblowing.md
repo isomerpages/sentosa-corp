@@ -1,9 +1,12 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Whistleblowing
-permalink: /whistleblowing/
+permalink: /who-we-are/whistleblowing
 breadcrumb: Whistleblowing
+collection_name: who-we-are
 ---
+
+
 ### **SDC Whistleblowing Policy**
 
 #### **1. Introduction**

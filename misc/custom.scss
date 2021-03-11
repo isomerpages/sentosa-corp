@@ -737,6 +737,7 @@ summary{
 }
 
 .EIAImageRow_Col{
+   background-color: #fcdf88;
    margin-right: 15px;
    margin-bottom: 15px;
 }
@@ -745,6 +746,10 @@ summary{
    margin-top: 10px;
    font-size: 16px;
    line-height: 30px;
+}
+
+.EIAImageRow_Col p:last-child{
+   margin-top: 120px;
 }
 
 //.sub-link:nth-child(4), .sub-link:nth-child(5), .sub-link:nth-child(6){

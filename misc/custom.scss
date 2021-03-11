@@ -423,6 +423,10 @@ $desktop: 960px + (2 * $gap) !default;
 	  visibility: visible;
 	  opacity: 0.5;
 	}
+	
+	.EIAImage{
+		min-height: 160px;
+	}
 }
 @media (max-width:1024px) 
 {
@@ -444,9 +448,7 @@ $desktop: 960px + (2 * $gap) !default;
       		margin-right: 0px !important;
   	}
 	
-  	.EIAImage{
-		min-height: 160px;
-	}
+  	
 	
 }
 

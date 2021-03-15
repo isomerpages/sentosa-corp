@@ -423,6 +423,10 @@ $desktop: 960px + (2 * $gap) !default;
 	  visibility: visible;
 	  opacity: 0.5;
 	}
+	
+	.EIAImage{
+		min-height: 170px;
+	}
 }
 @media (max-width:1024px) 
 {
@@ -434,15 +438,18 @@ $desktop: 960px + (2 * $gap) !default;
 	       bottom: 0;
 	}
 	img.grid-image-2 {
-	  visibility: hidden;
+	  	visibility: hidden;
 	}
   
-   .EIAImageRow_Col{
-      width: 100% !important;
-      float: none !important;
-      display: inline-block !important;
-      margin-right: 0px !important;
-  }
+   	.EIAImageRow_Col{
+      		width: 100% !important;
+      		float: none !important;
+      		display: inline-block !important;
+      		margin-right: 0px !important;
+  	}
+	
+  	
+	
 }
 
 @media (max-width:992px) 
@@ -686,13 +693,8 @@ summary{
 
 #eia_link_box {
     display: block;
-    background-color: #fcdf88;
     text-decoration: none;
     color: black;
-    width: 30%;
-    float: left;
-    margin-right: 15px;
-    height: 170px;
 }
 
 .eia_report{
@@ -730,21 +732,20 @@ summary{
 }
 
 .EIAImageRow_Col{
-   width: 30%;
-   float: left;
-   display: inline-block;
-   margin-right: 15px;
+   background-color: #fcdf88;
    margin-bottom: 15px;
-}
-
-.EIAImageRow_Col img{
-   min-height: 170px;
+   padding: 10px;
 }
 
 .EIAImageRow_Col p{
    margin-top: 10px;
    font-size: 16px;
+   font-weight: bold;
    line-height: 30px;
+}
+
+.EIAImageRow_Col p:last-child{
+   margin-top: 120px;
 }
 
 //.sub-link:nth-child(4), .sub-link:nth-child(5), .sub-link:nth-child(6){

@@ -68,7 +68,7 @@ collection_name: who-we-are
     </div>
     <div class="col is-8">
         <p class="title is-4">Angelene CHAN</p>
-        <strong>Chief Executive Officer</strong>
+        <strong>Chairman</strong>
         <br> DP Architects
     </div>
 </div>

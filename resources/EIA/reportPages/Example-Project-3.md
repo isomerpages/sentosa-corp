@@ -1,7 +1,7 @@
 ---
 layout: simple-page 
 title: Ensuring sustainable development 
-permalink: /resources/EIA-Reports/reportPages/Example-Project-3/
+permalink: /resources/EIA-Reports/reportPages/island-heart-land-reclamation/
 breadcrumb: Example-Project-3
 ---
 <table id="eia_reportTable">

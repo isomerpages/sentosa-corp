@@ -739,7 +739,7 @@ summary{
 
 .EIAImageRow_Col p{
    margin-top: 10px;
-   font-size: 16px;
+   font-size: 1.25rem;
    font-weight: bold;
    line-height: 30px;
 }
@@ -748,9 +748,13 @@ summary{
    margin-top: 120px;
 }
 
-//.sub-link:nth-child(4), .sub-link:nth-child(5), .sub-link:nth-child(6){
-//    display: none;
-//}
+.EIAImage p{
+   font-size: 17px;
+}
+
+.navbar-item:nth-child(5) > .sub-link:nth-child(4), .navbar-item:nth-child(5) > .sub-link:nth-child(5), .navbar-item:nth-child(5) > .sub-link:nth-child(6){
+    display: none;
+}
 
 #archivedContent{
     display: none;

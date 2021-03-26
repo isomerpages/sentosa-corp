@@ -1,7 +1,7 @@
 ---
 layout: simple-page 
 title: Ensuring sustainable development 
-permalink: /resources/EIA-Reports/reportPages/rws-waterfront-project/
+permalink: /resources/EIA-Reports/reportPages/example-project-1/
 breadcrumb: Example-Project-1
 ---
 <table id="eia_reportTable">

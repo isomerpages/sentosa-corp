@@ -1,7 +1,7 @@
 ---
 layout: simple-page 
 title: Ensuring sustainable development 
-permalink: /resources/EIA-Reports/reportPages/alpine-coaster-project/
+permalink: /resources/EIA-Reports/reportPages/example-project-2/
 breadcrumb: Example-Project-2
 ---
 <table id="eia_reportTable">

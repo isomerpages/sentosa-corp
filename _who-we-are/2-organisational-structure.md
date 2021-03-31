@@ -21,7 +21,6 @@ collection_name: who-we-are
         <br> Jurong Engineering Limited
         <br> Ascott Business Trust Management Ltd
         <br> Ascott Residence Trust Management Ltd
-        <br> Singex Holdings Pte Ltd
     </div>
 </div>
 
@@ -38,27 +37,12 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Adrian_Chua.jpg" alt="Adrian CHUA">
+        <img src="/images/who-we-are/organisational-structure/ANGShihHuei.jpg" alt="ANG Shih-Huei ">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Adrian CHUA</p>
-        <strong>Deputy Secretary (Industry)</strong>
-        <br> Ministry of Trade and Industry
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrAndrewLim.jpeg" alt="Andrew LIM">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Andrew LIM</p>
-        <strong>
-        Partner
-        <br>
-        Co-Head of Corporate Mergers & Acquisitions
-        </strong>
-        <br> Allen and Gledhill
+        <p class="title is-4">ANG Shih-Huei</p>
+        <strong>Chief Executive Officer</strong>
+        <br> Klareco Communications
     </div>
 </div>
 
@@ -75,12 +59,36 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Guna_Chellappan.jpg" alt="Guna CHELLAPPAN">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Guna CHELLAPPAN</p>
+        <strong>Country General Manager for Singapore</strong>
+        <br> Red Hat Asia Pacific Pte Ltd
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Adrian_Chua.jpg" alt="Adrian CHUA">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Adrian CHUA</p>
+        <strong>Deputy Secretary (Industry)</strong>
+        <br> Ministry of Trade and Industry
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/MsDianaEE-TAN.jpg" alt="Diana EE-Tan">
     </div>
     <div class="col is-8">
         <p class="title is-4">Diana EE-TAN</p>
-        <strong>Chairman</strong>
-        <br> Mount Faber Leisure Group Pte Ltd
+        <strong>Independent Director</strong>
+        <br> Far East Orchard Limited
+        <strong>Vice-Chairman</strong>
+        <br> SHATEC Institutes Pte Ltd
     </div>
 </div>
 
@@ -91,54 +99,10 @@ collection_name: who-we-are
     <div class="col is-8">
         <p class="title is-4">Eugene HO</p>
         <strong>Regional Managing Director</strong>
-        <br> Deloitte SEA Consulting
+        <br> Deloitte Consulting SEA
         <br>
         <strong>Chief Strategy & Innovation Officer</strong>
-        <br> Deloitte SEA
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrEugeneLEONG.jpg" alt="Eugene LEONG">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Eugene LEONG</p>
-        <strong>2 Deputy Secretary</strong>
-        <br> Ministry of the Environment and Water Resources
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Guna_Chellappan.jpg" alt="Guna CHELLAPPAN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Guna CHELLAPPAN</p>
-        <strong>General Manager</strong>
-        <br> Red Hat Asia Pacific
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrKeithTAN.jpg" alt="Keith TAN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Keith TAN</p>
-        <strong>Chief Executive</strong>
-        <br> Singapore Tourism Board
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Bod-Kevin-Kwok.jpg" alt="Kevin KWOK">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Kevin KWOK</p>
-        <strong>Independent Director</strong>
-        <br> Singapore Exchange Ltd
+        <br> Deloitte SEA & Deloitte Consulting Asia Pacific
     </div>
 </div>
 
@@ -155,6 +119,50 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Board-Benjamin-King.jpg" alt="Benjamin Stewart KING">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Benjamin Stewart KING</p>
+        <strong>Country Director</strong>
+        <br> Google Singapore
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Bod-Kevin-Kwok.jpg" alt="Kevin KWOK">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Kevin KWOK</p>
+        <strong>Independent Director</strong>
+        <br> Singapore Exchange Ltd
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/MrAndrewLim.jpeg" alt="Andrew LIM">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Andrew LIM</p>
+        <strong>Partner</strong>
+        <br> Allen & Gledhill LLP
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Board-Geraldine-Low.jpg" alt="Geraldine LOW">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Geraldine LOW</p>
+        <strong>Senior Director, Land Transport Division</strong>
+        <br> Ministry of Transport
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/Michael_Syn.jpg" alt="Michael SYN">
     </div>
     <div class="col is-8">
@@ -166,27 +174,12 @@ collection_name: who-we-are
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsRitaSOH.jpg" alt="Rita SOH">
+        <img src="/images/who-we-are/organisational-structure/MrKeithTAN.jpg" alt="Keith TAN">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Rita SOH</p>
-        <strong>Managing Director</strong>
-        <br> RDC Architects Pte Ltd
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ANGShihHuei.jpg" alt="ANG Shih-Huei ">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">ANG Shih-Huei </p>
-        <strong>
-        Co-Founder
-        <br>
-        Chief Executive Officer
-        </strong>
-        <br> Klareco Communications
+        <p class="title is-4">Keith TAN</p>
+        <strong>Chief Executive</strong>
+        <br> Singapore Tourism Board
     </div>
 </div>
 

@@ -42,14 +42,14 @@
     url: /resources/annual-reports/
   - title: News
     url: /resources/news/
-  - title: EIA Reports
-    url: /resources/EIA-Reports/
-  - title: 
-    url: /resources/EIA-Reports/reportPages/rws-waterfront-project/
-  - title:
-    url: /resources/EIA-Reports/reportPages/alpine-coaster-project/
-  - title:
-    url: /resources/EIA-Reports/reportPages/island-heart-land-reclamation/
+#  - title: EIA Reports
+  #  url: /resources/EIA-Reports/
+#  - title: 
+#    url: /resources/EIA-Reports/reportPages/rws-waterfront-project/
+ # - title:
+ #   url: /resources/EIA-Reports/reportPages/alpine-coaster-project/
+#  - title:
+ #   url: /resources/EIA-Reports/reportPages/island-heart-land-reclamation/
 # - title: Careers
 #   url: /careers/life-in-sentosa
 #   sub-links:

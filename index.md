@@ -1,7 +1,8 @@
+---
 layout: simple-page
 title: Maintenance Page
 permalink: /
-
+---
 
 
 <!-- ---

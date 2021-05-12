@@ -1,9 +1,4 @@
----
-layout: simple-page
-title: Maintenance Page
-permalink: /
----
-
+<p>test...</p>
 
 <!-- ---
 layout: homepage

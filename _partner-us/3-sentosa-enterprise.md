@@ -203,6 +203,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
             <strong>Trial Period:</strong> June 2019 - December 2019
             <ul>
                <li>The first and only fully-powered sunscreen lotion-dispensing kiosks in the world, these kiosks were placed at Siloso, Palawan and Tanjong beaches to provide guests with access to skin protection anytime.</li>
+                <li>No electrical connection is required due to the solar panels attached to its roof.</li>
                 <li>Sunscreen lotion was dispensed directly to users, therefore reducing the need for single-use plastic packaging for a more environmentally-friendly outcome.</li>        
             </ul>
         </p>

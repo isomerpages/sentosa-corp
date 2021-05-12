@@ -1,17 +1,17 @@
 ---
 layout: leftnav-page-content
-title: Sentosa x Enterprise
+title: Sentosa X Enterprise
 permalink: /partner-us/sentosa-enterprise/
-breadcrumb: Sentosa x Enterprise
+breadcrumb: Sentosa X Enterprise
 collection_name: partner-us
 ---
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mHbNxeorbvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Sentosa x Enterprise was launched in April 2019, as part of Sentosa Development Corporation (SDC)'s continued commitment to enhance the island's diverse array of unique leisure offerings.
+Sentosa X Enterprise was launched in April 2019, as part of Sentosa Development Corporation (SDC)'s continued commitment to enhance the island's diverse array of unique leisure offerings.
 
-Aimed at driving innovation among local enterprises, Sentosa x Enterprise will create opportunities to test bed unique ideas, concepts, and technologies, while leveraging the holiday island's geographical attributes and environment.
+Aimed at driving innovation among local enterprises, Sentosa X Enterprise will create opportunities to test bed unique ideas, concepts, and technologies, while leveraging the holiday island's geographical attributes and environment.
 
 ### Innovation Focus
 The focus areas include Connectivity, Experience, Sustainability and Digital, as outlined below. Click <a href="#example-of-ideas">here</a> to see examples of ideas.
@@ -161,20 +161,20 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
     </div>
 </div>
 
-<h4>Sustainable Food Workshop and Pop-up Dining Event</h4>
+<h4>Wartime Food and Sustainability Workshop</h4>
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/food-education-and-dining-workshop.jpg" alt="Image of Food Workshop and Pop-up Dining Event" />
+            <img src="/images/partner-us/enterprise/EGC.png" alt="Wartime Food and Sustainability Workshop" />
         </figure>
     </div>
     <div class="col is-6">
         <p>
             <h5 style="margin-top:0;">Edible Garden City Pte Ltd</h5>
-            <strong>Trial Period:</strong> February 2020 - Ongoing
+            <strong>Trial Period:</strong> February 2020 - November 2020
             <ul>
-                <li>A hands-on, educational gastronomy workshop on food sustainability, featuring war time food crops at Fort Siloso.</li>
-                <li>Participants were treated to a pop up dining event held at a hotel on Sentosa Island featuring creative use of sustainable sources of ingredients.</li>
+                <li>A hands-on educational gastronomy workshop on food and sustainability, featuring wartime food crops at Fort Siloso.</li>
+                <li>During the workshop, participants revisited the dark days of the Japanese Occupation at the Surrender Chambers and learned how people adapted their food sources.</li>
             </ul>
         </p>
     </div>
@@ -202,8 +202,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
             <h5 style="margin-top:0;">No Fry Zone Pte Ltd</h5>
             <strong>Trial Period:</strong> June 2019 - December 2019
             <ul>
-               <li>Singapore's first sustainable sunscreen dispenser kiosk on the beaches.</li>
-                <li>No electrical connection is required due to the solar panels attached to its roof.</li>
+               <li>The first and only fully-powered sunscreen lotion-dispensing kiosks in the world, these kiosks were placed at Siloso, Palawan and Tanjong beaches to provide guests with access to skin protection anytime.</li>
                 <li>Sunscreen lotion was dispensed directly to users, therefore reducing the need for single-use plastic packaging for a more environmentally-friendly outcome.</li>        
             </ul>
         </p>
@@ -220,7 +219,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
     <div class="col is-6">
         <p>
             <h5 style="margin-top:0">SembWaste Ptd Ltd</h5>
-            <strong>Trial Period:</strong> February 2020 - Ongoing
+            <strong>Trial Period:</strong> February 2020 - September 2020
             <ul>
                 <li>Sensors installed in litter bins will capture data on the filling level and transmit such data into cloud storage.</li>
                 <li>Reports can be generated from such dashboards to analyse the trend of litter bin emptying trips and volume, which could lead to prodictivity improvements.</li>

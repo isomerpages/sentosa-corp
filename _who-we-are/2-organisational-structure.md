@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Organisational Structure
+title: 'Organisational Structure'
 permalink: /who-we-are/organisational-structure/
-breadcrumb: Organisational Structure
-collection_name: who-we-are
+breadcrumb: 'Organisational Structure'
+
 ---
+
 ### **Table of Contents**
 {: .no_toc}
 - TOC

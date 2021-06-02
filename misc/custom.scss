@@ -3,16 +3,13 @@
 ---
 @charset "utf-8";
 // HLB brand colors , original secondary:#BD5A0A;
-$primary: #f48123;
-$secondary: #f48123;
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: darken($secondary, 10%);
+{%- for media-color in site.colors.media-colors -%}
+  ${{- media-color.title -}}: {{- media-color.color -}};
+{%- endfor -%}
 
-// based on navigation
-$media-color-one: #FFFFFF; // for all
-$media-color-two: #5C5CA5; // annual report
-$media-color-three: #00878C; // news
-$media-color-four: #37BCEB; // media advisory
-$media-color-five: #F8A909; // event listing
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;

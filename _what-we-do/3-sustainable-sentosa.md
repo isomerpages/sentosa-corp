@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sustainable Sentosa
+title: 'Sustainable Sentosa'
 permalink: /what-we-do/sustainable-sentosa/
-breadcrumb: Sustainable Sentosa
-collection_name: what-we-do
+breadcrumb: 'Sustainable Sentosa'
+
 ---
+
 
  <head>
   <link rel="stylesheet" type="text/css" href="/misc/pch-carousel.css">

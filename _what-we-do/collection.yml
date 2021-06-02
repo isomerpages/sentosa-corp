@@ -1,0 +1,7 @@
+collections:
+  what-we-do:
+    output: true
+    order:
+      - fun-sentosa.md
+      - smart-sentosa.md
+      - sustainable-sentosa.md

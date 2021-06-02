@@ -8,8 +8,8 @@ permalink: /resources/annual-reports/FY1920
 
 
 # **Annual Report**
-[PDF](/resources/annual-reports/files/Sentosa_AR_1920.pdf)
+[PDF](/files/resources/annual-reports/Sentosa_AR_1920.pdf)
 
 
 # **Financial Report**
-[PDF](/resources/annual-reports/files/Sentosa_AR_1920_Financial_Report.pdf)
+[PDF](/files/resources/annual-reports/Sentosa_AR_1920_Financial_Report.pdf)

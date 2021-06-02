@@ -25,7 +25,7 @@ breadcrumb: Example-Project-3
   <tr style="background-color: #fff3e3;">
     <th>EIA Report</th>
     <td>
-        <form method="get" action="https://isomer-sentosa-staging.netlify.app/resources/news/files/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
+        <form method="get" action="https://isomer-sentosa-staging.netlify.app/files/resources/news/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
           <button id="eia_getReport" type="submit">Click here to view the EIA report</button>
         </form>
     </td>

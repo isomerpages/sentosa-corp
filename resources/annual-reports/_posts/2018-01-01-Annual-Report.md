@@ -8,8 +8,8 @@ permalink: /resources/annual-reports/FY1718
 
 
 # **Annual Report**
-[PDF](/resources/annual-reports/files/Sentosa_AR_1718.pdf)
+[PDF](/files/resources/annual-reports/Sentosa_AR_1718.pdf)
 
 
 # **Financial Report**
-[PDF](/resources/annual-reports/files/Sentosa_AR_1718_Financial_Report.pdf)
+[PDF](/files/resources/annual-reports/Sentosa_AR_1718_Financial_Report.pdf)

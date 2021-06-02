@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Collaborations
 permalink: /partner-us/collaborations/
 breadcrumb: Collaborations
-collection_name: partner-us
+
 ---
+
 
 ### **Inter-Agency Collaborations**
 

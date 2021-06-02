@@ -1,9 +1,10 @@
 ---
-layout: simple-page 
-title: Ensuring sustainable development 
+title: 'Ensuring sustainable development'
 permalink: /resources/EIA-Reports/reportPages/example-project-2/
 breadcrumb: Example-Project-2
+
 ---
+
 <table id="eia_reportTable">
   <tr style="background-color: #ffbc40; font-weight: bold;">
     <th>Project Title</th>

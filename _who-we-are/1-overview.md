@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /who-we-are/overview/
 breadcrumb: Overview
-collection_name: who-we-are
+
 ---
+
 
 #### **Sentosa<sup>TM</sup>, The State of Fun, is Singapore’s premier island resort getaway and Asia’s leading leisure destination.**
 

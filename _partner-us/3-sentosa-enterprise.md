@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sentosa X Enterprise
+title: 'Sentosa X Enterprise'
 permalink: /partner-us/sentosa-enterprise/
-breadcrumb: Sentosa X Enterprise
-collection_name: partner-us
+breadcrumb: 'Sentosa X Enterprise'
+
 ---
+
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mHbNxeorbvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

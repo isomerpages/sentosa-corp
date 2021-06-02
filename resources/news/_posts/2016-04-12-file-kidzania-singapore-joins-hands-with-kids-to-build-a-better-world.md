@@ -1,0 +1,7 @@
+---
+layout: post
+title: 'KidZania Singapore Joins Hands with Kids to Build a Better World'
+date: 2016-04-12T00:00:00.000Z
+file_url: /files/resources/news/20160412_IP_Media-Release_KidZania_Singapore_Joins_Hands_with_Kids_to_Build_a_Better_World.pdf
+
+---

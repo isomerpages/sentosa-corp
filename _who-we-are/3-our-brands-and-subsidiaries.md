@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Our Brands and Subsidiaries
+title: 'Our Brands and Subsidiaries'
 permalink: /who-we-are/our-brands-and-subsidiaries
-breadcrumb: Our Brands and Subsidiaries
-collection_name: who-we-are
+breadcrumb: 'Our Brands and Subsidiaries'
+
 ---
+
 
 ### **Sentosa - The State of Fun**
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /careers/life-in-sentosa
-breadcrumb: life in sentosa - Overview
-collection_name: careers
+breadcrumb: 'life in sentosa - Overview'
+
 ---
+
 <div class="row">
   <div class="col is-12">
 	<figure style="margin: 0;position: relative;">

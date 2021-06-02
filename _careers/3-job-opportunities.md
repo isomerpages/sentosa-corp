@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Job-Opportunities
 permalink: /careers/job-opportunities
 breadcrumb: job-opportunities
-collection_name: careers
+
 ---
+
 <div class="row">
   <div class="col is-12">
 	<figure style="margin: 0;position: relative;">

@@ -1,8 +1,9 @@
 ---
-layout: leftnav-page-content
-title: Graduate Programme
+title: 'Graduate Programme'
 permalink: /graduate-programme
+
 ---
+
 <figure style="margin: 0;position: relative;">
 <img src="../images/graduate-programme/hero-bannerv2.jpg" alt="Graduate Programme Hero Banner"/>
 </figure>

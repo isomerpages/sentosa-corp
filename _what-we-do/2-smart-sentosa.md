@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Smart Sentosa
+title: 'Smart Sentosa'
 permalink: /what-we-do/smart-sentosa/
-breadcrumb: Smart Sentosa
-collection_name: what-we-do
+breadcrumb: 'Smart Sentosa'
+
 ---
+
 
 Beyond building the island as a fun destination for all, SDC seeks to leverage new technologies and solutions to continuously enhance guest experience. As an active test-bed for innovations, Sentosa has established multiple collaborations with both the private and public sectors to create and test-bed new technologies and solutions. Visitors to the island can thus look forward to enhanced experiences in the near future as we develop a Smart Sentosa ecosystem.
 

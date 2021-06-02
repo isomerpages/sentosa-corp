@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Fun Sentosa
+title: 'Fun Sentosa'
 permalink: /what-we-do/fun-sentosa/
-breadcrumb: Fun Sentosa
-collection_name: what-we-do
+breadcrumb: 'Fun Sentosa'
+
 ---
+
 
 ### **Table of Contents**
 {: .no_toc}

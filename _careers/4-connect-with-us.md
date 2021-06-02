@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Connect with us
+title: 'Connect with us'
 permalink: /careers/connect-with-us/
 breadcrumb: connect-with-us
-collection_name: careers
+
 ---
+
 ## Get in touch with us today!
   
 Can’t seem to find a suited current opening but still keen to join us?   

@@ -1,55 +1,34 @@
-title: Sentosa Development Corporation
+title: 'Sentosa Development Corporation'
 title-abbreviated: SDC
-description: >- # this means to ignore newlines until "baseurl:"
-  Developing a Fun, Smart, and Sustainable Sentosa
-url: "https://www.sentosa.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+description: 'Developing a Fun, Smart, and Sustainable Sentosa'
+url: 'https://www.sentosa.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/5d3e8de073f0b8001294543f"
-
-# FAQ URL
-faq_url: "http://www.ifaq.gov.sg/SENTOSA/apps/fcd_faqmain.aspx"
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-# Collections for left-nav pages
-baseurl: ""
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 collections:
-  who-we-are:
-    output: true
-  what-we-do:
-    output: true
-  partner-us:
-    output: true
-  careers:
-    output: true
- #collection-name:
- #  output: true
+    who-we-are:
+        output: true
+    what-we-do:
+        output: true
+    partner-us:
+        output: true
+    careers:
+        output: true
 resources_name: resources
-
 extra_javascript: myscript.js
+favicon: /images/favicon.ico
+google_analytics: null
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Opportunities
 permalink: /partner-us/opportunities/
 breadcrumb: Opportunities
-collection_name: partner-us
+
 ---
+
 <div class="row">
 	<div class="col is-12">
 		<figure style="margin:0;">

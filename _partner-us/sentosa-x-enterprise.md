@@ -189,12 +189,11 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
     </div>
 </div>
 
-
 <h4>Solar-Powered Sunscreen Kiosk</h4>
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/Sunscreen_Kiosk.png" alt="Image of Sunscreen Kiosk" />
+         <iframe width="560" height="315" src="https://www.youtube.com/watch?v=R-jNg8ZXFHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
         </figure>
     </div>
     <div class="col is-6">

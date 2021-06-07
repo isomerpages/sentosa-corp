@@ -58,7 +58,7 @@ The focus areas include Connectivity, Experience, Sustainability and Digital, as
 
 ### How It Works
 
-Sentosa x Enterprise offers a win-win partnership, where innovators and enterprises benefit from a risk-sharing arrangement while working on projects that could boost Sentosa's vibrancy and attractiveness.
+Sentosa X Enterprise offers a win-win partnership, where innovators and enterprises benefit from a risk-sharing arrangement while working on projects that could boost Sentosa's vibrancy and attractiveness.
 
 Sentosa island is being offered as a testbed venue to innovators and enterprises to bring innovative or novel ideas, concepts or technology that require proof-of-concept.
 

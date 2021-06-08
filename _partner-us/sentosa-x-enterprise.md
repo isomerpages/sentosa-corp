@@ -241,7 +241,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <iframe width="360" height="203" src="https://www.youtube.com/embed/s68AesBjJHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="360" height="203" src="https://www.youtube.com/embed/eiEsAsisczk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </figure>
     </div>
     <div class="col is-6">

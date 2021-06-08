@@ -144,7 +144,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/ScentOsa.jpg" alt="Image of ScentOsa" />
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/s68AesBjJHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </figure>
     </div>
     <div class="col is-6">
@@ -241,7 +241,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/phone-scanner.gif" alt="Image of Scott AR" />
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/s68AesBjJHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </figure>
     </div>
     <div class="col is-6">

@@ -57,7 +57,7 @@ Siloso Beach is a novel sporting venue with a wide range of thrilling and advent
 		</figure>
 	</div>
 </div>
-A happy family is one that plays and bonds together. Set against a tropical beach landscape, Sentosa’s Palawan Beach is dedicated to family-centric activities. Among various offerings, the beach is home Palawan Kidz City, which hosts KidZania Singapore – the world-renowned children role-play attraction. With a host of family-friendly amenities and activities that cater to every member of the family, Palawan Beach offers families fun and enriching learning experiences through play. 
+A happy family is one that plays and bonds together. Set against a tropical beach landscape, Sentosa’s Palawan Beach is dedicated to family-centric activities. With a host of family-friendly amenities and activities that cater to every member of the family, Palawan Beach offers families fun and enriching learning experiences through play. 
 
 #### **Tanjong Beach**
 
@@ -106,7 +106,7 @@ Complementing these luxury residences is the vibrant Sentosa Cove Village compri
 </div>
 SDC continues to enhance infrastructural developments to strengthen mobility and connectivity across the island, as well as between Sentosa and the mainland. These efforts are aimed at catering to the growing visitorship and to provide a more comfortable travelling experience for guests.
 
-Sentosa's on-island cable car line opened in 2015, linking Merlion Plaza and Siloso Point, located at the western part of Sentosa. The Sentosa Line of the Singapore Cable Car Sky Network not only provides scenic view over Siloso Beach and Mount Imbiah, it also enhances accessibility for visitors within the island.
+Sentosa's on-island cable car line, located at the western part of Sentosa, opened in 2015. The Sentosa Line of the Singapore Cable Car Sky Network not only provides scenic view over Siloso Beach and Mount Imbiah, it also enhances accessibility for visitors within the island.
 
 In addition, SBS Transit’s Service 123 was extended to Sentosa’s Beach Station, while the Sentosa Gateway Tunnel opened in 2017, strengthening inter-island connectivity.
 

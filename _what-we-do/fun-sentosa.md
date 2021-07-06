@@ -1,11 +1,8 @@
 ---
-title: 'Fun Sentosa'
+title: Fun Sentosa
 permalink: /what-we-do/fun-sentosa/
-breadcrumb: 'Fun Sentosa'
-
+breadcrumb: Fun Sentosa
 ---
-
-
 ### **Table of Contents**
 {: .no_toc}
 - TOC

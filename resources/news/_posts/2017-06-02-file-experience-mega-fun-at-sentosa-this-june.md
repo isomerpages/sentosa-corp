@@ -1,0 +1,7 @@
+---
+layout: post
+title: 'Experience MEGA FUN at Sentosa this June'
+date: 2017-06-02T00:00:00.000Z
+file_url: /files/resources/news/20170602-Media_Release-Experience-MEGA-FUN-at-Sentosa-this-June.pdf
+
+---

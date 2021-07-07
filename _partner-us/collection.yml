@@ -1,0 +1,7 @@
+collections:
+  partner-us:
+    output: true
+    order:
+      - collaborations.md
+      - opportunities.md
+      - sentosa-x-enterprise.md

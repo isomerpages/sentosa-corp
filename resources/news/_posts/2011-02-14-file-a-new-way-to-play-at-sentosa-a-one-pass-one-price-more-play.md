@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'A New Way to Play at Sentosa – One Pass, One Price, More Play!'
+date: 2011-02-14T00:00:00.000Z
+file_url: /files/resources/news/20110214_Media-Release_A_New_Way_to_Play_at_Sentosa.pdf
+
+---
+

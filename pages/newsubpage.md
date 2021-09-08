@@ -1,4 +1,0 @@
----
-title: NewSubPage
-permalink: /newsubpage
----

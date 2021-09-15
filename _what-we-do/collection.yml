@@ -2,9 +2,9 @@ collections:
   what-we-do:
     output: true
     order:
+      - fun-sentosa.md
+      - smart-sentosa.md
       - sustainable-sentosa/.keep
       - sustainable-sentosa/overview.md
       - sustainable-sentosa/our-long-term-ambitions.md
-      - fun-sentosa.md
-      - smart-sentosa.md
       - sustainable-sentosa.md

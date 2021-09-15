@@ -2,9 +2,9 @@ collections:
   what-we-do:
     output: true
     order:
-      - test/.keep
-      - test/1-overview-of-sustainable-sentosa.md
-      - test/2-our-long-term-ambitions.md
+      - sustainable-sentosa/.keep
+      - sustainable-sentosa/1-overview-of-sustainable-sentosa.md
+      - sustainable-sentosa/2-our-long-term-ambitions.md
       - fun-sentosa.md
       - smart-sentosa.md
       - sustainable-sentosa.md

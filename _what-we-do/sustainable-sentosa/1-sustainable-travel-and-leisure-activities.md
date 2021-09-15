@@ -45,8 +45,9 @@ Recognising that Sentosa’s heritage is only a part of a larger historical narr
 	</div>
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/what-we-do/fun-sentosa/skyline-luge.jpg" alt="Image of Skyline Luge"/>
-			<figcaption>Skyline Luge</figcaption>
+			<img src="/images/what-we-do/sustainable-sentosa/fort-siloso.jpeg" alt="Image of Skyline Luge"/>
+			<figcaption>Fort Siloso – Singapore’s last preserved coastal fort
+</figcaption>
 		</figure>
 	</div>
 </div>

@@ -3,7 +3,6 @@ title: 1 - Sustainable Travel and Leisure Activities
 permalink: /what-we-do/sustainable-sentosa/our-focus-areas/1
 third_nav_title: Sustainable Sentosa
 ---
-
 ### **Sustainable Travel and Leisure Activities**
 		
 With 40 hectares of protected nature areas, more than 20 heritage trees, over 100 recorded bird species, and a variety of walking and cycling trails on the island, Sentosa is a haven for nature lovers. 
@@ -37,10 +36,20 @@ SDC’s approach to heritage conservation includes the restoration of old buildi
 
 Recognising that Sentosa’s heritage is only a part of a larger historical narrative, SDC has collaborated with other museums, heritage agencies and relevant stakeholders to host joint-exhibitions and events. Such collaborations are particularly important in understanding history as the different artefacts from SDC and other agencies can come together like pieces of a puzzle to form Singapore’s history. 
 
-<img src="/images/what-we-do/sustainable-sentosa/wartime-staples-tour.jpeg" alt="Image of Wartime Staples Tour"/>	
+<div class="row">
+	<div class="col is-6">
+		<figure style="margin:0;">
+		<img src="/images/what-we-do/sustainable-sentosa/wartime-staples-tour.jpeg" alt="Image of Wartime Staples Tour"/>	
 <figcaption>Wartime Food & Sustainability Workshop in collaboration with Edible Garden City</figcaption>
-
-
+		</figure>
+	</div>
+	<div class="col is-6">
+		<figure style="margin:0;">
+			<img src="/images/what-we-do/fun-sentosa/skyline-luge.jpg" alt="Image of Skyline Luge"/>
+			<figcaption>Skyline Luge</figcaption>
+		</figure>
+	</div>
+</div>
 
 ### **Social Inclusivity and Local Communities** 
 SDC strives to deepen its engagement with the local community and understands that sustainable development goes beyond just environmental initiatives. Ensuring social and economic sustainability is also key to meeting the needs of the current generation and providing support to the needs of future generations. Acknowledging the economic hardships caused by COVID-19, SDC places a strong emphasis on promoting social inclusivity by supporting local Social Service Organisations (SSOs) in outreach and engagement efforts for underprivileged and elderly beneficiaries, as well as promoting volunteerism values among SDC’s staff and Island Partners.

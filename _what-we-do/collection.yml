@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - sustainable-sentosa/.keep
-      - sustainable-sentosa/overview-of-sustainable-sentosa.md
+      - sustainable-sentosa/overview.md
       - sustainable-sentosa/our-long-term-ambitions.md
       - fun-sentosa.md
       - smart-sentosa.md

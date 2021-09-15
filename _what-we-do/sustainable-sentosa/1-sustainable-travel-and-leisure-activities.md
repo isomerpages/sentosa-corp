@@ -62,4 +62,7 @@ SDC has established three-year partnerships with Care Corner Singapore and TOUCH
 
 From October 2020 to December 2020, SDC partnered with Glyph Asia, whose main beneficiaries are children from less privileged families. As part of this collaboration, SDC has conducted a series of 24 weekend art and craft classes with Glyph’s beneficiaries to convert 10,000 pieces of waste flag material from SDC- National Day Parade event to drawstring bags. Staff volunteers from SDC have helped in managing the classroom and guiding the children in making the drawstring bags. As part of SDC’s sustainability efforts, staff volunteers have also shared about environmental protection and need for reducing waste with the children, thus helping to nurture in these young minds the importance of sustainability. 
 
+<img src="/images/what-we-do/sustainable-sentosa/flag.jpg" alt="Image of HNF Lunar New Year activity"/>	
+<figcaption>Converted waste flag materials from SDC’s National Day Parade event to drawstring bags</figcaption>
+
 SDC will continue to promote volunteerism among all staff and initiate new community activities to not only help grow a heart for volunteerism among SDC’s staff, but also engage more to be involved in volunteering activities.

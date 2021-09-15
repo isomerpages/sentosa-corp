@@ -1,8 +1,9 @@
 ---
-title: 1 Sustainable Travel and Leisure Activities
+title: 1 - Sustainable Travel and Leisure Activities
 permalink: /what-we-do/sustainable-sentosa/our-focus-areas/1
 third_nav_title: Sustainable Sentosa
 ---
+
 ### **Sustainable Travel and Leisure Activities**
 		
 With 40 hectares of protected nature areas, more than 20 heritage trees, over 100 recorded bird species, and a variety of walking and cycling trails on the island, Sentosa is a haven for nature lovers. 

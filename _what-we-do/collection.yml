@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - test/.keep
+      - test/1-overview-of-sustainable-sentosa.md
       - fun-sentosa.md
       - smart-sentosa.md
       - sustainable-sentosa.md

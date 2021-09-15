@@ -24,8 +24,7 @@ Sentosa island is not just a resort destination but a living classroom too. Home
 <img src="/images/what-we-do/sustainable-sentosa/living-classroom.jpg" alt="Image of living classroom"/>	
 <figcaption>Sentosa educational resources that aim to inspire creativity and encourage hands-on learning as a living classroom</figcaption>
 
-
- The Southern Islands experiences will also be launched with Sentosa as a conduit to the archipelago. Guests can engage in more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy.
+The Southern Islands experiences will also be launched with Sentosa as a conduit to the archipelago. Guests can engage in more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy.
  
 ### **Heritage Conservation** 
 As custodians of the island, SDC has the responsibility to protect its cultural assets through heritage conservation. These assets also serve to educate both local and overseas guests on the historical significance of Sentosa.  A trip to Sentosa will therefore be incomplete without understanding the rich history of Sentosa including its military past which is still present throughout the island. 
@@ -36,6 +35,10 @@ SDC’s approach to heritage conservation includes the restoration of old buildi
 <figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore.</figcaption>
 
 Recognising that Sentosa’s heritage is only a part of a larger historical narrative, SDC has collaborated with other museums, heritage agencies and relevant stakeholders to host joint-exhibitions and events. Such collaborations are particularly important in understanding history as the different artefacts from SDC and other agencies can come together like pieces of a puzzle to form Singapore’s history. 
+
+<img src="/images/what-we-do/sustainable-sentosa/wartime-staples-tour.jpeg" alt="Image of Wartime Staples Tour"/>	
+<figcaption>Wartime Food & Sustainability Workshop in collaboration with Edible Garden City</figcaption>
+
 
 
 ### **Social Inclusivity and Local Communities** 

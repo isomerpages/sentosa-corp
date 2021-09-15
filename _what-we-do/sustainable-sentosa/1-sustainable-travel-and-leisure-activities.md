@@ -11,6 +11,9 @@ With 40 hectares of protected nature areas, more than 20 heritage trees, over 10
 	
 To bring guests closer to the island’s hidden gems, a slew of immersive nature activities was launched over the years, including the Siloso Headland Intertidal Programme and nature bathing tours.
 
+<p>
+<img src="/images/what-we-do/sustainable-sentosa/beer.jpg" alt="Image of beers"/>	
+	
 In 2020 Sentosa also launched Singapore's first carbon neutral beers. The Sentosa Islander Brew is a series of four beers made in collaboration with Brewerkz, a local craft brewery. Each beer is inspired by a unique Sentosa experience – Island Life, Nature Adventure, Heritage Discovery, and Wellness Escape – so guests can #MakeTime for a holiday anywhere. 
 		
 By 2022 guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of nature, biodiversity, and heritage on Sentosa. The Southern Islands experiences will also be launched with Sentosa as a conduit to the archipelago. Guests can engage in more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy. 

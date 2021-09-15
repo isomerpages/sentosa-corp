@@ -12,10 +12,4 @@ We also recognise the need to build networks to capitalise on synergies to advan
 
 We believe that the supporting strategies will help us progress steadily in our pathway towards a Sustainable Sentosa.
 <p>
-![Alt text for image on Isomer site](/images/what-we-do/sustainable-sentosa/strategies.png)
-	
-
-
-
-
-
+<img src="/images/what-we-do/sustainable-sentosa/strategies.png" alt="Image of Strategies"/>

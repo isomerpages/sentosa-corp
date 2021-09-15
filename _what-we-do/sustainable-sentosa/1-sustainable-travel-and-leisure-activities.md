@@ -21,6 +21,10 @@ By 2022 guests can look forward to the launch of sustainability-themed tours tha
 
 Sentosa island is not just a resort destination but a living classroom too. Home to historical sites, nature trails and wildlife, we hope to partner with educators to leverage on Sentosa's uniqueness and add a twist to existing structured curriculum!  In 2022, guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of our unique assets on Sentosa.
 
+<img src="/images/what-we-do/sustainable-sentosa/living-classroom.jpg" alt="Image of living classroom"/>	
+<figcaption>Sentosa educational resources that aim to inspire creativity and encourage hands-on learning as a living classroom</figcaption>
+
+
  The Southern Islands experiences will also be launched with Sentosa as a conduit to the archipelago. Guests can engage in more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy.
  
 ### **Heritage Conservation** 

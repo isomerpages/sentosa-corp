@@ -42,5 +42,5 @@ In 2021, a bee sanctuary was unveiled at SGC to raise awareness of the declining
 
 To control and manage access to sensitive ecological sites while allowing guests to appreciate these sites, SDC adopts a balanced approach which allows for controlled access through pre-organised learning journeys. The guided tours allow guests to learn about the natural habitats and biodiversity and encourage the appreciation of the importance of conservation. In 2019, 137 individuals attended the Siloso Headland Intertidal Programme and 148 individuals attended Marine ConservAction programme.
 
-<img src="/images/what-we-do/sustainable-sentosa/rimau.png" alt="Image of MOU"/>
+<img src="/images/what-we-do/sustainable-sentosa/conservaction.jpeg" alt="Image of Marine ConservAction"/>
 <figcaption>Marine ConservAction programme </figcaption>

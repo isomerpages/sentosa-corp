@@ -15,13 +15,17 @@ To understand the overall carbon profile of Sentosa and what decarbonisation mea
 
 While SDC’s share of Sentosa’s overall carbon footprint is estimated to be only between 6% to 8%, SDC is in a privileged position where it can influence the island’s carbon profile as its master planner, landlord, precinct operator, brand ambassador and custodian of Sentosa. 
 
-The Sentosa Carbon Neutral Network, which is Singapore’s first carbon neutrality-focused business alliance and was formed and estimated to cover more than 90% of the island’s carbon profile. Under the network, members will discuss emerging trends, explore opportunities to build capabilities, share resources and leverage economies of scale towards outcomes that mitigate climate impacts on Sentosa. SCNN members are collectively committed towards the carbon neutrality by 2030 goal through carbon reduction efforts. As a consortium of on-island businesses spanning hotels and F&B, the SCNN will be able to develop Sentosa-wide sustainability solutions through the sharing of resources and expertise, while also leveraging economies of scale and a common network to introduce large-scale solutions, such as the aggregation of demand for locally sourced produce across Sentosa’s hotels and restaurants. SCNN will also invest in credible carbon offsets and imported renewable energy to neutralise the remaining carbon profile.
+In this regard, SDC has launched Singapore’s first carbon neutrality-driven business alliance, the Sentosa Carbon Neutral Network (SCNN). This is a collective public-private effort to achieve Sentosa’s sustainability goals, including carbon neutrality by 2030. Together, SDC and the network of industry players will develop Sentosa-wide sustainability solutions through the sharing of resources and expertise, while also leveraging economies of scale and a common network to introduce large-scale solutions. 
+
+These efforts include the development of green MICE offerings, sustainable events, as well as guidelines for reducing disposables. SDC will also collaborate with the Singapore Food Agency (SFA) to increase the use of locally-sourced produce across Sentosa’s hotels and restaurants. Meanwhile, in addition to implementing various initiatives with the potential to reduce carbon emissions by up to 30% compared with 2019 baselines, SCNN will invest in credible carbon offsets and imported renewable energy to neutralise the remaining carbon profile.
+
+Established in September 2021, the network comprises 17 founding members, including SDC and major businesses in Sentosa: Amara Sanctuary Resort Sentosa, Capella Hotel Singapore, C Side (Bikini Bar, Coastes and Sand Bar), Far East Hospitality Management Singapore, FOC Sentosa, Madame Tussauds Singapore, Mount Faber Leisure, Ola Beach Club, Resorts World Sentosa, Rumours Beach Club, Sentosa Golf Club, Scentopia, Shangri-La Rasa Sentosa, Siloso Beach Resort, Tanjong Beach Club and W Singapore-Sentosa Cove. 
+
+Collectively, these members account for more than 90% of the island’s estimated carbon profile, thus potentially bringing about the largest reductions in Sentosa’s carbon emissions. The formation of the network follows Sentosa’s island-wide carbon profiling initiative, which began in 2020, to establish Sentosa’s island carbon profile baseline and guide future carbon mitigation and abatement efforts.
 
 <img src="/images/what-we-do/sustainable-sentosa/scnn.jpeg" alt="Image of SCNN"/>
 <figcaption>Inaugural SCNN meeting among member Island Partners
 </figcaption>
-
-There are 15 members as of 6 September 2021: Capella Singapore; Far East Hospitality Management Singapore; Mount Faber Leisure Group; Ola Beach Club; Resorts World Sentosa; Sentosa Golf Club; Shangri-La Rasa Sentosa, Singapore; Siloso Beach Resort; Tanjong Beach Club; Amara Sanctuary Resort and Spa; Coastes; FOC; Scentopia; Rumours Beach Club and W Singapore-Sentosa Cove.
 
 #### **Waste Management**
 To encourage guests to recycle and empower guests to adopt an eco-conscious lifestyle, SDC has collaborated with the National Environment Agency (NEA) to roll out smart Reverse Vending Machines (RVMs) which reward guests for recycling their drink containers (aluminium cans or plastic bottles). To reward guests who recycle their drink containers, they will be able to redeem a Free Sentosa Fun Pass (5 tokens) for every 10 drink containers recycled. The main goal of test-bedding the RVMs at Sentosa is to encourage guests to do their part for the environment and cultivate a habit a recycling. For FY2020/2021, SDC is glad to share that a total of 17,538 drink containers were recycled, with guests redeeming a total of 1621 Sentosa Fun Passes.
@@ -31,7 +35,7 @@ To encourage guests to recycle and empower guests to adopt an eco-conscious life
 
 Since July 2021, SGC is also currently test-bedding an on-site food waste digestor, which results in either non-portable water or compost being generated as the end-product to reduce food waste generated. 
 
-<img src="/images/what-we-do/sustainable-sentosa/food-waste-digester.jpg" alt="Image of food waste digester"/>
+<img src="/images/what-we-do/sustainable-sentosa/food-waste-digestor.jpg" alt="Image of food waste digester"/>
 <figcaption>Food Waste Digestor</figcaption>
 
 Disposables make up a significant amount of SDC’s total waste. As such, SDC recognises the importance of implementing new initiatives within the Group to play a part in minimising the number of disposables used. For example, at SDC’s Human Resource department, disposable water bottles are not provided during internal staff events or meetings conducted. 

@@ -10,4 +10,4 @@ The Sustainable Sentosa framework promotes sustainability across the Group’s o
 3. Integrative Planning, Design and Development of Masterplan Zones
 
 <p>
-<img src="/images/what-we-do/sustainable-sentosa/focus-areas.png" alt="Image of Strategies"/>
+<img src="/images/what-we-do/sustainable-sentosa/focus-area-1.png" alt="Image of Focus Areas"/>

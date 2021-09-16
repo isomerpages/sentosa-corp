@@ -37,7 +37,10 @@ Beaches on Sentosa were visited by the Hawksbill turtles which are critically en
 
 In 2021, a bee sanctuary was unveiled at SGC to raise awareness of the declining bee population worldwide and to educate guests on the importance of bees to the ecosystem and food chain. The bee sanctuary not only showcases various bee-keeping techniques, but also provides SGC’s food and beverage businesses with a local supply of honey, which help reduce carbon footprint through external food sourcing.
 
-<img src="/images/what-we-do/sustainable-sentosa/mou.jpg" alt="Image of MOU"/>
+<img src="/images/what-we-do/sustainable-sentosa/SHIP.jpg" alt="Image of MOU"/>
 <figcaption>Guided group on educational intertidal programmes </figcaption>
 
 To control and manage access to sensitive ecological sites while allowing guests to appreciate these sites, SDC adopts a balanced approach which allows for controlled access through pre-organised learning journeys. The guided tours allow guests to learn about the natural habitats and biodiversity and encourage the appreciation of the importance of conservation. In 2019, 137 individuals attended the Siloso Headland Intertidal Programme and 148 individuals attended Marine ConservAction programme.
+
+<img src="/images/what-we-do/sustainable-sentosa/rimau.png" alt="Image of MOU"/>
+<figcaption>Marine ConservAction </figcaption>

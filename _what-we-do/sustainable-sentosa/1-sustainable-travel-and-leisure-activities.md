@@ -67,7 +67,7 @@ Recognising that Sentosa’s heritage is only a part of a larger historical narr
 Ensuring social and economic sustainability is also key to meeting the needs of the current generation and providing support to the needs of future generations. Acknowledging the economic hardships caused by COVID-19, SDC places a strong emphasis on promoting social inclusivity by supporting local Social Service Organisations (SSOs) in outreach and engagement efforts for underprivileged and elderly beneficiaries, as well as promoting volunteerism values among SDC’s staff and Island Partners.
 
 <img src="/images/what-we-do/sustainable-sentosa/hnf-lny.jpeg" alt="Image of HNF Lunar New Year activity"/>	
-<figcaption>SDC collaboration with the Home Nursing Foundation on a Lunar New Year home improvement initiative for four vulnerable seniors</figcaption>
+<figcaption>SDC collaboration with the Home Nursing Foundation on a Lunar New Year home improvement initiative for vulnerable seniors</figcaption>
 
 SDC has established three-year partnerships with Care Corner Singapore and TOUCH Community Services. Under the Care Corner partnership, the SwiTCH UP! Programme aims to support adolescents in developing stress coping abilities and instilling positive values, leadership competencies and social awareness. 
 

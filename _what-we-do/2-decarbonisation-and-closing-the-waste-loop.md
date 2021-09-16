@@ -13,7 +13,7 @@ SDC is working towards reducing its energy intensity and greenhouse gas emission
 
 To understand the overall carbon profile of Sentosa and what decarbonisation measures and solutions can be most efficiently deployed, SDC has been involved in a study with Temasek since June 2021. Beyond decarbonisation  measures and solutions, SDC will also support the island’s businesses on sourcing of credible and quality carbon offsets. 
 
-While SDC’s share of Sentosa’s overall carbon footprint is estimated to be only between 6% to 8%, SDC is in a privileged position where it can influence the island’s carbon profile as its master planner, landlord, precinct operator, brand ambassador and custodian of Sentosa. 
+While SDC’s share of Sentosa’s overall carbon footprint is estimated to be only between 6% to 8%, SDC is in a privileged position where we can influence the island’s carbon profile as its master planner, landlord, precinct operator, brand ambassador and custodian of Sentosa. 
 
 Singapore’s first carbon neutrality-driven business alliance, the Sentosa Carbon Neutral Network (SCNN), was established in this regard. This is a collective public-private effort to achieve Sentosa’s sustainability goals, including carbon neutrality by 2030. Together, SDC and the network of industry players will develop Sentosa-wide sustainability solutions through the sharing of resources and expertise, while also leveraging economies of scale and a common network to introduce large-scale solutions. 
 
@@ -28,12 +28,12 @@ Collectively, these members account for more than 90% of the island’s estimate
 </figcaption>
 
 #### **Waste Management**
-To encourage guests to recycle and empower guests to adopt an eco-conscious lifestyle, SDC has collaborated with the National Environment Agency (NEA) to roll out smart Reverse Vending Machines (RVMs) which reward guests for recycling their drink containers (aluminium cans or plastic bottles). Guests  will be able to redeem a Free Sentosa Fun Pass (5 tokens) for every 10 drink containers recycled. The main goal of test-bedding the RVMs at Sentosa is to encourage guests to do their part for the environment and cultivate a habit a recycling. As of FY2020/2021,  a total of 17,538 drink containers have been recycled, with guests redeeming a total of 1,621 Sentosa Fun Passes.
+To encourage guests to recycle and empower guests to adopt an eco-conscious lifestyle, SDC has collaborated with the National Environment Agency (NEA) to roll out smart Reverse Vending Machines (RVMs) which reward guests for recycling their drink containers (aluminium cans or plastic bottles). Guests  will be able to redeem a Free Sentosa Fun Pass (5 tokens) for every 10 drink containers recycled. The main goal of test-bedding the RVMs at Sentosa is to encourage guests to do their part for the environment and cultivate a habit a recycling. 
 
 <img src="/images/what-we-do/sustainable-sentosa/rvm.jpg" alt="Image of RVM"/>
 <figcaption>Reverse Vending Machines deployed around Sentosa</figcaption>
 
-Since July 2021, SGC is also currently test-bedding an on-site food waste digestor, which results in either non-portable water or compost being generated as the end-product to reduce food waste generated. 
+Since July 2021, Sentosa Golf Club has been test-bedding an on-site food waste digestor, which generates non-portable water or compost while reducing the amount of food waste generated. 
 
 <img src="/images/what-we-do/sustainable-sentosa/food-waste-digestor.jpg" alt="Image of food waste digester"/>
 <figcaption>Food Waste Digestor at Sentosa Golf Club</figcaption>

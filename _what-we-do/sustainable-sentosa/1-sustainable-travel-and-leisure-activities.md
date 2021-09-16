@@ -74,9 +74,9 @@ Ensuring social and economic sustainability is also key to meeting the needs of 
 
 SDC has established three-year partnerships with Care Corner Singapore and TOUCH Community Services. Under the Care Corner partnership, the SwiTCH UP! Programme aims to support adolescents in developing stress coping abilities and instilling positive values, leadership competencies and social awareness. 
 
-SDC has also partnered with Glyph Asia, whose main beneficiaries are children from less privileged families. As part of this collaboration, SDC conducted a series of 24 weekend art and craft classes with Glyph’s beneficiaries to convert 10,000 pieces of waste flag material from SDC- National Day Parade event to drawstring bags. Staff volunteers also shared about environmental protection and the need to reduce waste, in an effort to imbue in the minds of the children the importance of sustainability.
+SDC has also partnered with Glyph Asia, whose main beneficiaries are children from less privileged families. As part of this collaboration, SDC conducted a series of 24 weekend art and craft classes with Glyph’s beneficiaries to upcycle 10,000 pieces of waste materials from SDC's National Day celebrations into drawstring bags. Staff volunteers also shared about environmental protection and the need to reduce waste, in an effort to imbue in the minds of the children the importance of sustainability.
 
 <img src="/images/what-we-do/sustainable-sentosa/flag.jpg" alt="Image of HNF Lunar New Year activity"/>	
-<figcaption>Converted waste flag materials from SDC’s National Day Parade event to drawstring bags</figcaption>
+<figcaption>Materials from SDC's National Day celebrations were upcycled into drawstring bags</figcaption>
 
 SDC will continue to promote volunteerism among all staff and initiate new community activities to not only help grow a heart for volunteerism among SDC’s staff, but also engage more to be involved in volunteering activities.

@@ -24,9 +24,6 @@ Sentosa island is not just a resort destination but a living classroom too. Home
 
 Guests can also look forward to experiencing more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy.
 
-<img src="/images/what-we-do/sustainable-sentosa/imbiah-trail-learning-adventure.jpg" alt="Image of living classroom"/>	
-<figcaption>Leisure experiences with a low carbon footprint</figcaption>
- 
 ### **Heritage Conservation** 
 As custodians of the island, SDC has the responsibility to protect its cultural assets through heritage conservation. These assets also serve to educate both local and overseas guests on the historical significance of Sentosa, including its military past which is still present throughout the island. 
 

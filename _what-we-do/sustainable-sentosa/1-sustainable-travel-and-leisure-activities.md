@@ -17,19 +17,19 @@ To bring guests closer to the island’s hidden gems, a slew of immersive nature
 
 In 2020 Sentosa also launched Singapore's first carbon neutral beers. The Sentosa Islander Brew is a series of four beers made in collaboration with Brewerkz, a local craft brewery. Each beer is inspired by a unique Sentosa experience – Island Life, Nature Adventure, Heritage Discovery, and Wellness Escape – so guests can #MakeTime for a holiday anywhere. 
 		
-By 2022 guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of nature, biodiversity, and heritage on Sentosa. The Southern Islands experiences will also be launched with Sentosa as a conduit to the archipelago. Guests can engage in more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy. 
+By 2022 guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of nature, biodiversity, and heritage on Sentosa. Guests can engage in more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy. 
 
-Sentosa island is not just a resort destination but a living classroom too. Home to historical sites, nature trails and wildlife, we hope to partner with educators to leverage on Sentosa's uniqueness and add a twist to existing structured curriculum!  In 2022, guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of our unique assets on Sentosa.
+Sentosa island is not just a resort destination but a living classroom too. Home to historical sites, nature trails and wildlife, we hope to partner with educators to leverage on Sentosa's uniqueness and add a twist to existing structured curriculum.  In 2022, guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of our unique assets on Sentosa.
 
 <img src="/images/what-we-do/sustainable-sentosa/imbiah-trail-learning-adventure.jpg" alt="Image of living classroom"/>	
 <figcaption>Among Sentosa educational resources that aim to inspire creativity and encourage hands-on learning as a living classroom</figcaption>
 
-The Southern Islands experiences will also be launched with Sentosa as a conduit to the archipelago. Guests can engage in more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy.
+Guests can look forward to experiencing more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy.
  
 ### **Heritage Conservation** 
-As custodians of the island, SDC has the responsibility to protect its cultural assets through heritage conservation. These assets also serve to educate both local and overseas guests on the historical significance of Sentosa.  A trip to Sentosa will therefore be incomplete without understanding the rich history of Sentosa including its military past which is still present throughout the island. 
+As custodians of the island, SDC has the responsibility to protect its cultural assets through heritage conservation. These assets also serve to educate both local and overseas guests on the historical significance of Sentosa, including its military past which is still present throughout the island. 
 
-SDC’s approach to heritage conservation includes the restoration of old buildings and injection of vibrancy into old building structures. By conserving the historical assets on the island, SDC managed to open free public access to the last preserved coastal Fort in Singapore and other new initiatives. SDC will also take measures to balance efforts of heritage preservation while keeping public safety in mind. 
+SDC’s approach to heritage conservation includes the restoration of old buildings and injection of vibrancy into old building structures. By conserving the historical assets on the island, SDC managed to open free public access to the last preserved coastal Fort in Singapore and other new initiatives. SDC will continue to embark on heritage preservation efforts while keeping public safety in mind. 
 
 <img src="/images/what-we-do/sustainable-sentosa/the-knolls.png" alt="Image of The Knolls"/>	
 <figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore.</figcaption>

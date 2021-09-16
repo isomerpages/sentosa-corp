@@ -8,7 +8,7 @@ third_nav_title: Sustainable Sentosa
 SDC is working towards reducing its energy intensity and greenhouse gas emissions, to ensure that Sentosa continues to develop as a sustainable leisure destination. We will support our Island Partners on decarbonisation initiatives, track Sentosa’s carbon emissions, trial new solutions, as well as work together with guests, the island community and technology partners to meet its collective climate goals.
 
 <img src="/images/what-we-do/sustainable-sentosa/mou.jpg" alt="Image of MOU"/>
-<figcaption>SDC signed MOU with Temasek -  To harness expertise in studying and testbedding sustainability solutions
+<figcaption>SDC and Temasek signed an MoU to harness Temasek's expertise in studying and testbedding sustainability solutions
 </figcaption>
 
 To understand the overall carbon profile of Sentosa and what decarbonisation measures and solutions can be most efficiently deployed, SDC has been involved in a study with Temasek since June 2021. Beyond decarbonisation  measures and solutions, SDC will also support the island’s businesses on sourcing of credible and quality carbon offsets. 

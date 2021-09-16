@@ -9,21 +9,8 @@ Sentosa is home to a variety of coastal marine habitats and rich terrestrial sec
 
 To protect the Sentosa’s biodiversity and restore them where necessary, an SDC working group was formed to oversee all ecological and environmental aspects in Sentosa. The areas overseen include the development of Master Plan zones and establishment of frameworks and environmental policies. With sustainable long-term conservation key in protecting and preserving biodiversity for current and future generations, a range of programmes have been rolled out.
 
-<div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-		<img src="/images/what-we-do/sustainable-sentosa/knolls-new.jpg" alt="Image of Knolls now"/>	
-			<figcaption></figcaption>
-		</figure>
-	</div>
-	<div class="col is-6">
-		<figure style="margin:0;">
-<img src="/images/what-we-do/sustainable-sentosa/knolls-old.jpg" alt="Image of Knolls then"/>
-			<figcaption></figcaption>
-		</figure>
-	</div>
-</div>
-<figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore.</figcaption>
+<img src="/images/what-we-do/sustainable-sentosa/rimau.png" alt="Image of Tanjong Rimau"/>
+<figcaption>Tanjong Rimau - a natural treasure trove that is home to corals, seagrass, and a wide variety of marine wildlife</figcaption>
 
 With forests making up close to 120 hectares of Sentosa, SDC has engaged in restoration efforts to further support the ecosystem and increase resilience against climate change. A key initiative in this regard is a native tree-planting project where native flora species were identified and planted in Sentosa’s forests. For example, the Light Red Meranti, a plant which has been categorised as globally ‘endangered’ and locally ‘vulnerable’ due to threats from habitat loss and climate change, can be found on the island’s forests. 
 

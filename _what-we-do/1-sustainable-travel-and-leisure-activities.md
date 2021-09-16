@@ -35,12 +35,15 @@ SDC’s approach to heritage conservation includes the restoration of old buildi
 	<div class="col is-6">
 		<figure style="margin:0;">
 		<img src="/images/what-we-do/sustainable-sentosa/knolls-new.jpg" alt="Image of Knolls now"/>	
+			<figcaption></figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/knolls-old.jpg" alt="Image of Knolls then"/>
-
+<img src="/images/what-we-do/sustainable-sentosa/knolls-old.jpg" alt="Image of Knolls then"/>
+			<figcaption></figcaption>
+		</figure>
+	</div>
 </div>
 <figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore.</figcaption>
 

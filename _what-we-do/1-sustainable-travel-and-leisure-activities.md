@@ -7,7 +7,7 @@ third_nav_title: Sustainable Sentosa
 		
 With 40 hectares of protected nature areas, more than 20 heritage trees, over 100 recorded bird species, and a variety of walking and cycling trails on the island, Sentosa is a haven for nature lovers. 
 
-<img src="/images/what-we-do/sustainable-sentosa/SHIP.jpg" alt="Image of SHIP"/>
+<img src="/images/what-we-do/sustainable-sentosa/SHIP-2.jpeg" alt="Image of SHIP"/>
 <figcaption>Sentosa's Headland Intertidal Programme at Tanjong Rimau</figcaption>
 		
 To bring guests closer to the island’s hidden gems, a slew of immersive nature activities was launched over the years, including the Siloso Headland Intertidal Programme and nature bathing tours.
@@ -23,6 +23,9 @@ Sentosa island is not just a resort destination but a living classroom too. Home
 <figcaption>Among Sentosa educational resources that aim to inspire creativity and encourage hands-on learning as a living classroom</figcaption>
 
 Guests can also look forward to experiencing more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy.
+
+<img src="/images/what-we-do/sustainable-sentosa/imbiah-trail-learning-adventure.jpg" alt="Image of living classroom"/>	
+<figcaption>Leisure experiences with a low carbon footprint</figcaption>
  
 ### **Heritage Conservation** 
 As custodians of the island, SDC has the responsibility to protect its cultural assets through heritage conservation. These assets also serve to educate both local and overseas guests on the historical significance of Sentosa, including its military past which is still present throughout the island. 

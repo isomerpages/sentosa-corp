@@ -17,7 +17,7 @@ While SDC’s share of Sentosa’s overall carbon footprint is estimated to be o
 
 Singapore’s first carbon neutrality-driven business alliance, the Sentosa Carbon Neutral Network (SCNN), was established in this regard. This is a collective public-private effort to achieve Sentosa’s sustainability goals, including carbon neutrality by 2030. Together, SDC and the network of industry players will develop Sentosa-wide sustainability solutions through the sharing of resources and expertise, while also leveraging economies of scale and a common network to introduce large-scale solutions. 
 
-<img src="/images/what-we-do/sustainable-sentosa/green-mice.jpeg" alt="Image of green mice"/>
+<img src="/images/what-we-do/sustainable-sentosa/green_mice.jpeg" alt="Image of green mice"/>
 <figcaption>Green MICE offerings
 </figcaption>
 

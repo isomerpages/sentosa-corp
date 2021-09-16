@@ -38,7 +38,7 @@ SDC’s approach to heritage conservation includes the restoration of old buildi
 Recognising that Sentosa’s heritage is only a part of a larger historical narrative, SDC has collaborated with other museums, heritage agencies and relevant stakeholders to host joint-exhibitions and events, as we uncover Singapore’s history together. 
 
 <img src="/images/what-we-do/sustainable-sentosa/fort-siloso-war-staples.png" alt="Image of Wartime Staples Tour"/>	
-<figcaption>Wartime Food & Sustainability Workshop in collaboration with Edible Garden City, held at Fort Siloso, Singapore's last preserved coastal fort</figcaption>
+<figcaption>Wartime Food & Sustainability Workshop in collaboration with Edible Garden City held at Fort Siloso, Singapore's last preserved coastal fort</figcaption>
 
 ### **Social Inclusivity and Local Communities** 
 Ensuring social and economic sustainability is also key to meeting the needs of the current generation and providing support to the needs of future generations. Acknowledging the economic hardships caused by COVID-19, SDC places a strong emphasis on promoting social inclusivity by supporting local Social Service Organisations (SSOs) in outreach and engagement efforts for underprivileged and elderly beneficiaries, as well as promoting volunteerism values among SDC’s staff and Island Partners.

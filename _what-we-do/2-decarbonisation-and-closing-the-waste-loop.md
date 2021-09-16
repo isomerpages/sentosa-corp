@@ -17,6 +17,10 @@ While SDC’s share of Sentosa’s overall carbon footprint is estimated to be o
 
 Singapore’s first carbon neutrality-driven business alliance, the Sentosa Carbon Neutral Network (SCNN), was established in this regard. This is a collective public-private effort to achieve Sentosa’s sustainability goals, including carbon neutrality by 2030. Together, SDC and the network of industry players will develop Sentosa-wide sustainability solutions through the sharing of resources and expertise, while also leveraging economies of scale and a common network to introduce large-scale solutions. 
 
+<img src="/images/what-we-do/sustainable-sentosa/green-mice.jpeg" alt="Image of green mice"/>
+<figcaption>Green MICE offerings
+</figcaption>
+
 These efforts include the development of green MICE offerings, sustainable events, as well as guidelines for reducing disposables. SDC will also collaborate with the Singapore Food Agency (SFA) to increase the use of locally-sourced produce across Sentosa’s hotels and restaurants. Meanwhile, in addition to implementing various initiatives with the potential to reduce carbon emissions by up to 30% compared with 2019 baselines, SCNN will invest in credible carbon offsets and imported renewable energy to neutralise the remaining carbon profile.
 
 Established in September 2021, the network comprises 17 founding members, including SDC and major businesses in Sentosa: Amara Sanctuary Resort Sentosa, Capella Hotel Singapore, C Side (Bikini Bar, Coastes and Sand Bar), Far East Hospitality Management Singapore, FOC Sentosa, Madame Tussauds Singapore, Mount Faber Leisure, Ola Beach Club, Resorts World Sentosa, Rumours Beach Club, Sentosa Golf Club, Scentopia, Shangri-La Rasa Sentosa, Siloso Beach Resort, Tanjong Beach Club and W Singapore-Sentosa Cove. 

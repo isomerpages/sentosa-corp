@@ -32,21 +32,8 @@ As custodians of the island, SDC has the responsibility to protect its cultural 
 
 SDC’s approach to heritage conservation includes the restoration of old buildings and injection of vibrancy into old building structures. By conserving the historical assets on the island, SDC managed to open free public access to the last preserved coastal Fort in Singapore and other new initiatives. SDC will continue to embark on heritage preservation efforts while keeping public safety in mind. 
 
-<div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-		<img src="/images/what-we-do/sustainable-sentosa/knolls-new.jpg" alt="Image of Knolls now"/>	
-			<figcaption></figcaption>
-		</figure>
-	</div>
-	<div class="col is-6">
-		<figure style="margin:0;">
-<img src="/images/what-we-do/sustainable-sentosa/knolls-old.jpg" alt="Image of Knolls then"/>
-			<figcaption></figcaption>
-		</figure>
-	</div>
-</div>
-<figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore.</figcaption>
+<img src="/images/what-we-do/sustainable-sentosa/knolls-collage.png" alt="Image of Knolls"/>	
+<figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore</figcaption>
 
 Recognising that Sentosa’s heritage is only a part of a larger historical narrative, SDC has collaborated with other museums, heritage agencies and relevant stakeholders to host joint-exhibitions and events, as we uncover Singapore’s history together. 
 

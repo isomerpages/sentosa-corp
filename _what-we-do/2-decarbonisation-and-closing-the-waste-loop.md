@@ -5,7 +5,7 @@ third_nav_title: Sustainable Sentosa
 ---
 ### **Decarbonisation and Closing the Waste Loop**
 		
-SDC is working towards reducing its energy intensity and greenhouse gas emissions, to ensure that Sentosa continues to develop as a sustainable leisure destination. SDC will support our Island Partners on decarbonisation initiatives, track Sentosa’s carbon emissions, trial new solutions, as well as work together with guests, the island community and technology partners to meet its collective climate goals.
+SDC is working towards reducing its energy intensity and greenhouse gas emissions, to ensure that Sentosa continues to develop as a sustainable leisure destination. We will support our Island Partners on decarbonisation initiatives, track Sentosa’s carbon emissions, trial new solutions, as well as work together with guests, the island community and technology partners to meet its collective climate goals.
 
 <img src="/images/what-we-do/sustainable-sentosa/mou.jpg" alt="Image of MOU"/>
 <figcaption>SDC signed MOU with Temasek -  To harness expertise in studying and testbedding sustainability solutions

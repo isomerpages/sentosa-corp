@@ -27,7 +27,7 @@ To protect the Sentosa’s biodiversity and restore them where necessary, an SDC
 
 With forests making up close to 120 hectares of Sentosa, SDC has engaged in restoration efforts to further support the ecosystem and increase resilience against climate change. A key initiative in this regard is a native tree-planting project where native flora species were identified and planted in Sentosa’s forests. For example, the Light Red Meranti, a plant which has been categorised as globally ‘endangered’ and locally ‘vulnerable’ due to threats from habitat loss and climate change, can be found on the island’s forests. 
 
-<img src="/images/what-we-do/sustainable-sentosa/mou.jpg" alt="Image of MOU"/>
+<img src="/images/what-we-do/sustainable-sentosa/hatchlings.jpg" alt="Image of MOU"/>
 <figcaption>Hawksbill Turtle hatchlings on Sentosa’s shores</figcaption>
 
 Beaches on Sentosa were visited by the Hawksbill turtles which are critically endangered sea creatures. During the months from June to October when the female turtles occasionally lay their eggs on Sentosa’s beaches, Sentosa has introduced measures to limit access to the beach in order to protect the site for the turtles and ensure these eggs will not be exposed to any form of disturbance. SDC also works closely with the NParks to help monitor the nests until the eggs hatch and ensure the turtles are safely released back to sea.

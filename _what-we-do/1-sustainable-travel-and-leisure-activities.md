@@ -17,14 +17,12 @@ To bring guests closer to the island’s hidden gems, a slew of immersive nature
 
 In 2020 Sentosa also launched Singapore's first carbon neutral beers. The Sentosa Islander Brew is a series of four beers made in collaboration with Brewerkz, a local craft brewery. Each beer is inspired by a unique Sentosa experience – Island Life, Nature Adventure, Heritage Discovery, and Wellness Escape – so guests can #MakeTime for a holiday anywhere. 
 		
-By 2022 guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of nature, biodiversity, and heritage on Sentosa. Guests can engage in more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy. 
-
-Sentosa island is not just a resort destination but a living classroom too. Home to historical sites, nature trails and wildlife, we hope to partner with educators to leverage on Sentosa's uniqueness and add a twist to existing structured curriculum.  In 2022, guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of our unique assets on Sentosa.
+Sentosa island is not just a resort destination but a living classroom too. Home to historical sites, nature trails and wildlife, we hope to partner with educators to leverage on Sentosa's uniqueness and add a twist to existing structured curriculum.  By 2022, guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of nature, biodiversity, and heritage on Sentosa. The Southern Islands experiences will also be launched with Sentosa as a conduit to the archipelago. 
 
 <img src="/images/what-we-do/sustainable-sentosa/imbiah-trail-learning-adventure.jpg" alt="Image of living classroom"/>	
 <figcaption>Among Sentosa educational resources that aim to inspire creativity and encourage hands-on learning as a living classroom</figcaption>
 
-Guests can look forward to experiencing more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy.
+Guests can also look forward to experiencing more leisure experiences with a low carbon footprint, enabled through unique and sustainable off-grid offerings powered by 100% renewable energy.
  
 ### **Heritage Conservation** 
 As custodians of the island, SDC has the responsibility to protect its cultural assets through heritage conservation. These assets also serve to educate both local and overseas guests on the historical significance of Sentosa, including its military past which is still present throughout the island. 

@@ -8,7 +8,7 @@ third_nav_title: Sustainable Sentosa
 SDC is working towards reducing its energy intensity and greenhouse gas emissions, to ensure that Sentosa continues to develop as a sustainable leisure destination. We will support our Island Partners on decarbonisation initiatives, track Sentosa’s carbon emissions, trial new solutions, as well as work together with guests, the island community and technology partners to meet its collective climate goals.
 
 <img src="/images/what-we-do/sustainable-sentosa/mou.jpg" alt="Image of MOU"/>
-<figcaption>SDC signed MOU with Temasek -  To harness expertise in studying and testbedding sustainability solutions
+<figcaption>SDC and Temasek signed an MoU to harness Temasek's expertise in studying and testbedding sustainability solutions
 </figcaption>
 
 To understand the overall carbon profile of Sentosa and what decarbonisation measures and solutions can be most efficiently deployed, SDC has been involved in a study with Temasek since June 2021. Beyond decarbonisation  measures and solutions, SDC will also support the island’s businesses on sourcing of credible and quality carbon offsets. 
@@ -16,10 +16,6 @@ To understand the overall carbon profile of Sentosa and what decarbonisation mea
 While SDC’s share of Sentosa’s overall carbon footprint is estimated to be only between 6% to 8%, SDC is in a privileged position where we can influence the island’s carbon profile as its master planner, landlord, precinct operator, brand ambassador and custodian of Sentosa. 
 
 Singapore’s first carbon neutrality-driven business alliance, the Sentosa Carbon Neutral Network (SCNN), was established in this regard. This is a collective public-private effort to achieve Sentosa’s sustainability goals, including carbon neutrality by 2030. Together, SDC and the network of industry players will develop Sentosa-wide sustainability solutions through the sharing of resources and expertise, while also leveraging economies of scale and a common network to introduce large-scale solutions. 
-
-<img src="/images/what-we-do/sustainable-sentosa/green_mice.jpeg" alt="Image of green mice"/>
-<figcaption>Green MICE offerings
-</figcaption>
 
 These efforts include the development of green MICE offerings, sustainable events, as well as guidelines for reducing disposables. SDC will also collaborate with the Singapore Food Agency (SFA) to increase the use of locally-sourced produce across Sentosa’s hotels and restaurants. Meanwhile, in addition to implementing various initiatives with the potential to reduce carbon emissions by up to 30% compared with 2019 baselines, SCNN will invest in credible carbon offsets and imported renewable energy to neutralise the remaining carbon profile.
 

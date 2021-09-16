@@ -32,39 +32,13 @@ As custodians of the island, SDC has the responsibility to protect its cultural 
 
 SDC’s approach to heritage conservation includes the restoration of old buildings and injection of vibrancy into old building structures. By conserving the historical assets on the island, SDC managed to open free public access to the last preserved coastal Fort in Singapore and other new initiatives. SDC will continue to embark on heritage preservation efforts while keeping public safety in mind. 
 
-<div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-		<img src="/images/what-we-do/sustainable-sentosa/knolls-new.jpg" alt="Image of Knolls now"/>	
-			<figcaption></figcaption>
-		</figure>
-	</div>
-	<div class="col is-6">
-		<figure style="margin:0;">
-<img src="/images/what-we-do/sustainable-sentosa/knolls-old.jpg" alt="Image of Knolls then"/>
-			<figcaption></figcaption>
-		</figure>
-	</div>
-</div>
-<figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore.</figcaption>
+<img src="/images/what-we-do/sustainable-sentosa/knolls-collage.png" alt="Image of Knolls"/>	
+<figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore</figcaption>
 
 Recognising that Sentosa’s heritage is only a part of a larger historical narrative, SDC has collaborated with other museums, heritage agencies and relevant stakeholders to host joint-exhibitions and events, as we uncover Singapore’s history together. 
 
-<div class="row">
-	<div class="col is-6">
-		<figure style="margin:0;">
-		<img src="/images/what-we-do/sustainable-sentosa/wartime-staples-tour.jpeg" alt="Image of Wartime Staples Tour"/>	
-<figcaption>Wartime Food & Sustainability Workshop in collaboration with Edible Garden City</figcaption>
-		</figure>
-	</div>
-	<div class="col is-6">
-		<figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/fort-siloso.jpeg" alt="Image of Skyline Luge"/>
-			<figcaption>Fort Siloso – Singapore’s last preserved coastal fort
-</figcaption>
-		</figure>
-	</div>
-</div>
+<img src="/images/what-we-do/sustainable-sentosa/fort-siloso-war-staples.png" alt="Image of Wartime Staples Tour"/>	
+<figcaption>Wartime Food & Sustainability Workshop in collaboration with Edible Garden City held at Fort Siloso, Singapore's last preserved coastal fort</figcaption>
 
 ### **Social Inclusivity and Local Communities** 
 Ensuring social and economic sustainability is also key to meeting the needs of the current generation and providing support to the needs of future generations. Acknowledging the economic hardships caused by COVID-19, SDC places a strong emphasis on promoting social inclusivity by supporting local Social Service Organisations (SSOs) in outreach and engagement efforts for underprivileged and elderly beneficiaries, as well as promoting volunteerism values among SDC’s staff and Island Partners.
@@ -74,9 +48,9 @@ Ensuring social and economic sustainability is also key to meeting the needs of 
 
 SDC has established three-year partnerships with Care Corner Singapore and TOUCH Community Services. Under the Care Corner partnership, the SwiTCH UP! Programme aims to support adolescents in developing stress coping abilities and instilling positive values, leadership competencies and social awareness. 
 
-SDC has also partnered with Glyph Asia, whose main beneficiaries are children from less privileged families. As part of this collaboration, SDC conducted a series of 24 weekend art and craft classes with Glyph’s beneficiaries to convert 10,000 pieces of waste flag material from SDC- National Day Parade event to drawstring bags. Staff volunteers also shared about environmental protection and the need to reduce waste, in an effort to imbue in the minds of the children the importance of sustainability.
+SDC has also partnered with Glyph Asia, whose main beneficiaries are children from less privileged families. As part of this collaboration, SDC conducted a series of 24 weekend art and craft classes with Glyph’s beneficiaries to upcycle 10,000 pieces of waste materials from SDC's National Day celebrations into drawstring bags. Staff volunteers also shared about environmental protection and the need to reduce waste, in an effort to imbue in the minds of the children the importance of sustainability.
 
 <img src="/images/what-we-do/sustainable-sentosa/flag.jpg" alt="Image of HNF Lunar New Year activity"/>	
-<figcaption>Converted waste flag materials from SDC’s National Day Parade event to drawstring bags</figcaption>
+<figcaption>Materials from SDC's National Day celebrations were upcycled into drawstring bags</figcaption>
 
 SDC will continue to promote volunteerism among all staff and initiate new community activities to not only help grow a heart for volunteerism among SDC’s staff, but also engage more to be involved in volunteering activities.

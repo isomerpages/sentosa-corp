@@ -19,7 +19,7 @@ With forests making up close to 120 hectares of Sentosa, SDC has engaged in rest
 
 Beaches on Sentosa have been visited by the Hawksbill turtles which are critically endangered sea creatures. During the months from June to October when the female turtles occasionally lay their eggs on Sentosa’s beaches, Sentosa has introduced measures to limit access to the beach in order to protect the site for the turtles and ensure these eggs will not be exposed to any form of disturbance. SDC also works closely with the NParks to help monitor the nests until the eggs hatch and ensure the turtles are safely released back to sea.
 
-<img src="/images/what-we-do/sustainable-sentosa/bee-sanctuary.jpg" alt="Image of Bee Sanctuary"/>
+<img src="/images/what-we-do/sustainable-sentosa/bee-sanctuary.jpeg" alt="Image of Bee Sanctuary"/>
 <figcaption>Bee sanctuary at Sentosa Golf Club</figcaption>
 
 In 2021, a bee sanctuary was unveiled at Sentosa Golf Club to raise awareness of the declining bee population worldwide and to educate guests on the importance of bees to the ecosystem and food chain. The bee sanctuary not only showcases various bee-keeping techniques, but also provides Sentosa Golf Club’s food and beverage businesses with a local supply of honey, which help reduce carbon footprint through external food sourcing.

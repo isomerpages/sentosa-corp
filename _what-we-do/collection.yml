@@ -4,4 +4,10 @@ collections:
     order:
       - fun-sentosa.md
       - smart-sentosa.md
-      - sustainable-sentosa.md
+      - sustainable-sentosa/.keep
+      - sustainable-sentosa/overview.md
+      - sustainable-sentosa/our-long-term-ambitions.md
+      - sustainable-sentosa/our-focus-areas.md
+      - sustainable-sentosa/1-sustainable-travel-and-leisure-activities.md
+      - sustainable-sentosa/2-decarbonisation-and-closing-the-waste-loop.md
+      - sustainable-sentosa/3-integrative-planning-design-and-development.md

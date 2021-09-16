@@ -9,9 +9,13 @@ The Sustainable Sentosa framework promotes sustainability across the Group’s o
 
 1. Sustainable Travel and Leisure Activities
 <img src="/images/what-we-do/sustainable-sentosa/focus-area-a.png" alt="Image of Focus Area 1"/>
+
 ---
+
 2. Decarbonisation and Closing the Waste Loop
 <img src="/images/what-we-do/sustainable-sentosa/focus-area-b.png" alt="Image of Focus Area 2"/>
+
 ---
+
 3. Integrative Planning, Design and Development of Masterplan Zones
 <img src="/images/what-we-do/sustainable-sentosa/focus-area-c.png" alt="Image of Focus Area 3"/>

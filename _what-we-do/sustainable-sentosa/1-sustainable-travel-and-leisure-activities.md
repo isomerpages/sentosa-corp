@@ -34,17 +34,17 @@ SDC’s approach to heritage conservation includes the restoration of old buildi
 <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
-		<img src="/images/what-we-do/sustainable-sentosa/wartime-staples-tour.jpeg" alt="Image of Wartime Staples Tour"/>	
+		<img src="/images/what-we-do/sustainable-sentosa/knolls-new.jpg" alt="Image of Knolls now"/>	
 		</figure>
 	</div>
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img src="/images/what-we-do/sustainable-sentosa/fort-siloso.jpeg" alt="Image of Skyline Luge"/>
+			<img src="/images/what-we-do/sustainable-sentosa/knolls-old.jpg" alt="Image of Knolls then"/>
 
 </div>
 <figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore.</figcaption>
 
-Recognising that Sentosa’s heritage is only a part of a larger historical narrative, SDC has collaborated with other museums, heritage agencies and relevant stakeholders to host joint-exhibitions and events. Such collaborations are particularly important in understanding history as the different artefacts from SDC and other agencies can come together like pieces of a puzzle to form Singapore’s history. 
+Recognising that Sentosa’s heritage is only a part of a larger historical narrative, SDC has collaborated with other museums, heritage agencies and relevant stakeholders to host joint-exhibitions and events, as we uncover Singapore’s history together. 
 
 <div class="row">
 	<div class="col is-6">
@@ -63,14 +63,14 @@ Recognising that Sentosa’s heritage is only a part of a larger historical narr
 </div>
 
 ### **Social Inclusivity and Local Communities** 
-SDC strives to deepen its engagement with the local community and understands that sustainable development goes beyond just environmental initiatives. Ensuring social and economic sustainability is also key to meeting the needs of the current generation and providing support to the needs of future generations. Acknowledging the economic hardships caused by COVID-19, SDC places a strong emphasis on promoting social inclusivity by supporting local Social Service Organisations (SSOs) in outreach and engagement efforts for underprivileged and elderly beneficiaries, as well as promoting volunteerism values among SDC’s staff and Island Partners.
+Ensuring social and economic sustainability is also key to meeting the needs of the current generation and providing support to the needs of future generations. Acknowledging the economic hardships caused by COVID-19, SDC places a strong emphasis on promoting social inclusivity by supporting local Social Service Organisations (SSOs) in outreach and engagement efforts for underprivileged and elderly beneficiaries, as well as promoting volunteerism values among SDC’s staff and Island Partners.
 
 <img src="/images/what-we-do/sustainable-sentosa/hnf-lny.jpeg" alt="Image of HNF Lunar New Year activity"/>	
 <figcaption>SDC collaboration with the Home Nursing Foundation on a Lunar New Year home improvement initiative for four vulnerable seniors</figcaption>
 
-SDC has established three-year partnerships with Care Corner Singapore and TOUCH Community Services. Under the Care Corner partnership, the SwiTCH UP! Programme aims to support adolescents in developing stress coping abilities and instilling positive values, leadership competencies and social awareness. The programme will benefit 50 adolescents from Secondary One to Three by helping vulnerable teens through stressful times and improving their mental health. 
+SDC has established three-year partnerships with Care Corner Singapore and TOUCH Community Services. Under the Care Corner partnership, the SwiTCH UP! Programme aims to support adolescents in developing stress coping abilities and instilling positive values, leadership competencies and social awareness. 
 
-From October 2020 to December 2020, SDC partnered with Glyph Asia, whose main beneficiaries are children from less privileged families. As part of this collaboration, SDC has conducted a series of 24 weekend art and craft classes with Glyph’s beneficiaries to convert 10,000 pieces of waste flag material from SDC- National Day Parade event to drawstring bags. Staff volunteers from SDC have helped in managing the classroom and guiding the children in making the drawstring bags. As part of SDC’s sustainability efforts, staff volunteers have also shared about environmental protection and need for reducing waste with the children, thus helping to nurture in these young minds the importance of sustainability. 
+SDC has also partnered with Glyph Asia, whose main beneficiaries are children from less privileged families. As part of this collaboration, SDC conducted a series of 24 weekend art and craft classes with Glyph’s beneficiaries to convert 10,000 pieces of waste flag material from SDC- National Day Parade event to drawstring bags. Staff volunteers also shared about environmental protection and the need to reduce waste, in an effort to imbue in the minds of the children the importance of sustainability.
 
 <img src="/images/what-we-do/sustainable-sentosa/flag.jpg" alt="Image of HNF Lunar New Year activity"/>	
 <figcaption>Converted waste flag materials from SDC’s National Day Parade event to drawstring bags</figcaption>

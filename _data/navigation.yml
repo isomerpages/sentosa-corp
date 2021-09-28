@@ -1,12 +1,14 @@
 logo: /images/sentosa_logo.png
 links:
-    - title: 'Who We Are'
-      collection: who-we-are
-    - title: 'What We Do'
-      collection: what-we-do
-    - title: 'Partner Us'
-      collection: partner-us
-    - title: Resources
-      resource_room: true
-    - title: 'Contact Us'
-      url: /contact-us/
+  - title: Who We Are
+    collection: who-we-are
+  - title: What We Do
+    collection: what-we-do
+  - title: Partner Us
+    collection: partner-us
+  - title: Resources
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+  - title: Resources
+    collection: resources

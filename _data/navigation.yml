@@ -10,5 +10,3 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Resources
-    collection: resources

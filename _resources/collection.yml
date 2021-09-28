@@ -1,6 +1,0 @@
-collections:
-  resources:
-    output: true
-    order:
-      - all-reports.md
-      - annual-reports.md

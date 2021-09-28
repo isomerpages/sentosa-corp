@@ -1,6 +1,0 @@
-collections:
-  resources:
-    output: true
-    order:
-      - all/.keep
-      - annual-reports/.keep

@@ -10,5 +10,12 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Eia Reports
-    collection: eia-reports
+  - title: Resources
+    url: /resources/
+    sublinks:
+      - title: All
+        url: /resources/
+      - title: Annual Reports
+        url: /resources/annual-reports/
+      - title: Submenu Title
+        url: /permalink

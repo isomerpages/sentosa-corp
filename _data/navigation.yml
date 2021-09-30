@@ -17,5 +17,7 @@ links:
         url: /resources/
       - title: Annual Reports
         url: /resources/annual-reports/
-      - title: Submenu Title
+      - title: News
+        url: /resources/news/
+      - title: EIA Reports
         url: /permalink

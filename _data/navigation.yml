@@ -7,10 +7,6 @@ links:
   - title: Partner Us
     collection: partner-us
   - title: Resources
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
     url: /resources/
     sublinks:
       - title: All
@@ -21,3 +17,5 @@ links:
         url: /resources/news/
       - title: EIA Reports
         url: /eia-reports/
+  - title: Contact Us
+    url: /contact-us/

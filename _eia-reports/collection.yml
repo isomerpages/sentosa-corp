@@ -1,4 +1,5 @@
 collections:
   eia-reports:
     output: true
-    order: []
+    order:
+      - example-title.md

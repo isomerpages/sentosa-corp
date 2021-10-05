@@ -2,5 +2,5 @@ collections:
   eia-reports:
     output: true
     order:
-      - example-title.md
+      - ensuring-sustainable-development.md
       - example-title1.md

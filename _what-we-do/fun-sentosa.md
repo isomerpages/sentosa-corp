@@ -82,7 +82,7 @@ The tranquility and solitude on Tanjong Beach is a favourite with guests who wan
 </div>
 Situated on the eastern end of Sentosa Island is Sentosa Cove, an exclusive residential enclave with some 2,000 homes. With the azure sea and lapping waves at its doorstep, Sentosa Cove’s residents enjoy mooring their private yachts at their very own backyards, while enjoying easy access to over 200 leisure and lifestyle offerings on the island, earning its name as the world’s most desirable address.
 
-Complementing these luxury residences is the vibrant Sentosa Cove Village comprising ONE°15 Marina Club which offers town club facilities alongside world-class marina facilities including 204 wet berths; Singapore’s first premium marina hotel, W Singapore-Sentosa Cove; as well as Quayside Isle which offers more than 20 exciting commercial concepts with a good selection of specially-curated new-to-market restaurants, dining concepts from established groups, and specialty retail stores.
+Complementing these luxury residences is the vibrant Sentosa Cove Village comprising ONE°15 Marina Club which offers town club facilities alongside world-class marina facilities including 204 wet berths; Singapore’s first premium marina hotel, W Singapore-Sentosa Cove; as well as Quayside Isle which offers more than 20 exciting commercial concepts with a good selection of specially-curated restaurants, dining concepts from established groups, and specialty retail stores.
 
 ---
 

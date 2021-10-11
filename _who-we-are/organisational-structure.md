@@ -1,10 +1,8 @@
 ---
-title: 'Organisational Structure'
+title: Organisational Structure
 permalink: /who-we-are/organisational-structure/
-breadcrumb: 'Organisational Structure'
-
+breadcrumb: Organisational Structure
 ---
-
 ### **Table of Contents**
 {: .no_toc}
 - TOC
@@ -157,8 +155,8 @@ breadcrumb: 'Organisational Structure'
     </div>
     <div class="col is-8">
         <p class="title is-4">Geraldine LOW</p>
-        <strong>Senior Director, Land Transport Division</strong>
-        <br> Ministry of Transport
+        <strong>Deputy Secretary, Planning</strong>
+        <br> Ministry of National Development
     </div>
 </div>
 
@@ -239,6 +237,16 @@ breadcrumb: 'Organisational Structure'
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/SET_Chan_Beng_Kiat.jpg" alt="CHAN Beng Kiat">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">CHAN Beng Kiat</p>
+        <strong>Divisional Director, Architecture & Land Planning</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/Set-Chew-Tiong-Heng.jpg" alt="CHEW Tiong Heng">
     </div>
     <div class="col is-8">
@@ -284,16 +292,6 @@ breadcrumb: 'Organisational Structure'
     <div class="col is-8">
         <p class="title is-4">Linda LEE</p>
         <strong>Divisional Director, Human Resource & Administration</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsWONGSheauFong.jpg" alt="WONG Sheau Fong">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">WONG Sheau Fong</p>
-        <strong>Divisional Director, Architecture & Land Planning</strong>
     </div>
 </div>
 

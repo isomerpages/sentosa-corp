@@ -1,0 +1,6 @@
+collections:
+  eia-reports:
+    output: true
+    order:
+      - ensuring-sustainable-development.md
+      - eia-example-project-1.md

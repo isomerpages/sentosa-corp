@@ -1,11 +1,8 @@
 ---
-title: 'Our Brands and Subsidiaries'
+title: Our Brands and Subsidiaries
 permalink: /who-we-are/our-brands-and-subsidiaries
-breadcrumb: 'Our Brands and Subsidiaries'
-
+breadcrumb: Our Brands and Subsidiaries
 ---
-
-
 ### **Sentosa - The State of Fun**
 
 ![Image of Sentosa SOF logo](/images/who-we-are/our-brands/SENTOSA_SOF_LOGO_ORANGE.png)
@@ -29,9 +26,9 @@ To find out more, please visit [www.sentosagolf.com](https://www.sentosagolf.com
 
 ![Image of SCRM logo](/images/who-we-are/our-brands/OurBrands-SentosaCove.jpg)
 
-One of the world's most prestigious integrated oceanfront marina residential communities, Sentosa Cove is the centrepiece of Singapore's billion-dollar Master Plan for Sentosa Island. As a cutting-edge waterfront development, Sentosa Cove has etched Singapore on the map of luxury marina living. Today, Sentosa Cove is one of the most coveted luxurious residential properties in Asia and offers Singapore’s only truly oceanfront residences with more than 2,500 villas, waterway bungalows, hillside mansions and upscale condominiums.
+The centerpiece of Singapore’s billion-dollar Master Plan for Sentosa Island, Sentosa Cove is the only  integrated oceanfront-marina resort development and one of the most coveted luxurious residential properties in Asia which offers more than 2,500 bungalows, hillside mansions and upscale condominiums.
 
-Its brand is sleek and minimalist, exuding the simplicity and elegance of this premier waterfront community while evoking the allure of renowned waterfront resorts around the world. Sentosa Cove Resort Management (SCRM) oversees the management of Sentosa Cove, which includes the ONE°15 Marina Club, W Singapore - Sentosa Cove and Quayside Isle, which offers a selection of specially-curated new-to-market restaurants, dining concepts from established groups, and specialty retail stores.
+Its brand is sleek and minimalist, exuding the simplicity and elegance of this premier waterfront community while evoking the allure of renowned waterfront resorts around the world. Sentosa Cove Resort Management (SCRM) oversees the management of Sentosa Cove, which includes the ONE°15 Marina Club, W Singapore - Sentosa Cove and Quayside Isle, which offers a selection of specially-curated restaurants, dining concepts from established groups, and specialty retail stores.
 
 To find out more, please visit [www.sentosacove.com](https://www.sentosacove.com){:target="_blank"}.
 

@@ -2,8 +2,6 @@
 title: Ensuring sustainable development
 permalink: /eia-reports/
 ---
-
-
 <div>
   <p>
    Being Asia’s leading leisure destination, Sentosa is known for its diverse array of unique leisure experiences today, ranging from themed attractions, 
@@ -26,8 +24,7 @@ permalink: /eia-reports/
     published are open for public feedback for 4 weeks starting from the date of publication. We welcome your feedback at
     <a href="mailto:sustainability@sentosa.com.sg">sustainability@sentosa.com.sg </a>
   </p>
-  <p>Find out more about each project below.</p><br>
-</div>
+</div><br>
 <div class="row">
     <div class="col is-4">
         <img class="EIAImage" src="/images/eia/2.jpg" >
@@ -41,25 +38,4 @@ permalink: /eia-reports/
         <img class="EIAImage" src="/images/eia/16.jpg" >
         <p style="font-size: 17px;">Artist’s impression of one of the vessel-like structures, which features fragrant plants, as part of the rejuvenated Sentosa Sensoryscape.</p>
     </div>
-</div>
-<p>Find out more about each project below.</p>
-<div class="row">
-  <a id="eia_link_box" class="col is-4" href="/resources/EIA-Reports/reportPages/example-project-1/">
-    <div class="EIAImageRow_Col">
-        <p>[EXAMPLE] Example Project 1 </p>
-        <p>xx Mar 2021</p>
-    </div>
-  </a>
-  <a id="eia_link_box" class="col is-4" href="/resources/EIA-Reports/reportPages/example-project-2/">
-    <div class="EIAImageRow_Col">
-      <p>[EXAMPLE] Example Project 2 </p>
-        <p>xx Mar 2021</p>
-    </div>
-  </a>   
-  <a id="eia_link_box" class="col is-4" href="/resources/EIA-Reports/reportPages/example-project-3/">
-    <div class="EIAImageRow_Col">
-        <p>[EXAMPLE] Example Project 3 </p>
-        <p>xx Mar 2021</p>
-    </div>
-  </a>  
 </div>

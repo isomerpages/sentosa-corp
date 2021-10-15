@@ -24,7 +24,7 @@ The grounds of the Sentosa Golf Club provide golfers with the spectacular view o
 
 To find out more, please visit [www.sentosagolf.com](https://www.sentosagolf.com){:target="_blank"}.
 
-![Image of SCRM logo](/images/who-we-are/our-brands/OurBrands-SentosaCove.jpg)
+![Image of SCRM logo](/images/who-we-are/subsidiaries/Mount_Faber_Leisure_logo_2021.png)
 
 The centerpiece of Singapore’s billion-dollar Master Plan for Sentosa Island, Sentosa Cove is the only  integrated oceanfront-marina resort development and one of the most coveted luxurious residential properties in Asia which offers more than 2,500 bungalows, hillside mansions and upscale condominiums.
 

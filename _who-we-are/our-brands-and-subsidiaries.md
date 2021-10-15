@@ -32,7 +32,7 @@ Its brand is sleek and minimalist, exuding the simplicity and elegance of this p
 
 To find out more, please visit [www.sentosacove.com](https://www.sentosacove.com){:target="_blank"}.
 
-![Image of 1FG](/images/who-we-are/our-brands/OurBrands-1FG.png)
+![Image of 1FG](/images/who-we-are/our-brands/Mount_Faber_Leisure_logo_2021.png) 
 
 Mount Faber Leisure is one of Singapore’s leading operators of a suite of leisure and lifestyle services, including attractions, guided tours, event venues, souvenir and lifestyle outlets as well as F&B concepts. The company’s portfolio of products and services include the Singapore Cable Car, Wings of Time, SkyHelix Sentosa, Sentosa Island Bus Tour, Gai Gai Tour, Mount Faber Peak, Arbora Hilltop Garden & Bistro, Arbora Café, Dusk Restaurant & Bar, Good Old Days Food Court & Western Grill, FUN Shop, Cable Car Gift Shop, and Faber Licence membership programme.
 

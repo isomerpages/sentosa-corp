@@ -32,14 +32,15 @@ Its brand is sleek and minimalist, exuding the simplicity and elegance of this p
 
 To find out more, please visit [www.sentosacove.com](https://www.sentosacove.com){:target="_blank"}.
 
-![Image of 1FG](/images/who-we-are/our-brands/OurBrands-1FG.png)
+![Image of 1FG](/images/who-we-are/subsidiaries/Mount_Faber_Leisure_logo_2021.png) 
 
-One Faber Group is one of Singapore’s leading operators of a suite of leisure and lifestyle services, including attractions, guided tours, event venues, souvenir and lifestyle outlets as well as F&B operations. The company’s portfolio of products and services include the Singapore Cable Car, Wings of Time, Sentosa Island Bus Tour, Gai Gai Tour, Faber Peak Singapore, Arbora Hilltop Garden & Bistro, Dusk Restaurant & Bar, Good Old Days, Show Bites, FUN Shop, Cable Car Gift Shop, and Faber Licence.
+Mount Faber Leisure is one of Singapore’s leading operators of a suite of leisure and lifestyle services, including attractions, guided tours, event venues, souvenir and lifestyle outlets as well as F&B concepts. The company’s portfolio of products and services include the Singapore Cable Car, Wings of Time, SkyHelix Sentosa, Sentosa Island Bus Tour, Gai Gai Tour, Mount Faber Peak, Arbora Hilltop Garden & Bistro, Arbora Café, Dusk Restaurant & Bar, Good Old Days Food Court & Western Grill, FUN Shop, Cable Car Gift Shop, and Faber Licence membership programme.
 
-Spanning across the hilltop at Mount Faber and Sentosa Island, One Faber Group’s products are linked by the Singapore Cable Car Sky Network of six stations on two main lines – the Mount Faber Line that connects mainland Singapore to the resort island of Sentosa, and the Sentosa Line that connects to the island’s western end at the Siloso Point.
+Spanning across the hilltop at Mount Faber and Sentosa Island, the brand’s offerings are linked by the Singapore Cable Car Sky Network of six stations on two main lines – the Mount Faber Line that connects mainland Singapore to the resort island of Sentosa, and the Sentosa Line that connects to the island’s western end at the Siloso Point. 
 
-The Group offers a memorable experience for its guests, offering a delightful escape that spans from green hilltop to blue sea and sandy beach, with sunshine and happiness radiating through the warm service of its friendly staff.
+The brand offers countless memorable experiences close to the hearts of its guests, offering a delightful escape on the prominent location at the hilltop of Mount Faber Park that spans across to the blue sea and sandy beaches, with sunshine and happiness radiating through the warm service of its friendly staff. 
 
-To find out more, please visit [www.onefabergroup.com](https://www.onefabergroup.com){:target="_blank"}.
+To find out more, please visit https://www.mountfaberleisure.com/.
+{:target="_blank"}.
 
 SENTOSA and STATE OF FUN, amongst other marks, are registered trade marks of the Sentosa Development Corporation ("SDC") in Singapore and various other countries. SDC’s trade marks may not be reproduced by any means or in any form whatsoever without written permission from SDC.

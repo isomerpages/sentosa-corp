@@ -151,7 +151,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Board-Geraldine-Low.jpg" alt="Geraldine LOW">
+        <img src="/images/who-we-are/organisational-structure/Board-Geraldine-Low-updated.jpg" alt="Geraldine LOW">
     </div>
     <div class="col is-8">
         <p class="title is-4">Geraldine LOW</p>

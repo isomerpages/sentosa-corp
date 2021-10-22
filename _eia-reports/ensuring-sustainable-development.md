@@ -24,7 +24,7 @@ permalink: /eia-reports/
     published are open for public feedback for 4 weeks starting from the date of publication. We welcome your feedback at
     <a href="mailto:sustainability@sentosa.com.sg">sustainability@sentosa.com.sg </a>
   </p>
-</div><br>
+	</div><br>
 <div class="row">
     <div class="col is-4">
         <img class="EIAImage" src="/images/eia/2.jpg" >

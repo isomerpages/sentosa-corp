@@ -4,5 +4,5 @@ title: Sentosa steps up innovation drive with third cohort of trials under
 date: 2021-12-08
 layout: file
 description: ""
-file_url: /files/20211208_Media_release_Sentosa_Enterprise_Scheme.pdf
+file_url: /files/resources/news/20211208_Media_release_Sentosa_Enterprise_Scheme.pdf
 ---

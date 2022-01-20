@@ -217,16 +217,6 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrAlexANG.jpg" alt="Alex Ang">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Alex ANG</p>
-        <strong>Chief Information Officer</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/Set-Mira-Bharin.jpg" alt="Mira BHARIN">
     </div>
     <div class="col is-8">

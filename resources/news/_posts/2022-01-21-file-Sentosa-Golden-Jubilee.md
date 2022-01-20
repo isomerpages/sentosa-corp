@@ -1,5 +1,5 @@
 ---
-title: Sentosa kicks off Golden Jubilee celebrations with launch of SentoSights tours and over 50 new experiences for Singaporeans and tourists
+title: Sentosa kicks off Golden Jubilee celebrations
 date: 2022-01-21
 layout: file
 description: ""

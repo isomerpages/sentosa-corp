@@ -41,7 +41,7 @@ While measures were proposed to reduce the impact on overall biodiversity, the r
 A construction phase EMMP was proposed to (1) ensure that any potential impacts arising from the project were within anticipated levels and (2) assess the effectiveness of the recommended minimum control measures and site mitigation measures in reducing identified environmental related impacts on key receptors. The EMMP would progressively scrutinise construction activities as they ensue and ensure suitable monitoring and management procedures would be in place to address unforeseen impacts that may arise.</td>
   </tr>
   <tr style="background-color: #fff3e3;">
-    <th>EIA Report</th>
+    <th>Environmental Study Report</th>
     <td>
         <form method="get" action="https://isomer-sentosa-staging.netlify.app/files/resources/news/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
           <button id="eia_getReport" type="submit">Click here to view the EIA report</button>
@@ -50,18 +50,16 @@ A construction phase EMMP was proposed to (1) ensure that any potential impacts 
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>Stakeholders Consulted</th>
-    <td>(List of NGs consulted)</td>
+    <td>Affected Sentosa Island Partners</td>
   </tr>
   <tr style="background-color: #fff3e3;">
     <th>Publication Date</th>
-    <td>xx month 20xx </td>
+    <td>17 February 2022 </td>
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>Feedback</th>
     <td>
-       Feedback with regard to this EIA Report is open till xx month 20xx.<br><br>
-      Share your feedback with us at <br>
-      <a href="mailto:sustainability@sentosa.com.sg">sustainability@sentosa.com.sg</a>
+       Feedback to this EIA Report is open until 17 March 2022. We welcome your feedback at <a href="mailto:sustainability@sentosa.com.sg">sustainability@sentosa.com.sg</a>
     </td>
   </tr>
 </table>

@@ -34,7 +34,7 @@ According to the current planning, the Project would require forty (40) above-gr
 
 Based on the impacts on the environmental parameters during the impact prediction and evaluation process, minimum controls or best practices on site were considered to mitigate/alleviate any significant environmental construction impacts (“Moderate” or “Major” impacts). Where the implementation of minimum controls were insufficient, project-specific final mitigation measures (in consultation with SDC) were proposed to reduce the environmental impacts to “Minor”, “Negligible” or as low as reasonably practicable as part of the residual impact assessment. 
 
-The summary of impact significance (with minimum controls) and the potential residual impact significance (after considering mitigation measures for moderate and major impact significance) of the assessed environmental aspects for construction phase of the Project are presented in the following table. All impacts were found to be insignificant after the implementation of minimum control measures and the recommended mitigation measures, except for Biodiversity. <img src="/images/eia/Untitled.png"/></td>
+The summary of impact significance (with minimum controls) and the potential residual impact significance (after considering mitigation measures for moderate and major impact significance) of the assessed environmental aspects for construction phase of the Project are presented in the following table. All impacts were found to be insignificant after the implementation of minimum control measures and the recommended mitigation measures, except for Biodiversity. <img src="/images/eia/Capture.jpg"/></td>
   </tr>
   <tr style="background-color: #fff3e3;">
     <th>EIA Report</th>

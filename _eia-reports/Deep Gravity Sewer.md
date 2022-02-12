@@ -25,8 +25,16 @@ The works associated with the Project would mainly consist of pre-construction a
     <td><img src="/images/eia/Untitled.png"/></td>
   </tr>
   <tr style="background-color: #ffe0b8;">
-    <th>EIA Summary</th>
-    <td>Some Summary Text...</td>
+    <th>Environmental Study Summary</th>
+    <td>Following preliminary assessment of the entire route of the project alignment, it was discussed with technical agencies that the key focus of the Environmental Study would be of project worksites near the identified Nature Areas (i.e. Mt Imbiah and Mt Serapong). Additionally, the Environmental Study would assess impacts arising from the above-ground construction of the manhole/ shaft on the environment (i.e. biodiversity, airborne noise, air quality, surface water quality). It was assessed that the DGS system would unlikely result in environmental impacts during its operation.
+
+The Environmental Study was conducted based on the preliminary design provided in July 2020. AAny major changes in the engineering design in the future and/or changes in the baseline environment would require the re-evaluation of the findings of this Environmental Study and consultation with the relevant technical agencies and authorities.
+
+According to the current planning, the Project would require forty (40) above-ground construction worksites that range from approximately 300 m2 to 700 m2 to support the construction of the forty (40) proposed DGS manholes and the associated pipelines. All works will be carried out in group of manholes (about 5 to 6 worksites working concurrently in group) and by phases, with each construction worksite approximately requiring an average of 12 months to complete the construction works.
+
+Based on the impacts on the environmental parameters during the impact prediction and evaluation process, minimum controls or best practices on site were considered to mitigate/alleviate any significant environmental construction impacts (“Moderate” or “Major” impacts). Where the implementation of minimum controls were insufficient, project-specific final mitigation measures (in consultation with SDC) were proposed to reduce the environmental impacts to “Minor”, “Negligible” or as low as reasonably practicable as part of the residual impact assessment. 
+
+The summary of impact significance (with minimum controls) and the potential residual impact significance (after considering mitigation measures for moderate and major impact significance) of the assessed environmental aspects for construction phase of the Project are presented in the following table. All impacts were found to be insignificant after the implementation of minimum control measures and the recommended mitigation measures, except for Biodiversity. <img src="/images/eia/Untitled.png"/></td>
   </tr>
   <tr style="background-color: #fff3e3;">
     <th>EIA Report</th>

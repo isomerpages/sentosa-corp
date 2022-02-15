@@ -27,7 +27,7 @@ The DGS system would be more efficient, reliable, and sustainable as a long-term
     <td>Following a preliminary assessment on the entire proposed DGS system, it was discussed with Technical Agencies that the key focus of the Environmental Study would be for above-ground construction worksites near identified Nature Areas (i.e., Mount Imbiah and Mount Serapong), as there would unlikely be environmental impacts during its underground operations.<br><br>
 
 The summary of impact significance (with minimum controls) and the potential residual impact significance (after considering mitigation measures for moderate and major impact significance) for the construction phase are presented in the following table.<br><br>
-			
+			<img src="/images/eia/Summary TableofImpacts.png"/>			
 			A construction phase Environmental Monitoring and Management Plan (EMMP) was proposed to (1) ensure that any potential impacts arising from the project are within anticipated levels and (2) assess the effectiveness of the recommended minimum control measures and site mitigation measures in reducing identified environmental related impacts on key receptors. The EMMP will monitor construction activities and ensure appropriate monitoring and management procedures are in place.<br><br>
 
 Further details can be found in the associated reports from the Environmental Study.

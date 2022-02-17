@@ -40,6 +40,15 @@ Further details can be found in the associated reports from the Environmental St
           <button id="eia_getReport" type="submit">SDC EIA DGS Execsummary
 </button>
         </form>
+			<form method="get" action="https://go.gov.sg/sdc-eia-dgs-finalreport 
+">
+          <button id="eia_getReport" type="submit">SDC EIA DGS Finalreport
+</button>
+        </form>
+			<form method="get" action="https://go.gov.sg/sdc-eia-dgs-techmemo">
+          <button id="eia_getReport" type="submit">SDC EIA DGS Techmemo
+</button>
+        </form>
     </td>
   </tr>
   <tr style="background-color: #ffe0b8;">

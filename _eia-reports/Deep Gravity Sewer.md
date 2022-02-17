@@ -42,11 +42,11 @@ Further details can be found in the associated reports from the Environmental St
         </form>
 			<form method="get" action="https://go.gov.sg/sdc-eia-dgs-finalreport 
 ">
-          <button id="eia_getReport" type="submit">Click here to view Final Environmental Study Report (199MB)
+          <button id="eia_getReport" type="submit">Click here to view the Final Environmental Study Report (199MB)
 </button>
         </form>
 			<form method="get" action="https://go.gov.sg/sdc-eia-dgs-techmemo">
-          <button id="eia_getReport" type="submit">Click here to view Technical Memo (40.4MB)
+          <button id="eia_getReport" type="submit">Click here to view the Technical Memo (40.4MB)
 </button>
         </form>
     </td>

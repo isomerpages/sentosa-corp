@@ -36,8 +36,9 @@ Further details can be found in the associated reports from the Environmental St
   <tr style="background-color: #fff3e3;">
     <th>Environmental Study Report</th>
     <td>
-        <form method="get" action="https://isomer-sentosa-staging.netlify.app/files/resources/news/20200311_Media_Release_IA_Waiver_Business_Support.pdf">
-          <button id="eia_getReport" type="submit">Click here to view the EIA report</button>
+        <form method="get" action="https://go.gov.sg/sdc-eia-dgs-execsummary">
+          <button id="eia_getReport" type="submit">SDC EIA DGS Execsummary
+</button>
         </form>
     </td>
   </tr>

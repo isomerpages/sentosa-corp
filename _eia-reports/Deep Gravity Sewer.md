@@ -20,7 +20,7 @@ The DGS system would be more efficient, reliable, and sustainable as a long-term
   </tr>  
   <tr style="background-color: #fff3e3;">
     <th>Project Site Information</th>
-    <td><img src="/images/eia/Untitled.png"/></td>
+    <td><img src="/images/eia/eia_dgs_projectsiteinfo.jpg"/></td>
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>Environmental Study Summary</th>

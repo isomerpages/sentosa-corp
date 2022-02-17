@@ -6,13 +6,13 @@ description: ""
 <table id="eia_reportTable">
   <tr style="background-color: #ffbc40; font-weight: bold;">
     <th>Project Title</th>
-    <td>Environmental study for the proposed Deep Gravity Sewers project at Sentosa</td>
+    <td>Environmental study for the proposed Deep Gravity Sewer project at Sentosa</td>
   </tr>
   <tr style="background-color: #ffe0b8;">
     <th>Project Description</th>
-    <td>An Environmental Study was commissioned by Sentosa Development Corporation (SDC) in July 2020 for the proposed Deep Gravity Sewers project at Sentosa (hereinafter referred to as the “Project”).<br><br>
+    <td>An Environmental Study was commissioned by Sentosa Development Corporation (SDC) in July 2020 for the proposed Deep Gravity Sewer project at Sentosa (hereinafter referred to as the “Project”).<br><br>
 
-This Project would involve the implementation of a pure gravitational Deep Gravity Sewers (hereinafter referred to as “DGS”) system on Sentosa to replace the island’s existing aging sewer network. <br><br>
+This Project would involve the implementation of a pure gravitational Deep Gravity Sewer (hereinafter referred to as “DGS”) system on Sentosa to replace the island’s existing aging sewer network. <br><br>
 
 The DGS system would be more efficient, reliable, and sustainable as a long-term solution for the next 100 years, in line with PUB’s implementation of the Deep Tunnel Sewerage System (DTSS).
 

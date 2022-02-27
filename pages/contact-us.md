@@ -40,7 +40,8 @@ contacts:
   - content:
       - phone: ""
       - email: whistleblow@sentosa.gov.sg
-      - other: 'Please view our whistleblowing policy <a href="#">here</a> '
+      - other: 'Please view our whistleblowing policy <a href="/whistleblowing">here</a>
+          '
     title: Whistleblowing
   - content:
       - phone: ""

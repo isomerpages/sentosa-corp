@@ -39,13 +39,13 @@ contacts:
     title: Important Note!
   - content:
       - phone: ""
+      - email: whistleblow@sentosa.gov.sg
+      - other: 'Please view our whistleblowing policy <a href="#">here</a> '
+    title: Whistleblowing
+  - content:
+      - phone: ""
       - email: ""
       - other: <a href="https://www.sentosa.com.sg/Career"
           target="_blank">Careers@Sentosa Development Corporation</a>
     title: eServices
-  - content:
-      - phone: ""
-      - email: whistleblow@sentosa.gov.sg
-      - other: 'Please view our whistleblowing policy <a href="#">here</a> '
-    title: Whistleblowing
 ---

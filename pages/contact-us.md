@@ -43,12 +43,6 @@ contacts:
     title: Important Note!
   - content:
       - phone: ""
-      - email: whistleblow@sentosa.gov.sg
-      - other: 'Please view our whistleblowing policy <a href="/whistleblowing">here</a>
-          '
-    title: Whistleblowing
-  - content:
-      - phone: ""
       - email: ""
       - other: <a href="https://www.sentosa.com.sg/en/careers/"
           target="_blank">Careers@Sentosa Development Corporation</a><br><a

@@ -46,7 +46,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a href="https://www.sentosa.com.sg/Career"
+      - other: <a href="https://www.sentosa.com.sg/en/careers/"
           target="_blank">Careers@Sentosa Development Corporation</a>
     title: eServices
 ---

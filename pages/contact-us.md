@@ -35,7 +35,11 @@ contacts:
       - phone: ""
       - email: ""
       - other: Do note that drone-flying is not allowed over Sentosa <strong>without
-          prior submission of requests</strong>.
+          prior submission of requests.</strong>  Requests may be made in
+          writing to <a href="#">communications@sentosa.gov.sg</a>, at least
+          <strong>10 working days</strong> in advance.  Flying of unmanned
+          aircraft should comply with the Civil Aviation Authority of
+          Singapore's guidelines for Operator Permit and/or Activity Permit.
     title: Important Note!
   - content:
       - phone: ""

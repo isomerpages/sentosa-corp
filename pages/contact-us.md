@@ -45,7 +45,7 @@ contacts:
       - phone: ""
       - email: whistleblow@sentosa.gov.sg
       - other: Please view our whistleblowing policy <a
-          href="https://www.sentosa.gov.sg/who-we-are/whistleblowing">here</a>
+          href="https://www.sentosa.gov.sg/whistleblowing">here</a>
     title: Whistleblowing
   - content:
       - phone: ""

@@ -1,11 +1,8 @@
 ---
 title: Whistleblowing
-permalink: /who-we-are/whistleblowing
-breadcrumb: Whistleblowing
-
+permalink: /whistleblowing
+description: ""
 ---
-
-
 
 ### **SDC Whistleblowing Policy**
 

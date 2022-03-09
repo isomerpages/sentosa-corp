@@ -47,6 +47,8 @@ contacts:
       - phone: ""
       - email: ""
       - other: <a href="https://www.sentosa.com.sg/en/careers/"
-          target="_blank">Careers@Sentosa Development Corporation</a>
+          target="_blank">Careers@Sentosa Development Corporation</a><br><a
+          href="https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search"
+          target="_blank">GeBiz Opportunities</a>
     title: eServices
 ---

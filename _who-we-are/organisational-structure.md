@@ -3,7 +3,7 @@ title: Organisational Structure
 permalink: /who-we-are/organisational-structure/
 breadcrumb: Organisational Structure
 ---
-### **Table of Contents**
+![](/images/Gary%20Ng%20Chee%20Keong.jpg)### **Table of Contents**
 {: .no_toc}
 - TOC
 {:toc}
@@ -287,7 +287,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/SET_Gary Ng Chee Keong.jpg" alt="Gary NG">
+        <img src="images/who-we-are/organisational-structure/Gary Ng Chee Keong.jpg" alt="Gary NG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>

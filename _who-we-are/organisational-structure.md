@@ -3,10 +3,6 @@ title: Organisational Structure
 permalink: /who-we-are/organisational-structure/
 breadcrumb: Organisational Structure
 ---
-![](/images/Gary%20Ng%20Chee%20Keong.jpg)### **Table of Contents**
-{: .no_toc}
-- TOC
-{:toc}
 ### **Board Members**
 <div class="row">
     <div class="col is-4">

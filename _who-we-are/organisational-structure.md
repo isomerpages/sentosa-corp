@@ -20,7 +20,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Thien_Kwee_Eng_Formal_Headrevised.jpg" alt="THIEN Kwee Eng">
+        <img src="/images/who-we-are/organisational-structure/Thien_Kwee_Eng_Formal_Head.jpg" alt="THIEN Kwee Eng">
     </div>
     <div class="col is-8">
         <p class="title is-4">THIEN Kwee Eng</p>
@@ -278,16 +278,6 @@ breadcrumb: Organisational Structure
     <div class="col is-8">
         <p class="title is-4">Linda LEE</p>
         <strong>Divisional Director, Human Resource & Administration</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/Gary Ng Chee Keongrevised.jpg" alt="Gary NG">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Gary NG</p>
-        <strong>Divisional Director, Information Technology</strong>
     </div>
 </div>
 

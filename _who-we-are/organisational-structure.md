@@ -283,7 +283,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/Gary Ng Chee Keong.jpg" alt="Gary NG">
+        <img src="images/who-we-are/organisational-structure/Gary Ng Chee Keongrevised.jpg" alt="Gary NG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>

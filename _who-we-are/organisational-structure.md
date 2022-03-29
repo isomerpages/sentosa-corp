@@ -79,7 +79,7 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">Diana EE-TAN</p>
-        <strong>Independent Director</strong>
+        <strong>Non-Executive Director </strong>
         <br> Far East Orchard Limited
         <br>
         <strong>Vice-Chairman</strong>

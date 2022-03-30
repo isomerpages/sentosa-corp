@@ -3,10 +3,6 @@ title: Organisational Structure
 permalink: /who-we-are/organisational-structure/
 breadcrumb: Organisational Structure
 ---
-### **Table of Contents**
-{: .no_toc}
-- TOC
-{:toc}
 ### **Board Members**
 <div class="row">
     <div class="col is-4">
@@ -24,7 +20,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Thien_Kwee_Eng.jpg" alt="THIEN Kwee Eng">
+        <img src="/images/who-we-are/organisational-structure/Thien_Kwee_Eng_updated.jpg" alt="THIEN Kwee Eng">
     </div>
     <div class="col is-8">
         <p class="title is-4">THIEN Kwee Eng</p>
@@ -83,7 +79,7 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">Diana EE-TAN</p>
-        <strong>Independent Director</strong>
+        <strong>Non-Executive Director </strong>
         <br> Far East Orchard Limited
         <br>
         <strong>Vice-Chairman</strong>
@@ -282,6 +278,17 @@ breadcrumb: Organisational Structure
     <div class="col is-8">
         <p class="title is-4">Linda LEE</p>
         <strong>Divisional Director, Human Resource & Administration</strong>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col is-4">
+        <img src="images/who-we-are/organisational-structure/103023 - Gary Ng Chee Keong original.jpg" alt="Gary NG">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Gary NG</p>
+        <strong>Divisional Director, Information Technology</strong>
     </div>
 </div>
 

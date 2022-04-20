@@ -20,7 +20,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Thien_Kwee_Eng_updated.jpg" alt="THIEN Kwee Eng">
+        <img src="/images/who-we-are/organisational-structure/Thien-Kwee-Engupdated.jpg" alt="THIEN Kwee Eng">
     </div>
     <div class="col is-8">
         <p class="title is-4">THIEN Kwee Eng</p>
@@ -284,7 +284,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/SET_Gary_Ng_Chee_Keong_updated.jpg" alt="Gary NG">
+        <img src="images/who-we-are/organisational-structure/SET-Gary-Ng.jpg" alt="Gary NG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>

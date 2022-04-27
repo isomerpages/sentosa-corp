@@ -118,7 +118,7 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">Benjamin Stewart KING</p>
-        <strong>Country Director</strong>
+        <strong>Country Managing Director</strong>
         <br> Google Singapore
     </div>
 </div>

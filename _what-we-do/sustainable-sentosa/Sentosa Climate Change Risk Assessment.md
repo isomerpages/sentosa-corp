@@ -21,5 +21,6 @@ According to the 2014 IPCC report , global temperatures are expected to rise by 
 
 The impacts of climate change on Sentosa Island will severely disrupt many businesses, lives and biodiversity that are currently on the Island. Hence, there is an urgent need for Sentosa to both adapt to the threats posed by the changing climate as well as to mitigate the climate change impacts to ensure that Sentosa continues to be an island of discovery for all. The actions undertaken under the Sustainable Sentosa roadmap will guide island businesses and stakeholders to play their part in mitigating the impact towards climate change as well as provide a model for other destinations to introduce sustainable principles into how they develop and operate their respective precincts. 
 
+---
 <hr>
   IPCC, 2014. Climate Change 2014 Synthesis Report Summary for Policymakers, s.l.: Intergovernmental Panel on Climate Change .

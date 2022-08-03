@@ -14,3 +14,5 @@ We also recognise the need to build networks to capitalise on synergies to advan
 We believe that the supporting strategies will help us progress steadily in our pathway towards a Sustainable Sentosa.
 <p>
 <img src="/images/what-we-do/sustainable-sentosa/strategies.png" alt="Image of Strategies"/>
+	
+Together with our subsidiaries, we welcome any comments on our sustainability approach. For feedback and enquiries, please contact us at sustainability@sentosa.com.sg.

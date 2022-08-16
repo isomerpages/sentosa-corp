@@ -55,4 +55,9 @@ contacts:
           href="https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search"
           target="_blank">GeBiz Opportunities</a>
     title: eServices
+  - content:
+      - phone: ""
+      - email: sustainability@sentosa.com.sg
+      - other: "We welcome any comments or feedback about our sustainability approach. "
+    title: Sustainability
 ---

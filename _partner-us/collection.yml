@@ -2,6 +2,7 @@ collections:
   partner-us:
     output: true
     order:
+      - Test/.keep
       - collaborations.md
       - opportunities.md
       - sentosa-x-enterprise.md

@@ -2,8 +2,8 @@ collections:
   partner-us:
     output: true
     order:
-      - Test/Overview.md
-      - Test/sentosa-x-enterprise.md
-      - Test/.keep
+      - Sentosa X Enterprise/Overview.md
+      - Sentosa X Enterprise/sentosa-x-enterprise.md
+      - Sentosa X Enterprise/.keep
       - collaborations.md
       - opportunities.md

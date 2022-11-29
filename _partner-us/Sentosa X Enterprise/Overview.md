@@ -54,3 +54,17 @@ The focus areas include Connectivity, Experience, Sustainability and Digital, as
         <br> Technologies to enhance integrated guest experiences, productivity and security in management of the island's operations and assets
     </div>
 </div>
+
+### How It Works
+
+Sentosa X Enterprise offers a win-win partnership, where innovators and enterprises benefit from a risk-sharing arrangement while working on projects that could boost Sentosa's vibrancy and attractiveness.
+
+Sentosa island is being offered as a testbed venue to innovators and enterprises to bring innovative or novel ideas, concepts or technology that require proof-of-concept.
+
+In addition to facilitation support, proposals will be reviewed for eligibility for funding under relevant government schemes, subject to criteria and qualifying costs.
+
+For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html" target="_blank">here</a>.
+
+For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants" target="_blank">here</a>.
+
+![Image of Win-Win model](/images/partner-us/enterprise/win-win-revised2.png)

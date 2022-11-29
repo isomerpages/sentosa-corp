@@ -18,6 +18,25 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
     </div>
 </div>
 
+<h4>Lactation Pods</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+            <img src="/images/partner-us/enterprise/EGC.png" alt="Wartime Food and Sustainability Workshop" />
+        </figure>
+    </div>
+	<div class="col is-6">
+        <p>
+            <h5 style="margin-top:0;">Go!Mama</h5>
+            <strong>Trial Period:</strong>Dec 2021 –June 2022
+            <ul>
+                <li>Free-standing, tech-enabled lactation pods for breastfeeding mothers to nurse their children across four locations on Sentosa.</li>
+                <li>The pilot exemplifies our commitment to providing innovative and user-friendly amenities that bolster Sentosa as an inclusive and family-friendly destination.</li>               
+            </ul>
+        </p>
+    </div>
+</div>
+
 <h4>ScentOsa AR Perfumery</h4>
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">

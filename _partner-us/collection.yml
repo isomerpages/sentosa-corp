@@ -2,11 +2,11 @@ collections:
   partner-us:
     output: true
     order:
-      - Sentosa X Enterprise/How To Apply.md
       - Sentosa X Enterprise/.keep
       - Sentosa X Enterprise/Overview.md
       - Sentosa X Enterprise/Ongoing | Past Trials.md
       - Sentosa X Enterprise/Awards.md
+      - Sentosa X Enterprise/How To Apply.md
       - Sentosa X Enterprise/sentosa-x-enterprise.md
       - collaborations.md
       - opportunities.md

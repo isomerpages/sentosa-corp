@@ -41,7 +41,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-					<img src="/images/partner-us/collaborations/LactationPods.jpg" />
+					<img src="/images/partner-us/collaborations/DroneFoodDelivery.jpg" />
         </figure>
     </div>
 	<div class="col is-6">

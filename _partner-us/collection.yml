@@ -2,6 +2,7 @@ collections:
   partner-us:
     output: true
     order:
+      - Sentosa X Enterprise/Awards.md
       - Sentosa X Enterprise/.keep
       - Sentosa X Enterprise/Overview.md
       - Sentosa X Enterprise/Ongoing | Past Trials.md

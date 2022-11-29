@@ -31,7 +31,26 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
             <strong>Trial Period:</strong>Dec 2021 –June 2022
             <ul>
                 <li>Free-standing, tech-enabled lactation pods for breastfeeding mothers to nurse their children across four locations on Sentosa.</li>
-                <li>The pilot exemplifies our commitment to providing innovative and user-friendly amenities that bolster Sentosa as an inclusive and family-friendly destination.</li>               
+                <li>The pilot exemplifies our commitment to providing innovative and user-friendly amenities that bolster Sentosa as an inclusive and family-friendly destination.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
+<h4>Drone Food Delivery</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/LactationPods.jpg" />
+        </figure>
+    </div>
+	<div class="col is-6">
+        <p>
+            <h5 style="margin-top:0;">ST Engineering Aerospace Ltd</h5>
+            <strong>Trial Period:</strong>Mar 2022 - Apr 2022
+            <ul>
+                <li>The use of drones to deliver food from Sentosa to Southern Islands.</li>
+                <li>This trial explores options in circumventing the operating constraints of providing F&B options for visitors and staff on the Southern Islands.</li>
             </ul>
         </p>
     </div>

@@ -1,103 +1,9 @@
 ---
-title: 'Sentosa X Enterprise'
-permalink: /partner-us/sentosa-enterprise/
-breadcrumb: 'Sentosa X Enterprise'
-
+title: Ongoing | Past Trials
+permalink: /partner-us/Sentosa-X-Enterprise/OngoingPastTrials/
+description: ""
+third_nav_title: Sentosa X Enterprise
 ---
-
-<div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mHbNxeorbvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-Sentosa X Enterprise was launched in April 2019, as part of Sentosa Development Corporation (SDC)'s continued commitment to enhance the island's diverse array of unique leisure offerings.
-
-Aimed at driving innovation among local enterprises, Sentosa X Enterprise will create opportunities to test bed unique ideas, concepts, and technologies, while leveraging the holiday island's geographical attributes and environment.
-
-### Innovation Focus
-The focus areas include Connectivity, Experience, Sustainability and Digital, as outlined below. Click <a href="#example-of-ideas">here</a> to see examples of ideas.
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/partner-us/enterprise/icons/12_cycling.png" alt="Connectivity">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Connectivity</p>
-        <br> Enhance navigation and make intra-island commute more fun and/or convenient
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/partner-us/enterprise/icons/20_sightseeing.png" alt="Experience">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Experience</p>
-        <br> Novel offerings to accentuate our island's ridge-reef landscape and encourage night visitorship
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/partner-us/enterprise/icons/01_peacock.png" alt="Sustainability">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Sustainability</p>
-        <br> Initiatives to maintain Sentosa's biodiversity and manage waste and resources
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/partner-us/enterprise/icons/07_segway.png" alt="Digital">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Digital</p>
-        <br> Technologies to enhance integrated guest experiences, productivity and security in management of the island's operations and assets
-    </div>
-</div>
-
-### How It Works
-
-Sentosa X Enterprise offers a win-win partnership, where innovators and enterprises benefit from a risk-sharing arrangement while working on projects that could boost Sentosa's vibrancy and attractiveness.
-
-Sentosa island is being offered as a testbed venue to innovators and enterprises to bring innovative or novel ideas, concepts or technology that require proof-of-concept.
-
-In addition to facilitation support, proposals will be reviewed for eligibility for funding under relevant government schemes, subject to criteria and qualifying costs.
-
-For more information on STB's funds, click <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html" target="_blank">here</a>.
-
-For more information on ESG's funds, click <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants" target="_blank">here</a>.
-
-![Image of Win-Win model](/images/partner-us/enterprise/win-win-revised2.png)
-
-### How To Apply
-
-#### Application
-
-Applications are open all year round. Those interested in being a part of Sentosa x Enterprise can fill in your details <a href="https://form.gov.sg/5cab194e241e960017305fa1" target="_blank">here</a>, or scan the QR code below. Alternatively, you can download the application form <a href="/files/partner-us/enterprise/SES-Application-Form-updated-29Jan2020.pdf" target="_blank">here</a>.
-
-<div class="row">
-    <div class="col is-4">
-    </div>
-    <div class="col is-4">
-        <img src="/images/partner-us/enterprise/QR_code_application.png" alt="QR code">
-    </div>
-     <div class="col is-4">
-    </div>
-</div>
-
-#### Evaluation Criteria
-
-1. How the project can drive island visitorship, spending, enhance guest satisfaction and support Sentosa's drive for sustainability.
-
-2. How the project can be scaled up for commercialisation and contribute to Singapore's tourism and hospitality industry.
-
-2. How innovative/novel the concepts are, and feasibility of these concepts for implementation on the island.
-
-#### Available Grants
-
-Proposals will be reviewed for eligibility for funding under relevant government schemes, subject to criteria and qualifying costs.
-
 ### Ongoing / Past Trials
 SDC has always been working with partners to trial new ideas on Sentosa Island. Some past and ongoing trials are listed here.
 
@@ -105,38 +11,48 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/partner-us/enterprise/icons/12_cycling.png" alt="Connectivity">
+        <img src="/images/partner-us/enterprise/icons/20_sightseeing.png" alt="Experience">
     </div>
     <div class="col is-8">
-      <p class="title is-4"><h2>Connectivity</h2></p>
+      <p class="title is-4"><h2>Experience</h2></p>
     </div>
 </div>
 
-<h4>Autonomous Shuttle Trials</h4>
+<h4>Lactation Pods</h4>
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/auto_shuttle.jpg" alt="Image of Autonomous Shuttle Trials" />
+					<img src="/images/partner-us/collaborations/LactationPods.jpg" />
         </figure>
     </div>
-    <div class="col is-6">
+	<div class="col is-6">
         <p>
-            <h5 style="margin-top:0;">ST Engineering Land Systems & Ministry of Transport</h5>
-            <strong>Trial Period:</strong> October 2017 - December 2019
+            <h5 style="margin-top:0;">Go!Mama</h5>
+            <strong>Trial Period:</strong> December 2021 – June 2022
             <ul>
-                <li>As part of Singapore's Smart Nation drive, we facilitated the test-bed of driverless shuttles on the island. </li>
-                <li>During the public trial, guests had the chance to try out the on-demand autonomous shuttle buses to get around the island.</li>
+                <li>Free-standing, tech-enabled lactation pods for breastfeeding mothers to nurse their children across four locations on Sentosa.</li>
+                <li>The pilot exemplifies our commitment to providing innovative and user-friendly amenities that bolster Sentosa as an inclusive and family-friendly destination.</li>
             </ul>
         </p>
     </div>
 </div>
 
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/partner-us/enterprise/icons/20_sightseeing.png" alt="Experience">
+<h4>Drone Food Delivery</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+					<img src="/images/partner-us/collaborations/DroneFoodDelivery.jpg" />
+        </figure>
     </div>
-    <div class="col is-8">
-      <p class="title is-4"><h2>Experience</h2></p>
+	<div class="col is-6">
+        <p>
+            <h5 style="margin-top:0;">ST Engineering Aerospace Ltd</h5>
+            <strong>Trial Period:</strong> March 2022 - April 2022
+            <ul>
+                <li>The use of drones to deliver food from Sentosa to Southern Islands.</li>
+                <li>This trial explores options in circumventing the operating constraints of providing F&B options for visitors and staff on the Southern Islands.</li>
+            </ul>
+        </p>
     </div>
 </div>
 
@@ -179,6 +95,35 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
         </p>
     </div>
 </div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/partner-us/enterprise/icons/12_cycling.png" alt="Connectivity">
+    </div>
+    <div class="col is-8">
+      <p class="title is-4"><h2>Connectivity</h2></p>
+    </div>
+</div>
+
+<h4>Autonomous Shuttle Trials</h4>
+<div class="row reverse-row-order">
+    <div class="col is-offset-1 is-5">
+        <figure style="margin:0;">
+            <img src="/images/partner-us/enterprise/auto_shuttle.jpg" alt="Image of Autonomous Shuttle Trials" />
+        </figure>
+    </div>
+    <div class="col is-6">
+        <p>
+            <h5 style="margin-top:0;">ST Engineering Land Systems & Ministry of Transport</h5>
+            <strong>Trial Period:</strong> October 2017 - December 2019
+            <ul>
+                <li>As part of Singapore's Smart Nation drive, we facilitated the test-bed of driverless shuttles on the island. </li>
+                <li>During the public trial, guests had the chance to try out the on-demand autonomous shuttle buses to get around the island.</li>
+            </ul>
+        </p>
+    </div>
+</div>
+
 
 <div class="row">
     <div class="col is-4">

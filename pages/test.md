@@ -3,9 +3,13 @@ title: test
 permalink: /testttttttt/
 description: ""
 ---
+
 ### **Table of Contents**
-
-
+```
+{: .no_toc}
+- TOC
+{:toc}
+```
 ### **Unique Leisure Experiences**
 Catering to different facades of fun, Sentosa’s development plans are carved out into different zones, each with its unique characteristics and cater to the diverse needs of our guests. SDC also continues to strengthen Sentosa’s ‘always on’ calendar of events to create year-round buzz on The State of Fun. From festive celebrations to signature events such as Sentosa FunFest, Sentosa GrillFest, Sentosa Sandsation and the year-end Siloso Beach Party, we aim give our visitors more reasons to visit Sentosa, time and again.
 

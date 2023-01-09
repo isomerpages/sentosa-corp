@@ -41,5 +41,5 @@ Sentosa continually strives to enhance its level of service to offer our guests 
 
 * Service: Serve from the heart and enjoy it!
 * Teamwork: Care for one another & build trust and respect
-* Acting: with Integrity Be professional and honest
+* Acting with Integrity: Be professional and honest
 * Results-Oriented: Be innovative and decisive to make things happen

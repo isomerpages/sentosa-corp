@@ -1,12 +1,16 @@
 ---
 title: Our Long-Term Ambitions
-permalink: /what-we-do/sustainable-sentosa/our-ambitions
+permalink: /what-we-do/sustainable-sentosa/our-ambitions/
 third_nav_title: Sustainable Sentosa
 ---
 ### **Our Ambitions**
 The Sentosa community will focus on six key areas to achieve the island's dual goals of achieving carbon neutrality by 2030 and becoming a globally recognised, certified sustainable tourism destination.
 
+In 2022, SDC was conferred the Global Sustainable Tourism Council – For Destinations (GSTC-D) certificate, affirming the organisation’s strong push for collective and collaborative whole-of-island efforts towards achieving a more sustainable Sentosa.
+
 <img src="/images/what-we-do/sustainable-sentosa/infographic.jpg" alt="Image of Infographic"/>
+
+**information correct as of  17 September 2021**
 
 ### **Sustainability Awards**
 

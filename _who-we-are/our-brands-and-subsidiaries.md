@@ -5,14 +5,18 @@ breadcrumb: Our Brands and Subsidiaries
 ---
 ### **Sentosa - Where Discovery Never Ends**
 
-![Image of Sentosa SOF logo](/images/who-we-are/our-brands/SENTOSA_SOF_LOGO_ORANGE.png)
-  
+
+
+![Image of Sentosa logo](/images/who-we-are/our-brands/sentosa_logonew.png)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gprw9KKS32s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Sentosa unveiled the tagline - The State of Fun in May 2014, in a significant move aimed at positioning Singapore’s iconic resort destination as the capital of fun for everyone.
+Sentosa unveiled the tagline - 'Where discovery never ends' in Jan 2023, in a significant move aimed at offering both local and international guests new ways of discovering new experiences and celebrating connections on Sentosa.
 
-The campaign is created to refresh the popular island resort’s brand image and heighten its emotional connection with Singaporeans and foreign guests, as they come to the island to enjoy its many leisure offerings and build fun memories with their friends and families.
-The brand tagline The State of Fun forms the basis for the island’s marketing communications, from the promotion of its attractions, events and programming to its service delivery style.
+The new brand identity sees the island taking centre stage and reflects Sentosa’s efforts to better connect with its audiences through leisure experiences that play up the island’s natural attributes, while offering guests a breadth of moments and emotions for them to discover on their own.
+
+The new tagline draws inspiration from the island’s many unexpected sights, sounds, and experiences and conveys a promise of the myriad of offerings and sense of renewed self that awaits its guests to discover and experience, with every visit.
 
 To find out more, please visit [www.sentosa.com.sg](https://www.sentosa.com.sg){:target="_blank"}.
 

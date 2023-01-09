@@ -7,7 +7,7 @@ breadcrumb: Overview
 
 Formerly a fishing village and British military base during World War II, Sentosa (meaning peace and tranquillity in Malay), was transformed into an idyllic island resort in 1972 as a recreational space for Singaporeans to enjoy. Today, Sentosa has become a premier leisure destination welcoming both local and international visitors from all around the world. 
 
-This 500-hectare resort island is home to an exciting array of themed attractions, award-winning spa retreats and resort accommodation, alongside lush greenery, golden sandy beaches, world-renowned championship golf courses and even a deep-water yachting marina and luxury residences - making it a compelling destination for business and leisure for millions of visitors from all around the world. Making Sentosa its home, too, is Singapore’s first integrated resort, Resorts World Sentosa, which operates Southeast Asia’s first Universal Studios theme park.
+This 500-hectare resort island is home to an exciting array of themed attractions, award-winning spa retreats and resort accommodation, alongside lush greenery, golden sandy beaches, world-renowned championship golf courses and even a deep-water yachting marina and luxury residences - making it a compelling destination for business and leisure for millions of visitors from all around the world. Sentosa is also home to Singapore’s first integrated resort, Resorts World Sentosa, which operates Southeast Asia’s first Universal Studios theme park.
 
 ![Image of Sentosa]({{"/images/who-we-are/overview/new-about-us-overview.jpg" | absolute_url}})
 

@@ -39,7 +39,7 @@ To create and deliver the One-Sentosa Experience through outstanding service and
 ##### **Sentosa STAR Values**
 Sentosa continually strives to enhance its level of service to offer our guests a memorable experience at The State of Fun. The Sentosa STAR values reflect our commitment in providing service from the heart.
 
-* Service: Serve from the heart and enjoy it!
+* Service: Serve from the heart and enjoy it
 * Teamwork: Care for one another & build trust and respect
 * Acting with Integrity: Be professional and honest
 * Results-Oriented: Be innovative and decisive to make things happen

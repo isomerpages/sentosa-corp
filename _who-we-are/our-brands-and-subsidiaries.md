@@ -1,9 +1,9 @@
 ---
 title: Our Brands and Subsidiaries
-permalink: /who-we-are/our-brands-and-subsidiaries
+permalink: /who-we-are/our-brands-and-subsidiaries/
 breadcrumb: Our Brands and Subsidiaries
 ---
-### **Sentosa - The State of Fun**
+### **Sentosa - Where Discovery Never Ends**
 
 ![Image of Sentosa SOF logo](/images/who-we-are/our-brands/SENTOSA_SOF_LOGO_ORANGE.png)
   

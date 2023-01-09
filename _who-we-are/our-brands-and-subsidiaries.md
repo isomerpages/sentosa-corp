@@ -10,7 +10,7 @@ breadcrumb: Our Brands and Subsidiaries
 ![Image of Sentosa logo](/images/who-we-are/our-brands/sentosa_logonew.png)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gprw9KKS32s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjp7TjlayCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Sentosa unveiled the tagline - 'Where discovery never ends' in Jan 2023, in a significant move aimed at offering both local and international guests new ways of discovering new experiences and celebrating connections on Sentosa.
 

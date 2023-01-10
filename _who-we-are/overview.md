@@ -20,9 +20,9 @@ Unique among leisure destinations, Sentosa is situated on the fringe of Singapor
 
 Sentosa Development Corporation (SDC) was established on 1 September 1972 as a Statutory Board under the Ministry of Trade and Industry. Its charter since inception has been to oversee the development, management, marketing and promotion of the island of Sentosa as a resort destination for locals and tourists. 
 
-As part of its business subsidiaries, SDC oversees Sentosa Cove, Sentosa Golf Club and Mount Faber Leisure Group. SDC also owns Singapore’s only cable car sky network which connects from mainland Singapore to Sentosa and across the island to its western end at Siloso Point. 
+As part of its business subsidiaries, SDC wholly owns Sentosa Cove Resort Management Pte Ltd and Sentosa Golf Club Pte Ltd. SDC also owns the Singapore Cable Car Network, managed by Mount Faber Leisure Group Pte Ltd, a wholly owned subsidiary which operates as an autonomous commercial arm. 
 
-Situated on the eastern end of Sentosa Island, Sentosa Cove, is an exclusive oceanwaterfront and residential enclave bustling with some 2,500 homes, quayside restaurants, retail and specialty shops. The island is also proud to be home to Sentosa Golf Club and its two acclaimed golf courses, The Serapong and The New Tanjong, with a number of high-profile professional and amateur tournaments being hosted at the club, including the Singapore Open and HSBC Women’s World Championship.
+Situated on the eastern end of Sentosa Island, Sentosa Cove, is an exclusive oceanwaterfront and residential enclave bustling with some 2,500 homes, quayside restaurants, retail and specialty shops. The island is also proud to be home to Sentosa Golf Club and its two acclaimed golf courses, The Serapong and The New Tanjong, with a number of high-profile professional and amateur tournaments being hosted at the club, including the Singapore Open and HSBC Women’s World Championship. 
 
 As a testament to its commitment to sustainability, SDC has been conferred with the Global Sustainable Tourism Council – For Destinations (GSTC-D) certificate, making Sentosa the first island destination in Asia to receive this accolade.
 

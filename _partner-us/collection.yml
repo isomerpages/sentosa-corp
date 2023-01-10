@@ -2,7 +2,6 @@ collections:
   partner-us:
     output: true
     order:
-      - Spaces for Lease.md
       - Sentosa X Enterprise/.keep
       - Sentosa X Enterprise/Overview.md
       - Sentosa X Enterprise/Ongoing | Past Trials.md
@@ -10,3 +9,4 @@ collections:
       - Sentosa X Enterprise/How To Apply.md
       - collaborations.md
       - opportunities.md
+      - Spaces for Lease.md

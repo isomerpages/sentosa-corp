@@ -1,7 +1,7 @@
-title: 'Sentosa Development Corporation'
+title: Sentosa Development Corporation
 title-abbreviated: SDC
-description: 'Developing a Fun, Smart, and Sustainable Sentosa'
-url: 'https://www.sentosa.gov.sg'
+description: Developing a Fun, Smart, and Sustainable Sentosa
+url: https://www.sentosa.gov.sg
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 paginate: 12
@@ -10,7 +10,7 @@ custom_print_css_path: /assets/css/print.css
 resources_name: resources
 extra_javascript: myscript.js
 favicon: /images/favicon.ico
-google_analytics: null
+google_analytics: ""
 permalink: none
 baseurl: ""
 defaults:
@@ -19,19 +19,19 @@ defaults:
     values:
       layout: page
 colors:
-  primary-color: '#f48123'
-  secondary-color: '#f48123'
+  primary-color: "#f48123"
+  secondary-color: "#f48123"
   media-colors:
     - title: media-color-one
-      color: '#FFFFFF'
+      color: "#FFFFFF"
     - title: media-color-two
-      color: '#5C5CA5'
+      color: "#5C5CA5"
     - title: media-color-three
-      color: '#00878C'
+      color: "#00878C"
     - title: media-color-four
-      color: '#37BCEB'
+      color: "#37BCEB"
     - title: media-color-five
-      color: '#F8A909'
+      color: "#F8A909"
 staging: https://isomer-sentosa-staging.netlify.com
 plugins:
   - jekyll-feed
@@ -39,3 +39,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+linkedin-insights: ""

@@ -3,10 +3,10 @@ title: Ensuring sustainable development
 permalink: /eia-reports/
 ---
 <div>
-  <p>
+  <p style="text-align:justify;">
    Being Asia’s leading leisure destination, Sentosa is known for its diverse array of unique leisure experiences today, ranging from themed attractions, dining offerings and accommodation options to beaches and nature trails. As we move into the next phase of our development, we will build on this strong position to rejuvenate our offerings, including the rolling out the Sentosa-Brani Master Plan which will redevelop the two islands into a game-changing leisure and tourism destination. 
   </p>
-  <p>
+  <p style="text-align:justify;">
     An integral design principle of these plans is on sustainable development. Even as we refresh our offerings amid changing guest preferences and needs, we remain firmly committed to environmental sustainability and protecting our island charm, and will ensure that the plans are sensitive and authentic to our rich natural and cultural heritage.
   </p>
   <p>

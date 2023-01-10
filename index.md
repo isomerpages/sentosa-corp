@@ -1,17 +1,19 @@
 ---
 layout: homepage
-title: 'Sentosa Development Corporation'
+title: Sentosa Development Corporation
 permalink: /
 sections:
   - hero:
-      title: 'Sentosa Development Corporation.'
-      subtitle: 'Developing a Fun, Smart, and Sustainable Sentosa'
+      title: Sentosa Development Corporation.
+      subtitle: Developing a Fun, Smart, and Sustainable Sentosa
       background: /images/sentosa-banner.jpg
-      button: 'Learn More'
+      button: Learn More
       url: /who-we-are/overview
   - resources:
-      title: 'Be in the know'
+      title: Be in the know
       subtitle: Resources
-      button: 'More Resources'
+      button: More Resources
       url: resources/
+description: Developing a Fun, Smart, and Sustainable Sentosa
+image: /images/isomer-logo.svg
 ---

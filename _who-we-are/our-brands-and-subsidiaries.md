@@ -18,7 +18,7 @@ The new brand identity sees the island taking centre stage and reflects Sentosaâ
 
 The new tagline draws inspiration from the islandâ€™s many unexpected sights, sounds, and experiences and conveys a promise of the myriad of offerings and sense of renewed self that awaits its guests to discover and experience, with every visit.
 
-To find out more, please visit [www.sentosa.com.sg](https://www.sentosa.com.sg){:target="_blank"}.
+To find out more, please visit [https://www.sentosa.com.sg/discoveryneverends](https://www.sentosa.com.sg/discoveryneverends){:target="_blank"}
 
 ![Image of SGC logo](/images/who-we-are/our-brands/OurBrands-SentosaGolf.png)
 

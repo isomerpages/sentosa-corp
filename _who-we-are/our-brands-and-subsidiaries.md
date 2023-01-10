@@ -47,4 +47,4 @@ The brand offers countless memorable experiences close to the hearts of its gues
 To find out more, please visit https://www.mountfaberleisure.com/.
 {:target="_blank"}.
 
-SENTOSA and STATE OF FUN, amongst other marks, are registered trade marks of the Sentosa Development Corporation ("SDC") in Singapore and various other countries. SDC’s trade marks may not be reproduced by any means or in any form whatsoever without written permission from SDC.
+SENTOSA, amongst other marks, are registered trade marks of the Sentosa Development Corporation ("SDC") in Singapore and various other countries. SDC’s trade marks may not be reproduced by any means or in any form whatsoever without written permission from SDC.

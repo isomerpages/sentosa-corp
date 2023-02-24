@@ -13,9 +13,9 @@ description: ""
 
 | S/No. | Address | Property Type | Area (sq m) | Indicative Launch Date:| 
 | -------- | -------- | -------- | -------- | -------- |
-| 1. | 42 Imbiah Road, #01-02/03/04 | Text | Text| Text| 
-2.| 42 Imbiah Road, #01-K1| Text| Text| Text| 
-3.| 50 Beach View, #01-02| Text| Text| Text| 
+| 1. | 42 Imbiah Road, #01-02/03/04 | F&B | Text| Text| 
+2.| 42 Imbiah Road, #01-K1| F&B| Text| Text| 
+3.| 50 Beach View, #01-02| Convenience Store| Text| Text| 
 
 
 #### **Closed**

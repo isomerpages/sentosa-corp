@@ -19,3 +19,6 @@ description: ""
 
 
 #### **Closed**
+
+| S/No. | Address | Property Type | Area (sq m) | Submission Date:| 
+| -------- | -------- | -------- | -------- | -------- |

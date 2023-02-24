@@ -22,3 +22,4 @@ description: ""
 
 | S\No. | Address | Property Type | Area (sq m) | Submission Date:| 
 | -------- | -------- | -------- | -------- | -------- |
+|1. | NA | NA |NA| NA |

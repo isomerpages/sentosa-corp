@@ -9,7 +9,7 @@ custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 resources_name: resources
 extra_javascript: myscript.js
-favicon: /images/favicon.ico
+favicon: /images/SENTOSA-LOGO-FULL-COLOUR-RGB-300dpi.ico
 google_analytics: ""
 permalink: none
 baseurl: ""

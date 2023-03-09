@@ -1,5 +1,4 @@
 collections:
   sentosa-jubilee-time-capsule:
     output: true
-    order:
-      - Sentosa Jubilee Time Capsule.md
+    order: []

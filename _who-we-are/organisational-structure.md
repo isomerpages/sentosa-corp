@@ -76,34 +76,6 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsDianaEE-TAN.jpg" alt="Diana EE-Tan">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Diana EE-TAN</p>
-        <strong>Non-Executive Director </strong>
-        <br> Far East Orchard Limited
-        <br>
-        <strong>Vice-Chairman</strong>
-        <br> SHATEC Institutes Pte Ltd
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrEugeneHO.jpg" alt="Eugene HO">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Eugene HO</p>
-        <strong>Regional Managing Director</strong>
-        <br> Deloitte Consulting SEA
-        <br>
-        <strong>Chief Strategy & Innovation Officer</strong>
-        <br> Deloitte SEA & Deloitte Consulting Asia Pacific
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/Mariam_Jaafar.jpg" alt="Mariam JAAFAR">
     </div>
     <div class="col is-8">
@@ -176,6 +148,17 @@ breadcrumb: Organisational Structure
         <p class="title is-4">Keith TAN</p>
         <strong>Chief Executive</strong>
         <br> Singapore Tourism Board
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Ron_Tan1.png" alt="Keith TAN">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Ron TAN Aik Ti</p>
+        <strong>Executive Chairman and Group CEO</strong>
+        <br> NEON Group
     </div>
 </div>
 

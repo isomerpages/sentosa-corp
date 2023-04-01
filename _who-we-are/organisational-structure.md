@@ -32,7 +32,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ANGShihHuei.jpg" alt="ANG Shih-Huei ">
+        <img src="/images/who-we-are/organisational-structure/ANGShihHuei.jpg" alt="ANG Shih-Huei">
     </div>
     <div class="col is-8">
         <p class="title is-4">ANG Shih-Huei</p>
@@ -76,39 +76,11 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MsDianaEE-TAN.jpg" alt="Diana EE-Tan">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Diana EE-TAN</p>
-        <strong>Non-Executive Director </strong>
-        <br> Far East Orchard Limited
-        <br>
-        <strong>Vice-Chairman</strong>
-        <br> SHATEC Institutes Pte Ltd
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrEugeneHO.jpg" alt="Eugene HO">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Eugene HO</p>
-        <strong>Regional Managing Director</strong>
-        <br> Deloitte Consulting SEA
-        <br>
-        <strong>Chief Strategy & Innovation Officer</strong>
-        <br> Deloitte SEA & Deloitte Consulting Asia Pacific
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/Mariam_Jaafar.jpg" alt="Mariam JAAFAR">
     </div>
     <div class="col is-8">
         <p class="title is-4">Mariam JAAFAR</p>
-        <strong>Managing Director & Partner</strong>
+        <strong>Managing Director &amp; Partner</strong>
         <br> Boston Consulting Group
     </div>
 </div>
@@ -142,7 +114,7 @@ breadcrumb: Organisational Structure
     <div class="col is-8">
         <p class="title is-4">Andrew LIM</p>
         <strong>Partner</strong>
-        <br> Allen & Gledhill LLP
+        <br> Allen &amp; Gledhill LLP
     </div>
 </div>
 
@@ -176,6 +148,17 @@ breadcrumb: Organisational Structure
         <p class="title is-4">Keith TAN</p>
         <strong>Chief Executive</strong>
         <br> Singapore Tourism Board
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Keith TAN">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Ron TAN Aik Ti</p>
+        <strong>Executive Chairman and Group CEO</strong>
+        <br> NEON Group
     </div>
 </div>
 
@@ -228,7 +211,7 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">CHAN Beng Kiat</p>
-        <strong>Divisional Director, Architecture & Land Planning</strong>
+        <strong>Divisional Director, Architecture &amp; Land Planning</strong>
     </div>
 </div>
 
@@ -278,7 +261,7 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">Linda LEE</p>
-        <strong>Divisional Director, Human Resource & Administration</strong>
+        <strong>Divisional Director, Human Resource &amp; Administration</strong>
     </div>
 </div>
 
@@ -299,7 +282,7 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">Raymond YEO</p>
-        <strong>Divisional Director, Finance & Procurement</strong>
+        <strong>Divisional Director, Finance &amp; Procurement</strong>
     </div>
 </div>
 

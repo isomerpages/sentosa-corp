@@ -177,7 +177,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/soon_poh.png" alt="Michael MA">
+        <img src="/images/who-we-are/organisational-structure/soon_poh.png" alt="HEAH Soon Poh">
     </div>
     <div class="col is-8">
         <p class="title is-4">HEAH Soon Poh</p>

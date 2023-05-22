@@ -23,4 +23,5 @@ description: ""
 | -------- | -------- | -------- | -------- | -------- |
 |1. |1 Cove Avenue #02-02, Singapore 098537 | Office/Retail/Clinic |84.74| 9 May 2023 |
 
-For general enquiries on spaces for lease, you can reach us at leasing@sentosa.gov.sg
+
+###### For general enquiries on spaces for lease, you can reach us at leasing@sentosa.gov.sg

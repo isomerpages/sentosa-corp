@@ -10,7 +10,7 @@ breadcrumb: Our Brands and Subsidiaries
 ![Image of Sentosa logo](/images/who-we-are/our-brands/sentosa_logonew.png)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kjp7TjlayCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjp7TjlayCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Sentosa unveiled the tagline - 'Where discovery never ends' in Jan 2023, in a significant move aimed at offering both local and international guests new ways of discovering new experiences and celebrating connections on Sentosa.
 
@@ -38,13 +38,12 @@ To find out more, please visit [www.sentosacove.com](https://www.sentosacove.com
 
 ![Image of 1FG](/images/who-we-are/subsidiaries/Mount_Faber_Leisure_logo_2021.png) 
 
-Mount Faber Leisure is one of Singapore’s leading operators of a suite of leisure and lifestyle services, including attractions, guided tours, event venues, souvenir and lifestyle outlets as well as F&B concepts. The company’s portfolio of products and services include the Singapore Cable Car, Wings of Time, SkyHelix Sentosa, Sentosa Island Bus Tour, Gai Gai Tour, Mount Faber Peak, Arbora Hilltop Garden & Bistro, Arbora Café, Dusk Restaurant & Bar, Good Old Days Food Court & Western Grill, FUN Shop, Cable Car Gift Shop, and Faber Licence membership programme.
+Mount Faber Leisure is one of Singapore’s leading operators of a suite of leisure and lifestyle services, including attractions, guided tours, event venues, souvenir and lifestyle outlets as well as F&amp;B concepts. The company’s portfolio of products and services include the Singapore Cable Car, Wings of Time, SkyHelix Sentosa, Sentosa Island Bus Tour, Gai Gai Tour, Mount Faber Peak, Arbora Hilltop Garden &amp; Bistro, Arbora Café, Dusk Restaurant &amp; Bar, Good Old Days Food Court &amp; Western Grill, FUN Shop, Cable Car Gift Shop, and Faber Licence membership programme.
 
 Spanning across the hilltop at Mount Faber and Sentosa Island, the brand’s offerings are linked by the Singapore Cable Car Sky Network of six stations on two main lines – the Mount Faber Line that connects mainland Singapore to the resort island of Sentosa, and the Sentosa Line that connects to the island’s western end at the Siloso Point. 
 
 The brand offers countless memorable experiences close to the hearts of its guests, offering a delightful escape on the prominent location at the hilltop of Mount Faber Park that spans across to the blue sea and sandy beaches, with sunshine and happiness radiating through the warm service of its friendly staff. 
 
-To find out more, please visit https://www.mountfaberleisure.com/.
-{:target="_blank"}.
+To find out more, please visit [https://www.mountfaberleisure.com](https://www.mountfaberleisure.com)
 
 SENTOSA, amongst other marks, are registered trade marks of the Sentosa Development Corporation ("SDC") in Singapore and various other countries. SDC’s trade marks may not be reproduced by any means or in any form whatsoever without written permission from SDC.

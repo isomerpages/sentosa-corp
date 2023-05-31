@@ -44,6 +44,6 @@ Spanning across the hilltop at Mount Faber and Sentosa Island, the brand’s off
 
 The brand offers countless memorable experiences close to the hearts of its guests, offering a delightful escape on the prominent location at the hilltop of Mount Faber Park that spans across to the blue sea and sandy beaches, with sunshine and happiness radiating through the warm service of its friendly staff. 
 
-To find out more, please visit [https://www.mountfaberleisure.com](https://www.mountfaberleisure.com)
+To find out more, please visit [https://www.mountfaberleisure.com](https://www.mountfaberleisure.com){:target="_blank"}.
 
 SENTOSA, amongst other marks, are registered trade marks of the Sentosa Development Corporation ("SDC") in Singapore and various other countries. SDC’s trade marks may not be reproduced by any means or in any form whatsoever without written permission from SDC.

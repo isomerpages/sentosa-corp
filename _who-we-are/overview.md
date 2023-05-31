@@ -28,7 +28,7 @@ As a testament to its commitment to sustainability, SDC has been conferred with 
 
 
 
-### **Vision, Mission & Values**
+### **Vision, Mission &amp; Values**
 
 ##### **Vision**
 To be the world’s best loved leisure and lifestyle resort destination
@@ -37,9 +37,9 @@ To be the world’s best loved leisure and lifestyle resort destination
 To create and deliver the One-Sentosa Experience through outstanding service and world class offerings
 
 ##### **Sentosa STAR Values**
-Sentosa continually strives to enhance its level of service to offer our guests a memorable experience at The State of Fun. The Sentosa STAR values reflect our commitment in providing service from the heart.
+Sentosa continually strives to enhance its level of service to offer our guests a memorable experience. The Sentosa STAR values reflect our commitment in providing service from the heart.
 
 * Service: Serve from the heart and enjoy it
-* Teamwork: Care for one another & build trust and respect
+* Teamwork: Care for one another &amp; build trust and respect
 * Acting with Integrity: Be professional and honest
 * Results-Oriented: Be innovative and decisive to make things happen

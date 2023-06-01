@@ -131,6 +131,17 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/melissa_ow.png" alt="Melissa Ow">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Melissa OW</p>
+        <strong>Chief Executive</strong>
+        <br> Singapore Tourism Board
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/Michael_Syn.jpg" alt="Michael SYN">
     </div>
     <div class="col is-8">
@@ -146,8 +157,8 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">Keith TAN</p>
-        <strong>Chief Executive</strong>
-        <br> Singapore Tourism Board
+        <strong>Deputy Secretary (Industry) (Designate)</strong>
+        <br> Ministry of Trade and Industry
     </div>
 </div>
 

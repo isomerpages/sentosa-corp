@@ -92,7 +92,7 @@ We at Sentosa Development Corporation ("SDC”) are committed to protecting info
 
 6.4 Where your personal data is to be transferred out of Singapore, we will take appropriate steps to ascertain that the foreign recipient organisation of the personal data is bound by legally enforceable obligations to provide to the transferred personal data a standard of protection that is at least comparable to the data protection standards that SDC is subject to. This may include us entering into an appropriate contract with the foreign recipient organisation dealing with the personal data transfer or permitting the personal data transfer without such a contract if it is lawful for us to do so.
 
-##### **7 COOKIES AND OTHER TECHNOLOGIES**
+##### **7. COOKIES AND OTHER TECHNOLOGIES**
 
 7.1 When you visit any of our websites (e.g. www.sentosa.com.sg), we will automatically collect your IP address and store cookies on your browser in order to operate and facilitate your access to our websites as well as to ensure system stability and efficiency and to implement proper safeguards as to the security of our websites and services. The personal data collected as a result is necessary to operate and facilitate your access to our websites, or to fulfil our legitimate interest with regards to our use of technical information to enhancing our systems, making your usage of the websites more convenient or ensuring the security of our websites. This is based on our legitimate interest as the data used for these purposes are stored for a limited period only and we are generally not able to personally identify the user without larger efforts. We will not store cookies longer than is necessary for the abovementioned purposes, unless the user clears their cookies.
 

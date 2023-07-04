@@ -148,6 +148,8 @@ Where you are a resident in the EU, you may have certain rights under the GDPR i
 
  ##### **10. GENERAL INFORMATION**
  
+ ##### **10. GENERAL INFORMATION** 
+ 
 10.1 As part of our efforts to ensure that we properly manage, protect and process your personal data, we will be reviewing our policies, procedures and processes from time to time.
 
 10.2 We reserve the right to amend the terms of this Personal Data Protection Policy at our absolute discretion for reasons including but not limited to complying with the applicable Singapore legislation, Singapore Government guidelines, regulatory directions and other requirements of similar nature. Any amended Personal Data Protection Policy will be posted on our website and can be viewed at http://www.sentosa.com.sg/en/data-protection-policy/.

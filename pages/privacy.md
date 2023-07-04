@@ -106,7 +106,7 @@ We at Sentosa Development Corporation ("SDC”) are committed to protecting info
 
 7.6 Our website may allow third parties to download cookies to your device. Third parties, such as analytics firms and business partners, may use cookies and other technologies to collect non-personal data about your online activities while you are on our website. This information may be used to measure usage of our website and personalize advertising content on our website. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy. Please refer to the privacy policies of those third parties to better understand their activities and practices.
 
-##### **8.COMPLAINT PROCESS**
+##### **8. COMPLAINT PROCESS**
 
 8.1 If you have any complaint or grievance regarding about how we are handling your personal data, we welcome you to contact us with your complaint or grievance.
 

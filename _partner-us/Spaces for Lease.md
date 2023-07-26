@@ -7,7 +7,7 @@ description: ""
 
 | S\No. | Address | Property Type | Area (sq m) | Launch Date: | Submission Date: | Site Showround | Request for information |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
- | 1. |  42 Imbiah Road, #01-K1 | F&B | 88.7 | 24-May-2023 | 29-July-2023 | Upon request | [Register interest here](https://form.gov.sg/6466e2cbd8d5b300130fb587)
+ | 1. |  42 Imbiah Road, #01-K1 | F&B | 88.7 | 24-May-2023 | 28-July-2023 | Upon request | [Register interest here](https://form.gov.sg/6466e2cbd8d5b300130fb587)
 
 #### **Upcoming**
 

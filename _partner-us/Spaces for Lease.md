@@ -8,6 +8,7 @@ description: ""
 | S\No. | Address | Property Type | Area (sq m) | Launch Date: | Submission Date: | Site Showround | Request for information |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
   | 1. |  31 Beach Road, Level 2 Space & #03-01 | Edutainment & School Facility | 715.2 | 31-July-2023 | 11-September-2023 | Upon request | [Register interest here](https://form.gov.sg/64c2361ecbb9630011a7e923)
+| 2. | 42 Imbiah Road, #01-02/03/04 | F&B | 77.3 (incl. ORA | 4-August-2023 |1-September-2023 | Upon request | -------- |
 
 #### **Upcoming**
 

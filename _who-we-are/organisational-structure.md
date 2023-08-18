@@ -65,17 +65,6 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Adrian_Chua.jpg" alt="Adrian CHUA">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Adrian CHUA</p>
-        <strong>Deputy Secretary (Industry)</strong>
-        <br> Ministry of Trade and Industry
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/Mariam_Jaafar.jpg" alt="Mariam JAAFAR">
     </div>
     <div class="col is-8">

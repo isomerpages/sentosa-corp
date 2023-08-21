@@ -12,8 +12,8 @@ description: ""
 
 #### **Upcoming**
 
-| S\No. | Address | Property Type | Area (sq m) | Indicative Launch Date:| 
-| -------- | -------- | -------- | -------- | -------- |
+| S\No. | Address | Property Type | Area (sq m) | Indicative Launch Date:
+| -------- | -------- | -------- | -------- | -------- 
 
 
 

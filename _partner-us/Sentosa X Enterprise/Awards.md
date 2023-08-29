@@ -1,6 +1,6 @@
 ---
 title: Awards
-permalink: /partner-us/Sentosa-X-Enterprise/awards/
+permalink: /partner-us/sentosa-x-enterprise/awards/
 description: ""
 third_nav_title: Sentosa X Enterprise
 ---

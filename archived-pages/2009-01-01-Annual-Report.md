@@ -3,7 +3,7 @@
 layout: post
 title:  FY 2008/2009
 date:   2009-01-01
-permalink: /resources/annual-reports/FY0809
+permalink: /resources/annual-reports/fy0809/
 ---
 -->
 

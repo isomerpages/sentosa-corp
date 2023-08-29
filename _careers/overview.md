@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /careers/life-in-sentosa
+permalink: /careers/life-in-sentosa/
 breadcrumb: 'life in sentosa - Overview'
 
 ---

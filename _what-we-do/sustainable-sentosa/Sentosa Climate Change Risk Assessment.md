@@ -1,6 +1,6 @@
 ---
 title: Sentosa Climate Change Risk Assessment
-permalink: /what-we-do/sustainable-sentosa/sentosa-climate-change-risk-assessment
+permalink: /what-we-do/sustainable-sentosa/sentosa-climate-change-risk-assessment/
 description: ""
 third_nav_title: Sustainable Sentosa
 ---

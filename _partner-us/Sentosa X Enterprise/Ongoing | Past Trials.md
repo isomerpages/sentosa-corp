@@ -1,6 +1,6 @@
 ---
 title: Ongoing | Past Trials
-permalink: /partner-us/Sentosa-X-Enterprise/OngoingPastTrials/
+permalink: /partner-us/sentosa-x-enterprise/ongoingpasttrials/
 description: ""
 third_nav_title: Sentosa X Enterprise
 ---

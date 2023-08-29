@@ -1,6 +1,6 @@
 ---
 title: How To Apply
-permalink: /partner-us/Sentosa-X-Enterprise/howtoapply/
+permalink: /partner-us/sentosa-x-enterprise/howtoapply/
 description: ""
 third_nav_title: Sentosa X Enterprise
 ---

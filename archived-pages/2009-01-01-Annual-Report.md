@@ -9,5 +9,5 @@ permalink: /resources/annual-reports/fy0809/
 
 <div id="archivedContent">
 # **Financial Report**
-[PDF](/files/resources/annual-reports/Sentosa_AR_0809_Financial_Report.pdf)
+[PDF](/files/resources/annual-reports/sentosa_ar_0809_financial_report.pdf)
 </div>

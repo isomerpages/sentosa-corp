@@ -22,7 +22,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-					<img src="/images/partner-us/collaborations/LactationPods.jpg" />
+					<img src="/images/partner-us/collaborations/lactationpods.jpg" />
         </figure>
     </div>
 	<div class="col is-6">
@@ -41,7 +41,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-					<img src="/images/partner-us/collaborations/DroneFoodDelivery.jpg" />
+					<img src="/images/partner-us/collaborations/dronefooddelivery.jpg" />
         </figure>
     </div>
 	<div class="col is-6">
@@ -81,7 +81,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/EGC.png" alt="Wartime Food and Sustainability Workshop" />
+            <img src="/images/partner-us/enterprise/egc.png" alt="Wartime Food and Sustainability Workshop" />
         </figure>
     </div>
     <div class="col is-6">
@@ -158,7 +158,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/Waste_Management_Sensor.png" alt="Image of Waste Management Sensor" />
+            <img src="/images/partner-us/enterprise/waste_management_sensor.png" alt="Image of Waste Management Sensor" />
         </figure>
     </div>
     <div class="col is-6">
@@ -205,7 +205,7 @@ For each of the initiatives, SDC has provided venue and facilitation support to 
 <div class="row reverse-row-order">
     <div class="col is-offset-1 is-5">
         <figure style="margin:0;">
-            <img src="/images/partner-us/enterprise/Swipe_Wifi.png" alt="Image of Swipe WiFi Marketing Cards" />
+            <img src="/images/partner-us/enterprise/swipe_wifi.png" alt="Image of Swipe WiFi Marketing Cards" />
         </figure>
     </div>
     <div class="col is-6">

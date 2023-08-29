@@ -8,7 +8,7 @@ third_nav_title: Sentosa X Enterprise
 
 <div class="row">
     <div class="col is-6">
-       <img src="/images/partner-us/collaborations/PEP-SBF.jpg" />
+       <img src="/images/partner-us/collaborations/pep-sbf.jpg" />
     </div>
     <div class="col is-6">
         <p>The PEP-SBF Awards celebrates and recognises the public and private sectors’ contributions towards a pro-enterprise regulatory environment.</p>

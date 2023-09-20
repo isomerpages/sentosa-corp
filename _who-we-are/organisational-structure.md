@@ -146,7 +146,7 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">Keith TAN</p>
-        <strong>Deputy Secretary (Industry) (Designate)</strong>
+        <strong>Deputy Secretary (Industry)</strong>
         <br> Ministry of Trade and Industry
     </div>
 </div>

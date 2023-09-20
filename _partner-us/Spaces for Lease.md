@@ -25,7 +25,7 @@ description: ""
 |1. |1 Cove Avenue #02-02, Singapore 098537 | Office/Retail/Clinic |84.74| 9 May 2023 |
 |2. | 50 Beach View, #01-01, Singapore 098064 | Convenience Store |65| 28 June 2023 |
 |3. | 42 Imbiah Road, #01-K1  | F&B |88.7| 28 July 2023 |
-|4. | 42 Imbiah Road, #01-02/03/04 | Desserts & Drinks F&B Unit |77.3| 5 September 2023  |
+|4. | 42 Imbiah Road, #01-02/03/04 | Desserts & Drinks F&B Unit |77.3| 15 September 2023  |
 
 
 ###### For general enquiries on spaces for lease, you can reach us at leasing@sentosa.gov.sg

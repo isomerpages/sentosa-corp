@@ -1,6 +1,6 @@
 ---
 title: 'Graduate Programme'
-permalink: /graduate-programme
+permalink: /graduate-programme/
 
 ---
 

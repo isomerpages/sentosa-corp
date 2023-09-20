@@ -6,7 +6,7 @@ breadcrumb: Organisational Structure
 ### **Board Members**
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrBobTANBengHai.jpg" alt="Bob TAN Beng Hai">
+        <img src="/images/who-we-are/organisational-structure/mrbobtanbenghai.jpg" alt="Bob TAN Beng Hai">
     </div>
     <div class="col is-8">
         <p class="title is-4">Bob TAN Beng Hai</p>
@@ -21,7 +21,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Thien-Kwee-Engupdated.jpg" alt="THIEN Kwee Eng">
+        <img src="/images/who-we-are/organisational-structure/thien-kwee-engupdated.jpg" alt="THIEN Kwee Eng">
     </div>
     <div class="col is-8">
         <p class="title is-4">THIEN Kwee Eng</p>
@@ -32,7 +32,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ANGShihHuei.jpg" alt="ANG Shih-Huei">
+        <img src="/images/who-we-are/organisational-structure/angshihhuei.jpg" alt="ANG Shih-Huei">
     </div>
     <div class="col is-8">
         <p class="title is-4">ANG Shih-Huei</p>
@@ -43,7 +43,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Angelene_Chan.jpg" alt="Angelene CHAN">
+        <img src="/images/who-we-are/organisational-structure/angelene_chan.jpg" alt="Angelene CHAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Angelene CHAN</p>
@@ -54,7 +54,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Guna_Chellappan.jpg" alt="Guna CHELLAPPAN">
+        <img src="/images/who-we-are/organisational-structure/guna_chellappan.jpg" alt="Guna CHELLAPPAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Guna CHELLAPPAN</p>
@@ -65,7 +65,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Mariam_Jaafar.jpg" alt="Mariam JAAFAR">
+        <img src="/images/who-we-are/organisational-structure/mariam_jaafar.jpg" alt="Mariam JAAFAR">
     </div>
     <div class="col is-8">
         <p class="title is-4">Mariam JAAFAR</p>
@@ -76,7 +76,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Board-Benjamin-King.jpg" alt="Benjamin Stewart KING">
+        <img src="/images/who-we-are/organisational-structure/board-benjamin-king.jpg" alt="Benjamin Stewart KING">
     </div>
     <div class="col is-8">
         <p class="title is-4">Benjamin Stewart KING</p>
@@ -87,7 +87,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Bod-Kevin-Kwok.jpg" alt="Kevin KWOK">
+        <img src="/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg" alt="Kevin KWOK">
     </div>
     <div class="col is-8">
         <p class="title is-4">Kevin KWOK</p>
@@ -109,7 +109,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Board-Geraldine-Low-updated.jpg" alt="Geraldine LOW">
+        <img src="/images/who-we-are/organisational-structure/board-geraldine-low-updated.jpg" alt="Geraldine LOW">
     </div>
     <div class="col is-8">
         <p class="title is-4">Geraldine LOW</p>
@@ -131,7 +131,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Michael_Syn.jpg" alt="Michael SYN">
+        <img src="/images/who-we-are/organisational-structure/michael_syn.jpg" alt="Michael SYN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael SYN</p>
@@ -142,11 +142,11 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrKeithTAN.jpg" alt="Keith TAN">
+        <img src="/images/who-we-are/organisational-structure/mrkeithtan.jpg" alt="Keith TAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Keith TAN</p>
-        <strong>Deputy Secretary (Industry) (Designate)</strong>
+        <strong>Deputy Secretary (Industry)</strong>
         <br> Ministry of Trade and Industry
     </div>
 </div>
@@ -167,7 +167,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrCHINSakHin.jpg" alt="CHIN Sak Hin">
+        <img src="/images/who-we-are/organisational-structure/mrchinsakhin.jpg" alt="CHIN Sak Hin">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHIN Sak Hin</p>
@@ -188,7 +188,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Set-Michael-Ma.jpg" alt="Michael MA">
+        <img src="/images/who-we-are/organisational-structure/set-michael-ma.jpg" alt="Michael MA">
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael MA</p>
@@ -198,7 +198,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Set-Mira-Bharin.jpg" alt="Mira BHARIN">
+        <img src="/images/who-we-are/organisational-structure/set-mira-bharin.jpg" alt="Mira BHARIN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Mira BHARIN</p>
@@ -208,7 +208,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Chan_Beng_Kiat.jpg" alt="CHAN Beng Kiat">
+        <img src="/images/who-we-are/organisational-structure/set_chan_beng_kiat.jpg" alt="CHAN Beng Kiat">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHAN Beng Kiat</p>
@@ -218,7 +218,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Set-Chew-Tiong-Heng.jpg" alt="CHEW Tiong Heng">
+        <img src="/images/who-we-are/organisational-structure/set-chew-tiong-heng.jpg" alt="CHEW Tiong Heng">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHEW Tiong Heng</p>
@@ -228,7 +228,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrKOHPiakHuat.jpg" alt="KOH Piak Huat">
+        <img src="/images/who-we-are/organisational-structure/mrkohpiakhuat.jpg" alt="KOH Piak Huat">
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH Piak Huat</p>
@@ -238,7 +238,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrLAMYueKwai.jpg" alt="LAM Yue Kwai">
+        <img src="/images/who-we-are/organisational-structure/mrlamyuekwai.jpg" alt="LAM Yue Kwai">
     </div>
     <div class="col is-8">
         <p class="title is-4">LAM Yue Kwai</p>
@@ -248,7 +248,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/LEEChehHsien.jpg" alt="LEE Cheh Hsien">
+        <img src="/images/who-we-are/organisational-structure/leechehhsien.jpg" alt="LEE Cheh Hsien">
     </div>
     <div class="col is-8">
         <p class="title is-4">LEE Cheh Hsien</p>
@@ -258,7 +258,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/MsLindaLEE.jpg" alt="Linda LEE">
+        <img src="images/who-we-are/organisational-structure/mslindalee.jpg" alt="Linda LEE">
     </div>
     <div class="col is-8">
         <p class="title is-4">Linda LEE</p>
@@ -269,7 +269,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/SET-Gary-Ng.jpg" alt="Gary NG">
+        <img src="images/who-we-are/organisational-structure/set-gary-ng.jpg" alt="Gary NG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>
@@ -279,7 +279,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SETRaymondYeo_cropped.png" alt="Raymond YEO">
+        <img src="/images/who-we-are/organisational-structure/setraymondyeo_cropped.png" alt="Raymond YEO">
     </div>
     <div class="col is-8">
         <p class="title is-4">Raymond YEO</p>
@@ -289,7 +289,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrAndyJOHNSTON.jpg" alt="Andy JOHNSTON">
+        <img src="/images/who-we-are/organisational-structure/mrandyjohnston.jpg" alt="Andy JOHNSTON">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andy JOHNSTON</p>

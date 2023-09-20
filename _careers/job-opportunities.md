@@ -1,6 +1,6 @@
 ---
 title: Job-Opportunities
-permalink: /careers/job-opportunities
+permalink: /careers/job-opportunities/
 breadcrumb: job-opportunities
 
 ---

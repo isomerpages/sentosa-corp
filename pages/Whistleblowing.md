@@ -1,6 +1,6 @@
 ---
 title: Whistleblowing
-permalink: /whistleblowing
+permalink: /whistleblowing/
 description: ""
 ---
 

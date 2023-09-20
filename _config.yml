@@ -32,7 +32,7 @@ colors:
       color: "#37BCEB"
     - title: media-color-five
       color: "#F8A909"
-staging: https://isomer-sentosa-staging.netlify.com
+staging: https://staging.d29kl86n3ggmdp.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

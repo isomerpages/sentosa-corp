@@ -1,6 +1,6 @@
 ---
 title: 1 - Sustainable Travel and Leisure Activities
-permalink: /what-we-do/sustainable-sentosa/our-focus-areas/1
+permalink: /what-we-do/sustainable-sentosa/our-focus-areas/1/
 third_nav_title: Sustainable Sentosa
 ---
 ### **Sustainable Travel and Leisure Activities**
@@ -27,7 +27,7 @@ Guests can also look forward to experiencing more leisure experiences with a low
 ### **Heritage Conservation** 
 As custodians of the island, SDC has the responsibility to protect its cultural assets through heritage conservation. These assets also serve to educate both local and overseas guests on the historical significance of Sentosa, including its military past which is still present throughout the island. 
 
-<img src="/images/what-we-do/sustainable-sentosa/MTSG.jpg" alt="Image of Madame Tussauds Singapore"/>	
+<img src="/images/what-we-do/sustainable-sentosa/mtsg.jpg" alt="Image of Madame Tussauds Singapore"/>	
 <figcaption>Before it became the iconic Madame Tussauds Singapore, the majestic white building located at Imbiah Lookout’s forecourt served as a hospital for British troops stationed on the island of Sentosa. </figcaption>
 
 SDC’s approach to heritage conservation includes the restoration of old buildings and injection of vibrancy into old building structures. By conserving the historical assets on the island, SDC managed to open free public access to the last preserved coastal Fort in Singapore and other new initiatives. SDC will continue to embark on heritage preservation efforts while keeping public safety in mind. 

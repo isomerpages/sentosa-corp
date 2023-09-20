@@ -20,7 +20,7 @@ The new tagline draws inspiration from the island’s many unexpected sights, so
 
 To find out more, please visit [https://www.sentosa.com.sg/discoveryneverends](https://www.sentosa.com.sg/discoveryneverends){:target="_blank"}
 
-![Image of SGC logo](/images/who-we-are/our-brands/OurBrands-SentosaGolf.png)
+![Image of SGC logo](/images/who-we-are/our-brands/ourbrands-sentosagolf.png)
 
 Considered by many as one of Asia's most exclusive golf clubs with two award-winning courses, Sentosa Golf Club (SGC) is a brand synonymous with allure and prestige. As one of the most established golf clubs in Singapore, Sentosa Golf Club has some 1,500 members, many of whom are prominent personalities.
 
@@ -28,7 +28,7 @@ The grounds of the Sentosa Golf Club provide golfers with the spectacular view o
 
 To find out more, please visit [www.sentosagolf.com](https://www.sentosagolf.com){:target="_blank"}.
 
-![Image of SCRM logo](/images/who-we-are/our-brands/OurBrands-SentosaCove.jpg)
+![Image of SCRM logo](/images/who-we-are/our-brands/ourbrands-sentosacove.jpg)
 
 The centerpiece of Singapore’s billion-dollar Master Plan for Sentosa Island, Sentosa Cove is the only  integrated oceanfront-marina resort development and one of the most coveted luxurious residential properties in Asia which offers more than 2,500 bungalows, hillside mansions and upscale condominiums.
 
@@ -36,7 +36,7 @@ Its brand is sleek and minimalist, exuding the simplicity and elegance of this p
 
 To find out more, please visit [www.sentosacove.com](https://www.sentosacove.com){:target="_blank"}.
 
-![Image of 1FG](/images/who-we-are/subsidiaries/Mount_Faber_Leisure_logo_2021.png) 
+![Image of 1FG](/images/who-we-are/subsidiaries/mount_faber_leisure_logo_2021.png) 
 
 Mount Faber Leisure is one of Singapore’s leading operators of a suite of leisure and lifestyle services, including attractions, guided tours, event venues, souvenir and lifestyle outlets as well as F&amp;B concepts. The company’s portfolio of products and services include the Singapore Cable Car, Wings of Time, SkyHelix Sentosa, Sentosa Island Bus Tour, Gai Gai Tour, Mount Faber Peak, Arbora Hilltop Garden &amp; Bistro, Arbora Café, Dusk Restaurant &amp; Bar, Good Old Days Food Court &amp; Western Grill, FUN Shop, Cable Car Gift Shop, and Faber Licence membership programme.
 

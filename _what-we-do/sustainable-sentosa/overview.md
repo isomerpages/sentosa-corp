@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /what-we-do/sustainable-sentosa/overview
+permalink: /what-we-do/sustainable-sentosa/overview/
 third_nav_title: Sustainable Sentosa
 ---
 ### **Overview**

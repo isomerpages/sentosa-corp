@@ -1,6 +1,6 @@
 ---
 title: How To Apply
-permalink: /partner-us/Sentosa-X-Enterprise/howtoapply/
+permalink: /partner-us/sentosa-x-enterprise/howtoapply/
 description: ""
 third_nav_title: Sentosa X Enterprise
 ---
@@ -8,13 +8,13 @@ third_nav_title: Sentosa X Enterprise
 
 #### Application
 
-Applications are open all year round. Those interested in being a part of Sentosa x Enterprise can fill in your details <a href="https://form.gov.sg/5cab194e241e960017305fa1" target="_blank">here</a>, or scan the QR code below. Alternatively, you can download the application form <a href="/files/partner-us/enterprise/SES-Application-Form-updated-29Jan2020.pdf" target="_blank">here</a>.
+Applications are open all year round. Those interested in being a part of Sentosa x Enterprise can fill in your details <a href="https://form.gov.sg/5cab194e241e960017305fa1" target="_blank">here</a>, or scan the QR code below. Alternatively, you can download the application form <a href="/files/partner-us/enterprise/ses-application-form-updated-29jan2020.pdf" target="_blank">here</a>.
 
 <div class="row">
     <div class="col is-4">
     </div>
     <div class="col is-4">
-        <img src="/images/partner-us/enterprise/QR_code_application.png" alt="QR code">
+        <img src="/images/partner-us/enterprise/qr_code_application.png" alt="QR code">
     </div>
      <div class="col is-4">
     </div>

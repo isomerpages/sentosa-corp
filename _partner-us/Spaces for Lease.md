@@ -9,7 +9,7 @@ description: ""
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
   | 1. |  31 Beach Walk, Level 2 Space & #03-01 | Edutainment & School Facility | 715.2 | 31 July 2023 | 25 September 2023 | Upon request | [Register interest here](https://form.gov.sg/64c2361ecbb9630011a7e923)
  | 2. |  1 Cove Avenue #02-14, Singapore 098537 | F&B | 199.5 (Indoor Area) & 244.2 (ORA) | 19 September 2023 | 18 October 2023 | Upon request | [Register interest here](https://form.gov.sg/6507eb4e2ccd0f0012806905)
- | 3. |  1 Cove Avenue #02-13, Singapore 098537 | Office | 80.9 | 21 September 2023 | 20 October 2023 | Upon request | [Register interest here](https://form.gov.sg/6507ec25356d470012cee186)
+ | 3. |  1 Cove Avenue #02-13, Singapore 098537 | Office | 80.9 | 26 September 2023 | 25 October 2023 | Upon request | [Register interest here](https://form.gov.sg/6507ec25356d470012cee186)
 
 #### **Upcoming**
 

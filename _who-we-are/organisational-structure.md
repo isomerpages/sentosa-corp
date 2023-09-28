@@ -196,15 +196,7 @@ breadcrumb: Organisational Structure
     </div>
 </div>
 
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/set-mira-bharin.jpg" alt="Mira BHARIN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Mira BHARIN</p>
-        <strong>Divisional Director, Marketing and Guest Experience</strong>
-    </div>
-</div>
+
 
 <div class="row">
     <div class="col is-4">

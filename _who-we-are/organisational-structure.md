@@ -196,8 +196,6 @@ breadcrumb: Organisational Structure
     </div>
 </div>
 
-
-
 <div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/set_chan_beng_kiat.jpg" alt="CHAN Beng Kiat">
@@ -266,16 +264,6 @@ breadcrumb: Organisational Structure
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>
         <strong>Divisional Director, Information Technology</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/setraymondyeo_cropped.png" alt="Raymond YEO">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Raymond YEO</p>
-        <strong>Divisional Director, Finance &amp; Procurement</strong>
     </div>
 </div>
 

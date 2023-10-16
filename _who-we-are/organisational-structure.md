@@ -216,6 +216,15 @@ breadcrumb: Organisational Structure
     </div>
 </div>
 
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/set-rosalind-chua.jpeg" alt="Rosalind CHUA">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Rosalind CHUA</p>
+        <strong>Divisional Director, Finance &amp; Procurement</strong>
+    </div>
+</div>
 
 <div class="row">
     <div class="col is-4">

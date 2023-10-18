@@ -7,7 +7,7 @@ description: ""
 
 | S\No. | Address | Property Type | Area (sq m) | Launch Date: | Submission Date: | Site Showround | Request for information |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
- | 1. |  1 Cove Avenue #02-14, Singapore 098537 | F&B | 199.5 (Indoor Area) & 244.2 (ORA) | 19 September 2023 | 18 October 2023 | Upon request | [Register interest here](https://form.gov.sg/6507eb4e2ccd0f0012806905)
+ | 1. |  1 Cove Avenue #02-14, Singapore 098537 | F&B | 199.5 (Indoor Area) & 244.2 (ORA) | 19 September 2023 | 20 November 2023 | Upon request | [Register interest here](https://form.gov.sg/6507eb4e2ccd0f0012806905)
  | 2. |  1 Cove Avenue #02-13, Singapore 098537 | Office | 80.9 | 26 September 2023 | 25 October 2023 | Upon request | [Register interest here](https://form.gov.sg/6507ec25356d470012cee186)
 
 #### **Upcoming**

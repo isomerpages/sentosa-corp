@@ -5,5 +5,5 @@ date: 2022-11-08
 layout: file
 description: ""
 image: ""
-file_url: /files/resources/news/20221108_Media_Advisory_Recycling_artist_Thomas_Dambos_giants_in_Sentosa.pdf
+file_url: /files/resources/news/20221108_media_advisory_recycling_artist_thomas_dambos_giants_in_sentosa.pdf
 ---

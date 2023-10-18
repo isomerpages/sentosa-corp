@@ -258,7 +258,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/mslindalee.jpg" alt="Linda LEE">
+        <img src="/images/who-we-are/organisational-structure/mslindalee.jpg" alt="Linda LEE">
     </div>
     <div class="col is-8">
         <p class="title is-4">Linda LEE</p>
@@ -269,7 +269,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="images/who-we-are/organisational-structure/set-gary-ng.jpg" alt="Gary NG">
+        <img src="/images/who-we-are/organisational-structure/set-gary-ng.jpg" alt="Gary NG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>

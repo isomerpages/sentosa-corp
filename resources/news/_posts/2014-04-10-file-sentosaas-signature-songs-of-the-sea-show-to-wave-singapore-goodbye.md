@@ -2,7 +2,7 @@
 layout: post
 title: 'Sentosa’s Signature Songs of the Sea Show to Wave Singapore Goodbye'
 date: 2014-04-10T00:00:00.000Z
-file_url: /files/resources/news/20140410_Media-Release_Sentosa_Signature_Songs_of_the_Sea_Show_to_Wave_Singapore_Goodbye.pdf
+file_url: /files/resources/news/20140410_media-release_sentosa_signature_songs_of_the_sea_show_to_wave_singapore_goodbye.pdf
 
 ---
 

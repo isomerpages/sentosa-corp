@@ -4,6 +4,6 @@ title: Sentosa and Udders launch carbon neutral ice creams to celebrate islandâ€
 date: 2022-06-14
 layout: file
 description: ""
-file_url: /files/resources/news/20220614_Media_advisory_Sentosa_Udders_Golden_Jubilee_Ice_Cream.pdf
+file_url: /files/resources/news/20220614_media_advisory_sentosa_udders_golden_jubilee_ice_cream.pdf
 ---
 

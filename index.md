@@ -15,6 +15,6 @@ sections:
       button: More Resources
       url: resources/
 description: Developing a Fun, Smart, and Sustainable Sentosa
-image: /images/SDC-Favicon.svg
+image: /images/sdc-favicon.svg
 ---
 

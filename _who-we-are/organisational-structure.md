@@ -13,7 +13,7 @@ breadcrumb: Organisational Structure
         <strong>Chairman</strong>
         <br> Sentosa Development Corporation
         <br> Jurong Engineering Limited
-</div>
+		</div>
 </div>
 
 <div class="row">

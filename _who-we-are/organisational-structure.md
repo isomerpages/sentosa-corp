@@ -13,10 +13,7 @@ breadcrumb: Organisational Structure
         <strong>Chairman</strong>
         <br> Sentosa Development Corporation
         <br> Jurong Engineering Limited
-        <br> Ascott Business Trust Management Ltd
-        <br> Ascott Residence Trust Management Ltd
-			  <br> SBS Transit Ltd
-    </div>
+
 </div>
 
 <div class="row">
@@ -70,7 +67,7 @@ breadcrumb: Organisational Structure
     <div class="col is-8">
         <p class="title is-4">Mariam JAAFAR</p>
         <strong>Managing Director &amp; Partner</strong>
-        <br> Boston Consulting Group
+        <br> The Boston Consulting Group
     </div>
 </div>
 
@@ -92,7 +89,9 @@ breadcrumb: Organisational Structure
     <div class="col is-8">
         <p class="title is-4">Kevin KWOK</p>
         <strong>Independent Director</strong>
-        <br> Singapore Exchange Ltd
+        <br>Board of Singapore Technologies Engineering Ltd
+	    </div>
+	    Standard Chartered Bank (Singapore) Ltd 
     </div>
 </div>
 
@@ -113,7 +112,7 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">Geraldine LOW</p>
-        <strong>Deputy Secretary, Planning</strong>
+        <strong>Deputy Secretary, Development</strong>
         <br> Ministry of National Development
     </div>
 </div>
@@ -135,7 +134,7 @@ breadcrumb: Organisational Structure
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael SYN</p>
-        <strong>Head (Equities)</strong>
+        <strong>President and Head of Global Markets Division</strong>
         <br> Singapore Exchange Ltd
     </div>
 </div>

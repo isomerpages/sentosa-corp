@@ -98,7 +98,7 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/MrAndrewLim.jpeg" alt="Andrew LIM">
+        <img src="/images/who-we-are/organisational-structure/mrandrewlim.jpeg" alt="Andrew LIM">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andrew LIM</p>

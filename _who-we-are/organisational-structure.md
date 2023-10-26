@@ -14,6 +14,7 @@ breadcrumb: Organisational Structure
         <br> Sentosa Development Corporation
         <br> Jurong Engineering Limited
 </div>
+</div>
 
 <div class="row">
     <div class="col is-4">

@@ -160,8 +160,10 @@ breadcrumb: Organisational Structure
     </div>
 </div>
 
-<hr> 
+<hr>
+ 
 ### **Senior Executive Team**
+
 
 <div class="row">
     <div class="col is-4">

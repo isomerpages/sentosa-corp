@@ -13,6 +13,7 @@ breadcrumb: Organisational Structure
         <strong>Chairman</strong>
         <br> Sentosa Development Corporation
         <br> Jurong Engineering Limited
+		</div>
 </div>
 
 <div class="row">
@@ -159,8 +160,10 @@ breadcrumb: Organisational Structure
     </div>
 </div>
 
-<hr> 
+<hr>
+ 
 ### **Senior Executive Team**
+
 
 <div class="row">
     <div class="col is-4">

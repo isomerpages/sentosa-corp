@@ -2,6 +2,7 @@
 title: Organisational Structure
 permalink: /who-we-are/organisational-structure/
 breadcrumb: Organisational Structure
+variant: markdown
 ---
 ### **Board Members**
 <div class="row">
@@ -279,10 +280,10 @@ breadcrumb: Organisational Structure
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrandyjohnston.jpg" alt="Andy JOHNSTON">
+        <img src="/images/who-we-are/organisational-structure/mrandyjohnston.jpg" alt="Andrew JOHNSTON">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Andy JOHNSTON</p>
+        <p class="title is-4">Andrew JOHNSTON</p>
         <strong>General Manager</strong> - Sentosa Golf Club
     </div>
 </div>

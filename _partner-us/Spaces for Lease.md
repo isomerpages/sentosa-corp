@@ -15,9 +15,9 @@ variant: markdown
 
 | S\No. | Address | Property Type | Area (sq m) | Indicative Launch Date:
 | -------- | -------- | -------- | -------- | -------- 
-| 1. | 42 Imbiah Road, #01-K1 | F&B | 133.4 | Oct 2023 
-| 2. | 81 Siloso Road #01-02 | Retail | 107.35 | Oct 2023 
-| 3. | 81 Siloso Road #01-03 | F&B | 103.21 | Oct 2023 
+| 1. | 42 Imbiah Road, #01-K1 | F&B | 133.4 | Jan 2024 
+| 2. | 81 Siloso Road #01-02 | Retail | 107.35 | Jan 2024 
+| 3. | 81 Siloso Road #01-03 | F&B | 103.21 | Jan 2024 
 
 
 

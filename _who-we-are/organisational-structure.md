@@ -280,6 +280,17 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/Chris_Pok.jpg" alt="Chris Pok">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Chris POK</p>
+        <strong>Divisional Director, Marketing &amp; Guest Experience</strong>
+    </div>
+</div>
+	
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/mrandyjohnston.jpg" alt="Andrew JOHNSTON">
     </div>
     <div class="col is-8">

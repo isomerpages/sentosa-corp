@@ -15,9 +15,9 @@ locations:
     title: HQ Address
 contacts:
   - content:
-      - phone: 1800-SENTOSA (736-8672)
+      - phone: ""
       - email: guest_services@sentosa.com.sg
-      - other: +65 6736 8672 (calling from overseas)
+      - other: "+65 SENTOSA (736-8672)<br> +65 6736 8672 (calling from overseas) "
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -56,6 +56,8 @@ contacts:
   - content:
       - phone: ""
       - email: sustainability@sentosa.com.sg
-      - other: "We welcome any comments or feedback about our sustainability approach. "
+      - other: We welcome any comments or feedback about our sustainability approach.
     title: Sustainability
+feedback: https://form.gov.sg/5d3e8de073f0b8001294543f
+agency_name: Sentosa
 ---

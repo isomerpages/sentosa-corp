@@ -1,0 +1,12 @@
+collections:
+  partner-us:
+    output: true
+    order:
+      - Sentosa X Enterprise/.keep
+      - Sentosa X Enterprise/Overview.md
+      - Sentosa X Enterprise/Ongoing | Past Trials.md
+      - Sentosa X Enterprise/Awards.md
+      - Sentosa X Enterprise/How To Apply.md
+      - collaborations.md
+      - opportunities.md
+      - Spaces for Lease.md

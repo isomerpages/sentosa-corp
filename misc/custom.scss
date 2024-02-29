@@ -1,0 +1,763 @@
+---
+
+---
+@charset "utf-8";
+// HLB brand colors , original secondary:#BD5A0A;
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
+$secondary-hover: darken($secondary, 10%);
+{%- for media-color in site.colors.media-colors -%}
+  ${{- media-color.title -}}: {{- media-color.color -}};
+{%- endfor -%}
+
+
+$gap: 32px !default;
+$desktop: 960px + (2 * $gap) !default;
+
+// Mixins
+
+@mixin touch() {
+	@media screen and (max-width: $desktop - 1px){
+    	@content
+	}
+}
+
+@mixin desktop() {
+	@media screen and (min-width: $desktop){
+    	@content
+	}
+}
+
+// Background
+.bg{
+  &-primary{
+    background-color: $primary !important;
+  }
+  &-secondary {
+    background-color: $secondary !important;
+  }
+  &-media-color {
+  	&-1 {
+  		background-color: $media-color-one;
+  		&:hover {
+  			background-color: darken($media-color-one, 10%);
+		}
+  	}
+  	&-2 {
+  		background-color: $media-color-two;
+  		&:hover {
+  			background-color: darken($media-color-two, 10%);
+		}
+  	}
+  	&-3 {
+  		background-color: $media-color-three;
+  		&:hover {
+  			background-color: darken($media-color-three, 10%);
+		}
+  	}
+  	&-4 {
+  		background-color: $media-color-four;
+  		&:hover {
+  			background-color: darken($media-color-four, 10%);
+		}
+  	}
+  	&-5 {
+  		background-color: $media-color-five;
+  		&:hover {
+  			background-color: darken($media-color-five, 10%);
+		}
+  	}
+  }
+  &-1{
+    //background-color: $primary;
+    background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+  &-2{
+    //background-color: $info;
+    background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+  &-3{
+    //background-color: $warning;
+    background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+  &-4{
+    //background-color: $danger;
+    background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+  &-gradient{
+    background: #b41e8e;
+    background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
+    background: -webkit-linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
+    background: linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b41e8e', endColorstr='#0061af',GradientType=1 );
+  }
+  &-singpass{
+    background: #be2e7d; /* Old browsers */
+    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#be2e7d', endColorstr='#d64e54',GradientType=1 ); /*IE6-9 fallback on horizontal gradient*/
+  }
+  &-beeline{
+    background: #009d62; /* Old browsers */
+    background: -moz-linear-gradient(45deg, #009d62 0%, #0094d3 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009d62', endColorstr='#0094d3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+  }
+  &-parkingsg{
+    background: #0164b6; /* Old browsers */
+    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  }
+}
+
+// Color definitions
+.is {
+	&-primary {
+		background-color: $primary !important;
+	}
+	&-secondary {
+		background-color: $secondary !important;
+	}
+}
+
+// Text color
+.has-text-primary {
+	color: $primary !important;
+}
+.has-text-secondary {
+	color: $secondary !important;
+}
+
+// Menu/Left-nav
+.bp-menu-list a.is-active {
+	color: $secondary !important;
+	border-bottom: 2px solid $secondary !important;
+	&:hover {
+    border-bottom: 2px solid $secondary !important;
+	}
+}
+.bp-menu-list a:hover {
+	color: $secondary !important;
+  border-bottom: 1px solid $secondary !important;
+}
+
+.bp-menu-list li:not(:first-child) a {
+    border-top: 0px;
+    border-bottom: 1px solid #767676;
+}
+
+// Button
+
+.bp-button.is-text span {
+  &:hover, &:focus {
+    color: $secondary;
+  }
+}
+.bp-button:hover {
+  color: $secondary;
+}
+
+// Secondary button
+.bp-sec-button {
+	color: $secondary;
+	& span {
+		border-bottom: 2px solid $secondary !important;
+	}
+	&:hover {
+		& span {
+	    	border-bottom: 2px solid $secondary-hover !important;
+	    	color: $secondary-hover !important;
+	  	}
+	  	& i {
+	    	color: $secondary-hover !important;
+	  	}
+	}
+}
+
+// Bottom navigation bar
+.bottom-navigation {
+	a {
+		background-color: $secondary;
+	    &:hover{
+	      background-color: darken($secondary,10%) !important;
+	    }
+	}
+}
+
+.bp-section.bp-section-pagetitle {
+  background-color: $primary !important;
+}
+
+// Pagination
+.pagination {
+	span {
+		&:hover {
+            border-color: $secondary;
+            color: $secondary;
+		}
+        &.selected-page:hover {
+            background-color: $secondary;
+            border-color: $secondary;
+        }
+	}
+    .selected-page {
+        background-color: $secondary;
+        border-color: $secondary;
+    }
+}
+
+
+// Homepage
+#key-highlights{
+	background-color: $primary;
+	.col {
+		border-left:1px solid darken($primary,10%);
+		@include touch(){
+			border-top:1px solid darken($primary,10%);
+		}
+		&:hover{
+			background-color: darken($primary,10%);
+		}
+	}
+}
+
+// Navbar
+.navbar{
+  &-start{
+    .navbar-item{
+      a{
+        &.active{
+          @include touch(){
+            border-bottom:2px solid $secondary;
+          }
+        }
+      }
+    }
+  }
+  .navbar-link:hover:after {
+    border-bottom: 1px solid $secondary;
+    border-left: 1px solid $secondary;
+  }
+
+  .navbar-item{
+    .sub-link.is-active{
+      color:$secondary;
+    }
+
+    .selector{
+      &.active{
+        background-color:$secondary;
+      }
+    }
+    &.active{
+      @include desktop(){
+        border-bottom:1px solid $secondary;
+      }
+    }
+  }
+.navbar-item:hover {
+  a {
+    color:$secondary;
+  }
+  .selector {
+      background-color:$secondary;
+    }
+  }
+}
+
+// Post-content
+.content {
+	h1, h2, h3, h4, h5 {
+		color: $secondary;
+		strong {
+			color: $secondary;
+		}
+	}
+	blockquote {
+		border-left-color: $secondary;
+	}
+	blockquote > p {
+		color: $secondary;
+	}
+	blockquote > ul {
+		color: $secondary;
+	}
+}
+
+// Media category buttons - not used now but will be used in the future
+
+.media-category-button {
+  text-decoration: none !important;
+  color: #323232;
+  margin-right: 2.5rem;
+  letter-spacing: 0.5px;
+}
+
+.media-category-button:hover, .media-category-button.selected {
+  color: $secondary;
+  border-bottom: 2px solid $secondary;
+}
+
+// CSS to be refactored
+.content img.digital-transformation-icon {
+  height: 80px;
+  width: 80px;
+  margin-left: 0;
+}
+
+.news-content {
+  position: relative;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding: 2rem;
+  margin-top: -5rem;
+  background-color: white;
+}
+
+.tag {
+  display: block;
+}
+
+#business {
+  display: none;
+}
+#government {
+  display: none;
+}
+
+.image-card:hover {
+  .news-content {
+    background-color: darken(#ffffff, 10%);
+  }
+}
+
+.hero-dropdown {
+  display: flex;
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
+}
+
+.is-centered {
+  margin: auto;
+}
+
+.is-three-fifths-mobile {
+  width: 50%;
+  @include touch() {
+    width: 100%;
+  }
+}
+
+.navbar-item img {
+  width: 150px;
+}
+
+// Makes TOC made through Kramdown black
+#markdown-toc{
+  strong {
+    color: #484848 !important;
+  }
+  // Hover turns text organge
+  li strong:hover{
+    color: $secondary-hover !important;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+
+.WBpage_style{
+   width: 100%;	
+   line-height: 2.2rem;
+   font-family: Lato,sans-serif;
+   font-size: 1.25rem;
+}
+
+.WBpage_style td{
+   border: none !important;	
+}	
+
+// To make images appear on top before text
+// When the image is on the right on desktop
+@media only screen and (min-width: 769px) {
+  .reverse-row-order{
+    flex-direction:row-reverse;
+  }
+}
+// css for Life in sentosa
+@media (min-width:1025px)
+{
+	image-text-container {
+	  position: relative;
+	}
+	img.grid-image-2 {
+	       position: absolute;
+	       visibility: hidden;
+	       opacity: 0;
+	       left: 0;
+	       right: 0;
+	       bottom: 0;
+	}
+
+	.col.is-4:hover img.grid-image-1 {
+	  visibility: hidden;
+	}
+
+	.col.is-4:hover img.grid-image-2 {
+	  visibility: visible;
+	  opacity: 0.5;
+	}
+	
+	.EIAImage{
+		min-height: 170px;
+	}
+}
+@media (max-width:1024px) 
+{
+	img.grid-image-1 {
+	       position: absolute;
+	       visibility: visible;
+	       left: 0;
+	       right: 0;
+	       bottom: 0;
+	}
+	img.grid-image-2 {
+	  	visibility: hidden;
+	}
+  
+   	.EIAImageRow_Col{
+      		width: 100% !important;
+      		float: none !important;
+      		display: inline-block !important;
+      		margin-right: 0px !important;
+  	}
+	
+  	
+	
+}
+
+@media (max-width:992px) 
+{
+    #eia_link_box {
+    	display: block;
+    	background-color: #fcdf88;
+    	text-decoration: none;
+    	color: black;
+    	width: 100% !important;
+    	float: none !important;
+    	margin-right: 0px !important;
+    	height: auto !important;
+     }
+}
+
+@media screen and (max-width: 425px){
+   iframe{
+      width: 100% !important;
+      height: auto !important;
+   }
+}
+
+@media screen and (max-width: 375px){
+   h1{
+      font-size: 45px !important;
+   }
+}
+// css for graduate programme
+/*details summary::-webkit-details-marker {
+    background: url(../images/graduate-programme/add.svg) center no-repeat;
+    color: transparent;
+}
+
+details[open] summary::-webkit-details-marker {
+    background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
+    color: transparent;
+}*/
+
+details summary:before {
+    content: " ";
+    height: 30px;
+    width: 15px;
+    background: url(../images/graduate-programme/add.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
+}
+
+details[open] > summary:before {
+    content: " ";
+    height: 30px;
+    width: 15px;
+    background: url(../images/graduate-programme/ban-circle.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
+}
+
+summary{
+    color: #003349;
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.labelHeader{
+    color: #003349;
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
+.labelHeader:before {
+    content: " ";
+    height: 30px;
+    width: 15px;
+    background: url(../images/graduate-programme/add.svg) center no-repeat;
+    display: block;
+    float: left;
+    margin-right:10px;
+}
+
+.toggler {
+  display: none;
+}
+
+.toggler+.toggler-content {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: all .4s ease-in-out;
+}
+
+.toggler:checked+.toggler-content {
+  max-height: 1000px;
+  opacity: 1;
+}
+
+.toggler-content p{
+  text-align: left;
+}
+
+
+
+// Begin Pattern Styles
+.accordion {
+  
+  $accordion-border-radius: 4px;
+  $accordion-border-color: #eee;
+  $accordion-padding: 1rem;
+  $accordion-heading-color: #ff9e2c;
+  $accordion-icon-color: #ff9e2c;
+  
+  margin: 0 auto;
+  width: 100%;
+  
+  &__wrapper {
+    border-bottom: 1px solid $accordion-border-color;
+    border-radius: $accordion-border-radius;
+    list-style-type: none !important;
+    margin: $accordion-padding 0;
+    width: 100%;
+  }
+  
+  &__header, &__item {
+    //float: left;
+    padding-left: $accordion-padding;
+    padding-right: $accordion-padding;
+    padding-top: $accordion-padding;
+    position: relative;
+    width: 100%;
+  }
+  
+  &__header {
+    background: $accordion-heading-color;
+    border-bottom: 1px solid darken($accordion-heading-color, 10);
+    border-top-left-radius: $accordion-border-radius;
+    border-top-right-radius: $accordion-border-radius;
+    color: #fff;
+    padding-bottom: $accordion-padding;    
+  }
+  
+  &__item {
+    background: #fff;
+    border-bottom: 1px solid $accordion-border-color;
+    margin-bottom: 1px;
+    padding-bottom: $accordion-padding / 2;
+    
+    &:last-of-type {
+      border: 0;
+      border-radius: $accordion-border-radius;
+    }
+    
+    // The accordion chevron icon
+    span {
+      color: $accordion-icon-color;
+      margin-top: $accordion-padding;
+      position: absolute;
+      right: $accordion-padding;
+      top: 0;
+      transition: all 0.2s ease-in;
+    }
+    
+    input[type=checkbox] {
+      position: absolute;
+      cursor: pointer;
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+      opacity: 0;
+      
+      &:checked {
+      
+        // Ensures panels are closed until checked
+        &~div.panel {
+          float: left;
+          margin: 5px 0;
+          max-height: 0;
+          opacity: 0;
+          transform: translate(0, 50%);
+        }
+        
+        // Rotate chevron icon on selection  
+        &~span {
+          transform: rotate( 180deg );
+        }
+      
+      }
+      
+    }
+    
+  }
+
+}
+
+.accordion ul {
+    margin-left: 0px;
+}
+
+.accordion ul>li {
+    padding: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.accordion ul>li:not(:first-child):hover{
+   background-color: #eee;
+}
+
+.accordion ul>li:last-child {
+   margin-bottom:0px !important;
+}
+
+.accordion h3 {
+    margin-bottom: 0px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.accordion h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: normal;
+}
+
+.accordion p {
+    text-align: left;
+    margin-top: 10px;
+}
+
+#eia_content {
+    margin-top: 20px;
+}
+
+#eia_link_box {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.eia_report{
+   padding: 10px;
+}
+
+.eia_report p{
+   margin: 0px;
+}
+
+.eia_report p:first-child {
+   font-size: 12px;
+}
+
+.eia_report p:last-child {
+   font-size: 18px;
+   margin-bottom: 40px;
+   line-height: 1.2;
+   font-weight: bold;
+}
+
+#eia_reportTable th{
+   border-right: 1px solid white;
+}
+
+#eia_getReport{
+    background-color: #fff3e3;
+    font-size: 14px;
+    border: none;
+    padding: 0px;
+}
+
+#getReportButton{
+   margin-top: 10px;
+}
+
+.EIAImageRow_Col{
+   background-color: #fcdf88;
+   margin-bottom: 15px;
+   padding: 10px;
+}
+
+.EIAImageRow_Col p{
+   margin-top: 10px;
+   font-size: 1.25rem;
+   font-weight: bold;
+   line-height: 30px;
+}
+
+.EIAImageRow_Col p:last-child{
+   margin-top: 120px;
+}
+
+#archivedContent{
+    display: none;
+}
+
+/*#more {display: none;}
+
+#myBtn{
+    border: 1px solid orange;
+    background-color: oldlace;
+}*/
+
+/*IE*/
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+
+  
+}

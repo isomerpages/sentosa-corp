@@ -13,7 +13,6 @@ locations:
         description: ""
     maps_link: ""
     title: HQ Address
-image-url: null
 contacts:
   - content:
       - phone: 1800-SENTOSA (736-8672)

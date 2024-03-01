@@ -172,7 +172,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">CHIN Sak Hin</p>
-        <strong>Assistant Chief Executive/Chief Financial Officer</strong>
+        <strong>Senior Advisor</strong>
     </div>
 </div>
 
@@ -183,6 +183,16 @@ variant: markdown
     <div class="col is-8">
         <p class="title is-4">HEAH Soon Poh</p>
         <strong>Assistant Chief Executive</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/leechehhsien.jpg" alt="LEE Cheh Hsien">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">LEE Cheh Hsien</p>
+			<strong>Assistant Chief Executive</strong>/<strong>Divisional Director, Planning</strong>
     </div>
 </div>
 
@@ -244,16 +254,6 @@ variant: markdown
     <div class="col is-8">
         <p class="title is-4">LAM Yue Kwai</p>
         <strong>Divisional Director, Project Development</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/leechehhsien.jpg" alt="LEE Cheh Hsien">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">LEE Cheh Hsien</p>
-        <strong>Divisional Director, Planning</strong>
     </div>
 </div>
 

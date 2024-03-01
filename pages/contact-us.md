@@ -1,7 +1,6 @@
 ---
 layout: contact_us
 permalink: /contact-us/
-breadcrumb: Contact Us
 title: Contact Us
 locations:
   - address:
@@ -14,12 +13,11 @@ locations:
         description: ""
     maps_link: ""
     title: HQ Address
-image-url: null
 contacts:
   - content:
-      - phone: 1800-SENTOSA (736-8672)
+      - phone: ""
       - email: guest_services@sentosa.com.sg
-      - other: +65 6736 8672 (calling from overseas)
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -29,17 +27,17 @@ contacts:
   - content:
       - phone: ""
       - email: communications@sentosa.gov.sg
-      - other: Please contact us <strong>10 days</strong> in advance, fees may apply.
+      - other: "Please contact us at least <strong> 10 working days in advance </strong>
+          for any filming/photography requests, including commercial
+          drone-flying requests. <br> Flying of unmanned aircraft should comply
+          with the Civil Aviation Authority of Singapore's guidelines for
+          Operator Permit and/or Activity Permit. "
     title: Filming/Photography
   - content:
       - phone: ""
       - email: ""
-      - other: Drone-flying over Sentosa is not allowed without prior approval. Requests
-          may be made in writing to <a
-          href="mailto:communications@sentosa.gov.sg">communications@sentosa.gov.sg</a>,
-          at least <strong>10 days</strong> in advance.  Flying of unmanned
-          aircraft should comply with the Civil Aviation Authority of
-          Singapore's guidelines for Operator Permit and/or Activity Permit.
+      - other: Please note that <strong> recreational drone flying is strictly NOT
+          allowed </strong> on Sentosa.
     title: Important Note!
   - content:
       - phone: ""
@@ -58,6 +56,8 @@ contacts:
   - content:
       - phone: ""
       - email: sustainability@sentosa.com.sg
-      - other: "We welcome any comments or feedback about our sustainability approach. "
+      - other: We welcome any comments or feedback about our sustainability approach.
     title: Sustainability
+feedback: https://form.gov.sg/5d3e8de073f0b8001294543f
+agency_name: Sentosa
 ---

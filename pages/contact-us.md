@@ -17,7 +17,7 @@ contacts:
   - content:
       - phone: ""
       - email: guest_services@sentosa.com.sg
-      - other: "+65 SENTOSA (736-8672)<br> +65 6736 8672 (calling from overseas) "
+      - other: +65 SENTOSA (736-8672)<br> +65 6736 8672 (calling from overseas)
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -27,17 +27,17 @@ contacts:
   - content:
       - phone: ""
       - email: communications@sentosa.gov.sg
-      - other: Please contact us <strong>10 days</strong> in advance, fees may apply.
+      - other: Please contact us at least <strong> 10 working days in advance </strong>
+          for any filming/photography requests, including commercial
+          drone-flying requests. Flying of unmanned aircraft should comply with
+          the Civil Aviation Authority of Singapore's guidelines for Operator
+          Permit and/or Activity Permit.
     title: Filming/Photography
   - content:
       - phone: ""
       - email: ""
-      - other: Drone-flying over Sentosa is not allowed without prior approval. Requests
-          may be made in writing to <a
-          href="mailto:communications@sentosa.gov.sg">communications@sentosa.gov.sg</a>,
-          at least <strong>10 days</strong> in advance.  Flying of unmanned
-          aircraft should comply with the Civil Aviation Authority of
-          Singapore's guidelines for Operator Permit and/or Activity Permit.
+      - other: Please note that <strong> recreational drone flying is strictly NOT
+          allowed </strong> on Sentosa.
     title: Important Note!
   - content:
       - phone: ""

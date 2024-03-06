@@ -17,7 +17,9 @@ contacts:
   - content:
       - phone: ""
       - email: guest_services@sentosa.com.sg
-      - other: ""
+      - other: "Dial 1800-SENTOSA (736 8672) or +65 6736 8672 (overseas) for 24/7
+          self-service phone enquiries.   <br><br>Alternatively, contact us via
+          our "
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -27,11 +29,11 @@ contacts:
   - content:
       - phone: ""
       - email: communications@sentosa.gov.sg
-      - other: "Please contact us at least <strong> 10 working days in advance </strong>
+      - other: Please contact us at least <strong> 10 working days in advance </strong>
           for any filming/photography requests, including commercial
-          drone-flying requests. <br> Flying of unmanned aircraft should comply
-          with the Civil Aviation Authority of Singapore's guidelines for
-          Operator Permit and/or Activity Permit. "
+          drone-flying requests. <br> <br> Flying of unmanned aircraft should
+          comply with the Civil Aviation Authority of Singapore's guidelines for
+          Operator Permit and/or Activity Permit.
     title: Filming/Photography
   - content:
       - phone: ""

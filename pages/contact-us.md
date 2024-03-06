@@ -20,7 +20,7 @@ contacts:
       - other: <br>Dial 1800-SENTOSA (736 8672) or +65 6736 8672 (overseas) for 24/7
           self-service phone enquiries.<br><br>Alternatively, contact us via our
           <a href="https://www.sentosa.com.sg/en/contact-us/"
-          target="_blank">Online Webform</a>
+          target="_blank">Online Webform</a>.
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -62,5 +62,5 @@ contacts:
       - other: We welcome any comments or feedback about our sustainability approach.
     title: Sustainability
 feedback: https://form.gov.sg/5d3e8de073f0b8001294543f
-agency_name: Sentosa
+agency_name: Sentosa Development Corporation
 ---

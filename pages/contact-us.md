@@ -16,10 +16,10 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: guest_services@sentosa.com.sg
+      - email: ""
       - other: <br>Dial 1800-SENTOSA (736 8672) or +65 6736 8672 (overseas) for 24/7
-          self-service phone enquiries.<br><br>Alternatively, contact us via our
-          <a href="https://www.sentosa.com.sg/en/contact-us/"
+          self-service phone enquiries.<br><br>Alternatively, reach out to us
+          via our <a href="https://www.sentosa.com.sg/en/contact-us/"
           target="_blank">Online Webform</a>.
     title: General Enquiries & Feedback
   - content:

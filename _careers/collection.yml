@@ -1,8 +1,0 @@
-collections:
-  careers:
-    output: true
-    order:
-      - overview.md
-      - meet-the-teams.md
-      - Job Opportunities.md
-      - connect-with-us.md

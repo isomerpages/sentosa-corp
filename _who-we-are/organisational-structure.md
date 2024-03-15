@@ -165,17 +165,6 @@ variant: markdown
  
 ### **Senior Executive Team**
 
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrchinsakhin.jpg" alt="CHIN Sak Hin">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">CHIN Sak Hin</p>
-        <strong>Senior Advisor</strong>
-    </div>
-</div>
-
 <div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/soon poh.png" alt="HEAH Soon Poh">
@@ -204,6 +193,16 @@ variant: markdown
     <div class="col is-8">
         <p class="title is-4">Michael MA</p>
         <strong>Assistant Chief Executive</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/mrchinsakhin.jpg" alt="CHIN Sak Hin">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">CHIN Sak Hin</p>
+        <strong>Senior Advisor</strong>
     </div>
 </div>
 

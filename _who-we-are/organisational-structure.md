@@ -67,7 +67,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Mariam JAAFAR</p>
-        <strong>Managing Director &amp; Partner</strong>
+        <strong>Managing Director &amp; Senior Partner</strong>
         <br> The Boston Consulting Group
     </div>
 </div>
@@ -89,7 +89,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Kevin KWOK</p>
-        <strong>Independent Director</strong>
+        <strong>Company Director</strong>
         <br> Singapore Technologies Engineering Ltd
 	   <br>Standard Chartered Bank (Singapore) Ltd
     </div>
@@ -112,7 +112,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Geraldine LOW</p>
-        <strong>Deputy Secretary, Development</strong>
+        <strong>Deputy Secretary (Development)</strong>
         <br> Ministry of National Development
     </div>
 </div>

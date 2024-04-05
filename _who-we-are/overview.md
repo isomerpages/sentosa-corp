@@ -45,7 +45,7 @@ to sustainability, SDC has been conferred with the Global Sustainable Tourism
 Council – For Destinations (GSTC-D) certificate, making Sentosa the first
 island destination in Asia to receive this accolade.</p>
 <h3><strong>Vision, Mission &amp; Values</strong></h3>
-<h4><strong>Vision</strong></h4>
+<h5><strong>Vision</strong></h5>
 <p>To be the world’s best loved leisure and lifestyle resort destination</p>
 <h5><strong>Mission</strong></h5>
 <p>To create and deliver the One-Sentosa Experience through outstanding service

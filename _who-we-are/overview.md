@@ -47,10 +47,10 @@ island destination in Asia to receive this accolade.</p>
 <h3><strong>Vision, Mission &amp; Values</strong></h3>
 <h5><strong>Vision</strong></h5>
 <p>To be the world’s best loved leisure and lifestyle resort destination</p>
-<h4><strong>Mission</strong></h4>
+<h5><strong>Mission</strong></h5>
 <p>To create and deliver the One-Sentosa Experience through outstanding service
 and world class offerings</p>
-<h4><strong>Sentosa STAR Values</strong></h4>
+<h5><strong>Sentosa STAR Values</strong></h5>
 <p>Sentosa continually strives to enhance its level of service to offer our
 guests a memorable experience. The Sentosa STAR values reflect our commitment
 in providing service from the heart.</p>

@@ -45,8 +45,9 @@ contacts:
   - content:
       - phone: ""
       - email: whistleblow@sentosa.gov.sg
-      - other: Please view our whistleblowing policy <a
-          href="https://www.sentosa.gov.sg/whistleblowing">here</a>
+      - other: Please view our <a
+          href="https://www.sentosa.gov.sg/whistleblowing">whistleblowing
+          policy</a>
     title: Whistleblowing
   - content:
       - phone: ""
@@ -61,6 +62,6 @@ contacts:
       - email: sustainability@sentosa.com.sg
       - other: We welcome any comments or feedback about our sustainability approach.
     title: Sustainability
-feedback: https://form.gov.sg/5d3e8de073f0b8001294543f
 agency_name: Sentosa Development Corporation
+feedback: ""
 ---

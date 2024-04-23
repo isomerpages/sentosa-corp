@@ -13,7 +13,6 @@ sections:
       title: Be in the know
       subtitle: Resources
       button: More Resources
-      url: resources/
 description: Developing a Fun, Smart, and Sustainable Sentosa
 image: /images/sdc-favicon.svg
 ---

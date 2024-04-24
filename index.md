@@ -4,9 +4,9 @@ title: Sentosa Development Corporation
 permalink: /
 sections:
   - hero:
-      title: Sentosa Development Corporation.
+      title: Sentosa Development Corporation
       subtitle: Developing a Fun, Smart, and Sustainable Sentosa
-      background: /images/sentosa-banner.jpg
+      background: /images/Sentosa_banner_1.png
       button: Learn More
       url: /who-we-are/overview
   - resources:

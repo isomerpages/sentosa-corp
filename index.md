@@ -16,4 +16,3 @@ sections:
 description: Developing a Fun, Smart, and Sustainable Sentosa
 image: /images/sdc-favicon.svg
 ---
-

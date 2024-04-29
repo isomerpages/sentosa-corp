@@ -8,7 +8,7 @@ variant: markdown
 
 | S\No. | Address | Property Type | Area (sq m) | Launch Date: | Submission Date: | Site Showround | Request for information |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 1. |  - | - | - |- |- | - | -
+| 1. |  1 Cove Avenue #02-13&14, Singapore 098537 | F&B |280.4sm (Indoor) 244.2sm (ORA) | 29 April 2024 | 28 May 2024 | - | -
 
 #### **Upcoming**
 

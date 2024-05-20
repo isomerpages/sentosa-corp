@@ -273,7 +273,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>
-        <strong>Divisional Director, Information Technology</strong>
+        <strong>Divisional Director, Digital Transformation Technology</strong>
     </div>
 </div>
 

@@ -40,7 +40,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 shareicon: /images/sdc-favicon.svg
-is_government: true
+is_government: false
 facebook-pixel: ""
 linkedin-insights: ""
 google_analytics_ga4: ""

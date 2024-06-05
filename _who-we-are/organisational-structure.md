@@ -294,6 +294,6 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Andrew JOHNSTON</p>
-        <strong>General Manager</strong> - Sentosa Golf Club
+        <strong>General Manager, Sentosa Golf Club</strong>
     </div>
 </div>

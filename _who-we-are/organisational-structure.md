@@ -90,7 +90,7 @@ variant: markdown
     <div class="col is-8">
         <p class="title is-4">Kevin KWOK</p>
         <strong>Company Director</strong>
-        <br> Board of Singapore Technologies Engineering Ltd
+        <br>Singapore Technologies Engineering Ltd
 	   <br>Standard Chartered Bank (Singapore) Ltd
     </div>
 </div>

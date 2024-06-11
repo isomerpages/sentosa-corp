@@ -34,8 +34,8 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">ANG Shih-Huei</p>
-        <strong>Chief Executive Officer</strong>
-        <br> Klareco Communications
+        <strong>Chief Executive Officer &amp; Co-founder</strong>
+        <br> H/Advisors Klareco 
     </div>
 </div>
 
@@ -56,7 +56,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Guna CHELLAPPAN</p>
-        <strong>Country General Manager for Singapore</strong>
+        <strong>Country General Manager</strong>
         <br> Red Hat Asia Pacific Pte Ltd
     </div>
 </div>
@@ -90,7 +90,7 @@ variant: markdown
     <div class="col is-8">
         <p class="title is-4">Kevin KWOK</p>
         <strong>Company Director</strong>
-        <br> Singapore Technologies Engineering Ltd
+        <br>Singapore Technologies Engineering Ltd
 	   <br>Standard Chartered Bank (Singapore) Ltd
     </div>
 </div>
@@ -134,7 +134,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael SYN</p>
-        <strong>President and Head of Global Markets Division</strong>
+        <strong>President and Head of Global Markets Division, SGX Group</strong>
         <br> Singapore Exchange Ltd
     </div>
 </div>
@@ -157,7 +157,7 @@ variant: markdown
     <div class="col is-8">
         <p class="title is-4">Ron TAN Aik Ti</p>
         <strong>Executive Chairman and Group CEO</strong>
-        <br> NEON Group
+        <br> NEON 
     </div>
 </div>
 
@@ -294,6 +294,6 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Andrew JOHNSTON</p>
-        <strong>General Manager</strong> - Sentosa Golf Club
+        <strong>General Manager, Sentosa Golf Club</strong>
     </div>
 </div>

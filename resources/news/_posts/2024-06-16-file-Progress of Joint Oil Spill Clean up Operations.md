@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/resources/news/20240616_Update_4_Progress_of_Joint_Oil_Spill_Clean_up_Operations_Corrected.pdf
+file_url: /files/resources/news/20240616_Progress_of_Joint_Oil_Spill_Clean_up_Operations_Updated.pdf
 ---

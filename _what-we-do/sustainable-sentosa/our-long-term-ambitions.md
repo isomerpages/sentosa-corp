@@ -33,7 +33,7 @@ In 2022, SDC was conferred the Global Sustainable Tourism Council – For Destin
 | Crockfords Tower | WELL Health-Safety Rating <br><br> BCA Green Mark Gold Plus |  
 | Resorts World Convention Centre | BCA Green Mark Platinum <br><br> WELL Health-Safety Rating |  
 | Sentosa Golf Club | GEO — Geo Certification Status <br><br> Britcham 22nd Annual Business Award — Sustainability Champion of the Year <br><br> World Golf Awards — World's Best Eco-Friendly Golf Facility for 2020, 2021 and 2022 <br><br> Global Excellence Awards — Sustainability Excellence Award <br><br> Golf Environment Awards 2022 — Runner-up for 'Outstanding Environmental Project of the Year' |  
-| Shangri-La Rasa Sentosa, Singapore | "Singapore Hotel Association - Singapore Hotel Sustainability Awards 2023 - 2024 <br><br> Nestlé Nespresso Singapore - Recycle to Win 2023 - Most Improved Recycler |  
+| Shangri-La Rasa Sentosa, Singapore | Singapore Hotel Association - Singapore Hotel Sustainability Awards 2023 - 2024 <br><br> Nestlé Nespresso Singapore - Recycle to Win 2023 - Most Improved Recycler |  
 | W Singapore - Sentosa Cove | BCA Green Mark Award 2021 (Platinum) for Green Hotels |  
 | Siloso Beach Resort Sentosa | Singapore Sustainability Award 2011 (Top Achiever) <br><br> Singapore Environment Achievement Awards 2010 (Top Achiever) |  
 | Sofitel Singapore Sentosa Resort &amp; Spa | 2024 Global Sustainable Tourism Council Hotel Criteria Award <br><br> 2023 Singapore Hotel Sustainability Award |  

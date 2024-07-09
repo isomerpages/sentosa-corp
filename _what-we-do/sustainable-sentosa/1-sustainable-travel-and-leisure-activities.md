@@ -8,7 +8,7 @@ variant: markdown
 		
 With 40 hectares of protected nature areas, more than 20 heritage trees, 474 species of flora and fauna, and a variety of walking and cycling trails on the island, Sentosa is a haven for nature lovers. 
 
-<img src="/images/what-we-do/sustainable-sentosa/SHIP-2.jpeg" alt="Image of SHIP">
+![](/images/what-we-do/sustainable-sentosa/ship.jpg)
 <figcaption>Sentosa's Headland Intertidal Programme at Tanjong Rimau</figcaption>
 		
 To bring guests closer to the island’s hidden gems, a slew of immersive tours were launched over the years, including the Siloso Headland Intertidal Programme and SentoSights - a series of unique guided tours, for guests to gain insights into the importance of sustainability and conservation, as they discover the island's nature and heritage.
@@ -16,7 +16,7 @@ To bring guests closer to the island’s hidden gems, a slew of immersive tours 
 <img src="/images/what-we-do/sustainable-sentosa/beer.jpg" alt="Image of beers">	
 <figcaption>Sentosa Island Brew - Singapore's first carbon neutral beer</figcaption>
 
-In 2020 Sentosa also launched Singapore's first carbon neutral beers. The Sentosa Islander Brew is a series of four beers made in collaboration with Brewerkz, a local craft brewery. Each beer is inspired by a unique Sentosa experience – Island Life, Nature Adventure, Heritage Discovery, and Wellness Escape – so guests can&nbsp;#MakeTime for a holiday&nbsp;anywhere. 
+In 2020, Sentosa also launched Singapore's first carbon neutral beers. The Sentosa Islander Brew is a series of four beers made in collaboration with Brewerkz, a local craft brewery. Each beer is inspired by a unique Sentosa experience – Island Life, Nature Adventure, Heritage Discovery, and Wellness Escape – so guests can&nbsp;#MakeTime for a holiday&nbsp;anywhere. 
 		
 Sentosa island is not just a resort destination but a living classroom too. Home to historical sites, nature trails and wildlife, we hope to partner with educators to leverage on Sentosa's uniqueness and add a twist to existing structured curriculum.  By 2022, guests can look forward to the launch of sustainability-themed tours that aim to increase the appreciation and protection of nature, biodiversity, and heritage&nbsp;on Sentosa. The Southern Islands experiences will also be launched with Sentosa as a conduit to the archipelago. 
 

@@ -16,4 +16,4 @@ We believe that the supporting strategies will help us progress steadily in our 
 <p>
 <img src="/images/what-we-do/sustainable-sentosa/strategies.png" alt="Image of Strategies">
 	
-Together with our subsidiaries, we welcome any comments on our sustainability approach. Findings arising from past satisfaction surveys can be found here: [Survey findings for FY22/23](/files/Sustainable%20Sentosa/GSTC___23_24_Sustainability_Survey_Findings.pdf). For feedback and enquiries, please contact us at sustainability@sentosa.com.sg.</p>
+Together with our subsidiaries, we welcome any comments on our sustainability approach. Findings arising from past satisfaction surveys can be found here: [Survey findings for FY22/23](/files/Sustainable%20Sentosa/GSTC___23_24_Sustainability_Survey_Findings.pdf). For feedback and enquiries, please contact us at sustainability@sentosa.gov.sg.</p>

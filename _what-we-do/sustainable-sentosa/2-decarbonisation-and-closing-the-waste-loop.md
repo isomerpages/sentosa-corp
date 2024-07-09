@@ -20,13 +20,14 @@ Singapore’s first carbon neutrality-driven business alliance, the Sentosa Carb
 
 These efforts include the development of green MICE offerings, sustainable events, as well as guidelines for reducing disposables. SDC also collaborates with the Singapore Food Agency (SFA) to increase the use of locally-sourced produce across Sentosa’s hotels and restaurants. In addition, SDC is also actively exploring solutions for on-site decarbonisation, such as installing solar panels on rooftop and unconventional spaces.
 
-Established in September 2021, the network comprises 17 founding members, including SDC and major businesses in Sentosa: Amara Sanctuary Resort Sentosa, Capella Hotel Singapore, C Side (Bikini Bar, Coastes and Sand Bar), Far East Hospitality Management Singapore, FOC by the Beach, Madame Tussauds Singapore, Mount Faber Leisure, Ola Beach Club, Resorts World Sentosa, Rumours Beach Club, Sentosa Golf Club, Scentopia, Shangri-La Rasa Sentosa, Siloso Beach Resort, Tanjong Beach Club and W Singapore-Sentosa Cove. 
+Established in September 2021, the network comprises 17 founding members, including SDC and major businesses in Sentosa: Amara Sanctuary Resort Sentosa, Capella Hotel Singapore, C Side (Bikini Bar, Coastes and Sand Bar), Far East Hospitality Management Singapore, FOC by the Beach, Madame Tussauds Singapore, Mount Faber Leisure Group, Ola Beach Club, Resorts World Sentosa, Rumours Beach Club, Sentosa Golf Club, Scentopia, Shangri-La Rasa Sentosa, Siloso Beach Resort, Tanjong Beach Club and W Singapore-Sentosa Cove. 
 
-Collectively, these members account for more than 90% of the island’s estimated carbon profile, thus potentially bringing about the largest reductions in Sentosa’s carbon emissions. The formation of the network follows Sentosa’s island-wide carbon profiling initiative, which began in 2020, to establish Sentosa’s island carbon profile baseline and guide future carbon mitigation and abatement efforts.
+As of March 2024, the SCNN has grown by 76% to a total of 30 members, with the addition of: Sofitel Singapore Sentosa Resort &amp; Spa, ONE°15 Marina Sentosa Cove Singapore, Co+Nut+Ink, Gogreen Eco Adventure, Baristart Coffee, Big Tiny, Tipsy Unicorn by Tipsy Collective, Skyline Luge Singapore, Lazarus Sea Sports Centre by Camelot, Mega Adventure Park, Quayside Isle, Skypark Sentosa by AJ Hackett, SOL by Bespoke Dining Club.
+
+Collectively, these members account forabout 95% of the island’s estimated carbon profile, thus potentially bringing about the largest reductions in Sentosa’s carbon emissions. The formation of the network follows Sentosa’s island-wide carbon profiling initiative, which began in 2020, to establish Sentosa’s island carbon profile baseline and guide future carbon mitigation and abatement efforts.
 
 <img src="/images/what-we-do/sustainable-sentosa/scnn.jpeg" alt="Image of SCNN">
-<figcaption>Inaugural SCNN meeting among member Island Partners
-</figcaption>
+<figcaption>Inaugural SCNN meeting among member Island Partners</figcaption>
 
 #### **Waste Management**
 To encourage guests to recycle and empower guests to adopt an eco-conscious lifestyle, SDC has collaborated with the National Environment Agency (NEA) to roll out smart Reverse Vending Machines (RVMs) which reward guests for recycling their drink containers (aluminium cans or plastic bottles). Guests  will be able to redeem a Free Sentosa Fun Pass (5 tokens) for every 10 drink containers recycled. The main goal of test-bedding the RVMs at Sentosa is to encourage guests to do their part for the environment and cultivate a habit a recycling. 

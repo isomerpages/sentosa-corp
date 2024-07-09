@@ -24,7 +24,7 @@ SDC has engaged in restoration efforts to further support the ecosystem and incr
 <img src="/images/what-we-do/sustainable-sentosa/hatchlings.jpg" alt="Image of MOU">
 <figcaption>Hawksbill Turtle hatchlings on Sentosa’s shores</figcaption>
 
-Beaches on Sentosa have been visited by the Hawksbill turtles which are critically endangered sea creatures. During the months from June to October when the female turtles occasionally lay their eggs on Sentosa’s beaches, Sentosa has introduced measures to limit access to the beach in order to protect the site for the turtles and ensure these eggs will not be exposed to any form of disturbance. SDC also works closely with the NParks to help monitor the nests until the eggs hatch and ensure the turtles are safely released back to sea.
+Beaches on Sentosa have been visited by the Hawksbill turtles which are critically endangered sea creatures. During the months from June to October when the female turtles occasionally lay their eggs on Sentosa’s beaches, Sentosa has introduced measures to limit human disturbance in order to protect the site for the turtles and ensure these eggs will not be exposed to any form of disturbance. SDC also works closely with the NParks to help monitor the nests until the eggs hatch and ensure the turtles are safely released back to sea.
 
 <img src="/images/what-we-do/sustainable-sentosa/bee-sanctuary.jpeg" alt="Image of Bee Sanctuary">
 <figcaption>Bee sanctuary at Sentosa Golf Club</figcaption>

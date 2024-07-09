@@ -44,15 +44,9 @@ Ensuring social and economic sustainability is also key to meeting the needs of 
 - To position SDC and Island Partners as choice employers who support inclusive hiring for persons-with-disabilities and low-income families, and build an inclusive and caring organisation culture.
 - To enhance Sentosa with inclusive experiences for guests with all abilities to enjoy and discover.
 
+SDC hosted the inaugural Sentosa Cares Week in 2023, and hosted more than 1,000 beneficiaries to enjoy the island's offerings.
 
-<img src="/images/what-we-do/sustainable-sentosa/hnf-lny.jpeg" alt="Image of HNF Lunar New Year activity">	
-<figcaption>SDC collaboration with the Home Nursing Foundation on a Lunar New Year home improvement initiative for vulnerable seniors</figcaption>
+SDC entered into a Memorandum of Understanding (MoU) with Ministry of Social and Family Development (MSF), and SG Enable, aimed at creating fair employment and social opportunities for persons with disabilities and families with children living in public rental housing units who are being supported under the ComLink initiative (“ComLinkfamilies”). 
 
-SDC has established three-year partnerships with Care Corner Singapore and TOUCH Community Services. Under the Care Corner partnership, the SwiTCH UP! Programme aims to support adolescents in developing stress coping abilities and instilling positive values, leadership competencies and social awareness. 
+The three parties will create a destination experience at Sentosa island with inclusive spaces, programmes and services through social innovation. SDC will leverage SG Enable’s programmes to train their employees to build inclusive workplaces, as well as provide mentorship and internship opportunities for persons with disabilities and ComLink families. Every year, SDC and its Island Partners will also come together to provide over 1,000 beneficiaries, including ComLink families, persons with disabilities and their caregivers, with opportunities to enjoy the island’s offerings and attractions. 
 
-SDC has also partnered with Glyph Asia, whose main beneficiaries are children from less privileged families. As part of this collaboration, SDC conducted a series of 24 weekend art and craft classes with Glyph’s beneficiaries&nbsp;to upcycle 10,000 pieces of waste materials from SDC's National Day celebrations into drawstring bags. Staff volunteers also shared about environmental protection and the need to reduce waste, in an effort to imbue in the minds of the children the importance of sustainability.
-
-<img src="/images/what-we-do/sustainable-sentosa/flag.jpg" alt="Image of HNF Lunar New Year activity">	
-<figcaption>Materials from SDC's National Day celebrations were upcycled into drawstring bags</figcaption>
-
-SDC will continue to promote volunteerism among all staff and initiate new community activities to not only help grow a heart for volunteerism among SDC’s staff, but also engage more to be involved in volunteering activities.

@@ -38,7 +38,7 @@ To encourage guests to recycle and empower guests to adopt an eco-conscious life
 <br>
 
 <img src="/images/what-we-do/sustainable-sentosa/food-waste-digestor.jpg" alt="Image of food waste digester">
-<figcaption>Food Waste Digestor at Sentosa Golf Club</figcaption>
+<figcaption>Food Waste Digestor at Sentosa Cove</figcaption>
 
 In Year 2023, SDC had launched an island-wide Sentosa Disposables Policy &amp; Playbook, aiming to eliminate 2 million single-use plastic bottles annually. SDC recognises the importance of implementing new initiatives within the Group to play a part in minimising the number of disposables used. For example, at SDC’s Human Resource department, disposable water bottles are not provided during internal staff events or meetings conducted. 
 

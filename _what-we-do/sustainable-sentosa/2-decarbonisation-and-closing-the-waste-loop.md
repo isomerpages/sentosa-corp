@@ -30,7 +30,7 @@ Collectively, these members account forabout 95% of the island’s estimated car
 <figcaption>Inaugural SCNN meeting among member Island Partners</figcaption>
 
 #### **Waste Management**
-To encourage guests to recycle and empower guests to adopt an eco-conscious lifestyle, SDC has collaborated with the National Environment Agency (NEA) to roll out smart Reverse Vending Machines (RVMs) which reward guests for recycling their drink containers (aluminium cans or plastic bottles). Guests  will be able to redeem a Free Sentosa Fun Pass (5 tokens) for every 10 drink containers recycled. The main goal of test-bedding the RVMs at Sentosa is to encourage guests to do their part for the environment and cultivate a habit a recycling. 
+To encourage guests to recycle and empower guests to adopt an eco-conscious lifestyle, SDC has collaborated with the National Environment Agency (NEA) to roll out smart Reverse Vending Machines (RVMs). The main goal of the RVMs at Sentosa is to encourage guests to do their part for the environment and cultivate a habit a recycling. 
 
 <img src="/images/what-we-do/sustainable-sentosa/rvm.jpg" alt="Image of RVM">
 <figcaption>Reverse Vending Machines deployed around Sentosa</figcaption>

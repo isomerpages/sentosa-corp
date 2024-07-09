@@ -30,11 +30,3 @@ Beaches on Sentosa have been visited by the Hawksbill turtles which are critical
 <figcaption>Bee sanctuary at Sentosa Golf Club</figcaption>
 
 In 2021, a bee sanctuary was unveiled at Sentosa Golf Club to raise awareness of the declining bee population worldwide and to educate guests on the importance of bees to the ecosystem and food chain. The bee sanctuary not only showcases various bee-keeping techniques, but also provides Sentosa Golf Club’s food and beverage businesses with a local supply of honey, which help reduce carbon footprint through external food sourcing.
-
-<img src="/images/what-we-do/sustainable-sentosa/ship.jpg" alt="Image of MOU">
-<figcaption>Guided group on educational intertidal programmes </figcaption>
-
-To control and manage access to sensitive ecological sites while allowing guests to appreciate these sites, SDC adopts a balanced approach which allows for controlled access through pre-organised learning journeys. Guided tours such as the Siloso Headland Intertidal Programme and Marine ConservAction programme allow guests to learn about the natural habitats and biodiversity and encourage the appreciation of conservation. 
-
-<img src="/images/what-we-do/sustainable-sentosa/conservaction.jpeg" alt="Image of Marine ConservAction">
-<figcaption>Marine ConservAction programme </figcaption>

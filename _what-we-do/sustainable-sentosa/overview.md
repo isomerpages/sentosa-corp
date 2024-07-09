@@ -30,6 +30,6 @@ in our pathway towards a Sustainable Sentosa.</p>
 <p></p>
 <p>Together with our subsidiaries, we welcome any comments on our sustainability
 approach. Findings arising from past satisfaction surveys can be found
-here:<a href="/files/Sustainable Sentosa/GSTC___GS_23_24_Sustainability_Findings__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Survey findings for FY22/23</a>.
+here: <a href="/files/Sustainable Sentosa/GSTC___GS_23_24_Sustainability_Findings__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Survey findings for FY22/23</a>.
 For feedback and enquiries, please contact us at sustainability@sentosa.gov.sg.</p>
 <p></p>

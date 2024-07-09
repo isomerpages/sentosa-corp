@@ -19,7 +19,7 @@ The key strategies will be based on native-driven and scientific approaches that
 <img src="/images/what-we-do/sustainable-sentosa/rimau.png" alt="Image of Tanjong Rimau">
 <figcaption>Tanjong Rimau - a natural treasure trove that is home to corals, seagrass, and a wide variety of marine wildlife</figcaption>
 
-With forests making up close to 120 hectares of Sentosa, SDC has engaged in restoration efforts to further support the ecosystem and increase resilience against climate change. A key initiative in this regard is a native tree-planting project where native flora species were identified and planted in Sentosa’s forests. For example, the Light Red Meranti, a plant which has been categorised as globally ‘endangered’ and locally ‘vulnerable’ due to threats from habitat loss and climate change, can be found on the island’s forests. 
+SDC has engaged in restoration efforts to further support the ecosystem and increase resilience against climate change. A key initiative in this regard is a native tree-planting project where native flora species were identified and planted in Sentosa’s forests. For example, the Light Red Meranti, a plant which has been categorised as globally ‘endangered’ and locally ‘vulnerable’ due to threats from habitat loss and climate change, can be found on the island’s forests. 
 
 <img src="/images/what-we-do/sustainable-sentosa/hatchlings.jpg" alt="Image of MOU">
 <figcaption>Hawksbill Turtle hatchlings on Sentosa’s shores</figcaption>

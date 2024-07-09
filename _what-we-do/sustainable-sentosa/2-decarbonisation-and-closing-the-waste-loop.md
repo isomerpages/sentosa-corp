@@ -38,9 +38,9 @@ To encourage guests to recycle and empower guests to adopt an eco-conscious life
 <br>
 
 <img src="/images/what-we-do/sustainable-sentosa/food-waste-digestor.jpg" alt="Image of food waste digester">
-<figcaption>Food Waste Digestor at Sentosa Cove</figcaption>
+<figcaption>Food Waste Digester at Sentosa Cove</figcaption>
 
-In Year 2023, SDC had launched an island-wide Sentosa Disposables Policy &amp; Playbook, aiming to eliminate 2 million single-use plastic bottles annually. SDC recognises the importance of implementing new initiatives within the Group to play a part in minimising the number of disposables used. For example, at SDC’s Human Resource department, disposable water bottles are not provided during internal staff events or meetings conducted. 
+In Year 2023, SDC had launched an island-wide Sentosa Disposables Policy Playbook, aiming to eliminate 2 million single-use plastic bottles annually. SDC recognises the importance of implementing new initiatives within the Group to play a part in minimising the number of disposables used. For example, at SDC’s Human Resource department, disposable water bottles are not provided during internal staff events or meetings conducted. 
 
 In addition to reducing disposables internally, it is also important to encourage guests to reduce waste and adopt a more environmentally conscious lifestyle. To reduce the amount of waste generated at Sentosa, SDC has pledged to reduce food wastage and the use of disposables by supporting the National Environment Agency (NEA)’s “Say Yes to Waste Less” Campaign. Through this campaign, SDC aims to create a more sustainable future by encouraging all Island Partners to adopt and implement the campaign on their premises, as well as at the Group’s own operations to encourage guests to cultivate a habit of reducing food wastage and using lesser disposables. For example, at Sentosa Golf Club’s food and beverages establishments, disposables such as one-time use utensils and plastic bottles are not provided to all guests. Water stations are accessible for all to use instead.
 

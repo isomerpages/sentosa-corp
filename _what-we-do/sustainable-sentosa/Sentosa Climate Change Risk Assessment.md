@@ -6,7 +6,7 @@ third_nav_title: Sustainable Sentosa
 variant: markdown
 ---
 ### **Sentosa Climate Change Risk Assessment**
-Sentosa, a 500-hectares resort island located at the southern tip of Singapore, has a range of attractions, from nature trails, to beaches, destination dining, theme parks and spa resorts. In 2019, Sentosa hosts more than 19 million tourists, making Sentosa Asia’s leading tourist destination. Additionally, Sentosa Cove, a residential enclave located in Sentosa, is home to more than 8000 residents across 2000 households.
+Sentosa, a 500-hectare resort island located at the southern tip of Singapore, has a range of attractions, from nature trails, to beaches, destination dining, theme parks and spa resorts. In 2019, Sentosa hosts more than 19 million tourists, making Sentosa Asia’s leading tourist destination. Additionally, Sentosa Cove, a residential enclave located in Sentosa, is home to more than 8,000 residents across 2,000 households.
 
 From an ecological perspective, 8 different habitats can be found on the island, including coastal forest, secondary forest, rocky seashores, intertidal and more. More than 20 heritage trees had been identified together with a thriving biohabitat from ridge to reef, resident to corals, tropical marine-life, insect-eating plants, butterflies, and migratory birds. This is under threat from climate change. 
 

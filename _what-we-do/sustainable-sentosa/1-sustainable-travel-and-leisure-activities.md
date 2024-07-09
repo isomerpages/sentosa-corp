@@ -46,7 +46,8 @@ Ensuring social and economic sustainability is also key to meeting the needs of 
 
 SDC hosted the inaugural Sentosa Cares Week in 2023, and hosted more than 1,000 beneficiaries to enjoy the island's offerings.
 
+
+
 SDC entered into a Memorandum of Understanding (MoU) with Ministry of Social and Family Development (MSF), and SG Enable, aimed at creating fair employment and social opportunities for persons with disabilities and families with children living in public rental housing units who are being supported under the ComLink initiative (“ComLinkfamilies”). 
 
-The three parties will create a destination experience at Sentosa island with inclusive spaces, programmes and services through social innovation. SDC will leverage SG Enable’s programmes to train their employees to build inclusive workplaces, as well as provide mentorship and internship opportunities for persons with disabilities and ComLink families. Every year, SDC and its Island Partners will also come together to provide over 1,000 beneficiaries, including ComLink families, persons with disabilities and their caregivers, with opportunities to enjoy the island’s offerings and attractions. 
-
+The three parties will create a destination experience at Sentosa island with inclusive spaces, programmes and services through social innovation. SDC will leverage SG Enable’s programmes to train their employees to build inclusive workplaces, as well as provide mentorship and internship opportunities for persons with disabilities and ComLink families. Every year, SDC and its Island Partners will also come together to provide over 1,000 beneficiaries, including ComLink families, persons with disabilities and their caregivers, with opportunities to enjoy the island’s offerings and attractions.

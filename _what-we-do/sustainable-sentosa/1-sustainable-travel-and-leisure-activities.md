@@ -25,6 +25,7 @@ As custodians of the island, SDC has the responsibility to protect its cultural 
 <figcaption>Before it became the iconic Madame Tussauds Singapore, the majestic white building located at Imbiah Lookout’s forecourt served as a hospital for British troops stationed on the island of Sentosa. </figcaption>
 
 SDC’s approach to heritage conservation includes the restoration of old buildings and injection of vibrancy into old building structures. Home to over 24 conserved buildings and Singapore’s only fully restored fort, Sentosa remains an important landmark in Singapore’s history. SDC believes that the history of Sentosa serves as an intangible treasure that SDC has the responsibility to preserve as well as educate both local and overseas guests on.
+
 ![](/images/what-we-do/sustainable-sentosa/fort-siloso.jpeg)
 <figcaption>Fort Siloso, Singapore’s best preserved 19th century fort,
 was gazetted as Singapore’s 74th National Monument on 15 February 2022, fortifying its place in Singapore’s built heritage.</figcaption>
@@ -34,13 +35,15 @@ was gazetted as Singapore’s 74th National Monument on 15 February 2022, fortif
 <img src="/images/what-we-do/sustainable-sentosa/knolls-collage.png" alt="Image of Knolls">	
 <figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore</figcaption>
 
+In partnership with NHB, the Sentosa Heritage Trail was launched in March 2022, comprising three themed routes and supplemented with heritage trail markers to allow guests to explore the island in their own time. The trails uncover the stories and history of the early settlers on the island, shed light on the story of modern Sentosa’s reinvention and trace the transformation of the island from a military complex to a leisure destination.
+
 Recognising that Sentosa’s heritage is only a part of a larger historical narrative, SDC has collaborated with other museums, heritage agencies and relevant stakeholders to host joint-exhibitions and events, as we uncover Singapore’s history together. 
 
-<img src="/images/what-we-do/sustainable-sentosa/fort-siloso-war-staples.png" alt="Image of Wartime Staples Tour">	
-<figcaption>Wartime Food &amp; Sustainability Workshop in collaboration with Edible Garden City held at Fort Siloso, Singapore's last preserved coastal fort</figcaption>
-
 ### **Social Inclusivity and Local Communities** 
-Ensuring social and economic sustainability is also key to meeting the needs of the current generation and providing support to the needs of future generations. Acknowledging the economic hardships caused by COVID-19, SDC places a strong emphasis on promoting social inclusivity by supporting local Social Service Organisations (SSOs) in outreach and engagement efforts for underprivileged and elderly beneficiaries, as well as promoting volunteerism values among SDC’s staff and Island Partners.
+Ensuring social and economic sustainability is also key to meeting the needs of the current generation and providing support to the needs of future generations. SDC has developed the Sentosa Cares Framework, with the following objectives:
+- To position SDC and Island Partners as choice employers who support inclusive hiring for persons-with-disabilities and low-income families, and build an inclusive and caring organisation culture.
+- To enhance Sentosa with inclusive experiences for guests with all abilities to enjoy and discover.
+
 
 <img src="/images/what-we-do/sustainable-sentosa/hnf-lny.jpeg" alt="Image of HNF Lunar New Year activity">	
 <figcaption>SDC collaboration with the Home Nursing Foundation on a Lunar New Year home improvement initiative for vulnerable seniors</figcaption>

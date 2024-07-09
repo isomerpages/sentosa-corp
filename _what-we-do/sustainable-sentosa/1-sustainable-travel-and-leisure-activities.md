@@ -24,7 +24,12 @@ As custodians of the island, SDC has the responsibility to protect its cultural 
 <img src="/images/what-we-do/sustainable-sentosa/mtsg.jpg" alt="Image of Madame Tussauds Singapore">	
 <figcaption>Before it became the iconic Madame Tussauds Singapore, the majestic white building located at Imbiah Lookout’s forecourt served as a hospital for British troops stationed on the island of Sentosa. </figcaption>
 
-SDC’s approach to heritage conservation includes the restoration of old buildings and injection of vibrancy into old building structures. By conserving the historical assets on the island, SDC managed to open free public access to the last preserved coastal Fort in Singapore and other new initiatives. SDC will continue to embark on heritage preservation efforts while keeping public safety in mind. 
+SDC’s approach to heritage conservation includes the restoration of old buildings and injection of vibrancy into old building structures. Home to over 24 conserved buildings and Singapore’s only fully restored fort, Sentosa remains an important landmark in Singapore’s history. SDC believes that the history of Sentosa serves as an intangible treasure that SDC has the responsibility to preserve as well as educate both local and overseas guests on.
+![](/images/what-we-do/sustainable-sentosa/fort-siloso.jpeg)
+<figcaption>Fort Siloso, Singapore’s best preserved 19th century fort,
+was gazetted as Singapore’s 74th National Monument on 15 February 2022, fortifying its place in Singapore’s built heritage.</figcaption>
+
+<br>
 
 <img src="/images/what-we-do/sustainable-sentosa/knolls-collage.png" alt="Image of Knolls">	
 <figcaption>The Knolls - Once used to accommodate British officers of the Royal Artillery and their families, the four classical colonial military buildings located on the slopes of The Knolls have been revived and integrated into the modern six-star resort Capella Singapore</figcaption>

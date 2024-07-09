@@ -41,13 +41,13 @@ Recognising that Sentosa’s heritage is only a part of a larger historical narr
 
 ### **Social Inclusivity and Local Communities** 
 Ensuring social and economic sustainability is also key to meeting the needs of the current generation and providing support to the needs of future generations. SDC has developed the Sentosa Cares Framework, with the following objectives:
-- To position SDC and Island Partners as choice employers who support inclusive hiring for persons-with-disabilities and low-income families, and build an inclusive and caring organisation culture.
-- To enhance Sentosa with inclusive experiences for guests with all abilities to enjoy and discover.
+- To position SDC and Island Partners as <b>choice employers</b> who support inclusive hiring for persons-with-disabilities and low-income families, and build an inclusive and caring organisation culture.
+- To enhance Sentosa with <b>inclusive experiences</b> for guests with all abilities to enjoy and discover.
 
 SDC hosted the inaugural Sentosa Cares Week in 2023, and hosted more than 1,000 beneficiaries to enjoy the island's offerings.
 
-insert photo here
+![](/images/what-we-do/sustainable-sentosa/Sentosa_Cares.jpg) <figcaption>SDC entered into a Memorandum of Understanding (MoU) with Ministry of Social and Family Development (MSF), and SG Enable, aimed at creating fair employment and social opportunities for persons with disabilities and families with children living in public rental housing units who are being supported under the ComLink initiative (“ComLinkfamilies”).</figcaption>
 
-SDC entered into a Memorandum of Understanding (MoU) with Ministry of Social and Family Development (MSF), and SG Enable, aimed at creating fair employment and social opportunities for persons with disabilities and families with children living in public rental housing units who are being supported under the ComLink initiative (“ComLinkfamilies”). 
+ 
 
 The three parties will create a destination experience at Sentosa island with inclusive spaces, programmes and services through social innovation. SDC will leverage SG Enable’s programmes to train their employees to build inclusive workplaces, as well as provide mentorship and internship opportunities for persons with disabilities and ComLink families. Every year, SDC and its Island Partners will also come together to provide over 1,000 beneficiaries, including ComLink families, persons with disabilities and their caregivers, with opportunities to enjoy the island’s offerings and attractions.

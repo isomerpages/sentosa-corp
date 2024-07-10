@@ -14,9 +14,9 @@ to guest satisfaction and ensuring their wellbeing and safety, while creating
 a vibrant island economy and a nurturing and safe working environment for
 all staff.</p>
 <h4><strong>Our Vision</strong></h4>
-<p>&gt; An internationally recognised resort island that offers an inspiring
-sustainable development model that enables and furthers Singapore’s national
-sustainability and climate change outcomes.</p>
+<p>An internationally recognised resort island that offers an inspiring sustainable
+development model that enables and furthers Singapore’s national sustainability
+and climate change outcomes.</p>
 <p>We also recognise the need to build networks to capitalise on synergies
 to advance mutual interests in sustainability. Through forming meaningful
 partnerships we can build a Sustainable Sentosa community to punch above

@@ -70,6 +70,37 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Cove Avenue #02-01 Singapore 098537</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 July 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upon request</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/669f38131e671282a0d2a690" rel="noopener noreferrer nofollow" target="_blank">Register interest here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Upcoming</strong></h4>
@@ -182,23 +213,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cove Avenue #02-13&amp;14, Singapore 098537</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>F&amp;B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>280.4 (Indoor) 244.2 (ORA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 May 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>32 Sentosa Gateway #01-K1, Singapore 098141</p>

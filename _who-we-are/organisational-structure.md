@@ -171,7 +171,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">HEAH Soon Poh</p>
-        <strong>Assistant Chief Executive</strong>
+        <strong>Assistant Chief Executive (Integrated Development &amp; Operations Group)</strong>
     </div>
 </div>
 
@@ -181,7 +181,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">LEE Cheh Hsien</p>
-			<strong>Assistant Chief Executive</strong>/<strong>Divisional Director, Planning</strong>
+			<strong>Assistant Chief Executive (Corporate &amp; Sustainability Group)</strong>/<strong>Divisional Director, Corporate Planning</strong>
     </div>
 </div>
 
@@ -192,7 +192,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael MA</p>
-        <strong>Assistant Chief Executive</strong>
+        <strong>Assistant Chief Executive (Business &amp; Digital Technology Group)</strong>
     </div>
 </div>
 
@@ -222,7 +222,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">CHEW Tiong Heng</p>
-        <strong>Divisional Director, Business and Experience Development</strong>
+        <strong>Divisional Director, Business &amp; Experience Development</strong>
     </div>
 </div>
 
@@ -242,7 +242,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH Piak Huat</p>
-        <strong>Divisional Director, Operations</strong>
+        <strong>Divisional Director, Integrated Operations</strong>
     </div>
 </div>
 
@@ -252,7 +252,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">LAM Yue Kwai</p>
-        <strong>Divisional Director, Project Development</strong>
+        <strong>Divisional Director, Engineering &amp; Project Management</strong>
     </div>
 </div>
 

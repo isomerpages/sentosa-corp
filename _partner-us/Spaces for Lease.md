@@ -48,37 +48,6 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>42 Imbiah Road, #01-02 to #01-04, Singapore 099701</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>F&amp;B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>60 (Indoor), 17.3 (ORA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 July 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 August 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upon request</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/668b95ad98d37873d81dbc6b" rel="noopener noreferrer nofollow" target="_blank">Register interest here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
 <p>1 Cove Avenue #02-01 Singapore 098537</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +150,7 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>81 Siloso Road #01-02, Singapore 098975</p>
+<p>81 Siloso Road #01-03, Singapore 098975</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>F&amp;B</p>
@@ -198,7 +167,7 @@ variant: tiptap
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>81 Siloso Road #01-03, Singapore 098975</p>
+<p>81 Siloso Road #01-02, Singapore 098975</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Retail</p>
@@ -225,6 +194,27 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>8 June 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>42 Imbiah Road, #01-02 to #01-04, Singapore 099701</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F&amp;B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60 (Indoor), 17.3 (ORA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 August 2024</p>
 </td>
 </tr>
 </tbody>

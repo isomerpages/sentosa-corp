@@ -5,6 +5,6 @@ date: 2022-12-13
 layout: file
 description: ""
 image: ""
-file_url: /files/resources/news/20221213 Media_advisory_
-  Sentosa_wraps_up_Golden_Jubilee_with_a_Giant_bang.pdf
+file_url: /files/resources/news/20221213_Media_Release___Sentosa_wraps_up_Golden_Jubilee_with_a_Giant_bang.pdf
+variant: tiptap
 ---

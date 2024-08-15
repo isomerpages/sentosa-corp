@@ -29,14 +29,12 @@ nature groups, technical agencies and relevant Government agencies. The
 EIA Reports published are open for public feedback for 4 weeks starting
 from the date of publication. We welcome your feedback at <a href="mailto:sustainability@sentosa.com.sg" rel="noopener noreferrer nofollow" target="_blank">sustainability@sentosa.com.sg</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/eia/032_low.jpg">
 </div>
 <p>Artist’s impression of possibilities for Pulau Brani under the Greater
-Sentosa Master Plan (formerly known as Sentosa-Brani Master Plan</p>
+Sentosa Master Plan (formerly known as Sentosa-Brani Master Plan)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/eia/4.jpg">
 </div>

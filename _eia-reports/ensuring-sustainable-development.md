@@ -33,7 +33,7 @@ from the date of publication. We welcome your feedback at <a href="mailto:sustai
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eia/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eia/032_low.jpg">
 </div>
 <p>Artist’s impression of possibilities for Pulau Brani under the Greater
 Sentosa Master Plan (formerly known as Sentosa-Brani Master Plan</p>

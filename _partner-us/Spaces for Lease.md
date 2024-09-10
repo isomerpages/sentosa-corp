@@ -45,29 +45,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Cove Avenue #02-01 Singapore 098537</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Office</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 July 2024</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 August 2024</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Upon request</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/669f38131e671282a0d2a690" rel="noopener noreferrer nofollow" target="_blank">Register interest here</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
@@ -101,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -215,6 +214,23 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>10 August 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Cove Avenue #02-01 Singapore 098537</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 August 2024</p>
 </td>
 </tr>
 </tbody>

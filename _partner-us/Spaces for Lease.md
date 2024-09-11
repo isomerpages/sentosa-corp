@@ -149,40 +149,6 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>81 Siloso Road #01-03, Singapore 098975</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>F&amp;B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>103</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 February 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>81 Siloso Road #01-02, Singapore 098975</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Retail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>102</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 March 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>32 Sentosa Gateway #01-K1, Singapore 098141</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,11 +163,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>42 Imbiah Road, #01-02 to #01-04, Singapore 099701</p>
@@ -218,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Cove Avenue #02-01 Singapore 098537</p>

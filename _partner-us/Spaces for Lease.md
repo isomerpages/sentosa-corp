@@ -48,10 +48,10 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Former 30 Imbiah Walk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Attraction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3,600 (Land)</p>

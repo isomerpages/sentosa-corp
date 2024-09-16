@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -54,19 +54,20 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>3,600 (Land)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>16 September 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>31 October 2024, 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>2 October 2024, 10:30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://go.gov.sg/30imbiahwalk" rel="noopener nofollow" target="_blank">Register interest here</a>
+</p>
 </td>
 </tr>
 </tbody>

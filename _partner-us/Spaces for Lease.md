@@ -72,6 +72,77 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>Land Lease Tender</strong></h4>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Tender Document Number</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Publishing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Submission Date and Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Launch Date:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Submission Date:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Site Showround</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Request for information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SDC 90.13.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Oct 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 Jan 2025, at or before 12 noon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,600 (Land)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 September 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 October 2024, 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 October 2024, 10:30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/30imbiahwalk" rel="noopener nofollow" target="_blank">Register interest here</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Upcoming</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>

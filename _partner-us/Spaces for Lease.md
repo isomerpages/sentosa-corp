@@ -119,9 +119,11 @@ variant: tiptap
 <p>Instructions to prospective Tenderers:</p>
 <p>1. Tenderer's Packet containing the Conditions of Tender, Technical Conditions
 of Tender and other relevant documents for the tender is available at $185.30
-(inclusive of GST) and can be purchased at: &lt;hyperlink&gt;&nbsp;</p>
+(inclusive of GST) and can be purchased at: <u>&lt;hyperlink&gt;&nbsp;</u>
+</p>
 <p>2. Upon completion of the payment of $185.30, kindly click on the link
-below to download the tender documents.&lt;hyperlink&gt;</p>
+below to download the tender documents.<u>&lt;hyperlink&gt;</u>
+</p>
 <p></p>
 <p><em><u>Note: </u>The password to the tender documents will be released to the Tenderers via email.</em>
 </p>

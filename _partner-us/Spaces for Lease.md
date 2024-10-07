@@ -74,11 +74,8 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Land Lease Tender</strong></h4>
-<table style="minWidth: 200px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -101,16 +98,8 @@ variant: tiptap
 <p>Description</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Launch Date:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Submission Date:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Site Showround</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Request for information</p>
+<p><strong>Tender Documents</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -124,25 +113,22 @@ variant: tiptap
 <p>17 Jan 2025, at or before 12 noon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3,600 (Land)</p>
+<p>Land Parcel for Hotel Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 September 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 October 2024, 4:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 October 2024, 10:30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/30imbiahwalk" rel="noopener nofollow" target="_blank">Register interest here</a>
+<p>Instructions to prospective Tenderers:</p>
+<p>1. Tenderer's Packet containing the Conditions of Tender, Technical Conditions
+of Tender and other relevant documents for the tender is available at $185.30
+(inclusive of GST) and can be purchased at: &lt;hyperlink&gt;&nbsp;</p>
+<p>2. Upon completion of the payment of $185.30, kindly click on the link
+below to download the tender documents.&lt;hyperlink&gt;</p>
+<p></p>
+<p><em><u>Note: </u>The password to the tender documents will be released to the Tenderers via email.</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Upcoming</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>

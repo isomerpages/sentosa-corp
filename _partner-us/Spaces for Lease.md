@@ -119,7 +119,8 @@ variant: tiptap
 <p>Instructions to prospective Tenderers:</p>
 <p>1. Tenderer's Packet containing the Conditions of Tender, Technical Conditions
 of Tender and other relevant documents for the tender is available at $185.30
-(inclusive of GST) and can be purchased at: <u>&lt;hyperlink&gt;&nbsp;</u>
+(inclusive of GST) and can be purchased at:</p>
+<p><a href="https://form.gov.sg/admin/form/66e293bd79efd0b15ac84096" rel="noopener nofollow" target="_blank">FormSG</a>
 </p>
 <p>2. Upon completion of the payment of $185.30, kindly click on the link
 below to download the tender documents.<u>&lt;hyperlink&gt;</u>

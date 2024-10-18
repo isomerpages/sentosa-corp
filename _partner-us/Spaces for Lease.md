@@ -72,6 +72,62 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>Land Lease Tender</strong></h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Tender Document Number</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Publishing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Submission Date and Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Tender Documents</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SDC 90.13.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Oct 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 Jan 2025, at or before 12 noon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Land Parcel for Hotel Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Instructions to prospective Tenderers:</p>
+<p>1. Tenderer's Packet containing the Conditions of Tender, Technical Conditions
+of Tender and other relevant documents for the tender is available at $185.30
+(inclusive of GST) and can be purchased at:</p>
+<p><a href="https://form.gov.sg/66e293bd79efd0b15ac84096" rel="noopener nofollow" target="_blank">FormSG</a>
+</p>
+<p>2. Our team will be in touch via email with the tender documents.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Upcoming</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>

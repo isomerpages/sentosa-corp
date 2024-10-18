@@ -122,12 +122,8 @@ of Tender and other relevant documents for the tender is available at $185.30
 (inclusive of GST) and can be purchased at:</p>
 <p><a href="https://form.gov.sg/66e293bd79efd0b15ac84096" rel="noopener nofollow" target="_blank">FormSG</a>
 </p>
-<p>2. Upon completion of the payment of $185.30, kindly click on the link
-below to download the tender documents.<u>&lt;hyperlink&gt;</u>
-</p>
+<p>2. Our team will be in touch via email with the tender documents.</p>
 <p></p>
-<p><em><u>Note: </u>The password to the tender documents will be released to the Tenderers via email.</em>
-</p>
 </td>
 </tr>
 </tbody>

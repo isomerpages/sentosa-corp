@@ -117,12 +117,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Instructions to prospective Tenderers:</p>
-<p>1. Tenderer's Packet containing the Conditions of Tender, Technical Conditions
+<p>1. Developer's Packet containing the Conditions of Tender, Technical Conditions
 of Tender and other relevant documents for the tender is available at $185.30
 (inclusive of GST) and can be purchased at:</p>
 <p><a href="https://form.gov.sg/66e293bd79efd0b15ac84096" rel="noopener nofollow" target="_blank">FormSG</a>
 </p>
-<p>2. Our team will be in touch via email with the tender documents.</p>
+<p>2. Upon verification of the payment, SDC will send an email containing
+the link for the retrieval of the Developer’s Packet. The password to the
+Developer’s Packet will be sent in a separate email.</p>
+<p></p>
+<p>Should you require assistance, kindly reach out to us at <a rel="noopener noreferrer nofollow" target="_blank">landleasing@sentosa.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>

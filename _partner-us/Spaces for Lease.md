@@ -4,7 +4,7 @@ permalink: /partner-us/spaces-for-lease/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Open for Application</strong></h4>
+<h4><strong>Commercial Spaces for Lease</strong></h4>
 <table style="minWidth: 200px">
 <colgroup>
 <col>

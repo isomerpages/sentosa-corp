@@ -1,6 +1,6 @@
 ---
-title: SDC and STIC Travel Group Partner to Launch Unique Immersive Educational
-  Programmesi
+title: SDC and STIC Travel Group partner to launch unique immersive educational
+  programmes
 date: 2024-10-23
 layout: file
 description: ""

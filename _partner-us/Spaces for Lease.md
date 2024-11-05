@@ -123,9 +123,9 @@ variant: tiptap
 <p>Instructions to prospective Tenderers:</p>
 <p>1. Developer's Packet containing the Conditions of Tender, Technical Conditions
 of Tender and other relevant documents for the tender is available at $185.30
-(inclusive of GST) and can be purchased at:</p>
-<p><a href="https://form.gov.sg/66e293bd79efd0b15ac84096" rel="noopener nofollow" target="_blank">FormSG</a>
+(inclusive of GST) and can be purchased at: <a href="https://form.gov.sg/66e293bd79efd0b15ac84096" rel="noopener nofollow" target="_blank">FormSG</a>
 </p>
+<p></p>
 <p>2. Upon verification of the payment, SDC will send an email containing
 the link for the retrieval of the Developer’s Packet. The password to the
 Developer’s Packet will be sent in a separate email.</p>
@@ -141,11 +141,10 @@ October 2024, SDC will be conducting a second site showround on 12 November
 Allanbrooke Road, Sentosa.</p>
 <p>&nbsp;</p>
 <p>Tenderers who are keen to attend the second site show round, kindly register
-your interest by sending an email to</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">landleasing@sentosa.gov.sg</a> with
+your interest by sending an email to <a rel="noopener noreferrer nofollow" target="_blank">landleasing@sentosa.gov.sg</a> with
 the attendees’ name and email address on or before 12 noon of 11 November
 2024.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Do note that the attendance for the second site show round is strictly
 for those who missed the first site show round only</p>
 </td>

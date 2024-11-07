@@ -70,6 +70,34 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32 Sentosa Gateway #01-K1,</p>
+<p>Singapore 098141</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44.7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 November 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 December2024, 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 Nov 2024, 10:30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/32sentosagateway01-k1" rel="noopener nofollow" target="_blank">Register interest here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

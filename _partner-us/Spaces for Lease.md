@@ -70,6 +70,33 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32 Sentosa Gateway, #01-K1, Singapore 098141</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44.7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 November 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 December 2024, 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 November 2024, 10:30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/32sentosagateway01-k1" rel="noopener nofollow" target="_blank">Register interest here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -123,9 +150,9 @@ variant: tiptap
 <p>Instructions to prospective Tenderers:</p>
 <p>1. Developer's Packet containing the Conditions of Tender, Technical Conditions
 of Tender and other relevant documents for the tender is available at $185.30
-(inclusive of GST) and can be purchased at:</p>
-<p><a href="https://form.gov.sg/66e293bd79efd0b15ac84096" rel="noopener nofollow" target="_blank">FormSG</a>
+(inclusive of GST) and can be purchased at: <a href="https://form.gov.sg/66e293bd79efd0b15ac84096" rel="noopener nofollow" target="_blank">FormSG</a>
 </p>
+<p></p>
 <p>2. Upon verification of the payment, SDC will send an email containing
 the link for the retrieval of the Developer’s Packet. The password to the
 Developer’s Packet will be sent in a separate email.</p>
@@ -141,11 +168,10 @@ October 2024, SDC will be conducting a second site showround on 12 November
 Allanbrooke Road, Sentosa.</p>
 <p>&nbsp;</p>
 <p>Tenderers who are keen to attend the second site show round, kindly register
-your interest by sending an email to</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">landleasing@sentosa.gov.sg</a> with
+your interest by sending an email to <a rel="noopener noreferrer nofollow" target="_blank">landleasing@sentosa.gov.sg</a> with
 the attendees’ name and email address on or before 12 noon of 11 November
 2024.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Do note that the attendance for the second site show round is strictly
 for those who missed the first site show round only</p>
 </td>
@@ -230,23 +256,6 @@ for those who missed the first site show round only</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>32 Sentosa Gateway #01-K1, Singapore 098141</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Retail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>44.7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 June 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>42 Imbiah Road, #01-02 to #01-04, Singapore 099701</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,7 +270,7 @@ for those who missed the first site show round only</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.</p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Cove Avenue #02-01 Singapore 098537</p>

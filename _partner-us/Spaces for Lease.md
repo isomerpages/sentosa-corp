@@ -75,8 +75,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>32 Sentosa Gateway #01-K1,</p>
-<p>Singapore 098141</p>
+<p>32 Sentosa Gateway, #01-K1, Singapore 098141</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Retail</p>

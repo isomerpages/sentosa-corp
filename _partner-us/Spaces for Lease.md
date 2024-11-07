@@ -48,33 +48,6 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Former 30 Imbiah Walk</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Attraction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3,600 (Land)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 September 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 November 2024, 4:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 October 2024, 10:30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/30imbiahwalk" rel="noopener nofollow" target="_blank">Register interest here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>32 Sentosa Gateway, #01-K1, Singapore 098141</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -283,6 +256,27 @@ for those who missed the first site show round only</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20 August 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Former 30 Imbiah Walk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attraction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,600 (Land)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 November 2024</p>
 </td>
 </tr>
 </tbody>

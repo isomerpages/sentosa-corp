@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>32 Sentosa Gateway, #01-K1, Singapore 098141</p>

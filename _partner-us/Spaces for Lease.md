@@ -90,7 +90,7 @@ variant: tiptap
 <p>9 December 2024, 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Nov 2024, 10:30am</p>
+<p>15 November 2024, 10:30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/32sentosagateway01-k1" rel="noopener nofollow" target="_blank">Register interest here</a>

@@ -60,7 +60,7 @@ variant: tiptap
 <p>8 November 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 December 2024, 4:00pm</p>
+<p>16 December 2024, 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 November 2024, 10:30am</p>

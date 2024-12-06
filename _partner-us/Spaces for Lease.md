@@ -110,9 +110,9 @@ variant: tiptap
 <p>18 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Jan 2025, at or before 12 noon (Singapore Time) extended to</p>
+<p>17 Jan 2025, at or before 12 noon (Singapore Time)</p>
 <p></p>
-<p>6 February 2025, at or before 12 noon (Singapore Time)</p>
+<p>Extended to 6 February 2025, at or before 12 noon (Singapore Time)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

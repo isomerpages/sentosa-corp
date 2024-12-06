@@ -60,7 +60,7 @@ variant: tiptap
 <p>8 November 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 December 2024, 4:00pm</p>
+<p>16 December 2024, 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 November 2024, 10:30am</p>
@@ -90,10 +90,10 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Publishing Date</p>
+<p>Published Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Submission Date and Time</p>
+<p>Tender Submission Date and Time</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Description</p>
@@ -114,7 +114,10 @@ variant: tiptap
 <p>18 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Jan 2025, at or before 12 noon</p>
+<p>17 Jan 2025, at or before 12 noon (Singapore Time) extended to</p>
+<p></p>
+<p>6 February 2025, at or before 12 noon (Singapore Time)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Land Parcel for Hotel Development</p>
@@ -129,6 +132,10 @@ of Tender and other relevant documents for the tender is available at $185.30
 <p>2. Upon verification of the payment, SDC will send an email containing
 the link for the retrieval of the Developer’s Packet. The password to the
 Developer’s Packet will be sent in a separate email.</p>
+<p></p>
+<p>3. Corrigendum No.1 was issued, and the email containing the link for
+the retrieval of the Corrigendum No. 1 will be sent to prospective Tenderers
+who purchased the Developer’s Packet.</p>
 <p></p>
 <p>Should you require assistance, kindly reach out to us at <a rel="noopener noreferrer nofollow" target="_blank">landleasing@sentosa.gov.sg</a>
 </p>

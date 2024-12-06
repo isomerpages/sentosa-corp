@@ -74,9 +74,8 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Land Lease Tender</strong></h4>
-<table style="minWidth: 150px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -101,9 +100,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p><strong>Tender Documents</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Site Showround</p>
 </th>
 </tr>
 <tr>
@@ -140,20 +136,6 @@ who purchased the Developer’s Packet.</p>
 <p>Should you require assistance, kindly reach out to us at <a rel="noopener noreferrer nofollow" target="_blank">landleasing@sentosa.gov.sg</a>
 </p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For the benefit of Tenderers who missed the first site showround on 25
-October 2024, SDC will be conducting a second site showround on 12 November
-2024, at 4pm. Meeting point shall be the carpark adjacent to 31 and 33
-Allanbrooke Road, Sentosa.</p>
-<p>&nbsp;</p>
-<p>Tenderers who are keen to attend the second site show round, kindly register
-your interest by sending an email to <a rel="noopener noreferrer nofollow" target="_blank">landleasing@sentosa.gov.sg</a> with
-the attendees’ name and email address on or before 12 noon of 11 November
-2024.</p>
-<p></p>
-<p>Do note that the attendance for the second site show round is strictly
-for those who missed the first site show round only</p>
 </td>
 </tr>
 </tbody>

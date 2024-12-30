@@ -229,7 +229,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/set-chew-tiong-heng.jpg" alt="CHEW Tiong Heng">
+        <img src="/images/who-we-are/organisational-structure/SET_Chew_Tiong_Heng_25.png" alt="CHEW Tiong Heng">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHEW Tiong Heng</p>

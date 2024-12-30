@@ -259,7 +259,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrlamyuekwai.jpg" alt="LAM Yue Kwai">
+        <img src="/images/who-we-are/organisational-structure/SET_Lam_Yue_Kwai_25.png" alt="LAM Yue Kwai">
     </div>
     <div class="col is-8">
         <p class="title is-4">LAM Yue Kwai</p>

@@ -301,7 +301,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrandyjohnston.jpg" alt="Andrew JOHNSTON">
+        <img src="/images/who-we-are/organisational-structure/SET_Andrew_Johnston_25.png" alt="Andrew JOHNSTON">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andrew JOHNSTON</p>

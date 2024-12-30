@@ -178,7 +178,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/soon poh.png" alt="HEAH Soon Poh">
+        <img src="/images/who-we-are/organisational-structure/SET_Heah_Soon_Poh_25.png" alt="HEAH Soon Poh">
     </div>
     <div class="col is-8">
         <p class="title is-4">HEAH Soon Poh</p>
@@ -188,7 +188,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/leechehhsien.jpg" alt="LEE Cheh Hsien">
+        <img src="/images/who-we-are/organisational-structure/SET_Lee_Cheh_Hsien_25.png" alt="LEE Cheh Hsien">
     </div>
     <div class="col is-8">
         <p class="title is-4">LEE Cheh Hsien</p>

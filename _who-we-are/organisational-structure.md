@@ -209,16 +209,6 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrchinsakhin.jpg" alt="CHIN Sak Hin">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">CHIN Sak Hin</p>
-        <strong>Senior Advisor</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/SET_Chan_Beng_Kiat_25.png" alt="CHAN Beng Kiat">
     </div>
     <div class="col is-8">

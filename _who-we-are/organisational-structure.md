@@ -239,7 +239,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Chew_Yun_Meng_25.png" alt="CHEW Tiong Heng">
+        <img src="/images/who-we-are/organisational-structure/SET_Chew_Yun_Meng_25.png" alt="CHEW Yun Meng">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHEW Yun Meng</p>
@@ -263,7 +263,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH Piak Huat</p>
-        <strong>Divisional Director, Integrated Operations</strong>
+        <strong>Divisional Director, Special Duties</strong>
     </div>
 </div>
 

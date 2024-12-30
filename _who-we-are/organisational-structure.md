@@ -290,7 +290,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Chris_Pok.jpg" alt="Chris Pok">
+        <img src="/images/who-we-are/organisational-structure/SET_Chris_Pok_25.png" alt="Chris Pok">
     </div>
     <div class="col is-8">
         <p class="title is-4">Chris POK</p>

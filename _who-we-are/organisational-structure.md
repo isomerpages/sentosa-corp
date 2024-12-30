@@ -178,7 +178,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/soon poh.png" alt="HEAH Soon Poh">
+        <img src="/images/who-we-are/organisational-structure/SET_Heah_Soon_Poh_25.png" alt="HEAH Soon Poh">
     </div>
     <div class="col is-8">
         <p class="title is-4">HEAH Soon Poh</p>
@@ -188,18 +188,18 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/leechehhsien.jpg" alt="LEE Cheh Hsien">
+        <img src="/images/who-we-are/organisational-structure/SET_Lee_Cheh_Hsien_25.png" alt="LEE Cheh Hsien">
     </div>
     <div class="col is-8">
         <p class="title is-4">LEE Cheh Hsien</p>
-			<strong>Assistant Chief Executive (Corporate &amp; Sustainability Group)</strong>/<strong>Divisional Director, Corporate Planning</strong>
+			<strong>Assistant Chief Executive (Corporate &amp; Sustainability Group)</strong>
     </div>
 </div>
 
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/set-michael-ma.jpg" alt="Michael MA">
+        <img src="/images/who-we-are/organisational-structure/SET_Michael_Ma_25.jpg" alt="Michael MA">
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael MA</p>
@@ -209,17 +209,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrchinsakhin.jpg" alt="CHIN Sak Hin">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">CHIN Sak Hin</p>
-        <strong>Senior Advisor</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/set_chan_beng_kiat.jpg" alt="CHAN Beng Kiat">
+        <img src="/images/who-we-are/organisational-structure/SET_Chan_Beng_Kiat_25.png" alt="CHAN Beng Kiat">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHAN Beng Kiat</p>
@@ -229,7 +219,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/set-chew-tiong-heng.jpg" alt="CHEW Tiong Heng">
+        <img src="/images/who-we-are/organisational-structure/SET_Chew_Tiong_Heng_25.png" alt="CHEW Tiong Heng">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHEW Tiong Heng</p>
@@ -239,7 +229,17 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/set-rosalind-chua.jpeg" alt="Rosalind CHUA">
+        <img src="/images/who-we-are/organisational-structure/SET_Chew_Yun_Meng_25.png" alt="CHEW Yun Meng">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">CHEW Yun Meng</p>
+        <strong>Divisional Director, Integrated Operations</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/SET_Rosalind_Chua_25.png" alt="Rosalind CHUA">
     </div>
     <div class="col is-8">
         <p class="title is-4">Rosalind CHUA</p>
@@ -249,17 +249,17 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrkohpiakhuat.jpg" alt="KOH Piak Huat">
+        <img src="/images/who-we-are/organisational-structure/SET_Koh_Piak_Huat_25.png" alt="KOH Piak Huat">
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH Piak Huat</p>
-        <strong>Divisional Director, Integrated Operations</strong>
+        <strong>Divisional Director, Special Duties</strong>
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrlamyuekwai.jpg" alt="LAM Yue Kwai">
+        <img src="/images/who-we-are/organisational-structure/SET_Lam_Yue_Kwai_25.png" alt="LAM Yue Kwai">
     </div>
     <div class="col is-8">
         <p class="title is-4">LAM Yue Kwai</p>
@@ -269,7 +269,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mslindalee.jpg" alt="Linda LEE">
+        <img src="/images/who-we-are/organisational-structure/SET_Linda_Lee_25.png" alt="Linda LEE">
     </div>
     <div class="col is-8">
         <p class="title is-4">Linda LEE</p>
@@ -277,10 +277,9 @@ variant: markdown
     </div>
 </div>
 
-
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/set-gary-ng.jpg" alt="Gary NG">
+        <img src="/images/who-we-are/organisational-structure/SET_Gary_Ng_25.png" alt="Gary NG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>
@@ -290,18 +289,28 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/Chris_Pok.jpg" alt="Chris Pok">
+        <img src="/images/who-we-are/organisational-structure/SET_Chris_Pok_25.png" alt="Chris Pok">
     </div>
     <div class="col is-8">
         <p class="title is-4">Chris POK</p>
         <strong>Divisional Director, Marketing &amp; Guest Experience</strong>
     </div>
 </div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25.png" alt="Kelly YOONG">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Kelly YOONG</p>
+        <strong>Divisional Director, Corporate Planning &amp; Development</strong>
+    </div>
+</div>
 	
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrandyjohnston.jpg" alt="Andrew JOHNSTON">
+        <img src="/images/who-we-are/organisational-structure/SET_Andrew_Johnston_25.png" alt="Andrew JOHNSTON">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andrew JOHNSTON</p>

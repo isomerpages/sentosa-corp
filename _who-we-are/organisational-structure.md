@@ -192,7 +192,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">LEE Cheh Hsien</p>
-			<strong>Assistant Chief Executive (Corporate &amp; Sustainability Group)</strong>/<strong>Divisional Director, Corporate Planning</strong>
+			<strong>Assistant Chief Executive (Corporate &amp; Sustainability Group)</strong>
     </div>
 </div>
 

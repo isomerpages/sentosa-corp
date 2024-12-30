@@ -239,7 +239,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/set-rosalind-chua.jpeg" alt="Rosalind CHUA">
+        <img src="/images/who-we-are/organisational-structure/SET_Rosalind_Chua_25.png" alt="Rosalind CHUA">
     </div>
     <div class="col is-8">
         <p class="title is-4">Rosalind CHUA</p>
@@ -249,7 +249,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrkohpiakhuat.jpg" alt="KOH Piak Huat">
+        <img src="/images/who-we-are/organisational-structure/SET_Koh_Piak_Huat_25.png" alt="KOH Piak Huat">
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH Piak Huat</p>

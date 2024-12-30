@@ -287,7 +287,6 @@ variant: markdown
     </div>
 </div>
 
-
 <div class="row">
     <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/SET_Gary_Ng_25.png" alt="Gary NG">
@@ -305,6 +304,16 @@ variant: markdown
     <div class="col is-8">
         <p class="title is-4">Chris POK</p>
         <strong>Divisional Director, Marketing &amp; Guest Experience</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25.png" alt="Kelly YOONG">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Kelly YOONG</p>
+        <strong>Divisional Director, Corporate Planning &amp; Development</strong>
     </div>
 </div>
 	

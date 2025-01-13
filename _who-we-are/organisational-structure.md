@@ -7,7 +7,7 @@ variant: markdown
 ### **Board Members**
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrbobtanbenghai.jpg" alt="Bob TAN Beng Hai">
+        <img src="/images/who-we-are/organisational-structure/BOD_Bob_Tan_25.png" alt="Bob TAN Beng Hai">
     </div>
     <div class="col is-8">
         <p class="title is-4">Bob TAN Beng Hai</p>

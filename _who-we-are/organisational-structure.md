@@ -7,7 +7,7 @@ variant: markdown
 ### **Board Members**
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrbobtanbenghai.jpg" alt="Bob TAN Beng Hai">
+        <img src="/images/who-we-are/organisational-structure/BOD_Bob_Tan_25.png" alt="Bob TAN Beng Hai">
     </div>
     <div class="col is-8">
         <p class="title is-4">Bob TAN Beng Hai</p>
@@ -19,7 +19,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/thien-kwee-engupdated.jpg" alt="THIEN Kwee Eng">
+        <img src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png" alt="THIEN Kwee Eng">
     </div>
     <div class="col is-8">
         <p class="title is-4">THIEN Kwee Eng</p>
@@ -41,7 +41,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/angelene_chan.jpg" alt="Angelene CHAN">
+        <img src="/images/who-we-are/organisational-structure/BOD_Angelene_Chan_25.jpg" alt="Angelene CHAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Angelene CHAN</p>
@@ -52,7 +52,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/guna_chellappan.jpg" alt="Guna CHELLAPPAN">
+        <img src="/images/who-we-are/organisational-structure/BOD_Guna_Chellapan_25.png" alt="Guna CHELLAPPAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Guna CHELLAPPAN</p>
@@ -74,7 +74,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/board-benjamin-king.jpg" alt="Benjamin Stewart KING">
+        <img src="/images/who-we-are/organisational-structure/BOD_Benjamin_King_25.jpg" alt="Benjamin Stewart KING">
     </div>
     <div class="col is-8">
         <p class="title is-4">Benjamin Stewart KING</p>
@@ -119,7 +119,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/board-geraldine-low-updated.jpg" alt="Geraldine LOW">
+        <img src="/images/who-we-are/organisational-structure/BOD_Geraldine_Low_25.png" alt="Geraldine LOW">
     </div>
     <div class="col is-8">
         <p class="title is-4">Geraldine LOW</p>
@@ -141,7 +141,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/michael_syn.jpg" alt="Michael SYN">
+        <img src="/images/who-we-are/organisational-structure/BOD_Michael_Syn_25.png" alt="Michael SYN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael SYN</p>
@@ -152,7 +152,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrkeithtan.jpg" alt="Keith TAN">
+        <img src="/images/who-we-are/organisational-structure/BOD_Keith_Tan_25.png" alt="Keith TAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Keith TAN</p>

@@ -74,7 +74,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/board-benjamin-king.jpg" alt="Benjamin Stewart KING">
+        <img src="/images/who-we-are/organisational-structure/BOD_Benjamin_King_25.jpg" alt="Benjamin Stewart KING">
     </div>
     <div class="col is-8">
         <p class="title is-4">Benjamin Stewart KING</p>

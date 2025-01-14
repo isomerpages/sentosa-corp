@@ -141,7 +141,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/michael_syn.jpg" alt="Michael SYN">
+        <img src="/images/who-we-are/organisational-structure/BOD_Michael_Syn_25.png" alt="Michael SYN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael SYN</p>

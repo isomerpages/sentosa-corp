@@ -119,7 +119,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/board-geraldine-low-updated.jpg" alt="Geraldine LOW">
+        <img src="/images/who-we-are/organisational-structure/BOD_Geraldine_Low_25.png" alt="Geraldine LOW">
     </div>
     <div class="col is-8">
         <p class="title is-4">Geraldine LOW</p>

@@ -2,7 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - Awards.md
       - fun-sentosa.md
       - smart-sentosa.md
       - sustainable-sentosa/.keep

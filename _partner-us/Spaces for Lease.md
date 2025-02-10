@@ -45,97 +45,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>32 Sentosa Gateway, #01-K1, Singapore 098141</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Retail</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>44.7</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 November 2024</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 December 2024, 4:00pm</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 November 2024, 10:30am</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/32sentosagateway01-k1" rel="noopener nofollow" target="_blank">Register interest here</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h4><strong>Land Lease Tender</strong></h4>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Tender Document Number</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Published Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Tender Submission Date and Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Description</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Tender Documents</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SDC 90.13.1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 Oct 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17 Jan 2025, at or before 12 noon (Singapore Time)</p>
-<p></p>
-<p>Extended to 6 February 2025, at or before 12 noon (Singapore Time)</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Land Parcel for Hotel Development</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Instructions to prospective Tenderers:</p>
-<p>1. Developer's Packet containing the Conditions of Tender, Technical Conditions
-of Tender and other relevant documents for the tender is available at $185.30
-(inclusive of GST) and can be purchased at: <a href="https://form.gov.sg/66e293bd79efd0b15ac84096" rel="noopener nofollow" target="_blank">FormSG</a>
-</p>
-<p></p>
-<p>2. Upon verification of the payment, SDC will send an email containing
-the link for the retrieval of the Developer’s Packet. The password to the
-Developer’s Packet will be sent in a separate email.</p>
-<p></p>
-<p>3. Corrigendum No.1 was issued, and the email containing the link for
-the retrieval of the Corrigendum No. 1 will be sent to prospective Tenderers
-who purchased the Developer’s Packet.</p>
-<p></p>
-<p>Should you require assistance, kindly reach out to us at <a rel="noopener noreferrer nofollow" target="_blank">landleasing@sentosa.gov.sg</a>
-</p>
-<p></p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
@@ -266,6 +197,27 @@ who purchased the Developer’s Packet.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 November 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>32 Sentosa Gateway, #01-K1, Singapore 098141</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44.7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 December 2024</p>
 </td>
 </tr>
 </tbody>

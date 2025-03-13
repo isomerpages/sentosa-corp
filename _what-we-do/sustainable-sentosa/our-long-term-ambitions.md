@@ -292,7 +292,7 @@ Project of the Year'</p>
 <p>Certification</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Island Businesses</p>
+<p>Island Business</p>
 </th>
 </tr>
 <tr>
@@ -313,8 +313,8 @@ for Hotels</p>
 <p>Village Hotel</p>
 <p>The Outpost Hotel</p>
 <p>The Barracks Hotel</p>
-<p>One Degree 15</p>
-<p>Tiny Away Escape at Lazarus</p>
+<p>ONE°15 Marina Sentosa Cove</p>
+<p>Tiny Away Escape @ Lazarus Island</p>
 </td>
 </tr>
 <tr>

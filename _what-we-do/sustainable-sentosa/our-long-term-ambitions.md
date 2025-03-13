@@ -259,7 +259,7 @@ Project of the Year'</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sofitel Singapore Sentosa Resort &amp; Spa</p>
+<p>Sofitel Singapore Sentosa Resort</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024 Global Sustainable Tourism Council Hotel Criteria Award
@@ -322,7 +322,7 @@ for Hotels</p>
 <p>Certified Green Globe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sofitel Singapore Sentosa Resort</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +335,7 @@ for Hotels</p>
 <p>Green Mark Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Capella Singapore</p>
 </td>
 </tr>
 </tbody>

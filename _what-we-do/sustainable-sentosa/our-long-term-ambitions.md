@@ -304,10 +304,9 @@ for Hotels</p>
 <p>Hotel Michael</p>
 <p>Crockford Towers</p>
 <p>Hotel Ora</p>
-<p>Hard Rock Hotel (to be confirmed)</p>
 <p>Equarius Hotel</p>
 <p>Equarius Villas (Tree Top Lofts, Beach Villa, Ocean Suites)</p>
-<p>Shangri-La Rasa Sentosa Resort &amp; Spa</p>
+<p>Shangri-La Rasa Sentosa, Singapore</p>
 <p>Oasia Resort Sentosa</p>
 <p>Amara Sanctuary Resort Sentosa</p>
 <p>Village Hotel</p>

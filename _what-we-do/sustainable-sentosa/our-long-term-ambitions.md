@@ -279,6 +279,8 @@ Project of the Year'</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -287,10 +289,10 @@ Project of the Year'</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Certifications</p>
+<p>Certification</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Island Business</p>
+<p>Island Businesses</p>
 </th>
 </tr>
 <tr>
@@ -320,7 +322,7 @@ for Hotels</p>
 <p>Certified Green Globe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sofitel Singapore Sentosa Resort</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -333,7 +335,7 @@ for Hotels</p>
 <p>Green Mark Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Capella Singapore</p>
+<p></p>
 </td>
 </tr>
 </tbody>

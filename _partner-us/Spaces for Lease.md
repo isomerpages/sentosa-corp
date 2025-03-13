@@ -45,25 +45,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>31 Beach View, Singapore 098008</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>F&amp;B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>60</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>24 March 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>12 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>

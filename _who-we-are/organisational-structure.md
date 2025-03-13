@@ -219,16 +219,6 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Chew_Tiong_Heng_25.png" alt="CHEW Tiong Heng">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">CHEW Tiong Heng</p>
-        <strong>Divisional Director, Business &amp; Experience Development</strong>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/SET_Chew_Yun_Meng_25.png" alt="CHEW Yun Meng">
     </div>
     <div class="col is-8">

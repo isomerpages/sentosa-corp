@@ -15,7 +15,7 @@ a more sustainable Sentosa.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of Infographic" src="/images/what-we-do/sustainable-sentosa/infographic.jpg">
 </div>
-<p><strong>information correct as of 18 June 2024</strong>
+<p><strong>information for inforgraphic correct as of 18 June 2024</strong>
 </p>
 <h3><strong>Sustainability Awards &amp; Certifications</strong></h3>
 <table style="minWidth: 50px">

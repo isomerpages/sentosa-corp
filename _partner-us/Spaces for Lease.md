@@ -63,7 +63,11 @@ variant: tiptap
 <p>12 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Site showround 1: <u>2 April 2025, 10.30am</u>
+</p>
 <p></p>
+<p>Site showround 2: <u>9 April 2025, 10.30am</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>

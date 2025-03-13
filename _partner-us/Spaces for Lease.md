@@ -70,7 +70,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://form.gov.sg/677253474c0f1aec6f171a70" rel="noopener nofollow" target="_blank">Register interest here</a>
+</p>
 </td>
 </tr>
 </tbody>

@@ -287,10 +287,10 @@ Project of the Year'</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Certification</p>
+<p>Certifications</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Island Businesses</p>
+<p>Island Business</p>
 </th>
 </tr>
 <tr>

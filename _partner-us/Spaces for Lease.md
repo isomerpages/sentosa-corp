@@ -66,7 +66,7 @@ variant: tiptap
 <p>Site showround 1: <u>2 April 2025, 10.30am</u>
 </p>
 <p></p>
-<p>Site showround 2: <u>9 April 2025, 10.30am</u>
+<p>Site showround 2: <u>8 April 2025, 10.30am</u>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -6,5 +6,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/resources/news/130325_Sentosa_Sensoryscape_marks_first_year_anniversary.pdf
+file_url: /files/resources/news/Media_Release__Sentosa_Sensoryscape_marks_first_year_anniversary_with_more_than_5_million_in_footfall.pdf
 ---

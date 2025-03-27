@@ -28,7 +28,7 @@ description: ""
 lessees, and contractors.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 10 business days.</p>
+<p>Within 10 business days, when submission is in order.</p>
 </td>
 </tr>
 </tbody>

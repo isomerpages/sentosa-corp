@@ -97,13 +97,12 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg" alt="LING Tok Hong">
+        <img src="/images/who-we-are/organisational-structure/bod_2025_tok hong ling.png" alt="LING Tok Hong">
     </div>
     <div class="col is-8">
         <p class="title is-4">LING Tok Hong</p>
-        <strong>Company Director</strong>
-        <br>Singapore Technologies Engineering Ltd
-	   <br>Standard Chartered Bank (Singapore) Ltd
+        <strong>Partner</strong>
+        <br>PricewaterhouseCoopers Singapore
     </div>
 </div>
 

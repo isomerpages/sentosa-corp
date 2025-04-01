@@ -67,7 +67,10 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Kevin GOH</p>
-        <strong>Country Managing Director</strong>
+        <strong>Chief Executive Officer</strong>
+        <br> Google Singapore
+			<br>
+			<strong>Country Managing Director</strong>
         <br> Google Singapore
     </div>
 </div>

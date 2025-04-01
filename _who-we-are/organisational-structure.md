@@ -71,7 +71,7 @@ variant: markdown
         <br> CapitaLand Investment Limited
 			<br>
 			<strong>Country Managing Director</strong>
-        <br> Google Singapore
+        <br> The Ascott Limited
     </div>
 </div>
 

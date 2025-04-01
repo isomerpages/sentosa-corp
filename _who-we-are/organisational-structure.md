@@ -66,7 +66,7 @@ variant: markdown
         <img src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png" alt="Kevin GOH">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Benjamin Stewart KING</p>
+        <p class="title is-4">Kevin GOH</p>
         <strong>Country Managing Director</strong>
         <br> Google Singapore
     </div>

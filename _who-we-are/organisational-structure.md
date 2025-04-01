@@ -170,9 +170,9 @@ Planning</strong>
         <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="TANG Zhi Hui">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Ron TAN Aik Ti</p>
-        <strong>Executive Chairman and Group CEO</strong>
-        <br> NEON 
+        <p class="title is-4">TANG Zhi Hui</p>
+        <strong>Senior Director (Industry)</strong>
+        <br> Ministry of Trade and Industry, Singapore 
     </div>
 </div>
 

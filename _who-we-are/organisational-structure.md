@@ -126,7 +126,8 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">William LIM</p>
-        <strong>Partner</strong>
+        <strong>Divisional Director,
+Planning</strong>
         <br>PricewaterhouseCoopers Singapore
     </div>
 </div>

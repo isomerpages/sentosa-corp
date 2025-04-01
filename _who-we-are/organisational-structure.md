@@ -19,23 +19,26 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/BOD_Edmund_Koh.png" alt="Edmund KOH">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Edmund KOH</p>
+        <strong>Deputy Chairman</strong>
+        <br> Sentosa Development Corporation
+				<br>
+			<strong>Chairman Asia Pacific</strong>
+        <br> UBS AG
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png" alt="THIEN Kwee Eng">
     </div>
     <div class="col is-8">
         <p class="title is-4">THIEN Kwee Eng</p>
         <strong>Chief Executive Officer</strong>
         <br> Sentosa Development Corporation
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/angshihhuei.jpg" alt="ANG Shih-Huei">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">ANG Shih-Huei</p>
-        <strong>Chief Executive Officer &amp; Co-founder</strong>
-        <br> H/Advisors Klareco 
     </div>
 </div>
 
@@ -74,23 +77,26 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png" alt="Kevin GOH">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Kevin GOH</p>
+        <strong>Chief Executive Officer, Lodging</strong>
+        <br> CapitaLand Investment Limited
+			<br>
+			<strong>Chief Executive Officer</strong>
+        <br> The Ascott Limited
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/BOD_Benjamin_King_25.jpg" alt="Benjamin Stewart KING">
     </div>
     <div class="col is-8">
         <p class="title is-4">Benjamin Stewart KING</p>
         <strong>Country Managing Director</strong>
         <br> Google Singapore
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Edmund_Koh.png" alt="Edmund KOH">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Edmund KOH</p>
-        <strong>Chairman Asia Pacific</strong>
-        <br> UBS AG
     </div>
 </div>
 
@@ -108,23 +114,24 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrandrewlim.jpeg" alt="Andrew LIM">
+        <img src="/images/who-we-are/organisational-structure/bod_2025_ling_tok_hong.png" alt="LING Tok Hong">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Andrew LIM</p>
+        <p class="title is-4">LING Tok Hong</p>
         <strong>Partner</strong>
-        <br> Allen &amp; Gledhill LLP
+        <br>PricewaterhouseCoopers Singapore
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Geraldine_Low_25.png" alt="Geraldine LOW">
+        <img src="/images/who-we-are/organisational-structure/BDD_2025_William_LIM.png" alt="William LIM">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Geraldine LOW</p>
-        <strong>Deputy Secretary (Development)</strong>
-        <br> Ministry of National Development
+        <p class="title is-4">William LIM</p>
+        <strong>Divisional Director,
+Planning</strong>
+        <br>Ministry of Education, Singapore
     </div>
 </div>
 
@@ -152,23 +159,23 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Keith_Tan_25.png" alt="Keith TAN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Keith TAN</p>
-        <strong>Deputy Secretary (Industry)</strong>
-        <br> Ministry of Trade and Industry
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Keith TAN">
+        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Ron TAN Aik Ti">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ron TAN Aik Ti</p>
         <strong>Executive Chairman and Group CEO</strong>
         <br> NEON 
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/BOD_2025_TANG_Zhi_Hui.png" alt="TANG Zhi Hui">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">TANG Zhi Hui</p>
+        <strong>Senior Director (Industry)</strong>
+        <br> Ministry of Trade and Industry, Singapore 
     </div>
 </div>
 

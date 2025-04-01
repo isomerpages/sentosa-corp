@@ -70,7 +70,7 @@ variant: markdown
         <strong>Chief Executive Officer, Lodging</strong>
         <br> CapitaLand Investment Limited
 			<br>
-			<strong>Country Managing Director</strong>
+			<strong>Chief Executive Officer</strong>
         <br> The Ascott Limited
     </div>
 </div>

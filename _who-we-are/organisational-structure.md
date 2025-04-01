@@ -165,6 +165,17 @@ Planning</strong>
     </div>
 </div>
 
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="TANG Zhi Hui">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Ron TAN Aik Ti</p>
+        <strong>Executive Chairman and Group CEO</strong>
+        <br> NEON 
+    </div>
+</div>
+
 <hr>
  
 ### **Senior Executive Team**

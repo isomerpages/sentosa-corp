@@ -26,7 +26,7 @@ variant: markdown
         <strong>Deputy Chairman</strong>
         <br> Sentosa Development Corporation
 				<br>
-			<strong>Chairman Asia Pacificr</strong>
+			<strong>Chairman Asia Pacific</strong>
         <br> UBS AG
     </div>
 </div>

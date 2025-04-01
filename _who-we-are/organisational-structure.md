@@ -19,6 +19,17 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/BOD_Edmund_Koh.png" alt="Edmund KOH">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Edmund KOH</p>
+        <strong>Chairman Asia Pacific</strong>
+        <br> UBS AG
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png" alt="THIEN Kwee Eng">
     </div>
     <div class="col is-8">
@@ -83,17 +94,6 @@ variant: markdown
         <p class="title is-4">Benjamin Stewart KING</p>
         <strong>Country Managing Director</strong>
         <br> Google Singapore
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Edmund_Koh.png" alt="Edmund KOH">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Edmund KOH</p>
-        <strong>Chairman Asia Pacific</strong>
-        <br> UBS AG
     </div>
 </div>
 
@@ -167,7 +167,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="TANG Zhi Hui">
+        <img src="/images/who-we-are/organisational-structure/BOD_2025_TANG_Zhi_Hui.png" alt="TANG Zhi Hui">
     </div>
     <div class="col is-8">
         <p class="title is-4">TANG Zhi Hui</p>

@@ -30,17 +30,6 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/angshihhuei.jpg" alt="ANG Shih-Huei">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">ANG Shih-Huei</p>
-        <strong>Chief Executive Officer &amp; Co-founder</strong>
-        <br> H/Advisors Klareco 
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/BOD_Angelene_Chan_25.jpg" alt="Angelene CHAN">
     </div>
     <div class="col is-8">
@@ -108,23 +97,13 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mrandrewlim.jpeg" alt="Andrew LIM">
+        <img src="/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg" alt="LING Tok Hong">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Andrew LIM</p>
-        <strong>Partner</strong>
-        <br> Allen &amp; Gledhill LLP
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Geraldine_Low_25.png" alt="Geraldine LOW">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Geraldine LOW</p>
-        <strong>Deputy Secretary (Development)</strong>
-        <br> Ministry of National Development
+        <p class="title is-4">LING Tok Hong</p>
+        <strong>Company Director</strong>
+        <br>Singapore Technologies Engineering Ltd
+	   <br>Standard Chartered Bank (Singapore) Ltd
     </div>
 </div>
 
@@ -152,18 +131,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Keith_Tan_25.png" alt="Keith TAN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Keith TAN</p>
-        <strong>Deputy Secretary (Industry)</strong>
-        <br> Ministry of Trade and Industry
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Keith TAN">
+        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Ron TAN Aik Ti">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ron TAN Aik Ti</p>

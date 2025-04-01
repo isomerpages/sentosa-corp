@@ -25,6 +25,9 @@ variant: markdown
         <p class="title is-4">Edmund KOH</p>
         <strong>Chairman Asia Pacific</strong>
         <br> UBS AG
+				<br>
+			<strong>Chairman Asia Pacificr</strong>
+        <br> The Ascott Limited
     </div>
 </div>
 

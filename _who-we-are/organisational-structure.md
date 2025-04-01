@@ -128,7 +128,7 @@ variant: markdown
         <p class="title is-4">William LIM</p>
         <strong>Divisional Director,
 Planning</strong>
-        <br>PricewaterhouseCoopers Singapore
+        <br>Ministry of Education
     </div>
 </div>
 

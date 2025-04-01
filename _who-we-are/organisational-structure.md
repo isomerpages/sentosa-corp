@@ -122,10 +122,10 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/bod_2025_ling_tok_hong.png" alt="LING Tok Hong">
+        <img src="/images/who-we-are/organisational-structure/BDD_2025_William_LIM.png" alt="William LIM">
     </div>
     <div class="col is-8">
-        <p class="title is-4">LING Tok Hong</p>
+        <p class="title is-4">William LIM</p>
         <strong>Partner</strong>
         <br>PricewaterhouseCoopers Singapore
     </div>

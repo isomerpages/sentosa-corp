@@ -23,11 +23,11 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Edmund KOH</p>
-        <strong>Chairman Asia Pacific</strong>
-        <br> UBS AG
+        <strong>Deputy Chairman</strong>
+        <br> Sentosa Development Corporation
 				<br>
 			<strong>Chairman Asia Pacificr</strong>
-        <br> The Ascott Limited
+        <br> UBS AG
     </div>
 </div>
 

@@ -154,44 +154,6 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>42 Imbiah Road, #01-02 to #01-04, Singapore 099701</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>F&amp;B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>60 (Indoor), 17.3 (ORA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 August 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Cove Avenue #02-01 Singapore 098537</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Office</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 August 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
 <p>Former 30 Imbiah Walk</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,11 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>32 Sentosa Gateway, #01-K1, Singapore 098141</p>

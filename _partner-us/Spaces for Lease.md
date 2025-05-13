@@ -146,7 +146,7 @@ variant: tiptap
 <p>Area (sq m)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Submission Date:</p>
+<p>Closing Date:</p>
 </th>
 </tr>
 <tr>

@@ -123,8 +123,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Closed</strong></h4>
-<table style="minWidth: 125px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -146,7 +147,10 @@ variant: tiptap
 <p>Area (sq m)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Closing Date:</p>
+<p>Closing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Status</p>
 </th>
 </tr>
 <tr>
@@ -165,6 +169,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>1 November 2024</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>No Award</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -181,6 +188,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>18 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Under Evaluation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Land Parcel for Hotel Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hotel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,608 (Land)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 January 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Under Evaluation</p>
 </td>
 </tr>
 </tbody>

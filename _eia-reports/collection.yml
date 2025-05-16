@@ -2,5 +2,5 @@ collections:
   eia-reports:
     output: true
     order:
-      - Deep Gravity Sewer Study.md
       - ensuring-sustainable-development.md
+      - Deep Gravity Sewer Study.md

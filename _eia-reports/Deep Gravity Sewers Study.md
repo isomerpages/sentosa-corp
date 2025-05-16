@@ -46,6 +46,9 @@ of the Deep Tunnel Sewerage System (DTSS).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eia/eia_dgs_projectsiteinfo.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -64,6 +67,20 @@ be environmental impacts during its underground operations.</p>
 residual impact significance (after considering mitigation measures for
 moderate and major impact significance) for the construction phase are
 presented in the following table.</p>
+<p></p>
+<p></p>
+<p></p>
+<p>A construction phase Environmental Monitoring and Management Plan (EMMP)
+was proposed to (1) ensure that any potential impacts arising from the
+project are within anticipated levels and (2) assess the effectiveness
+of the recommended minimum control measures and site mitigation measures
+in reducing identified environmental related impacts on key receptors.
+The EMMP will monitor construction activities and ensure appropriate monitoring
+and management procedures are in place.</p>
+<p></p>
+<p>Further details can be found in the associated reports from the Environmental
+Study.</p>
+<p></p>
 </td>
 </tr>
 <tr>

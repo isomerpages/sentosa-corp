@@ -69,6 +69,9 @@ moderate and major impact significance) for the construction phase are
 presented in the following table.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eia/summary table of impacts.png">
+</div>
 <p></p>
 <p>A construction phase Environmental Monitoring and Management Plan (EMMP)
 was proposed to (1) ensure that any potential impacts arising from the

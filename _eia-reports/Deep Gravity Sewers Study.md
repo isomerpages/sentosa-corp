@@ -120,9 +120,7 @@ Study.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This EIA report is open for feedback until 17 March 2022. We welcome your
-feedback at <a rel="noopener noreferrer nofollow" target="_blank">sustainability@sentosa.com.sg</a>
-</p>
+<p>Feedback for this Report is now closed.</p>
 </td>
 </tr>
 </tbody>

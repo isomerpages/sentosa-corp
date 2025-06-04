@@ -45,33 +45,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Beach View, Singapore 098008</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>F&amp;B</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 March 2025</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 May 2025</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Site showround 1: <u>2 April 2025, 10.30am</u>
-</p>
-<p></p>
-<p>Site showround 2: <u>7 April 2025, 10.30am</u>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/677253474c0f1aec6f171a70" rel="noopener nofollow" target="_blank">Register interest here</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
@@ -215,6 +210,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Under Evaluation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Beach View, Singapore 098008</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F&amp;B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No Award</p>
 </td>
 </tr>
 </tbody>

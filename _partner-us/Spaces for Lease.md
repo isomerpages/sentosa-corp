@@ -217,6 +217,30 @@ variant: tiptap
 <p>Under Evaluation</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Beach View, Singapore 098008</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F&amp;B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No Award</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h6>For general enquiries on spaces for lease, you can reach us at leasing@sentosa.gov.sg</h6>

@@ -94,9 +94,13 @@ Study.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/sdc-dgs-executive-summary" rel="noopener nofollow" target="_blank">Executive Summary</a>
 </p>
-<p></p>
-<p></p>
-<p><em>(link to PDF)/place the PDF icon of the Summary, Environmental Study Report, Technical Note</em>
+<p><a href="https://go.gov.sg/sdc-dgs-evironmental-study-report-1" rel="noopener nofollow" target="_blank">Environmental Study Report (1)</a>
+</p>
+<p><a href="https://go.gov.sg/sdc-dgs-evironmental-study-report-2" rel="noopener nofollow" target="_blank">Environmental Study Report (2)</a>
+</p>
+<p><a href="https://go.gov.sg/sdc-dgs-evironmental-study-report-3" rel="noopener nofollow" target="_blank">Environmental Study Report (3)</a>
+</p>
+<p><a href="https://go.gov.sg/sdc-dgs-technical-memo" rel="noopener nofollow" target="_blank">Technical Note</a>
 </p>
 </td>
 </tr>

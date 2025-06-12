@@ -92,6 +92,10 @@ Study.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/sdc-dgs-executive-summary" rel="noopener nofollow" target="_blank">Executive Summary</a>
+</p>
+<p></p>
+<p></p>
 <p><em>(link to PDF)/place the PDF icon of the Summary, Environmental Study Report, Technical Note</em>
 </p>
 </td>

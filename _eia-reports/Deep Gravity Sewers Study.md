@@ -73,14 +73,6 @@ presented in the following table.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/eia/summary table of impacts.png">
 </div>
 <p></p>
-<p>A construction phase Environmental Monitoring and Management Plan (EMMP)
-was proposed to (1) ensure that any potential impacts arising from the
-project are within anticipated levels and (2) assess the effectiveness
-of the recommended minimum control measures and site mitigation measures
-in reducing identified environmental related impacts on key receptors.
-The EMMP will monitor construction activities and ensure appropriate monitoring
-and management procedures are in place.</p>
-<p></p>
 <p>The Technical Memo II provides an update on the following changes to the
 design of the proposed DGS system layout as summarised:</p>
 <p>• Omission/ Removal of main manhole worksite (i.e. MH21);</p>
@@ -98,6 +90,14 @@ above remains applicable.</p>
 <p></p>
 <p>The Technical Memo II also details the impact assessment of demolition
 of pumping stations as summarized in the table below.</p>
+<p></p>
+<p>A construction phase Environmental Monitoring and Management Plan (EMMP)
+was proposed to (1) ensure that any potential impacts arising from the
+project are within anticipated levels and (2) assess the effectiveness
+of the recommended minimum control measures and site mitigation measures
+in reducing identified environmental related impacts on key receptors.
+The EMMP will monitor construction activities and ensure appropriate monitoring
+and management procedures are in place.</p>
 <p></p>
 <p>Further details can be found in the associated reports from the Environmental
 Study.</p>

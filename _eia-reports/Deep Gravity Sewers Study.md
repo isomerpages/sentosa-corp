@@ -75,11 +75,18 @@ presented in the following table.</p>
 <p></p>
 <p>The Technical Memo II provides an update on the following changes to the
 design of the proposed DGS system layout as summarised:</p>
-<p>• Omission/ Removal of main manhole worksite (i.e. MH21);</p>
-<p>• Minor changes/reduction of manhole worksite areas (i.e. MH22, MH24);
-and</p>
-<p>• Omission/Removal of pipeline alignment and manhole worksites between
-MH3 and MH28 (i.e. MH29, MH30, MH31, MH32).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Omission/ Removal of main manhole worksite (i.e. MH21);</p>
+</li>
+<li>
+<p>Minor changes/reduction of manhole worksite areas (i.e. MH22, MH24); and</p>
+</li>
+<li>
+<p>Omission/Removal of pipeline alignment and manhole worksites between MH3
+and MH28 (i.e. MH29, MH30, MH31, MH32).</p>
+</li>
+</ul>
 <p></p>
 <p>These key changes in design only include omission of alignment, manhole
 worksite or reduction of manhole worksite area. As the impact assessment

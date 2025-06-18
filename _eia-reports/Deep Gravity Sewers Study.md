@@ -98,6 +98,9 @@ above remains applicable.</p>
 of pumping stations as summarized in the table below.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eia/New_Table.png">
+</div>
 <p></p>
 <p>A construction phase Environmental Monitoring and Management Plan (EMMP)
 was proposed to (1) ensure that any potential impacts arising from the

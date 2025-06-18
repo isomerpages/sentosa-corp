@@ -45,9 +45,8 @@ of the Deep Tunnel Sewerage System (DTSS).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eia/eia_dgs_projectsiteinfo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eia/Figure_SDC_EIA_Webpage.jpg">
 </div>
 </td>
 </tr>
@@ -97,6 +96,8 @@ above remains applicable.</p>
 <p></p>
 <p>The Technical Memo II also details the impact assessment of demolition
 of pumping stations as summarized in the table below.</p>
+<p></p>
+<p></p>
 <p></p>
 <p>A construction phase Environmental Monitoring and Management Plan (EMMP)
 was proposed to (1) ensure that any potential impacts arising from the

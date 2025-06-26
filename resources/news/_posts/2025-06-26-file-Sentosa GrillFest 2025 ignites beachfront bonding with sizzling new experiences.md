@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/resources/news/Website__240625_SENTOSA_GRILLFEST_2025_IGNITES_BEACHFRONT_BONDING_WITH_SIZZLING_NEW_EXPERIENCES.pdf
+file_url: /files/resources/news/Updated_SENTOSA_GRILLFEST_2025_IGNITES_BEACHFRONT_BONDING_WITH_SIZZLING_NEW_EXPERIENCES.pdf
 ---

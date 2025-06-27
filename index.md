@@ -16,7 +16,7 @@ sections:
 description: Developing a Fun, Smart, and Sustainable Sentosa
 image: /images/sdc-favicon.svg
 notification: Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam. <a
-  href="https://www.scamshield.gov.sg/">Click here for more information</a>
+  disclose bank log-in details over a phone call. If you are in doubt, call the
+  24/7 ScamShield hotline at 1799, or visit the <a
+  href="https://www.scamshield.gov.sg/">ScamShield website</a> for help.
 ---

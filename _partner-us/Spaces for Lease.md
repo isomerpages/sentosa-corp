@@ -209,7 +209,7 @@ variant: tiptap
 <p>17 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No Award</p>
+<p>Under Evaluation</p>
 </td>
 </tr>
 <tr>

@@ -45,56 +45,54 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Cove Avenue, #02-07 to #02-11</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Retail</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>549</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Oct 2025</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Dec 2025, 4:00pm</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Oct 2025, 10:30am</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68db8f924de5e2d8410bd9c3" rel="noopener nofollow" target="_blank">Register interest here</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Cove Avenue , #02-12</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>F&amp;B</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>103</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Oct 2025</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Dec 2025, 4:00pm</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Oct 2025, 11:30am</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68db964c227cb4baf1889680" rel="noopener nofollow" target="_blank">Register interest here</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>

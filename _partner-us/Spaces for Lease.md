@@ -66,7 +66,8 @@ variant: tiptap
 <p>23 Oct 2025, 10:30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Re</p>
+<p><a href="https://form.gov.sg/68db8f924de5e2d8410bd9c3" rel="noopener nofollow" target="_blank">Request for information here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +93,8 @@ variant: tiptap
 <p>23 Oct 2025, 11:30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://form.gov.sg/68db964c227cb4baf1889680" rel="noopener nofollow" target="_blank">Request for information here</a>
+</p>
 </td>
 </tr>
 </tbody>

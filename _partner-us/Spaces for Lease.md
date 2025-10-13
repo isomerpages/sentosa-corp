@@ -45,51 +45,51 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>1 Cove Avenue, #02-07 to #02-11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Retail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>549</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>13 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>28 Nov 2025, 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>23 Oct 2025, 10:30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Re</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>1 Cove Avenue, #02-12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>F&amp;B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>103</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>13 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>28 Nov 2025, 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>23 Oct 2025, 11:30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>

@@ -1,6 +1,6 @@
 ---
-title: Sentosa Invites Guests to ‘Discover Your Good’ in Celebration of Highly
-  Anticipated Film
+title: Sentosa invites guests to ‘Discover Your Good’ in celebration of highly
+  anticipated film
 date: 2025-10-16
 layout: file
 description: ""

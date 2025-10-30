@@ -108,7 +108,7 @@ variant: tiptap
 <p>Provision of Portable Chargers Rental Services</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refer to Tender Documents</p>
+<p>Refer to tender documents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Nov</p>

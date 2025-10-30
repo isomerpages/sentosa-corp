@@ -108,10 +108,7 @@ variant: tiptap
 <p>Provision of Portable Chargers Rental Services</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
-<p></p>
-<p><em>Parties can refer to quotation documents for images of exact space allocated for rental machines</em>
-</p>
+<p>Refer to Tender Documents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Nov</p>

@@ -115,13 +115,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
 <p>Provision of Portable Chargers Rental Services</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,6 +132,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/admin/form/6836de9905ac6109073b00fe" rel="noopener nofollow" target="_blank">Request for information here</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

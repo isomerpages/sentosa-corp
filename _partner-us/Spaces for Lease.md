@@ -136,24 +136,18 @@ variant: tiptap
 </li>
 <li>
 <p>Beach Station Guest Enquiry Lounge</p>
-</li>
-<li>
 <p></p>
 </li>
 <li>
-<p>4. Sentosa Golf Club Lobby</p>
-</li>
-<li>
+<p>Sentosa Golf Club Lobby</p>
 <p></p>
 </li>
 <li>
-<p>5. Imbiah Lookout Walkway(optional)</p>
-</li>
-<li>
+<p>Imbiah Lookout Walkway(optional)</p>
 <p></p>
 </li>
 <li>
-<p>6. Palawan Beach Bus Stop (optional)</p>
+<p>Palawan Beach Bus Stop (optional)</p>
 </li>
 </ul>
 </td>

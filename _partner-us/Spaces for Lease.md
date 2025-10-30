@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Commercial Spaces for Lease</strong></h4>
-<table style="minWidth: 200px">
+<table style="minWidth: 225px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -42,6 +43,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Request for information</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -69,6 +73,9 @@ variant: tiptap
 <p><a href="https://form.gov.sg/68db8f924de5e2d8410bd9c3" rel="noopener nofollow" target="_blank">Request for information here</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -94,6 +101,43 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68db964c227cb4baf1889680" rel="noopener nofollow" target="_blank">Request for information here</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Portable Chargers Rental Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/admin/form/6836de9905ac6109073b00fe" rel="noopener nofollow" target="_blank">Request for information here</a>
 </p>
 </td>
 </tr>

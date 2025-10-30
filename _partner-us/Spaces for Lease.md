@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Commercial Spaces for Lease</strong></h4>
-<table style="minWidth: 225px">
+<table style="minWidth: 250px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -46,6 +47,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -72,6 +76,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/68db8f924de5e2d8410bd9c3" rel="noopener nofollow" target="_blank">Request for information here</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -106,23 +113,49 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Resorts World Sentosa Express Station</p>
 <p></p>
-<p>2. Imbiah Express Station</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Resorts World Sentosa Express Station</p>
 <p></p>
-<p>3.Beach Station Guest Enquiry Lounge</p>
+</li>
+<li>
+<p>Imbiah Express Station</p>
 <p></p>
+</li>
+<li>
+<p>Beach Station Guest Enquiry Lounge</p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
 <p>4. Sentosa Golf Club Lobby</p>
+</li>
+<li>
 <p></p>
+</li>
+<li>
 <p>5. Imbiah Lookout Walkway(optional)</p>
+</li>
+<li>
 <p></p>
+</li>
+<li>
 <p>6. Palawan Beach Bus Stop (optional)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provision of Portable Chargers Rental Services</p>
@@ -130,7 +163,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>NA</p>
 <p></p>
-<p><em>Parties can refer to  quotation documents for images of exact space allocated for rental machines </em>
+<p><em>Parties can refer to quotation documents for images of exact space allocated for rental machines</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -147,7 +147,7 @@ variant: tiptap
 <p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/admin/form/6836de9905ac6109073b00fe" rel="noopener nofollow" target="_blank">Request for information here</a>
+<p><a href="https://form.gov.sg/6836de9905ac6109073b00fe" rel="noopener nofollow" target="_blank">Request for information here</a>
 </p>
 </td>
 </tr>

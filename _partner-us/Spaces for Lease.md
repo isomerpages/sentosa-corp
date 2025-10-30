@@ -112,7 +112,17 @@ variant: tiptap
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>1. Resorts World Sentosa Express Station</p>
 <p></p>
+<p>2. Imbiah Express Station</p>
+<p></p>
+<p>3.Beach Station Guest Enquiry Lounge</p>
+<p></p>
+<p>4. Sentosa Golf Club Lobby</p>
+<p></p>
+<p>5. Imbiah Lookout Walkway(optional)</p>
+<p></p>
+<p>6. Palawan Beach Bus Stop (optional)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provision of Portable Chargers Rental Services</p>

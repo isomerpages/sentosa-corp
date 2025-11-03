@@ -111,10 +111,10 @@ variant: tiptap
 <p>Refer to tender documents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Nov</p>
+<p>3 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Nov</p>
+<p>12 Nov 2025, 3:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NA</p>

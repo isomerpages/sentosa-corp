@@ -97,6 +97,33 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Various Locations for Portable Chargers Rental Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Portable Chargers Rental Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Refer to tender documents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Nov 2025, 3:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/6836de9905ac6109073b00fe" rel="noopener nofollow" target="_blank">Request for information here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Upcoming</strong></h4>

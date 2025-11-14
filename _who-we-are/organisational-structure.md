@@ -235,6 +235,16 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/SET_Addison_Goh_25_updated.jpg" alt="Addison GOH">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Addison GOH</p>
+        <strong>Divisional Director, Business &amp; Experience Development</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/SET_Koh_Piak_Huat_25.png" alt="KOH Piak Huat">
     </div>
     <div class="col is-8">
@@ -285,7 +295,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25.png" alt="Kelly YOONG">
+        <img src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25_updated.png" alt="Kelly YOONG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Kelly YOONG</p>

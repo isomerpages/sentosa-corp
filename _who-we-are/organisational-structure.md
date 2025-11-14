@@ -285,7 +285,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25.png" alt="Kelly YOONG">
+        <img src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25_updated.png" alt="Kelly YOONG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Kelly YOONG</p>

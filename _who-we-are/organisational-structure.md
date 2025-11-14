@@ -235,7 +235,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Addison_Goh_25.png" alt="KOH Piak Huat">
+        <img src="/images/who-we-are/organisational-structure/SET_Addison_Goh_25_updated.jpg" alt="Addison GOH">
     </div>
     <div class="col is-8">
         <p class="title is-4">Addison GOH</p>

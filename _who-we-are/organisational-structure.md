@@ -235,6 +235,16 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/SET_Addison_Goh_25.png" alt="KOH Piak Huat">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Addison GOH</p>
+        <strong>Divisional Director, Business &amp; Experience Development</strong>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/SET_Koh_Piak_Huat_25.png" alt="KOH Piak Huat">
     </div>
     <div class="col is-8">

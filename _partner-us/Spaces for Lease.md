@@ -48,60 +48,6 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Cove Avenue, #02-07 to #02-11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Retail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>549</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 Oct 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 Nov 2025, 4:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 Oct 2025, 10:30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68db8f924de5e2d8410bd9c3" rel="noopener nofollow" target="_blank">Request for information here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Cove Avenue, #02-12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>F&amp;B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>103</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 Oct 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 Nov 2025, 4:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 Oct 2025, 11:30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68db964c227cb4baf1889680" rel="noopener nofollow" target="_blank">Request for information here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Various Locations for Portable Chargers Rental Service</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,6 +235,46 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>No Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Cove Avenue, #02-07 to #02-11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>549</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Under Evaluation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Cove Avenue, #02-12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F&amp;B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>103</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Under Evaluation</p>
 </td>
 </tr>
 </tbody>

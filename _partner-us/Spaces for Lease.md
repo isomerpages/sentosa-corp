@@ -45,29 +45,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Various Locations for Portable Chargers Rental Service</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provision of Portable Chargers Rental Services</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refer to tender documents</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Nov 2025</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Nov 2025, 3:00pm</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6836de9905ac6109073b00fe" rel="noopener nofollow" target="_blank">Request for information here</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
@@ -191,11 +190,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Land Parcel for Hotel Development</p>
@@ -215,11 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 Beach View, Singapore 098008</p>
@@ -235,6 +226,26 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>No Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Various Locations for Portable Chargers Rental Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Portable Chargers Rental Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Under Evaluation</p>
 </td>
 </tr>
 <tr>

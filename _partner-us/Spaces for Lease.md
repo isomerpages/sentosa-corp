@@ -190,11 +190,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Land Parcel for Hotel Development</p>
@@ -214,11 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 Beach View, Singapore 098008</p>

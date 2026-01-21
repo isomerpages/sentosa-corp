@@ -45,28 +45,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>27 Bukit Manis Road</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>F&amp;B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>551</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>22 Jan 2026 (Thurs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>27 Feb 2026 (Fri) 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>27 Jan 2026 (Tue) 10:30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://form.gov.sg/69649f26ee3551f16f88ef1b" rel="noopener nofollow" target="_blank">Register interest here</a>
+</p>
 </td>
 </tr>
 </tbody>

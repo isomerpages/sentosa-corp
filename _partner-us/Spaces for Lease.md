@@ -154,126 +154,6 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Former 30 Imbiah Walk</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Attraction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3,600 (Land)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 November 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>32 Sentosa Gateway, #01-K1, Singapore 098141</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Retail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>44.7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 December 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Under Evaluation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Land Parcel for Hotel Development</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hotel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10,608 (Land)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17 January 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Beach View, Singapore 098008</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>F&amp;B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>60</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 May 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Various Locations for Portable Chargers Rental Service</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Portable Chargers Rental Services</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 Nov 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Under Evaluation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Cove Avenue, #02-07 to #02-11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Retail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>549</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 Nov 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Under Evaluation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1 Cove Avenue, #02-12</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,6 +167,26 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Under Evaluation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

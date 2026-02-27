@@ -171,22 +171,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27 Bukit Manis Road</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>F&amp;B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>551</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27 Feb 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Under Evaluation</p>
 </td>
 </tr>
 </tbody>

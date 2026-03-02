@@ -154,6 +154,26 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>1 Cove Avenue, #02-07 to #02-11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>549</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Under Evaluation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Cove Avenue, #02-12</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27 Bukit Manis Road</p>

@@ -36,7 +36,7 @@ variant: markdown
         <img src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png" alt="Angelene CHAN">
     </div>
     <div class="col is-8">
-        <p class="title is-4">AW Li Fen, Philomena</p>
+        <p class="title is-4">Philomena AW</p>
         <strong>Deputy Secretary (Industry)</strong>
         <br> Ministry of Trade and Industry
     </div>
@@ -83,7 +83,7 @@ variant: markdown
         <img src="/images/who-we-are/organisational-structure/mariam_jaafar.jpg" alt="Mariam JAAFAR">
     </div>
     <div class="col is-8">
-        <p class="title is-4">KONG Sau Wai, Elizabeth</p>
+        <p class="title is-4">Elizabeth KONG</p>
         <strong>Asia General Counsel</strong>
         <br> 3M Group
     </div>

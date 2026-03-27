@@ -33,7 +33,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png" alt="Angelene CHAN">
+        <img src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png" alt="Philomena AW">
     </div>
     <div class="col is-8">
         <p class="title is-4">Philomena AW</p>
@@ -58,7 +58,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png" alt="Guna CHELLAPPAN">
+        <img src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png" alt="Vernon KHOO">
     </div>
     <div class="col is-8">
         <p class="title is-4">Vernon KHOO</p>
@@ -80,7 +80,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mariam_jaafar.jpg" alt="Mariam JAAFAR">
+        <img src="/images/who-we-are/organisational-structure/mariam_jaafar.jpg" alt="Elizabeth KONG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Elizabeth KONG</p>

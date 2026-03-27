@@ -102,18 +102,6 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg" alt="Kevin KWOK">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Kevin KWOK</p>
-        <strong>Company Director</strong>
-        <br>Singapore Technologies Engineering Ltd
-	   <br>Standard Chartered Bank (Singapore) Ltd
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/BDD_2025_William_LIM.png" alt="William LIM">
     </div>
     <div class="col is-8">
@@ -121,6 +109,18 @@ variant: markdown
         <strong>Divisional Director,
 Planning</strong>
         <br>Ministry of Education, Singapore
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg" alt="Kevin KWOK">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Kevin KWOK</p>
+        <strong>Company Director</strong>
+        <br>Singapore Technologies Engineering Ltd
+	   <br>Standard Chartered Bank (Singapore) Ltd
     </div>
 </div>
 

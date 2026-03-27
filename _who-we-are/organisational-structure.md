@@ -151,10 +151,10 @@ Planning</strong>
     </div>
     <div class="col is-8">
         <p class="title is-4">Arrif ZIAUDEEN</p>
-        <strong>Senior Director (Industry)</strong>
+        <strong>Partner<strong>
         <br> Ministry of Trade and Industry, Singapore 
-    </div>
-</div>
+    </strong></strong></div><strong><strong>
+</strong></strong></div><strong><strong>
 
 <hr>
  
@@ -300,4 +300,4 @@ Planning</strong>
         <p class="title is-4">Andrew JOHNSTON</p>
         <strong>General Manager, Sentosa Golf Club</strong>
     </div>
-</div>
+</div></strong></strong>

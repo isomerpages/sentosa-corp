@@ -83,9 +83,9 @@ variant: markdown
         <img src="/images/who-we-are/organisational-structure/mariam_jaafar.jpg" alt="Mariam JAAFAR">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mariam JAAFAR</p>
-        <strong>Managing Director &amp; Senior Partner</strong>
-        <br> The Boston Consulting Group
+        <p class="title is-4">KONG Sau Wai, Elizabeth</p>
+        <strong>Asia General Counsel</strong>
+        <br> 3M Group
     </div>
 </div>
 

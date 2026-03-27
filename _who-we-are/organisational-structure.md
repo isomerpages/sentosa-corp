@@ -5,17 +5,6 @@ breadcrumb: Organisational Structure
 variant: markdown
 ---
 ### **Board Members**
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Bob_Tan_25.png" alt="Bob TAN Beng Hai">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Bob TAN Beng Hai</p>
-        <strong>Chairman</strong>
-        <br> Sentosa Development Corporation
-        <br> Jurong Engineering Limited
-		</div>
-</div>
 
 <div class="row">
     <div class="col is-4">
@@ -23,7 +12,7 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">Edmund KOH</p>
-        <strong>Deputy Chairman</strong>
+        <strong>Chairman</strong>
         <br> Sentosa Development Corporation
 				<br>
 			<strong>Chairman Asia Pacific</strong>

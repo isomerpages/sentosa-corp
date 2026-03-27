@@ -114,10 +114,10 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Ron TAN Aik Ti">
+        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Ron TAN">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Ron TAN Aik Ti</p>
+        <p class="title is-4">Ron TAN</p>
         <strong>Executive Chairman and Group CEO</strong>
         <br> NEON 
     </div>

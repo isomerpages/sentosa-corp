@@ -150,7 +150,7 @@ Planning</strong>
         <img src="/images/who-we-are/organisational-structure/BOD_2025_TANG_Zhi_Hui.png" alt="TANG Zhi Hui">
     </div>
     <div class="col is-8">
-        <p class="title is-4">TANG Zhi Hui</p>
+        <p class="title is-4">Arrif ZIAUDEEN</p>
         <strong>Senior Director (Industry)</strong>
         <br> Ministry of Trade and Industry, Singapore 
     </div>

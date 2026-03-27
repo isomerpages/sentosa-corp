@@ -44,12 +44,26 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png" alt="Kevin GOH">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Kevin GOH</p>
+        <strong>Chief Executive Officer, Lodging</strong>
+        <br> CapitaLand Investment Limited
+			<br>
+			<strong>Chief Executive Officer</strong>
+        <br> The Ascott Limited
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/BOD_Guna_Chellapan_25.png" alt="Guna CHELLAPPAN">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Guna CHELLAPPAN</p>
-        <strong>Country General Manager</strong>
-        <br> Red Hat Asia Pacific Pte Ltd
+        <p class="title is-4">Vernon KHOO</p>
+        <strong>Chairman &amp; CEO</strong>
+        <br> Flagship Corporation Far East Pte Ltd
     </div>
 </div>
 
@@ -61,20 +75,6 @@ variant: markdown
         <p class="title is-4">Mariam JAAFAR</p>
         <strong>Managing Director &amp; Senior Partner</strong>
         <br> The Boston Consulting Group
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png" alt="Kevin GOH">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Kevin GOH</p>
-        <strong>Chief Executive Officer, Lodging</strong>
-        <br> CapitaLand Investment Limited
-			<br>
-			<strong>Chief Executive Officer</strong>
-        <br> The Ascott Limited
     </div>
 </div>
 

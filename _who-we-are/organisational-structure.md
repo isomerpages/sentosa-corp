@@ -151,9 +151,9 @@ Planning</strong>
     </div>
     <div class="col is-8">
         <p class="title is-4">Arrif ZIAUDEEN</p>
-        <strong>Partner<strong>
-        <br> Ministry of Trade and Industry, Singapore 
-    </strong></strong></div><strong><strong>
+         <strong>Partner</strong>
+        <br> Susquehanna Asia Venture Capital, Singapore
+    </div><strong><strong>
 </strong></strong></div><strong><strong>
 
 <hr>

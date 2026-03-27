@@ -91,7 +91,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD2026_LEE_Yan_Hong.png" alt="Mariam JAAFAR">
+        <img src="/images/who-we-are/organisational-structure/BOD2026_LEE_Yan_Hong.png" alt="LEE Yan Hong">
     </div>
     <div class="col is-8">
         <p class="title is-4">LEE Yan Hong</p>

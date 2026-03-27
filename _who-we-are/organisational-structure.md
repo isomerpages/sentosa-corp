@@ -37,8 +37,8 @@ variant: markdown
     </div>
     <div class="col is-8">
         <p class="title is-4">AW Li Fen, Philomena</p>
-        <strong>Chairman</strong>
-        <br> DP Architects
+        <strong>Deputy Secretary (Industry)</strong>
+        <br> Ministry of Trade and Industry
     </div>
 </div>
 

@@ -33,7 +33,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Angelene_Chan_25.jpg" alt="Angelene CHAN">
+        <img src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png" alt="Angelene CHAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">AW Li Fen, Philomena</p>

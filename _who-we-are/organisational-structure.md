@@ -114,13 +114,12 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg" alt="Kevin KWOK">
+        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Ron TAN Aik Ti">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Kevin KWOK</p>
-        <strong>Company Director</strong>
-        <br>Singapore Technologies Engineering Ltd
-	   <br>Standard Chartered Bank (Singapore) Ltd
+        <p class="title is-4">Ron TAN Aik Ti</p>
+        <strong>Executive Chairman and Group CEO</strong>
+        <br> NEON 
     </div>
 </div>
 
@@ -143,17 +142,6 @@ Planning</strong>
         <p class="title is-4">Michael SYN</p>
         <strong>President and Head of Global Markets Division, SGX Group</strong>
         <br> Singapore Exchange Ltd
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Ron TAN Aik Ti">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ron TAN Aik Ti</p>
-        <strong>Executive Chairman and Group CEO</strong>
-        <br> NEON 
     </div>
 </div>
 

@@ -91,6 +91,17 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/who-we-are/organisational-structure/mariam_jaafar.jpg" alt="Mariam JAAFAR">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">LEE Yan Hong</p>
+        <strong>Managing Director &amp; Head, Group Human Resources</strong>
+        <br>DBS Bank Ltd
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg" alt="Kevin KWOK">
     </div>
     <div class="col is-8">

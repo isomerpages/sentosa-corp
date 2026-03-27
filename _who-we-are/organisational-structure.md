@@ -36,7 +36,7 @@ variant: markdown
         <img src="/images/who-we-are/organisational-structure/BOD_Angelene_Chan_25.jpg" alt="Angelene CHAN">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Angelene CHAN</p>
+        <p class="title is-4">AW Li Fen, Philomena</p>
         <strong>Chairman</strong>
         <br> DP Architects
     </div>

@@ -58,7 +58,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Guna_Chellapan_25.png" alt="Guna CHELLAPPAN">
+        <img src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png" alt="Guna CHELLAPPAN">
     </div>
     <div class="col is-8">
         <p class="title is-4">Vernon KHOO</p>

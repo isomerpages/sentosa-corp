@@ -80,7 +80,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mariam_jaafar.jpg" alt="Elizabeth KONG">
+        <img src="/images/who-we-are/organisational-structure/elizabeth_board_member.jpg" alt="Elizabeth KONG">
     </div>
     <div class="col is-8">
         <p class="title is-4">Elizabeth KONG</p>

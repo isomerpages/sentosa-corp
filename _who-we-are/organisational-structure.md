@@ -2,302 +2,189 @@
 title: Organisational Structure
 permalink: /who-we-are/organisational-structure/
 breadcrumb: Organisational Structure
-variant: markdown
+variant: tiptap
 ---
-### **Board Members**
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Edmund_Koh.png" alt="Edmund KOH">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Edmund KOH</p>
-        <strong>Chairman</strong>
-        <br> Sentosa Development Corporation
-				<br>
-			<strong>Chairman Asia Pacific</strong>
-        <br> UBS AG
-    </div>
+<h3><strong>Board Members</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/who-we-are/organisational-structure/bod_edmund_koh.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png" alt="THIEN Kwee Eng">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">THIEN Kwee Eng</p>
-        <strong>Chief Executive Officer</strong>
-        <br> Sentosa Development Corporation
-    </div>
+<p>Edmund KOH</p>
+<p><strong>Chairman</strong> 
+<br>Sentosa Development Corporation
+<br><strong>Chairman Asia Pacific</strong> 
+<br>UBS AG</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png" alt="Philomena AW">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Philomena AW</p>
-        <strong>Deputy Secretary (Industry)</strong>
-        <br> Ministry of Trade and Industry
-    </div>
+<p>THIEN Kwee Eng</p>
+<p><strong>Chief Executive Officer</strong> 
+<br>Sentosa Development Corporation</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png" alt="Kevin GOH">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Kevin GOH</p>
-        <strong>Chief Executive Officer, Lodging</strong>
-        <br> CapitaLand Investment Limited
-			<br>
-			<strong>Chief Executive Officer</strong>
-        <br> The Ascott Limited
-    </div>
+<p>Philomena AW</p>
+<p><strong>Deputy Secretary (Industry)</strong> 
+<br>Ministry of Trade and Industry</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png" alt="Vernon KHOO">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Vernon KHOO</p>
-        <strong>Chairman &amp; CEO</strong>
-        <br> Flagship Corporation Far East Pte Ltd
-    </div>
+<p>Kevin GOH</p>
+<p><strong>Chief Executive Officer, Lodging</strong> 
+<br>CapitaLand Investment Limited
+<br><strong>Chief Executive Officer</strong> 
+<br>The Ascott Limited</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Benjamin_King_25.jpg" alt="Benjamin Stewart KING">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Benjamin Stewart KING</p>
-        <strong>Country Managing Director</strong>
-        <br> Google Singapore
-    </div>
+<p>Vernon KHOO</p>
+<p><strong>Chairman &amp; CEO</strong> 
+<br>Flagship Corporation Far East Pte Ltd</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Benjamin Stewart KING" src="/images/who-we-are/organisational-structure/BOD_Benjamin_King_25.jpg">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/elizabeth_board_member.jpg" alt="Elizabeth KONG">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Elizabeth KONG</p>
-        <strong>Asia General Counsel</strong>
-        <br> 3M Group
-    </div>
+<p>Benjamin Stewart KING</p>
+<p><strong>Country Managing Director</strong> 
+<br>Google Singapore</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Elizabeth KONG" src="/images/who-we-are/organisational-structure/elizabeth_board_member.jpg">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD2026_LEE_Yan_Hong.png" alt="LEE Yan Hong">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">LEE Yan Hong</p>
-        <strong>Managing Director &amp; Head, Group Human Resources</strong>
-        <br>DBS Bank Ltd
-    </div>
+<p>Elizabeth KONG</p>
+<p><strong>Asia General Counsel</strong> 
+<br>3M Group</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LEE Yan Hong" src="/images/who-we-are/organisational-structure/BOD2026_LEE_Yan_Hong.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BDD_2025_William_LIM.png" alt="William LIM">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">William LIM</p>
-        <strong>Divisional Director,
-Planning</strong>
-        <br>Ministry of Education, Singapore
-    </div>
+<p>LEE Yan Hong</p>
+<p><strong>Managing Director &amp; Head, Group Human Resources</strong> 
+<br>DBS Bank Ltd</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="William LIM" src="/images/who-we-are/organisational-structure/BDD_2025_William_LIM.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Ron TAN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ron TAN</p>
-        <strong>Executive Chairman and Group CEO</strong>
-        <br> NEON 
-    </div>
+<p>William LIM</p>
+<p><strong>Divisional Director, Planning</strong> 
+<br>Ministry of Education, Singapore</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ron TAN" src="/images/who-we-are/organisational-structure/ron_tan.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/melissa_ow.png" alt="Melissa Ow">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Melissa OW</p>
-        <strong>Chief Executive</strong>
-        <br> Singapore Tourism Board
-    </div>
+<p>Ron TAN</p>
+<p><strong>Executive Chairman and Group CEO</strong> 
+<br>NEON</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Melissa Ow" src="/images/who-we-are/organisational-structure/melissa_ow.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD2026_Christopher_WONG.png" alt="Christopher WONG">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Christopher WONG</p>
-        <strong>Council Member</strong>
-        <br> National Arts Council
-    </div>
+<p>Melissa OW</p>
+<p><strong>Chief Executive</strong> 
+<br>Singapore Tourism Board</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Christopher WONG" src="/images/who-we-are/organisational-structure/BOD2026_Christopher_WONG.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD2026_Arrif.png" alt="Arrif ZIAUDEEN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Arrif ZIAUDEEN</p>
-         <strong>Partner</strong>
-        <br> Susquehanna Asia Venture Capital, Singapore
-    </div><strong><strong>
-</strong></strong></div><strong><strong>
-
+<p>Christopher WONG</p>
+<p><strong>Council Member</strong> 
+<br>National Arts Council</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Arrif ZIAUDEEN" src="/images/who-we-are/organisational-structure/BOD2026_Arrif.png">
+</div>
+<p>Arrif ZIAUDEEN</p>
+<p><strong>Partner</strong> 
+<br>Susquehanna Asia Venture Capital, Singapore</p>
 <hr>
- 
-### **Senior Executive Team**
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Heah_Soon_Poh_25.png" alt="HEAH Soon Poh">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">HEAH Soon Poh</p>
-        <strong>Assistant Chief Executive (Integrated Development &amp; Operations Group)</strong>
-    </div>
+<h3><strong>Senior Executive Team</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="HEAH Soon Poh" src="/images/who-we-are/organisational-structure/SET_Heah_Soon_Poh_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Lee_Cheh_Hsien_25.png" alt="LEE Cheh Hsien">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">LEE Cheh Hsien</p>
-			<strong>Assistant Chief Executive (Corporate &amp; Sustainability Group)</strong>
-    </div>
+<p><strong>HEAH Soon Poh</strong>
+</p>
+<p><strong>Assistant Chief Executive (Integrated Development &amp; Operations Group)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LEE Cheh Hsien" src="/images/who-we-are/organisational-structure/SET_Lee_Cheh_Hsien_25.png">
 </div>
-
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Michael_Ma_25.jpg" alt="Michael MA">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Michael MA</p>
-        <strong>Assistant Chief Executive (Business &amp; Digital Technology Group)</strong>
-    </div>
+<p><strong>LEE Cheh Hsien</strong>
+</p>
+<p><strong>Assistant Chief Executive (Corporate &amp; Sustainability Group)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Michael MA" src="/images/who-we-are/organisational-structure/SET_Michael_Ma_25.jpg">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Chan_Beng_Kiat_25.png" alt="CHAN Beng Kiat">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">CHAN Beng Kiat</p>
-        <strong>Divisional Director, Architecture &amp; Land Planning</strong>
-    </div>
+<p><strong>Michael MA</strong>
+</p>
+<p><strong>Assistant Chief Executive (Business &amp; Digital Technology Group)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHAN Beng Kiat" src="/images/who-we-are/organisational-structure/SET_Chan_Beng_Kiat_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Chew_Yun_Meng_25.png" alt="CHEW Yun Meng">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">CHEW Yun Meng</p>
-        <strong>Divisional Director, Integrated Operations</strong>
-    </div>
+<p><strong>CHAN Beng Kiat</strong>
+</p>
+<p><strong>Divisional Director, Architecture &amp; Land Planning</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CHEW Yun Meng" src="/images/who-we-are/organisational-structure/SET_Chew_Yun_Meng_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Rosalind_Chua_25.png" alt="Rosalind CHUA">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Rosalind CHUA</p>
-        <strong>Divisional Director, Finance &amp; Procurement</strong>
-    </div>
+<p><strong>CHEW Yun Meng</strong>
+</p>
+<p><strong>Divisional Director, Integrated Operations</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rosalind CHUA" src="/images/who-we-are/organisational-structure/SET_Rosalind_Chua_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Addison_Goh_25_updated.jpg" alt="Addison GOH">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Addison GOH</p>
-        <strong>Divisional Director, Business &amp; Experience Development</strong>
-    </div>
+<p><strong>Rosalind CHUA</strong>
+</p>
+<p><strong>Divisional Director, Finance &amp; Procurement</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Addison GOH" src="/images/who-we-are/organisational-structure/SET_Addison_Goh_25_updated.jpg">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Koh_Piak_Huat_25.png" alt="KOH Piak Huat">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">KOH Piak Huat</p>
-        <strong>Divisional Director, Special Duties</strong>
-    </div>
+<p><strong>Addison GOH</strong>
+</p>
+<p><strong>Divisional Director, Business &amp; Experience Development</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="KOH Piak Huat" src="/images/who-we-are/organisational-structure/SET_Koh_Piak_Huat_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Lam_Yue_Kwai_25.png" alt="LAM Yue Kwai">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">LAM Yue Kwai</p>
-        <strong>Divisional Director, Engineering &amp; Project Management</strong>
-    </div>
+<p><strong>KOH Piak Huat</strong>
+</p>
+<p><strong>Divisional Director, Special Duties</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LAM Yue Kwai" src="/images/who-we-are/organisational-structure/SET_Lam_Yue_Kwai_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Linda_Lee_25.png" alt="Linda LEE">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Linda LEE</p>
-        <strong>Divisional Director, Human Resource &amp; Administration</strong>
-    </div>
+<p><strong>LAM Yue Kwai</strong>
+</p>
+<p><strong>Divisional Director, Engineering &amp; Project Management</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Linda LEE" src="/images/who-we-are/organisational-structure/SET_Linda_Lee_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Gary_Ng_25.png" alt="Gary NG">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Gary NG</p>
-        <strong>Divisional Director, Digital Technology Transformation</strong>
-    </div>
+<p><strong>Linda LEE</strong>
+</p>
+<p><strong>Divisional Director, Human Resource &amp; Administration</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gary NG" src="/images/who-we-are/organisational-structure/SET_Gary_Ng_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Chris_Pok_25.png" alt="Chris Pok">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Chris POK</p>
-        <strong>Divisional Director, Marketing &amp; Guest Experience</strong>
-    </div>
+<p><strong>Gary NG</strong>
+</p>
+<p><strong>Divisional Director, Digital Technology Transformation</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chris Pok" src="/images/who-we-are/organisational-structure/SET_Chris_Pok_25.png">
 </div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25_updated.png" alt="Kelly YOONG">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Kelly YOONG</p>
-        <strong>Divisional Director, Corporate Planning &amp; Development</strong>
-    </div>
+<p><strong>Chris POK</strong>
+</p>
+<p><strong>Divisional Director, Marketing &amp; Guest Experience</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kelly YOONG" src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25_updated.png">
 </div>
-	
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Andrew_Johnston_25.png" alt="Andrew JOHNSTON">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Andrew JOHNSTON</p>
-        <strong>General Manager, Sentosa Golf Club</strong>
-    </div>
-</div></strong></strong>
+<p><strong>Kelly YOONG</strong>
+</p>
+<p><strong>Divisional Director, Corporate Planning &amp; Development</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Andrew JOHNSTON" src="/images/who-we-are/organisational-structure/SET_Andrew_Johnston_25.png">
+</div>
+<p><strong>Andrew JOHNSTON</strong>
+</p>
+<p><strong>General Manager, Sentosa Golf Club</strong>
+</p>

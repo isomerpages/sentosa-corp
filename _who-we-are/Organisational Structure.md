@@ -13,32 +13,31 @@ description: ""
 <strong>Chairman</strong> 
 <br>Sentosa Development Corporation
 <br><strong>Chairman Asia Pacific</strong> 
-<br>UBS AG<br>
-<br>
+<br>UBS AG
 
-<img align="left" style="width: 30%" height="auto" width="30%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
-<br><br><br><br><br><br><br><br><br>
+<p><img align="left" style="width: 30%" height="auto" width="30%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
+<br><br><br><br><br><br>
 <br>THIEN Kwee Eng <br>
 <strong>Chief Executive Officer</strong> 
 <br>Sentosa Development Corporation
-<br><br><br>
 	
-<img align="left" style="width: 50%" height="auto" width="50%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
-<br><br><br><br><br><br><br><br><br><br>
-Philomena AW<br>
+</p><p><img align="left" style="width: 30%" height="auto" width="30%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
+<br><br><br><br><br><br>
+<br>Philomena AW <br>
 <strong>Deputy Secretary (Industry)</strong> 
-<br>Ministry of Trade and Industry<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
-</div>
-<p>Kevin GOH</p>
-<p><strong>Chief Executive Officer, Lodging</strong> 
+<br>Ministry of Trade and Industry</p><p></p>
+
+<img align="left" style="width: 30%" height="auto" width="30%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
+<br><br><br><br><br><br><br><br><br>
+<br>Kevin GOH<br>
+<strong>Chief Executive Officer, Lodging</strong> 
 <br>CapitaLand Investment Limited
 <br><strong>Chief Executive Officer</strong> 
-<br>The Ascott Limited</p>
-<div class="isomer-image-wrapper">
+<br>The Ascott Limited
+
+
 <img style="width: 100%" height="auto" width="100%" alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
-</div>
+
 <p>Vernon KHOO</p>
 <p><strong>Chairman &amp; CEO</strong> 
 <br>Flagship Corporation Far East Pte Ltd</p>

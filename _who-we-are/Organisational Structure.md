@@ -15,11 +15,12 @@ description: ""
 <br><strong>Chairman Asia Pacific</strong> 
 <br>UBS AG<p></p>
 
-<img style="width: 50%" height="auto" width="50%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
+<img align="left" style="width: 50%" height="auto" width="50%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
+<br><br><br><br><br><br><br><br>
 
 <p>THIEN Kwee Eng</p>
-<p><strong>Chief Executive Officer</strong> 
-<br>Sentosa Development Corporation</p>
+<strong>Chief Executive Officer</strong> 
+<br>Sentosa Development Corporation<p></p>
 
 <img style="width: 100%" height="auto" width="100%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
 

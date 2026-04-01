@@ -2,7 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
-      - Organisational Structure (Test).md
       - overview.md
       - Organisational Structure.md
       - our-brands-and-subsidiaries.md

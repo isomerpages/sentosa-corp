@@ -301,4 +301,4 @@ Planning</strong>
         <p class="title is-4">Andrew JOHNSTON</p>
         <strong>General Manager, Sentosa Golf Club</strong>
     </div>
-</div></strong></strong>
+</div><strong></strong></strong></strong>

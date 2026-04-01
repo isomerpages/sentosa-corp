@@ -8,24 +8,25 @@ description: ""
 <h3><strong>Board Members</strong></h3>
 
 <img align="left" style="width: 50%" height="auto" width="50%" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
-<br><br><br><br><br><br><br><br>
-<p>Edmund KOH</p>
+<br><br><br><br><br><br><br><br><br>
+<br>Edmund KOH
 <strong>Chairman</strong> 
 <br>Sentosa Development Corporation
 <br><strong>Chairman Asia Pacific</strong> 
-<br>UBS AG<p></p>
+<br>UBS AG<br>
+<p>
 
 <img align="left" style="width: 50%" height="auto" width="50%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
-<br><br><br><br><br><br><br><br>
-
-<p>THIEN Kwee Eng</p>
+<br><br><br><br><br><br>
+<br>THIEN Kwee Eng <br>
 <strong>Chief Executive Officer</strong> 
-<br>Sentosa Development Corporation<p></p>
-
-<img style="width: 100%" height="auto" width="100%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
-
-<p>Philomena AW</p>
-<p><strong>Deputy Secretary (Industry)</strong> 
+<br>Sentosa Development Corporation
+</p><p>
+	
+<img align="left" style="width: 50%" height="auto" width="50%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
+<br><br><br><br><br><br><br>
+Philomena AW<br>
+<strong>Deputy Secretary (Industry)</strong> 
 <br>Ministry of Trade and Industry</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">

@@ -25,6 +25,14 @@ description: ""
 <p><strong>Deputy Secretary (Industry)</strong> 
 <br>Ministry of Trade and Industry</p>
 <div class="isomer-image-wrapper">
+	
+<img alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH">
+<p>Kevin GOH</p>
+<p><strong>Chief Executive Officer</strong> 
+<br>Lodging CapitaLand Investment Limited</p>
+<p><strong>Chief Executive Officer</strong> 
+<br>The Ascott Limited</p>
+<div class="isomer-image-wrapper">
 
 <p></p><p><img style="width: 100%" height="auto" width="100%" alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
 </p><p>Vernon KHOO</p>
@@ -177,4 +185,4 @@ description: ""
 <p><strong>Andrew JOHNSTON</strong>
 </p>
 <p><strong>General Manager, Sentosa Golf Club</strong>
-</p></div></div>
+</p></div></div></div>

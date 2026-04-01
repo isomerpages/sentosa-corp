@@ -19,13 +19,13 @@ description: ""
 <br><br><br><br><br><br>
 <br>THIEN Kwee Eng <br>
 <strong>Chief Executive Officer</strong> 
-<br>Sentosa Development Corporation
+<br>Sentosa Development Corporation</p>
 	
-</p><p><img align="left" style="width: 30%" height="auto" width="30%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
+<p></p><p><img align="left" style="width: 30%" height="auto" width="30%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
 <br><br><br><br><br><br>
 <br>Philomena AW <br>
 <strong>Deputy Secretary (Industry)</strong> 
-<br>Ministry of Trade and Industry</p><p></p>
+<br>Ministry of Trade and Industry</p>
 
 <img align="left" style="width: 30%" height="auto" width="30%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
 <br><br><br><br><br><br><br><br><br>

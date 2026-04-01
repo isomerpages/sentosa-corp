@@ -3,37 +3,27 @@ title: Organisational Structure
 permalink: /who-we-are/organisational-structure/
 breadcrumb: Organisational Structure
 variant: markdown
+description: ""
 ---
-### **Board Members**
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Bob_Tan_25.png" alt="Bob TAN Beng Hai">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Bob TAN Beng Hai</p>
-        <strong>Chairman</strong>
-        <br> Sentosa Development Corporation
-        <br> Jurong Engineering Limited
-		</div>
-</div>
+#### **Board Members**
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Edmund_Koh.png" alt="Edmund KOH">
+        <img alt="Edmund KOH" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Edmund KOH</p>
-        <strong>Deputy Chairman</strong>
+        <strong>Chairman</strong>
         <br> Sentosa Development Corporation
 				<br>
-			<strong>Chairman Asia Pacific</strong>
-        <br> UBS AG
+			<strong>Chairman</strong>
+        <br> Asia Pacific UBS AG
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png" alt="THIEN Kwee Eng">
+        <img alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">THIEN Kwee Eng</p>
@@ -44,54 +34,43 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Angelene_Chan_25.jpg" alt="Angelene CHAN">
+        <img alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Angelene CHAN</p>
-        <strong>Chairman</strong>
-        <br> DP Architects
+        <p class="title is-4">Philomena AW</p>
+        <strong>Deputy Secretary (Industry)</strong>
+        <br> Ministry of Trade and Industry
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Guna_Chellapan_25.png" alt="Guna CHELLAPPAN">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Guna CHELLAPPAN</p>
-        <strong>Country General Manager</strong>
-        <br> Red Hat Asia Pacific Pte Ltd
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/mariam_jaafar.jpg" alt="Mariam JAAFAR">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Mariam JAAFAR</p>
-        <strong>Managing Director &amp; Senior Partner</strong>
-        <br> The Boston Consulting Group
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png" alt="Kevin GOH">
+        <img alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Kevin GOH</p>
-        <strong>Chief Executive Officer, Lodging</strong>
-        <br> CapitaLand Investment Limited
+        <strong>Chief Executive Officer</strong>
+        <br> CapitaLand Lodging &amp; The Ascott Limited
 			<br>
-			<strong>Chief Executive Officer</strong>
-        <br> The Ascott Limited
+			<strong> </strong>
+        <br>  
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Benjamin_King_25.jpg" alt="Benjamin Stewart KING">
+        <img alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Vernon KHOO</p>
+        <strong>Chairman &amp; CEO</strong>
+        <br> Flagship Corporation Far East Pte Ltd
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Benjamin Stewart KING" src="/images/who-we-are/organisational-structure/BOD_Benjamin_King_25.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Benjamin Stewart KING</p>
@@ -102,69 +81,79 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg" alt="Kevin KWOK">
+        <img alt="Elizabeth KONG" src="/images/who-we-are/organisational-structure/elizabeth_board_member.jpg">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Kevin KWOK</p>
-        <strong>Company Director</strong>
-        <br>Singapore Technologies Engineering Ltd
-	   <br>Standard Chartered Bank (Singapore) Ltd
+        <p class="title is-4">Elizabeth KONG</p>
+        <strong>Asia General Counsel</strong>
+        <br> 3M Group
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BDD_2025_William_LIM.png" alt="William LIM">
+        <img alt="LEE Yan Hong" src="/images/who-we-are/organisational-structure/BOD2026_LEE_Yan_Hong.png">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">LEE Yan Hong</p>
+        <strong>Managing Director &amp; Head, Group Human Resources</strong>
+        <br>DBS Bank Ltd
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="William LIM" src="/images/who-we-are/organisational-structure/BDD_2025_William_LIM.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">William LIM</p>
         <strong>Divisional Director,
 Planning</strong>
-        <br>Ministry of Education, Singapore
+        <br>Ministry of Education
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/melissa_ow.png" alt="Melissa Ow">
+        <img alt="Ron TAN" src="/images/who-we-are/organisational-structure/ron_tan.png">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Ron TAN</p>
+        <strong>Executive Chairman and Group CEO</strong>
+        <br> NEON Global
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Melissa Ow" src="/images/who-we-are/organisational-structure/melissa_ow.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Melissa OW</p>
-        <strong>Chief Executive</strong>
+        <strong>Chief Executive Officer</strong>
         <br> Singapore Tourism Board
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_Michael_Syn_25.png" alt="Michael SYN">
+        <img alt="Christopher WONG" src="/images/who-we-are/organisational-structure/BOD2026_Christopher_WONG.png">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Michael SYN</p>
-        <strong>President and Head of Global Markets Division, SGX Group</strong>
-        <br> Singapore Exchange Ltd
+        <p class="title is-4">Christopher WONG</p>
+        <strong>Council Member</strong>
+        <br> National Arts Council
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/ron_tan.png" alt="Ron TAN Aik Ti">
+        <img alt="Arrif ZIAUDEEN" src="/images/who-we-are/organisational-structure/BOD2026_Arrif.png">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Ron TAN Aik Ti</p>
-        <strong>Executive Chairman and Group CEO</strong>
-        <br> NEON 
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/BOD_2025_TANG_Zhi_Hui.png" alt="TANG Zhi Hui">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">TANG Zhi Hui</p>
-        <strong>Senior Director (Industry)</strong>
-        <br> Ministry of Trade and Industry, Singapore 
+        <p class="title is-4">Arrif ZIAUDEEN</p>
+         <strong>Partner</strong>
+        <br> Susquehanna Asia Venture Capital, Singapore
     </div>
 </div>
 
@@ -174,7 +163,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Heah_Soon_Poh_25.png" alt="HEAH Soon Poh">
+        <img alt="HEAH Soon Poh" src="/images/who-we-are/organisational-structure/SET_Heah_Soon_Poh_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">HEAH Soon Poh</p>
@@ -184,7 +173,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Lee_Cheh_Hsien_25.png" alt="LEE Cheh Hsien">
+        <img alt="LEE Cheh Hsien" src="/images/who-we-are/organisational-structure/SET_Lee_Cheh_Hsien_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">LEE Cheh Hsien</p>
@@ -195,7 +184,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Michael_Ma_25.jpg" alt="Michael MA">
+        <img alt="Michael MA" src="/images/who-we-are/organisational-structure/SET_Michael_Ma_25.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Michael MA</p>
@@ -205,7 +194,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Chan_Beng_Kiat_25.png" alt="CHAN Beng Kiat">
+        <img alt="CHAN Beng Kiat" src="/images/who-we-are/organisational-structure/SET_Chan_Beng_Kiat_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHAN Beng Kiat</p>
@@ -215,7 +204,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Chew_Yun_Meng_25.png" alt="CHEW Yun Meng">
+        <img alt="CHEW Yun Meng" src="/images/who-we-are/organisational-structure/SET_Chew_Yun_Meng_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">CHEW Yun Meng</p>
@@ -225,7 +214,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Rosalind_Chua_25.png" alt="Rosalind CHUA">
+        <img alt="Rosalind CHUA" src="/images/who-we-are/organisational-structure/SET_Rosalind_Chua_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Rosalind CHUA</p>
@@ -235,7 +224,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Addison_Goh_25_updated.jpg" alt="Addison GOH">
+        <img alt="Addison GOH" src="/images/who-we-are/organisational-structure/SET_Addison_Goh_25_updated.jpg">
     </div>
     <div class="col is-8">
         <p class="title is-4">Addison GOH</p>
@@ -245,7 +234,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Koh_Piak_Huat_25.png" alt="KOH Piak Huat">
+        <img alt="KOH Piak Huat" src="/images/who-we-are/organisational-structure/SET_Koh_Piak_Huat_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">KOH Piak Huat</p>
@@ -255,7 +244,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Lam_Yue_Kwai_25.png" alt="LAM Yue Kwai">
+        <img alt="LAM Yue Kwai" src="/images/who-we-are/organisational-structure/SET_Lam_Yue_Kwai_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">LAM Yue Kwai</p>
@@ -265,7 +254,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Linda_Lee_25.png" alt="Linda LEE">
+        <img alt="Linda LEE" src="/images/who-we-are/organisational-structure/SET_Linda_Lee_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Linda LEE</p>
@@ -275,7 +264,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Gary_Ng_25.png" alt="Gary NG">
+        <img alt="Gary NG" src="/images/who-we-are/organisational-structure/SET_Gary_Ng_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Gary NG</p>
@@ -285,7 +274,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Chris_Pok_25.png" alt="Chris Pok">
+        <img alt="Chris Pok" src="/images/who-we-are/organisational-structure/SET_Chris_Pok_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Chris POK</p>
@@ -295,7 +284,7 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25_updated.png" alt="Kelly YOONG">
+        <img alt="Kelly YOONG" src="/images/who-we-are/organisational-structure/SET_Kelly_Yoong_25_updated.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Kelly YOONG</p>
@@ -306,10 +295,10 @@ Planning</strong>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/who-we-are/organisational-structure/SET_Andrew_Johnston_25.png" alt="Andrew JOHNSTON">
+        <img alt="Andrew JOHNSTON" src="/images/who-we-are/organisational-structure/SET_Andrew_Johnston_25.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Andrew JOHNSTON</p>
         <strong>General Manager, Sentosa Golf Club</strong>
     </div>
-</div>
+	</div>

@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - overview.md
-      - organisational-structure.md
+      - Organisational Structure.md
       - our-brands-and-subsidiaries.md

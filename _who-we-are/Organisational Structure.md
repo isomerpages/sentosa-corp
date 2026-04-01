@@ -14,20 +14,20 @@ description: ""
 <br>Sentosa Development Corporation
 <br><strong>Chairman Asia Pacific</strong> 
 <br>UBS AG<br>
-<p>
+<br>
 
 <img align="left" style="width: 50%" height="auto" width="50%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <br>THIEN Kwee Eng <br>
 <strong>Chief Executive Officer</strong> 
 <br>Sentosa Development Corporation
-</p><p>
+<br><br><br>
 	
 <img align="left" style="width: 50%" height="auto" width="50%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 Philomena AW<br>
 <strong>Deputy Secretary (Industry)</strong> 
-<br>Ministry of Trade and Industry</p>
+<br>Ministry of Trade and Industry<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
 </div>

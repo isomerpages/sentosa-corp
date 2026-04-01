@@ -7,16 +7,16 @@ description: ""
 ---
 <h3><strong>Board Members</strong></h3>
 
-<img align="left" style="width: 50%" height="auto" width="50%" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
+<img align="left" style="width: 30%" height="auto" width="30%" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
 <br><br><br><br><br><br><br><br><br>
-<br>Edmund KOH
+<br>Edmund KOH <br>
 <strong>Chairman</strong> 
 <br>Sentosa Development Corporation
 <br><strong>Chairman Asia Pacific</strong> 
 <br>UBS AG<br>
 <br>
 
-<img align="left" style="width: 50%" height="auto" width="50%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
+<img align="left" style="width: 30%" height="auto" width="30%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
 <br><br><br><br><br><br><br><br><br>
 <br>THIEN Kwee Eng <br>
 <strong>Chief Executive Officer</strong> 

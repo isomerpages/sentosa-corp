@@ -5,9 +5,8 @@ breadcrumb: Organisational Structure
 variant: tiptap
 ---
 <h3><strong>Board Members</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/who-we-are/organisational-structure/bod_edmund_koh.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
 </div>
 <p>Edmund KOH</p>
 <p><strong>Chairman</strong> 

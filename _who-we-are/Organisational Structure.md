@@ -8,27 +8,24 @@ description: ""
 <h3><strong>Board Members</strong></h3>
 
 <img align="left" style="width: 30%" height="auto" width="30%" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
-<br><br><br><br><br><br><br><br><br>
 <br>Edmund KOH <br>
 <strong>Chairman</strong> 
 <br>Sentosa Development Corporation
 <br><strong>Chairman Asia Pacific</strong> 
 <br>UBS AG
 
-<p><img align="left" style="width: 30%" height="auto" width="30%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
-<br><br><br><br><br><br>
+<br><br><img align="left" style="width: 30%" height="auto" width="30%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
 <br>THIEN Kwee Eng <br>
 <strong>Chief Executive Officer</strong> 
-<br>Sentosa Development Corporation</p>
+<br>Sentosa Development Corporation
 	
-<p></p><p><img align="left" style="width: 30%" height="auto" width="30%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
-<br><br><br><br><br><br>
+<br><br><img align="left" style="width: 30%" height="auto" width="30%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
 <br>Philomena AW <br>
 <strong>Deputy Secretary (Industry)</strong> 
-<br>Ministry of Trade and Industry</p>
+<br>Ministry of Trade and Industry
 
+<br><br>
 <img align="left" style="width: 30%" height="auto" width="30%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
-<br><br><br><br><br><br><br><br><br>
 <br>Kevin GOH<br>
 <strong>Chief Executive Officer, Lodging</strong> 
 <br>CapitaLand Investment Limited

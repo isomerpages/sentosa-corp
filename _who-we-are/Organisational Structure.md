@@ -6,23 +6,23 @@ variant: markdown
 description: ""
 ---
 <h3><strong>Board Members</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
-</div>
+
+<img align="left" style="width: 50%" height="auto" width="50%" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
+<br><br><br><br><br><br><br><br>
 <p>Edmund KOH</p>
-<p><strong>Chairman</strong> 
+<strong>Chairman</strong> 
 <br>Sentosa Development Corporation
 <br><strong>Chairman Asia Pacific</strong> 
-<br>UBS AG</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
-</div>
+<br>UBS AG<p></p>
+
+<img style="width: 50%" height="auto" width="50%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
+
 <p>THIEN Kwee Eng</p>
 <p><strong>Chief Executive Officer</strong> 
 <br>Sentosa Development Corporation</p>
-<div class="isomer-image-wrapper">
+
 <img style="width: 100%" height="auto" width="100%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
-</div>
+
 <p>Philomena AW</p>
 <p><strong>Deputy Secretary (Industry)</strong> 
 <br>Ministry of Trade and Industry</p>

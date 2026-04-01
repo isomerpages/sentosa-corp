@@ -154,8 +154,8 @@ Planning</strong>
         <p class="title is-4">Arrif ZIAUDEEN</p>
          <strong>Partner</strong>
         <br> Susquehanna Asia Venture Capital, Singapore
-    </div><strong><strong>
-</strong></strong></div><strong><strong>
+    </div>
+</div>
 
 <hr>
  
@@ -301,4 +301,4 @@ Planning</strong>
         <p class="title is-4">Andrew JOHNSTON</p>
         <strong>General Manager, Sentosa Golf Club</strong>
     </div>
-	</div></strong></strong>
+	</div>

@@ -7,35 +7,41 @@ description: ""
 ---
 <h3><strong>Board Members</strong></h3>
 
-<img align="left" style="width: 30%" height="auto" width="30%" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
-<br>Edmund KOH <br>
-<strong>Chairman</strong> 
+<img alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
+<p>Edmund KOH</p>
+<p><strong>Chairman</strong> 
 <br>Sentosa Development Corporation
 <br><strong>Chairman Asia Pacific</strong> 
 <br>UBS AG
 
-<br><br><img align="left" style="width: 30%" height="auto" width="30%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
-<br>THIEN Kwee Eng <br>
-<strong>Chief Executive Officer</strong> 
-<br>Sentosa Development Corporation
-	
-<br><br><img align="left" style="width: 30%" height="auto" width="30%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
-<br>Philomena AW <br>
-<strong>Deputy Secretary (Industry)</strong> 
-<br>Ministry of Trade and Industry
+</p><p><img alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
+</p><p>THIEN Kwee Eng</p>
+<p><strong>Chief Executive Officer</strong> 
+<br>Sentosa Development Corporation</p>
+<div class="isomer-image-wrapper">
 
-<br><br>
-<img align="left" style="width: 30%" height="auto" width="30%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
+<img alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
+<p>Philomena AW</p>
+<p><strong>Deputy Secretary (Industry)</strong> 
+<br>Ministry of Trade and Industry</p>
+<div class="isomer-image-wrapper">
+
+<img align="left" style="width: 60%" width="60%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
 <br>Kevin GOH<br>
 <strong>Chief Executive Officer, Lodging</strong> 
 <br>CapitaLand Investment Limited
 <br><strong>Chief Executive Officer</strong> 
 <br>The Ascott Limited
+<br><br><br><br><br><br><br><br><br><br>
 
+<br><p><img align="left" style="width: 50%" height="auto" width="50%" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
+<br>Edmund KOH <br>
+<strong>Chairman</strong> 
+<br>Sentosa Development Corporation
+	<br><br><br><br><br><br><br>
 
-<img style="width: 100%" height="auto" width="100%" alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
-
-<p>Vernon KHOO</p>
+</p><p><img style="width: 100%" height="auto" width="100%" alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
+</p><p>Vernon KHOO</p>
 <p><strong>Chairman &amp; CEO</strong> 
 <br>Flagship Corporation Far East Pte Ltd</p>
 <div class="isomer-image-wrapper">
@@ -185,4 +191,4 @@ description: ""
 <p><strong>Andrew JOHNSTON</strong>
 </p>
 <p><strong>General Manager, Sentosa Golf Club</strong>
-</p>
+</p></div></div>

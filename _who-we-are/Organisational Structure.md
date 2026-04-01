@@ -2,40 +2,69 @@
 title: Organisational Structure
 permalink: /who-we-are/organisational-structure/
 breadcrumb: Organisational Structure
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3><strong>Board Members</strong></h3>
-
-<img alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="William Lim" src="/images/who-we-are/organisational-structure/BDD_2025_William_LIM.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p>Edmund KOH</p>
 <p><strong>Chairman</strong> 
 <br>Sentosa Development Corporation
 <br><strong>Chairman Asia Pacific</strong> 
-<br>UBS AG
-
-</p><p><img alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
-</p><p>THIEN Kwee Eng</p>
+<br>UBS AG</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
+</div>
+<p>Edmund KOH</p>
+<p><strong>Chairman</strong> 
+<br>Sentosa Development Corporation
+<br><strong>Chairman Asia Pacific</strong> 
+<br>UBS AG</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="THIEN Kwee Eng" src="/images/who-we-are/organisational-structure/BOD_Thien_Kwee_Eng_25.png">
+</div>
+<p></p>
+<p>THIEN Kwee Eng</p>
 <p><strong>Chief Executive Officer</strong> 
 <br>Sentosa Development Corporation</p>
 <div class="isomer-image-wrapper">
-
-<img alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
+<img style="width: 100%" height="auto" width="100%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD2026_Philomena_AW.png">
+</div>
 <p>Philomena AW</p>
 <p><strong>Deputy Secretary (Industry)</strong> 
 <br>Ministry of Trade and Industry</p>
 <div class="isomer-image-wrapper">
-	
-<img alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH">
+<img style="width: 100%" height="auto" width="100%" alt="Philomena AW" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH">
+</div>
 <p>Kevin GOH</p>
 <p><strong>Chief Executive Officer</strong> 
 <br>Lodging CapitaLand Investment Limited</p>
 <p><strong>Chief Executive Officer</strong> 
 <br>The Ascott Limited</p>
+<p></p>
 <div class="isomer-image-wrapper">
-
-<p></p><p><img style="width: 100%" height="auto" width="100%" alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
-</p><p>Vernon KHOO</p>
+<img style="width: 100%" height="auto" width="100%" alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
+</div>
+<p></p>
+<p>Vernon KHOO</p>
 <p><strong>Chairman &amp; CEO</strong> 
 <br>Flagship Corporation Far East Pte Ltd</p>
 <div class="isomer-image-wrapper">
@@ -185,4 +214,4 @@ description: ""
 <p><strong>Andrew JOHNSTON</strong>
 </p>
 <p><strong>General Manager, Sentosa Golf Club</strong>
-</p></div></div></div>
+</p>

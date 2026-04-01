@@ -26,21 +26,7 @@ description: ""
 <br>Ministry of Trade and Industry</p>
 <div class="isomer-image-wrapper">
 
-<img align="left" style="width: 60%" width="60%" alt="Kevin GOH" src="/images/who-we-are/organisational-structure/BOD_2025_Kevin_GOH.png">
-<br>Kevin GOH<br>
-<strong>Chief Executive Officer, Lodging</strong> 
-<br>CapitaLand Investment Limited
-<br><strong>Chief Executive Officer</strong> 
-<br>The Ascott Limited
-<br><br><br><br><br><br><br><br><br><br>
-
-<br><p><img align="left" style="width: 50%" height="auto" width="50%" src="/images/who-we-are/organisational-structure/edmund_koh_photo.png">
-<br>Edmund KOH <br>
-<strong>Chairman</strong> 
-<br>Sentosa Development Corporation
-	<br><br><br><br><br><br><br>
-
-</p><p><img style="width: 100%" height="auto" width="100%" alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
+<p></p><p><img style="width: 100%" height="auto" width="100%" alt="Vernon KHOO" src="/images/who-we-are/organisational-structure/BOD2026_Vernon_KHOO.png">
 </p><p>Vernon KHOO</p>
 <p><strong>Chairman &amp; CEO</strong> 
 <br>Flagship Corporation Far East Pte Ltd</p>

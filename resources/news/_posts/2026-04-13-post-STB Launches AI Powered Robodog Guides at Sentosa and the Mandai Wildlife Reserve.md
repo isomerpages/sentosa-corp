@@ -206,64 +206,13 @@ impact at scale.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Tourism Board</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Paige Lee<br></strong>Senior Manager, Communications
-<br>Email: <a href="mailto:paige_lee@stb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">paige_lee@stb.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Sentosa Development Corporation</strong> &nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Samuel Lim</strong>
-</p>
-<p>Senior Executive, Strategic Communications &amp; Public Relations</p>
-<p><a href="mailto:samuel_lim@sentosa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_lim@sentosa.gov.sg</a>
-</p>
-<p>+65 9780 4223</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Yeong Lai Lai</strong>
-<br>Senior Assistant Director, Strategic Communications &amp; Public Relations&nbsp;</p>
-<p><a href="mailto:yeong_lai_lai@sentosa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_lai_lai@sentosa.gov.sg</a> 
-<br>+65 9675 1043</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mandai Wildlife Group</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Michelle Leoi<br></strong>Manager, Corporate Communications
-<br>Email: <a href="mailto:michelle.leoi@mandai.com" rel="noopener noreferrer nofollow" target="_blank">michelle.leoi@mandai.com</a>
+<p>Strategic Communications &amp; Public Relations</p>
+<p><a href="mailto:samuel_lim@sentosa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">communications@sentosa.gov.sg</a>
 </p>
 </td>
 </tr>

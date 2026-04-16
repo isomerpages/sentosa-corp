@@ -10,8 +10,7 @@ variant: tiptap
 ---
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>MEDIA RELEASE</strong>
-</p>
+<h4><strong>MEDIA RELEASE</strong></h4>
 <h3><strong><u>Singapore Tourism Board Launches AI-Powered Robodog Guides at Sentosa and the Mandai Wildlife Reserve in Partnership with Mafengwo<br></u></strong></h3>
 <p><strong>Singapore, 17 April 2026</strong> – The Singapore Tourism Board
 (STB) has launched an innovative robodog pilot programme at Sentosa Sensoryscape
@@ -82,8 +81,7 @@ as a multilingual guide adds a new dimension of interactivity and wonder.
 Beyond leveraging Sentosa as a testbed for novel ideas, we will continue
 to push the boundaries of immersive experiences, continually innovating
 to create memorable moments for our guests.”</p>
-<p><strong>&lt;insert picture&gt;</strong>
-</p>
+<p></p>
 <p>Ms Jean Choi, Chief Sales Officer, Mandai Wildlife Group, said, “Exploria
 and Curiosity Cove were designed to immerse and delight our guests in ways
 that feel personal and memorable. The robodogs are a perfect example of
@@ -93,8 +91,7 @@ adding a touch of surprise and delight, or offering a more personalised
 experience for each guest. We are excited to be piloting this at the Mandai
 Wildlife Reserve and look forward to seeing how this new layer of interaction
 enriches the visitor experience.”</p>
-<p><strong>&lt;insert picture&gt;</strong>
-</p>
+<p></p>
 <p>This pilot is made possible through STB’s longstanding partnership with
 Mafengwo, a leading tech partner specialising in providing smart tourism
 solutions in China. Mafengwo’s expertise has been instrumental in developing
@@ -108,8 +105,7 @@ destinations.”</p>
 This period will provide valuable insights into visitor preferences and
 technology performance, for future deployments that could extend beyond
 tourism to educational and learning applications.</p>
-<p></p>
-<h4><strong><u>Registering for the robodog guided tour at Sentosa Sensoryscape</u></strong></h4>
+<h4><strong>Registering for the robodog guided tour at Sentosa Sensoryscape</strong></h4>
 <p>Guests can register for the robodog guided tour via the Sentosa website:
 (INSERT URL), Sentosa Ticketing Counters, as well as the Sentosa WeChat
 Mini Programme.</p>
@@ -142,7 +138,6 @@ managed by Sentosa Development Corporation, which works with various stakeholder
 in overseeing property investments, attractions development, and operation
 of the various leisure offerings and management of the residential precinct
 on the island.</p>
-<p></p>
 <p>The 500-hectare island resort is home to an exciting array of themed attractions,
 award-winning spa retreats, lush rainforests, golden sandy beaches, resort
 accommodations, world-renowned golf courses, a deep-water yachting marina
@@ -150,7 +145,6 @@ and luxurious residences – making Sentosa a vibrant island resort for business
 and leisure. Sentosa is also home to Singapore’s first integrated resort,
 Resorts World Sentosa, which operates Southeast Asia’s first Universal
 Studios theme park.</p>
-<p></p>
 <p>Situated on the eastern end of Sentosa Island is Sentosa Cove, an exclusive
 waterfront residential enclave bustling with more than 2,000 homes, quayside
 restaurants, retail and specialty shops. The island is also proud to be
@@ -159,7 +153,6 @@ and The Tanjong. Sentosa Golf Club has hosted a number of high-profile
 professional and amateur tournaments, including the Singapore Open and
 HSBC Women’s World Championship, welcoming international star players and
 world-class golf professionals from across the world.</p>
-<p></p>
 <p>Welcoming a growing number of local and international guests every year,
 Sentosa is an integral part of Singapore’s goal to be a global destination
 to work, live and play. For more information, please visit: <a href="http://www.sentosa.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.sentosa.com.sg</a>.</p>
@@ -172,7 +165,6 @@ as a Statutory Board under the Ministry of Trade and Industry. As a master
 planner, its charter since inception has been to oversee the development,
 management, marketing and promotion of the island of Sentosa as a resort
 destination for locals and tourists.</p>
-<p></p>
 <p>SDC wholly owns its subsidiaries Sentosa Cove Resort Management Pte Ltd
 and Sentosa Golf Club. SDC also owns the Singapore Cable Car Sky Network,
 managed by Mount Faber Leisure Group Pte Ltd, a wholly owned subsidiary
@@ -183,11 +175,9 @@ making Sentosa the first island destination in Asia to receive this accolade.</p
 <p></p>
 <p><strong>About Mandai Wildlife Group</strong>
 </p>
-<p></p>
 <p>Mandai Wildlife Group is dedicated to caring for the planet and protecting
 animals and nature. Conservation education is intrinsic in all interactions
 with the Group, to inspire action for a healthier world.</p>
-<p></p>
 <p>Mandai Wildlife Group is the steward of the Mandai Wildlife Reserve, a
 world-leading wildlife and nature destination located in northern Singapore.
 The precinct is home to five world-renowned wildlife parks, each offering

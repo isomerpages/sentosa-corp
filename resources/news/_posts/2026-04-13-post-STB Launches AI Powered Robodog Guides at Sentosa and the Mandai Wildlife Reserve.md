@@ -107,8 +107,8 @@ technology performance, for future deployments that could extend beyond
 tourism to educational and learning applications.</p>
 <h4><strong>Registering for the robodog guided tour at Sentosa Sensoryscape</strong></h4>
 <p>Guests can register for the robodog guided tour via the Sentosa website:
-(INSERT URL), Sentosa Ticketing Counters, as well as the Sentosa WeChat
-Mini Programme.</p>
+<a href="https://www.sentosa.com.sg/en/robodog/" rel="noopener noreferrer nofollow" target="_blank">https://www.sentosa.com.sg/en/robodog/</a>, Sentosa Ticketing Counters,
+as well as the Sentosa WeChat Mini Programme.</p>
 <p>Guided tours are available at 3.00pm and 5.00pm daily. Each tour lasts
 approximately 20 minutes, with 5 robodogs deployed each session.&nbsp;</p>
 <p>Dance performance will happen at 2.00pm, 4.00pm, and 5.45pm. The performance

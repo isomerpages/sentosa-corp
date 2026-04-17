@@ -18,39 +18,34 @@ as well as Exploria and Curiosity Cove at the Mandai Wildlife Reserve,
 partnering with China-based travel platform Mafengwo to introduce AI-powered,
 multilingual visitor guides that transform how visitors explore Singapore's
 attractions.</p>
-<p></p>
-<p>The robodogs leverage advanced artificial intelligence and Mafengwo's
-travel content ecosystem to deliver seamless wayfinding, curated storytelling,
-and real-time visitor assistance in multiple languages, primarily English
-and Mandarin for a start. This innovative and dynamic approach caters to
-Singapore's diverse international audience while providing an engaging
-and intuitive visitor experience. The pilot is aligned with STB’s strategy
-to leverage technology to enhance the visitor experience and drive industry
-innovation.</p>
-<p></p>
-<p>Beyond guiding services, the robodogs will deliver scheduled performances
-throughout the day, adding an entertaining element that showcases the creative
-potential of advanced technology.</p>
-<p></p>
+<p>The robodogs leverage artificial intelligence and Mafengwo's travel content
+ecosystem to deliver, curated storytelling, and real-time visitor assistance
+in English and Mandarin during this one-month pilot. This innovative and
+dynamic approach caters to Singapore's diverse international audience while
+providing an engaging and intuitive visitor experience. The pilot is aligned
+with STB’s strategy to leverage technology to enhance the visitor experience
+and drive industry innovation.</p>
+<h4><strong>Enhanced Experiences at Sentosa and Mandai Wildlife Reserve</strong></h4>
 <p>On Sentosa, guests will be able to be accompanied by the robodogs and
 discover interesting stories about Sentosa Sensoryscape, a green connector
 linking Resorts World Sentosa to the island’s golden beaches. During the
-guided tour, the robodogs will converse with guests in their preferred
-language to learn more about them and recommend nearby Sentosa attractions
-and places of interest, based on their travel preferences. Guests can also
-enjoy a special dance performance by the five robodogs, three times a day.
-The robodogs will don stylish outfits that complement the dance performance,
+guided tour, the robodogs will converse with guests in English and Mandarin
+to learn more about them and recommend nearby Sentosa attractions and places
+of interest, based on their travel preferences. Guests can also enjoy a
+special dance performance by the five robodogs, three times a day. The
+robodogs will don stylish outfits that complement the dance performance,
 adding to the vibrancy of the experience.</p>
-<p></p>
 <p>Guests will be able to book a slot for this exclusive experience via the
-Sentosa <a href="http://www.sentosa.com.sg" rel="noopener noreferrer nofollow" target="_blank">website</a>,
+Sentosa <a href="https://www.sentosa.com.sg/en/robodog/" rel="noopener noreferrer nofollow" target="_blank">website</a>,
 Sentosa Ticketing Counters, or via the Sentosa WeChat Mini Programme. Apart
 from the interactive guided tours, guests can also enjoy special meet-and-greet
 sessions throughout the day, to interact and snap a photo with the robodogs.
-These experiences are examples of new concepts and events that take place
-on Sentosa each year, allowing guests to make continued discoveries on
-the island, on every visit.</p>
-<p></p>
+The robodogs will also engage guests who are waiting for attractions across
+the island, including Wings of Time Fireworks Symphony and Skyline Luge
+Singapore, to share more about Sentosa and recommend&nbsp; offerings. These
+experiences are examples of new concepts and events that take place on
+Sentosa each year, allowing guests to make continued discoveries on the
+island, on every visit.</p>
 <p>At the Mandai Wildlife Reserve, the robodogs will be deployed across its
 two new indoor attractions – Exploria, a 10,000sqm nature-themed immersive
 multimedia experience, and Curiosity Cove, a 4,600sqm nature-inspired playscape

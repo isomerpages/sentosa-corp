@@ -166,7 +166,7 @@ variant: tiptap
 <p>28 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under Evaluation</p>
+<p>Awarded</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@ variant: tiptap
 <p>28 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under Evaluation</p>
+<p>Awarded</p>
 </td>
 </tr>
 <tr>

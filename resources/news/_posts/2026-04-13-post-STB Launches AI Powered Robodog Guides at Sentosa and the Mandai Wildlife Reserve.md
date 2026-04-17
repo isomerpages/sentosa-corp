@@ -32,8 +32,8 @@ innovation.</p>
 throughout the day, adding an entertaining element that showcases the creative
 potential of advanced technology.</p>
 <p></p>
-<p>On Sentosa, guests will be able to go on a guided tour by the robodogs
-and discover interesting stories about Sentosa Sensoryscape, a green connector
+<p>On Sentosa, guests will be able to be accompanied by the robodogs and
+discover interesting stories about Sentosa Sensoryscape, a green connector
 linking Resorts World Sentosa to the island’s golden beaches. During the
 guided tour, the robodogs will converse with guests in their preferred
 language to learn more about them and recommend nearby Sentosa attractions
@@ -54,22 +54,19 @@ the island, on every visit.</p>
 <p>At the Mandai Wildlife Reserve, the robodogs will be deployed across its
 two new indoor attractions – Exploria, a 10,000sqm nature-themed immersive
 multimedia experience, and Curiosity Cove, a 4,600sqm nature-inspired playscape
-for children and families. At Exploria, the robodogs will be integrated
-into its signature light spectacle, <em>The Planet Awakens</em>, emerging
-from its fived themed worlds as part of the show. They will also roam the
-attraction as interactive guides, helping guests navigate the space. At
-Curiosity Cove, guests can reserve a robodog as their personal guide for
-tailored commentary and interactive assistance. Plans are also underway
-to include the robodog in Curiosity Cove’s curated birthday packages for
-kids.</p>
-<p></p>
-<p>“This pilot marks an exciting step forward in reimagining visitor experiences
-through technology,” said Oliver Chong, Assistant Chief Executive International
-Group, Singapore Tourism Board. “Through our collaboration with Mafengwo,
-we are combining rich travel insights with AI to deliver more personalised,
-engaging and differentiated experiences that set Singapore apart.”</p>
-<p></p>
-<h4><strong>Enhancing experiences across iconic attractions</strong></h4>
+for children and families. Across both attractions, guests can catch the
+robodogs in action as they perform a range of playful moves, from friendly
+waves to energetic stunts like somersaults. The robodogs will make surprise
+appearances within Exploria’s <em>Our Interconnected World</em>, the central
+hub of the attraction, creating memorable photo moments for guests. At
+Curiosity Cove, they will take on a more interactive role, greeting guests
+together with the Ranger Buddies crew.</p>
+<p>“The pilots in Sentosa and the Mandai Wildlife Reserve mark an exciting
+step towards reimagining visitor experiences through technology and innovation,”
+said Oliver Chong, Assistant Chief Executive International Group, Singapore
+Tourism Board. “Through our collaboration with Mafengwo, we look forward
+to continue delivering more personalised, engaging and differentiated experiences
+that set Singapore apart.”</p>
 <p>Both pilot partners expressed enthusiasm for the pilot’s potential to
 transform the visitor experience.</p>
 <p>Mr Michael Ma, Assistant Chief Executive (Business &amp; Digital Technology
@@ -81,7 +78,6 @@ as a multilingual guide adds a new dimension of interactivity and wonder.
 Beyond leveraging Sentosa as a testbed for novel ideas, we will continue
 to push the boundaries of immersive experiences, continually innovating
 to create memorable moments for our guests.”</p>
-<p></p>
 <p>Ms Jean Choi, Chief Sales Officer, Mandai Wildlife Group, said, “Exploria
 and Curiosity Cove were designed to immerse and delight our guests in ways
 that feel personal and memorable. The robodogs are a perfect example of
@@ -91,30 +87,31 @@ adding a touch of surprise and delight, or offering a more personalised
 experience for each guest. We are excited to be piloting this at the Mandai
 Wildlife Reserve and look forward to seeing how this new layer of interaction
 enriches the visitor experience.”</p>
-<p></p>
 <p>This pilot is made possible through STB’s longstanding partnership with
 Mafengwo, a leading tech partner specialising in providing smart tourism
 solutions in China. Mafengwo’s expertise has been instrumental in developing
 the integration and functionality of the robodogs for this trial.</p>
 <p>Mr Chen Gang, Chief Executive Officer, Mafengwo, said, “We are excited
-to partner with STB, Sentosa and Mandai to bring this innovation to life.
-By combining our AI capabilities with rich travel content, we aim to create
-more intuitive, personalised and inspiring ways for travellers to discover
-destinations.”</p>
-<p>The robodog pilot will run for one month, from 18 April to 17 May 2026.
-This period will provide valuable insights into visitor preferences and
+to partner with STB, Sentosa and Mandai Wildlife Group to bring this innovation
+to life. By combining our AI capabilities with rich travel content, we
+aim to create more intuitive, personalised and inspiring ways for travellers
+to discover destinations.”</p>
+<p>This pilot will provide valuable insights into visitor preferences and
 technology performance, for future deployments that could extend beyond
 tourism to educational and learning applications.</p>
-<h4><strong>Registering for the robodog guided tour at Sentosa Sensoryscape</strong></h4>
+<h4><strong>Visitor Information and Booking Details</strong></h4>
 <p>Guests can register for the robodog guided tour via the Sentosa website:
 <a href="https://www.sentosa.com.sg/en/robodog/" rel="noopener noreferrer nofollow" target="_blank">https://www.sentosa.com.sg/en/robodog/</a>, Sentosa Ticketing Counters,
 as well as the Sentosa WeChat Mini Programme.</p>
 <p>Guided tours are available at 3.00pm and 5.00pm daily. Each tour lasts
 approximately 20 minutes, with 5 robodogs deployed each session.&nbsp;</p>
-<p>Dance performance will happen at 2.00pm, 4.00pm, and 5.45pm. The performance
+<p>Dance performances will happen at 2.00pm, 4.00pm, and 5.45pm. The performance
 lasts approximately 5 minutes.</p>
 <p>Meet-and-Greet sessions will take place at 2.05pm and 4.05pm, and last
 approximately 25 minutes.</p>
+<p>Visit the Mandai Wildlife Group website for more information on<a href="https://www.mandai.com/en/exploria.html" rel="noopener noreferrer nofollow" target="_blank"> Exploria</a> and
+<a href="https://www.mandai.com/en/curiosity-cove.html" rel="noopener noreferrer nofollow" target="_blank">Curiosity Cove.</a>
+</p>
 <p></p>
 <p><strong>About the Singapore Tourism Board</strong>
 </p>

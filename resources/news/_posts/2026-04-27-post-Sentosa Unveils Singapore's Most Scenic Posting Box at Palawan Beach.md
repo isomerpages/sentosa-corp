@@ -26,7 +26,7 @@ visit</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/News/Exclusive_Sentosa_Postcard_Design__2_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Sentosa Postcard" src="/images/News/Sentosa Postcard/Exclusive_Sentosa_Postcard_Design__2_.jpg">
 </div>
 <p>SINGAPORE, 28 April 2026 – Sentosa Development Corporation (SDC) in partnership
 with Singapore Post Limited (SingPost) has unveiled Singapore's most scenic
@@ -194,6 +194,10 @@ Postcard (1 Design Option)</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Pen</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Stamp</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="General Postcard" src="/images/News/Sentosa Postcard/General_Postcard___Southernmost_Point_of_Continental_Asia.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x&nbsp;Die-Cut
@@ -201,6 +205,16 @@ Limited Edition Postcard (2 Design Options)</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Envelope</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Pen</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Stamp</p>
+<p></p>
+<p>Design 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Limited Edition Postcard Design 1" src="/images/News/Sentosa Postcard/Die_Cut_Limited_Edition_Postcard___Southernmost_Point_of_Continental_Asia__Design_1_.jpg">
+</div>
+<p></p>
+<p>Design 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Limited Edition Postcard Design 2" src="/images/News/Sentosa Postcard/Die_Cut_Limited_Edition_Postcard___Southernmost_Point_of_Continental_Asia__Design_2_.jpg">
+</div>
 </td>
 </tr>
 </tbody>

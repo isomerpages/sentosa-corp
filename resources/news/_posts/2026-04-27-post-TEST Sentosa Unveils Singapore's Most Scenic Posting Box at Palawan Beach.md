@@ -173,6 +173,8 @@ freight forwarding and last mile delivery, serving customers in more than
 innovated to bring about best-in-class integrated logistics solutions and
 services, making every delivery count for people and planet. <a href="http://www.singpost.com" rel="noopener noreferrer nofollow" target="_blank">http://www.singpost.com</a>
 </p>
+<p><strong>ANNEX A – Postcards Options and Availability</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -197,22 +199,19 @@ services, making every delivery count for people and planet. <a href="http://www
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x&nbsp;General
-Postcard (1 Design Option)</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Pen</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Stamp</p>
-<p></p>
+<p>-1x&nbsp;General Postcard (1 Design Option)</p>
+<p>-1x Pen</p>
+<p>-1x Stamp</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="General Postcard" src="/images/News/Sentosa Postcard/General_Postcard___Southernmost_Point_of_Continental_Asia.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x&nbsp;Die-Cut
-Limited Edition Postcard (2 Design Options)</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Envelope</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Pen</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1x Stamp</p>
+<p>-1x&nbsp;Die-Cut Limited Edition Postcard (2 Design Options)</p>
+<p>-1x Envelope</p>
+<p>-1x Pen</p>
+<p>-1x Stamp</p>
 <p></p>
 <p>Design 1</p>
 <div class="isomer-image-wrapper">
@@ -225,7 +224,165 @@ Limited Edition Postcard (2 Design Options)</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Price:</strong>
+</p>
+<p>-Retails at $5.00</p>
+<p>-Online Sentosa Islander Member Rate: $3.75 (28% off)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Price:</strong>
+</p>
+<p>-Retails at $7.00</p>
+<p>-Online Sentosa Islander Member Rate: $5.05 (25% off)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Purchase Locations:<br></strong>
+</p>
+<p><strong>On-site:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Vending machine at the rest stop overlooking the Southernmost Point of
+Continental Asia at Palawan Beach (operates 24/7)</p>
+</li>
+</ul>
+<p><strong>Online:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sentosa website at Islander member discounted rates (collection at any
+ticketing counter)</p>
+</li>
+</ul>
+<p><strong>Sentosa Ticketing Counters:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sentosa Station Ticketing Counter&nbsp;- VivoCity, Lobby L, Level 3 (Daily:
+9:00 AM – 6:00 PM)</p>
+</li>
+<li>
+<p>Resorts World Sentosa Ticketing Counter&nbsp;- Level 1, Resorts World
+Sentosa (Daily: 10:00 AM – 7:00 PM; beside the Sentosa Express)</p>
+</li>
+<li>
+<p>Imbiah Lookout Ticketing Counter&nbsp;- 42 Imbiah Road, Singapore 099701
+(Daily: 10:00 AM – 7:00 PM)</p>
+</li>
+<li>
+<p>Sensoryscape Ticketing Counter&nbsp;- 3 Siloso Road, Singapore 098977
+(Daily: 10:00 AM – 7:00 PM; beside Sentosa Shop)</p>
+</li>
+<li>
+<p>Beach Station Enquiry Lounge&nbsp;- Beach Station, Sentosa (Daily: 9:00
+AM – 9:00 PM)</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
+<p><strong>ANNEX B – Sentosa’s Postal Ritual</strong>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="rest stop overlooking the Southernmost Point of Continental Asia." src="/images/News/Sentosa Postcard/Rest_Stop_Overlooking_the_Southernmost_Point_of_Continental_Asia_at_Palawan_Beach__2__jpg.jpg">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Step 1: Explore</strong>
+</p>
+<p><em>Begin your journey at Palawan Beach and stop by the rest stop overlooking the Southernmost Point of Continental Asia.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Select your postcard kit from the specially designed vending machine." src="/images/News/Sentosa Postcard/Postcard_Vending_Machine__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Step 2: Purchase</strong>
+</p>
+<p><em>Select your postcard kit from the specially designed vending machine with three exclusive designs to choose from.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Walk across the iconic suspension bridge to reach the scenic islet" src="/images/News/Sentosa Postcard/Exclusive_Sentosa_Postcard_Design__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Step 3: Cross</strong>
+</p>
+<p><em>Walk across the iconic suspension bridge to reach the scenic islet and climb the lookout towers for panoramic views of the South China Sea.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Use the exclusive embossed stamp seal available only at this location" src="/images/News/Sentosa Postcard/Embossing_Stamp_Area_at_Sentosa_s_Southernmost_Point_of_Continental_Asia.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Step 4: Stamp</strong>
+</p>
+<p><em>Use the exclusive embossed stamp seal available only at this location to mark your postcard or personal memorabilia.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="pen heartfelt messages with the stunning sea view as your backdrop." src="/images/News/Sentosa Postcard/Penning_Well_Wishes_on_The_Postcard.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Step 5: Write</strong>
+</p>
+<p><em>Take time to pen heartfelt messages with the stunning sea view as your backdrop.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Complete your Sentosa experience by posting your postcard at Singapore's most scenic posting box" src="/images/News/Sentosa Postcard/Posting_A_Postcard_at_Singapore_s_most_Scenic_Posting_Box_at_Palawan_Beach__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Step 6: Post</strong>
+</p>
+<p><em>Complete your Sentosa experience by posting your postcard at Singapore's most scenic posting box at Palawan Beach.</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Postal collection takes place at 5pm on Monday to Thursday and 6pm on Friday, ensuring timely delivery by SingPost from Singapore, to the world.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

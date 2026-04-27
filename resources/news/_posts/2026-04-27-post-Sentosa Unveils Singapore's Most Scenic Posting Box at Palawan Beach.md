@@ -26,7 +26,7 @@ visit</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News/Exclusive_Sentosa_Postcard_Design__2_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/News/Exclusive_Sentosa_Postcard_Design__2_.jpg">
 </div>
 <p>SINGAPORE, 28 April 2026 – Sentosa Development Corporation (SDC) in partnership
 with Singapore Post Limited (SingPost) has unveiled Singapore's most scenic

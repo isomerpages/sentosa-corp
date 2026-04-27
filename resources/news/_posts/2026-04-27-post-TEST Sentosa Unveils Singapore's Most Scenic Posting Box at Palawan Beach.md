@@ -11,18 +11,16 @@ variant: tiptap
 <h4><strong><u>Sentosa Unveils Singapore's Most Scenic Posting Box at Palawan Beach</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>New postal service in partnership with SingPost enables guests to send
-personalised messages from one of Singapore's most picturesque locations
-on Sentosa</p>
+<p><strong>New postal service in partnership with SingPost enables guests to send personalised messages from one of Singapore's most picturesque locations on Sentosa</strong>
+</p>
 </li>
 <li>
-<p>Curated postcard kits available on-site through specially designed vending
-machine, offering affordable keepsakes that travel from Sentosa to anywhere
-in the world</p>
+<p><strong>Curated postcard kits available on-site through specially designed vending machine, offering affordable keepsakes that travel from Sentosa to anywhere in the world</strong>
+</p>
 </li>
 <li>
-<p>Exclusive embossing print allows guests to create unique mementos of their
-visit</p>
+<p><strong>Exclusive embossing print allows guests to create unique mementos of their visit</strong>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">

@@ -25,6 +25,7 @@ in the world</p>
 visit</p>
 </li>
 </ul>
+<p></p>
 <p>SINGAPORE, 28 April 2026 – Sentosa Development Corporation (SDC) in partnership
 with Singapore Post Limited (SingPost) has unveiled Singapore's most scenic
 posting box at Palawan Beach, creating a meaningful way for guests to connect

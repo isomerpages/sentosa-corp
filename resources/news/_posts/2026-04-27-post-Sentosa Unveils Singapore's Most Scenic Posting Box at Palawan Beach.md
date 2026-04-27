@@ -136,9 +136,8 @@ world-class golf professionals from across the world.</p>
 <p>Welcoming a growing number of local and international guests every year,
 Sentosa is an integral part of Singapore’s goal to be a global destination
 to work, live and play. For more information, please visit: <a href="http://www.sentosa.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.sentosa.com.sg</a>.</p>
-<p>&nbsp;&nbsp; /SentosaOfficial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-@sentosa_island&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-@sentosaisland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Follow us on socials - <a href="https://www.facebook.com/sentosaofficial/" rel="noopener nofollow" target="_blank">SDC Facebook</a> |
+<a href="https://www.instagram.com/sentosa_island/" rel="noopener nofollow" target="_blank">SDC Instagram</a>| <a href="https://www.tiktok.com/@sentosa_island" rel="noopener nofollow" target="_blank">SDC Tiktok</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>#DiscoverSentosa #SentosaIsland #wherediscoveryneverends&nbsp;</p>
 <p><strong>About Sentosa Development Corporation</strong>
 </p>

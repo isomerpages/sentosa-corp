@@ -26,7 +26,7 @@ visit</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Sentosa Postcard" src="/images/News/Sentosa Postcard/Exclusive_Sentosa_Postcard_Design__2_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="A picture-perfect moment taken at Sentosa’s Southernmost Point of Continental Asia" src="/images/News/Sentosa Postcard/Exclusive_Sentosa_Postcard_Design__2_.jpg">
 </div>
 <p>SINGAPORE, 28 April 2026 – Sentosa Development Corporation (SDC) in partnership
 with Singapore Post Limited (SingPost) has unveiled Singapore's most scenic
@@ -36,6 +36,9 @@ with loved ones worldwide through the timeless art of letter writing.</p>
 send personalised messages from one of Singapore's most picturesque locations,
 transforming a simple moment into a lasting memory that travels from Sentosa
 to anywhere in the world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Postcard vending machine with three exclusive postcard designs" src="/images/News/Sentosa Postcard/Part_2.jpg">
+</div>
 <p>The new postal service is strategically positioned at a rest stop overlooking
 the Southernmost Point of Continental Asia. Over the years, the Southernmost
 Point has established itself as a beloved destination and recognisable
@@ -69,6 +72,9 @@ to pen heartfelt messages with panoramic views of the South China Sea as
 their backdrop. The experience concludes at Singapore's most scenic posting
 box, where guests can send their messages to loved ones anywhere in the
 world from Sentosa.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Embossed stamping area at Sentosa’s Southernmost Point of Continental Asia" src="/images/News/Sentosa Postcard/Part_3.jpg">
+</div>
 <p><strong>A Collaboration for Heartfelt Connections</strong>
 </p>
 <p>"At SingPost, every delivery carries more than its contents — it carries
@@ -77,6 +83,9 @@ one of Singapore's most beloved destinations, and to play a part in how
 visitors choose to remember their time here. We hope every postcard posted
 at Palawan Beach on Sentosa finds its way to someone who treasures it,"
 said Goh Chee Hiong, Vice President of Operations, Singapore Post Limited.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Mailing out the postcard to complete the ritual" src="/images/News/Sentosa Postcard/Part_4.jpg">
+</div>
 <p>Singapore's most scenic posting box is now operational at Palawan Beach,
 Sentosa, offering guests a unique way to share their Singapore memories
 with friends and family worldwide.</p>

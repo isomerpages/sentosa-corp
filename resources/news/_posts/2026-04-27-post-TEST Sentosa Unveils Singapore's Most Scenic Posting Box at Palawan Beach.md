@@ -28,10 +28,11 @@ visit</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="A picture-perfect moment taken at Sentosa’s Southernmost Point of Continental Asia" src="/images/News/Sentosa Postcard/Exclusive_Sentosa_Postcard_Design__2_.jpg">
 </div>
-<p>SINGAPORE, 28 April 2026 – Sentosa Development Corporation (SDC) in partnership
-with Singapore Post Limited (SingPost) has unveiled Singapore's most scenic
-posting box at Palawan Beach, creating a meaningful way for guests to connect
-with loved ones worldwide through the timeless art of letter writing.</p>
+<p><strong>SINGAPORE, 28 April 2026</strong> – Sentosa Development Corporation
+(SDC) in partnership with Singapore Post Limited (SingPost) has unveiled
+Singapore's most scenic posting box at Palawan Beach, creating a meaningful
+way for guests to connect with loved ones worldwide through the timeless
+art of letter writing.</p>
 <p>Through curated postcard kits, both international and local guests can
 send personalised messages from one of Singapore's most picturesque locations,
 transforming a simple moment into a lasting memory that travels from Sentosa

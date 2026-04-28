@@ -8,21 +8,19 @@ image: /images/News/Sentosa Postcard/Exclusive_Sentosa_Postcard_Design__2_.jpg
 variant: tiptap
 ---
 <h4><strong>MEDIA RELEASE</strong></h4>
-<h4><strong><u>Sentosa Unveils Singapore's Most Scenic Posting Box at Palawan Beach</u></strong></h4>
+<h2><strong><u>Sentosa unveils Singapore's most scenic posting box at Palawan Beach</u></strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>New postal service in partnership with SingPost enables guests to send
-personalised messages from one of Singapore's most picturesque locations
-on Sentosa</p>
+<p><em>New postal service in partnership with SingPost enables guests to send personalised messages from one of Singapore's most picturesque locations on Sentosa</em>
+</p>
 </li>
 <li>
-<p>Curated postcard kits available on-site through specially designed vending
-machine, offering affordable keepsakes that travel from Sentosa to anywhere
-in the world</p>
+<p><em>Curated postcard kits available on-site through specially designed vending machine, offering affordable keepsakes that travel from Sentosa to anywhere in the world</em>
+</p>
 </li>
 <li>
-<p>Exclusive embossing print allows guests to create unique mementos of their
-visit</p>
+<p><em>Exclusive embossing print allows guests to create unique mementos of their visit</em>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -56,7 +54,7 @@ Sentosa, they are not just sharing a moment, they are taking the time to
 reflect on their Sentosa experience and share that joy with families and
 friends across the globe. This transforms a tourist moment into a personal
 connection.”</p>
-<p><strong>A New Island Ritual</strong>
+<p><strong>A new island ritual</strong>
 </p>
 <p>With the new postal service, SDC invites guests to join in creating a
 new island ritual that encourages guests to slow down, savour the views,
@@ -76,7 +74,7 @@ world from Sentosa.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Embossed stamping area at Sentosa’s Southernmost Point of Continental Asia" src="/images/News/Sentosa Postcard/Part_3.jpg">
 </div>
-<p><strong>A Collaboration for Heartfelt Connections</strong>
+<p><strong>A collaboration for heartfelt connections</strong>
 </p>
 <p>"At SingPost, every delivery carries more than its contents — it carries
 a connection between people. We are proud to bring our postal network to
@@ -98,7 +96,7 @@ moments from the suspension bridge crossing to the final posting moment.</p>
 </p>
 <p>High-resolution images can be downloaded [<strong><a href="https://www.dropbox.com/scl/fo/5m59lv8hh4c2sk80n5y4f/AL4cPZdQVnAhDq-7vM6ilw4?rlkey=ebhjx1udmut3fjv6ioftxqa1z&amp;st=l5ryqdbv&amp;dl=0" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>].
 Photos are to be credited to Sentosa Development Corporation.</p>
-<p><strong>Media Contact:</strong>
+<p><strong>Media contact:</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -174,7 +172,7 @@ freight forwarding and last mile delivery, serving customers in more than
 innovated to bring about best-in-class integrated logistics solutions and
 services, making every delivery count for people and planet. <a href="http://www.singpost.com" rel="noopener noreferrer nofollow" target="_blank">http://www.singpost.com</a>
 </p>
-<p><strong>ANNEX A – Postcards Options and Availability</strong>
+<p><strong>ANNEX A – Postcards options and availability</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -184,17 +182,17 @@ services, making every delivery count for people and planet. <a href="http://www
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Exclusive Postcards to Sentosa’s Posting Box at Palawan Beach</strong>
+<p><strong>Exclusive postcards to Sentosa’s posting box at Palawan Beach</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>General Postcard – Southernmost Point of Continental Asia</strong>
+<p><strong>General postcard – Southernmost Point of Continental Asia</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Die-Cut Limited Edition Postcard - Southernmost Point of Continental Asia</strong>
+<p><strong>Die-cut limited edition postcard - Southernmost Point of Continental Asia</strong>
 </p>
 </td>
 </tr>
@@ -202,13 +200,13 @@ services, making every delivery count for people and planet. <a href="http://www
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1x&nbsp;General Postcard (1 Design Option)</p>
+<p>1x&nbsp;general postcard (1 design option)</p>
 </li>
 <li>
-<p>1x Pen</p>
+<p>1x pen</p>
 </li>
 <li>
-<p>1x Stamp</p>
+<p>1x stamp</p>
 </li>
 </ul>
 <p></p>
@@ -219,16 +217,16 @@ services, making every delivery count for people and planet. <a href="http://www
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1x&nbsp;Die-Cut Limited Edition Postcard (2 Design Options)</p>
+<p>1x&nbsp;die-cut limited edition postcard (2 design options)</p>
 </li>
 <li>
-<p>1x Envelope</p>
+<p>1x envelope</p>
 </li>
 <li>
-<p>1x Pen</p>
+<p>1x pen</p>
 </li>
 <li>
-<p>1x Stamp</p>
+<p>1x stamp</p>
 </li>
 </ul>
 <p></p>
@@ -248,18 +246,18 @@ services, making every delivery count for people and planet. <a href="http://www
 <p><strong>Price:</strong>
 </p>
 <p>-Retails at $5.00</p>
-<p>-Online Sentosa Islander Member Rate: $3.75 (28% off)</p>
+<p>-Online Sentosa Islander member rate: $3.75 (28% off)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Price:</strong>
 </p>
 <p>-Retails at $7.00</p>
-<p>-Online Sentosa Islander Member Rate: $5.05 (25% off)</p>
+<p>-Online Sentosa Islander member eate: $5.05 (25% off)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Purchase Locations:<br></strong>
+<p><strong>Purchase locations:<br></strong>
 </p>
 <p><strong>On-site:</strong>
 </p>
@@ -305,7 +303,7 @@ AM – 9:00 PM)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>ANNEX B – Sentosa’s Postal Ritual</strong>
+<p><strong>ANNEX B – Sentosa’s postal ritual</strong>
 </p>
 <p></p>
 <table style="minWidth: 50px">

@@ -198,19 +198,37 @@ services, making every delivery count for people and planet. <a href="http://www
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-1x&nbsp;General Postcard (1 Design Option)</p>
-<p>-1x Pen</p>
-<p>-1x Stamp</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1x&nbsp;General Postcard (1 Design Option)</p>
+</li>
+<li>
+<p>1x Pen</p>
+</li>
+<li>
+<p>1x Stamp</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="General Postcard" src="/images/News/Sentosa Postcard/General_Postcard___Southernmost_Point_of_Continental_Asia.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>-1x&nbsp;Die-Cut Limited Edition Postcard (2 Design Options)</p>
-<p>-1x Envelope</p>
-<p>-1x Pen</p>
-<p>-1x Stamp</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1x&nbsp;Die-Cut Limited Edition Postcard (2 Design Options)</p>
+</li>
+<li>
+<p>1x Envelope</p>
+</li>
+<li>
+<p>1x Pen</p>
+</li>
+<li>
+<p>1x Stamp</p>
+</li>
+</ul>
 <p></p>
 <p>Design 1</p>
 <div class="isomer-image-wrapper">

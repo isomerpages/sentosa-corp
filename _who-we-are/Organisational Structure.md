@@ -171,16 +171,6 @@ Planning</strong>
     </div>
 </div>
 
-<div class="row">
-    <div class="col is-4">
-        <img alt="LEE Cheh Hsien" src="/images/who-we-are/organisational-structure/SET_Lee_Cheh_Hsien_25.png">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">LEE Cheh Hsien</p>
-			<strong>Assistant Chief Executive (Corporate &amp; Sustainability Group)</strong>
-    </div>
-</div>
-
 
 <div class="row">
     <div class="col is-4">

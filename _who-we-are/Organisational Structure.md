@@ -119,7 +119,7 @@ Planning</strong>
     </div>
     <div class="col is-8">
         <p class="title is-4">Adele TAN</p>
-        <strong>Executive Chairman and Group CEO</strong>
+        <strong>Deputy Chief Executive Officer and Group CEO</strong>
         <br> NEON Global
     </div>
 </div>

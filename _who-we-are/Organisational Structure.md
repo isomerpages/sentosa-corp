@@ -118,6 +118,17 @@ Planning</strong>
         <img alt="Ron TAN" src="/images/who-we-are/organisational-structure/ron_tan.png">
     </div>
     <div class="col is-8">
+        <p class="title is-4">Adele TAN</p>
+        <strong>Executive Chairman and Group CEO</strong>
+        <br> NEON Global
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Ron TAN" src="/images/who-we-are/organisational-structure/ron_tan.png">
+    </div>
+    <div class="col is-8">
         <p class="title is-4">Ron TAN</p>
         <strong>Executive Chairman and Group CEO</strong>
         <br> NEON Global

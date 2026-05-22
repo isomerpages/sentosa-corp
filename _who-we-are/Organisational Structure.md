@@ -120,7 +120,7 @@ Planning</strong>
     <div class="col is-8">
         <p class="title is-4">Adele TAN</p>
         <strong>Deputy Chief Executive Officer and Chief Planner</strong>
-        <br> NEON Global
+        <br> Urban Redevelopment Authority
     </div>
 </div>
 

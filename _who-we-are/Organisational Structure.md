@@ -113,6 +113,7 @@ Planning</strong>
     </div>
 </div>
 
+
 <div class="row">
     <div class="col is-4">
         <img alt="Ron TAN" src="/images/who-we-are/organisational-structure/ron_tan.png">

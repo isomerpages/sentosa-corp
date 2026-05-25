@@ -113,16 +113,6 @@ Planning</strong>
     </div>
 </div>
 
-<div class="row">
-    <div class="col is-4">
-        <img alt="Ron TAN" src="/images/who-we-are/organisational-structure/ron_tan.png">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Adele TAN</p>
-        <strong>Deputy Chief Executive Officer and Chief Planner</strong>
-        <br> Urban Redevelopment Authority
-    </div>
-</div>
 
 <div class="row">
     <div class="col is-4">

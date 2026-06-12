@@ -360,8 +360,7 @@ making Sentosa the first island destination in Asia to receive this accolade.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>More info here</strong>:</p>
-<p><a href="https://protect.checkpoint.com/v2/r01/___http:/www.sentosa.com.sg/things-to-do/events/magical-island-adventure-pass___.YzJ1OndlY29tbXVuaWNhdGlvbnM6YzpvZmZpY2UzNjVfZW1haWxzX2F0dGFjaG1lbnQ6ZDZiMWVkYzQ4MWYwZjZkZjQyNjUzYzdjMDc4MWRjZDk6NzphZjRjOmNjNmZiZTM0NjFkMjYyMjgyZjhiOGJmOGU2NzczN2Q2ZjA1MGRlNTg1M2FjMDM2MTI0Yzg3YWI0ZWM4OTNjYmI6cDpUOkY" rel="noopener noreferrer nofollow" target="_blank">www.sentosa.com.sg/things-to-do/events/magical-island-adventure-pass</a> 
+<p><strong>More info here</strong>: <a href="https://protect.checkpoint.com/v2/r01/___http:/www.sentosa.com.sg/things-to-do/events/magical-island-adventure-pass___.YzJ1OndlY29tbXVuaWNhdGlvbnM6YzpvZmZpY2UzNjVfZW1haWxzX2F0dGFjaG1lbnQ6ZDZiMWVkYzQ4MWYwZjZkZjQyNjUzYzdjMDc4MWRjZDk6NzphZjRjOmNjNmZiZTM0NjFkMjYyMjgyZjhiOGJmOGU2NzczN2Q2ZjA1MGRlNTg1M2FjMDM2MTI0Yzg3YWI0ZWM4OTNjYmI6cDpUOkY" rel="noopener noreferrer nofollow" target="_blank">www.sentosa.com.sg/things-to-do/events/magical-island-adventure-pass</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -379,7 +378,7 @@ making Sentosa the first island destination in Asia to receive this accolade.</p
 <p><strong>Valid Till: </strong>20 September 2026</p>
 </li>
 <li>
-<p>T&amp;Cs apply</p>
+<p>T&amp;Cs apply.</p>
 </li>
 </ul>
 </td>

@@ -84,6 +84,21 @@ Singaporeans and international visitors.</p>
 <p><strong>New iconic landmarks to reinforce Sentosa’s destination appeal</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the Imbiah Canopy Plaza" src="/images/News/2026   GSMP/Picture3.png">
+</div>
+<p><em>Artist’s impression of the Imbiah Canopy Plaza, with food and beverage and retail options, as well as sheltered event spaces</em>
+</p>
+<p>With the GSMP, Sentosa’s destination appeal will be reinforced through
+new iconic landmarks that bring together play, nature, leisure and discovery.
+These include the <strong>Imbiah Canopy</strong>, a beacon and vantage point
+atop Mount Imbiah, that will house attractions, food and beverage, retail
+options, sheltered event spaces. A tree-top skywalk is planned to connect
+new nature-based experiences and trails, providing a comfortable walking
+experience to Siloso Beach.</p>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -93,3 +108,4 @@ Singaporeans and international visitors.</p>
 <p></p>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Sentosa
 received more than 16 million visitors between April 2024 and March 2025.</p>
+<p></p>

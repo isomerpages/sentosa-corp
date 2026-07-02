@@ -32,7 +32,7 @@ for more than five decades.</p>
 <p>Comprising Sentosa and the 120-hectare Brani, Greater Sentosa is expected
 to unlock new spaces for hotels, attractions and experiences while retaining
 the island’s charm and natural elements. When completed, Greater Sentosa
-is projected to attract twice as many visitors as it does today<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>.</p>
+is projected to attract twice as many visitors as it does today.</p>
 <p>“For more than five decades, Sentosa has welcomed generations of Singaporeans
 and visitors from around the world, growing into a place that holds precious
 memories for many and well-loved by all. It is, in many ways, a global
@@ -244,39 +244,6 @@ world-class golf professionals from across the world.</p>
 Sentosa is an integral part of Singapore’s goal to be a global destination
 to work, live and play. For more information, please visit: <a href="http://www.sentosa.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.sentosa.com.sg</a>.</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="22" width="22" alt="A blue and black logo
-
-AI-generated content may be incorrect.">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p></p>
-<p>
-<br>
-</p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -287,6 +254,46 @@ AI-generated content may be incorrect.">
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -430,8 +437,4 @@ offerings to future journeys, Island Heart, the ridgeline, expanded beaches
 and the living vision. The free roving exhibition opens at VivoCity from
 3–5 July, before travelling to Our Tampines Hub, Jurong Point and Waterway
 Point, and returning to Sentosa in October.</p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Sentosa
-received more than 16 million visitors between April 2024 and March 2025.</p>
-<p></p>
 <p></p>

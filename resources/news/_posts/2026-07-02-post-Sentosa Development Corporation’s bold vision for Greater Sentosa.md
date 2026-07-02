@@ -71,16 +71,25 @@ allow SDC to unlock new visitor experiences across Greater Sentosa while
 continuing to evolve the island in line with changing leisure, lifestyle
 and tourism needs.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the game changing attractions at Brani West" src="/images/News/2026   GSMP/Picture2.png">
+</div>
+<p><em>Artist’s impression of the game changing attractions at Brani West</em>
+</p>
+<p>A key part of this pipeline is Brani West, intended to be one of the largest
+sites for attractions development under the GSMP. Engagements with potential
+partners are underway, supporting the broader ambition to introduce novel
+and refreshed experiences that strengthen Greater Sentosa’s appeal to both
+Singaporeans and international visitors.</p>
+<p><strong>New iconic landmarks to reinforce Sentosa’s destination appeal</strong>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <hr>
+<p></p>
+<p></p>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Sentosa
 received more than 16 million visitors between April 2024 and March 2025.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the game changing attractions at Brani West" src="/images/News/2026   GSMP/Picture2.png">
-</div>
-<p></p>

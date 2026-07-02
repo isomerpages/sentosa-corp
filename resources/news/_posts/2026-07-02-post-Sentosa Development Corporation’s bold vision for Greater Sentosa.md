@@ -60,13 +60,21 @@ slow down and reconnect.</p>
 <p></p>
 <p><strong>A bold, long-term transformation for a world-class island destination</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the bird’s eye view of Greater Sentosa" src="/images/News/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the bird’s eye view of Greater Sentosa" src="/images/News/2026   GSMP/Picture1.png">
 </div>
-<p>
-<br>
+<p><em>Artist’s impression of the bird’s eye view of Greater Sentosa</em>
 </p>
+<p>The transformation will be implemented progressively, with developments
+expected to come on board from the early 2030s. This phased approach will
+allow SDC to unlock new visitor experiences across Greater Sentosa while
+continuing to evolve the island in line with changing leisure, lifestyle
+and tourism needs.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <hr>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Sentosa
 received more than 16 million visitors between April 2024 and March 2025.</p>

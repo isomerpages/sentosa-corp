@@ -80,3 +80,7 @@ and tourism needs.</p>
 received more than 16 million visitors between April 2024 and March 2025.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the game changing attractions at Brani West" src="/images/News/2026   GSMP/Picture2.png">
+</div>
+<p></p>

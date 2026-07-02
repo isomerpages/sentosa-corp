@@ -57,7 +57,6 @@ to enhance Singapore’s destination appeal and deepen the island’s sanctuary
 qualities by strengthening its nature, heritage, coastal and green spaces,
 so that Sentosa continues to be a place where visitors can play, gather,
 slow down and reconnect.</p>
-<p></p>
 <p><strong>A bold, long-term transformation for a world-class island destination</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -70,7 +69,6 @@ expected to come on board from the early 2030s. This phased approach will
 allow SDC to unlock new visitor experiences across Greater Sentosa while
 continuing to evolve the island in line with changing leisure, lifestyle
 and tourism needs.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the game changing attractions at Brani West" src="/images/News/2026   GSMP/Picture2.png">
 </div>
@@ -83,7 +81,6 @@ and refreshed experiences that strengthen Greater Sentosa’s appeal to both
 Singaporeans and international visitors.</p>
 <p><strong>New iconic landmarks to reinforce Sentosa’s destination appeal</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the Imbiah Canopy Plaza" src="/images/News/2026   GSMP/Picture3.png">
 </div>
@@ -97,7 +94,35 @@ options, sheltered event spaces. A tree-top skywalk is planned to connect
 new nature-based experiences and trails, providing a comfortable walking
 experience to Siloso Beach.</p>
 <p>&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the Imbiah Lookout Walk" src="/images/News/2026   GSMP/Picture4.png">
+</div>
+<p><em>Artist’s impression of the Imbiah Lookout Walk, a new sheltered elevated forest canopy walk linking Sensoryscape to Imbiah Lookout.</em>
+</p>
+<p>This will be complemented by the planned <strong>Imbiah Lookout Walk</strong>,
+a sheltered elevated forest canopy walk that will connect Sensoryscape
+to Imbiah Lookout and provide access to surrounding Sentosa walking trails.
+New nature-based attractions will also encourage visitors to explore the
+secondary forests and heritage buildings at Mount Imbiah, with expanded
+nature and heritage trails planned in later phases to eventually connect
+to Southern Ridges on the mainland. Together with future plans to link
+forests across Brani, Serapong and Imbiah into a continuous green network,
+Greater Sentosa’s ecological connectivity will be further strengthened,
+allowing guests to immerse in nature for restoration and well-being.</p>
+<p>Along the beachfront, the <strong>Sensorium</strong> is envisioned as a
+new icon that will host a range of lifestyle and indoor attractions, including
+a multi-purpose venue for events and festival activations. Designed with
+green spaces to enhance thermal comfort and elevate the guest experience,
+the space will also reflect SDC’s commitment to sustainability.</p>
+<p>Guests can also look forward to discovering more upcoming experiences
+at Resorts World Sentosa. These include the landmark Waterfront Lifestyle
+Development, scheduled for completion in 2030; and immersive SUPER NINTENDO
+WORLD<sup>TM</sup><strong><em>&nbsp;</em></strong>at Universal Studios
+Singapore.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Reimagined beaches and coastlines for new lifestyle experiences</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -108,4 +133,5 @@ experience to Siloso Beach.</p>
 <p></p>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Sentosa
 received more than 16 million visitors between April 2024 and March 2025.</p>
+<p></p>
 <p></p>

@@ -20,6 +20,10 @@ variant: tiptap
 <p><strong>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roving ‘Your Island. Reimagined.’ Greater Sentosa exhibition invites Singaporeans to experience and help shape the future of Greater Sentosa.</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Min Grace Fu launches exhibition" src="/images/News/2026   GSMP/GSMP_Min_Fu_exhibition_launch.jpg">
+</div>
+<p></p>
 <p><strong>SINGAPORE, 3 July 2026</strong> – Sentosa Development Corporation
 (SDC) today unveiled the next chapter of the Greater Sentosa Master Plan
 (GSMP), a bold, long-term transformation that will integrate Sentosa with
@@ -93,9 +97,9 @@ atop Mount Imbiah, that will house attractions, food and beverage, retail
 options, sheltered event spaces. A tree-top skywalk is planned to connect
 new nature-based experiences and trails, providing a comfortable walking
 experience to Siloso Beach.</p>
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artist’s impression of the Imbiah Lookout Walk" src="/images/News/2026   GSMP/Picture4.png">
+<img style="width: 100%" height="auto" width="100%" alt="Artist's impression of Imbiah Lookout Walk" src="/images/News/2026   GSMP/Picture4.png">
 </div>
 <p><em>Artist’s impression of the Imbiah Lookout Walk, a new sheltered elevated forest canopy walk linking Sensoryscape to Imbiah Lookout.</em>
 </p>
@@ -144,8 +148,6 @@ different occasions across the day and night.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Artist’s impression featuring the Island Heart Transport Hub" src="/images/News/2026   GSMP/Picture6.png">
 </div>
 <p><em>Artist’s impression featuring the Island Heart Transport Hub as the new lifestyle commercial node with a renewed sense of arrival.</em>
-</p>
-<p><em>&nbsp;</em>
 </p>
 <p>Connectivity to and within Greater Sentosa is expected to be transformed
 through enhanced links by land, air, sea and waterfront. The Island Heart

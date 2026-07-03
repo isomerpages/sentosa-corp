@@ -23,7 +23,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Min Grace Fu launches exhibition" src="/images/News/2026   GSMP/GSMP_Min_Fu_exhibition_launch.jpg">
 </div>
-<p></p>
 <p><strong>SINGAPORE, 3 July 2026</strong> – Sentosa Development Corporation
 (SDC) today unveiled the next chapter of the Greater Sentosa Master Plan
 (GSMP), a bold, long-term transformation that will integrate Sentosa with
